@@ -18,7 +18,7 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 LeadBoxer is Lead Generation tool that helps you get more and better leads for your sales team.
 
-With LeadBoxer, you can identify, qualify and manage all your leads in one place, and make sure that no opportunity is lost&#x20;
+With LeadBoxer, you can identify, qualify and manage all your leads in one place, and make sure that no opportunity gets lost or overlooked.
 
 ## Getting Started
 
