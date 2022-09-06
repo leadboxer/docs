@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [LeadBoxer Documentation](README.md)
 
 ## Guides
 
