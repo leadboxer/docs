@@ -2,27 +2,27 @@
 
 * [LeadBoxer Documentation](README.md)
 
-## Guides
-
-* [Creating your first Segment](guides/creating-your-first-task.md)
-* [Creating your first LeadBoard](guides/creating-your-first-project.md)
-* [Advanced permissions](guides/advanced-permissions.md)
-
-## Fundamentals
+## 🏗 Fundamentals
 
 * [Leads](fundamentals/projects.md)
 * [Accounts](fundamentals/members.md)
 * [Segments](fundamentals/task-lists.md)
 * [LeadBoards](fundamentals/tasks.md)
 
-## Use Cases
+## 🦮 Guides
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Creating your first Segment](guides/creating-your-first-task.md)
+* [Creating your first LeadBoard](guides/creating-your-first-project.md)
+* [Advanced permissions](guides/advanced-permissions.md)
+
+## 🧩 Integrations
+
+* [Website](integrations/for-designers/README.md)
+  * [Google Tag Manager (GTM)](integrations/for-designers/figma-integration.md)
+* [Email](integrations/for-engineers/README.md)
+  * [Gmail](integrations/for-engineers/github-integration.md)
+* [Other](integrations/for-support/README.md)
+  * [Whatagraph](integrations/for-support/intercom-integration.md)
 
 ## Extras
 
