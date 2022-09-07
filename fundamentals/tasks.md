@@ -1,7 +1,6 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1590402494587-44b71d7772f6?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxrYW5iYW58ZW58MHx8fHwxNjYyNTU4Mjk1&ixlib=rb-1.2.1&q=80
-coverY: 244.5141065830721
+cover: ../.gitbook/assets/Prospects-mockup-1.1 (1).png
+coverY: 192.9780564263323
 ---
 
 # LeadBoard

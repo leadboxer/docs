@@ -10,7 +10,7 @@
 * [Lead Qualification](fundamentals/lead-qualification.md)
 * [Lead Managment](fundamentals/lead-managment.md)
 * [Segments](fundamentals/task-lists.md)
-* [LeadBoard](fundamentals/leadboard.md)
+* [LeadBoard](fundamentals/tasks.md)
 
 ## 🦮 Guides
 
