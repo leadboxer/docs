@@ -13,24 +13,18 @@ There are also many subsets of Leads such as Marketing Qualified Leads (MQL), Sa
 ### Our definition of a Lead
 
 {% hint style="info" %}
-In LeadBoxer, we have defined **Leads** quite broadly as any <mark style="color:orange;">**Individual**</mark> that shows or has shown any interest in our product or service AND is Identifiable as either an (anonymous) employee of a company or as a know contact.
+In LeadBoxer, we have defined **Leads** quite broadly as any <mark style="color:blue;">Individual</mark> that shows or has shown any interest in our product or service AND is Identifiable as either an employee of a company or as a know contact.
 {% endhint %}
 
 ### Accounts
 
-In LeadBoxer, we define companies and organizations as [<mark style="color:purple;">**Accounts**</mark>](projects.md#undefined). Accounts contain one or more leads. In other words, **an account is a grouped 'view' of leads from the same organization.**
+In LeadBoxer, we define companies and organizations as [<mark style="color:purple;">Accounts</mark>](projects.md#undefined). Accounts contain one or more leads (either known contacts or visitors from an identified organization.)
 
 ### Behaviour
 
-As Leads are individuals operating their browsers and email clients, we can track them as they interact with your content or organization, and this allows us to all the digital actions that each lead does and store this as their behaviour. &#x20;
+As Leads are individuals that can be measured, we collect all digital actions that each lead does and store this as their behaviour. Their Behaviour feeds the Lead Profile as it gives insight into their interests.
 
-The behaviour gives insight into their interests, buyer journey phase, and provides input to build up a Lead Profile.&#x20;
 
-Behaviour can also be crucial to qualify or disqualify a lead.
-
-### Lead Profile
-
-Their digital footprint and online (or offline) behaviour allows us to build up a Lead Profile.
 
 ### Acquisition
 
