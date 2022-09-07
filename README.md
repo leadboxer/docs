@@ -38,12 +38,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals/leads-and-accounts.md" %}
+[leads-and-accounts.md](fundamentals/leads-and-accounts.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="fundamentals/lead-identification.md" %}
+[lead-identification.md](fundamentals/lead-identification.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/task-lists.md" %}

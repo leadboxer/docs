@@ -2,7 +2,7 @@
 description: What are Leads, and how are they processed in LeadBoxer
 ---
 
-# Leads
+# Leads & Accounts
 
 ### What are Leads
 
@@ -16,9 +16,13 @@ There are also many subsets of Leads such as Marketing Qualified Leads (MQL), Sa
 In LeadBoxer, we have defined **Leads** quite broadly as any <mark style="color:orange;">**Individual**</mark> that shows or has shown any interest in our product or service AND is Identifiable as either an (anonymous) employee of a company or as a know contact.
 {% endhint %}
 
-### Accounts
+### What are Accounts
 
-In LeadBoxer, we define companies and organizations as [<mark style="color:purple;">**Accounts**</mark>](projects.md#undefined). Accounts contain one or more leads. In other words, **an account is a grouped 'view' of leads from the same organization.**
+In LeadBoxer, we define companies and organizations as [<mark style="color:purple;">**Accounts**</mark>](leads-and-accounts.md#undefined). Accounts contain one or more leads. In other words:
+
+{% hint style="success" %}
+**An account is a grouped 'view' of leads from the same organization.**
+{% endhint %}
 
 ### Behaviour
 
@@ -30,7 +34,7 @@ Individual behavioural visualisation is also know as a click-stream, event-strea
 
 The behaviour gives insight into their interests, buyer journey phase, and provides input to build up a Lead Profile.&#x20;
 
-Behaviour can also be crucial to qualify or disqualify a lead.
+Behaviour can also be crucial in your **Lead Qualification** process to either qualify or disqualify a lead.
 
 ### Lead Profile
 

@@ -5,8 +5,10 @@
 
 ## 🏗 Fundamentals
 
-* [Leads](fundamentals/projects.md)
-* [Accounts](fundamentals/members.md)
+* [Leads & Accounts](fundamentals/leads-and-accounts.md)
+* [Lead Identification ](fundamentals/lead-identification.md)
+* [Lead Qualification](fundamentals/lead-qualification.md)
+* [Lead Managment](fundamentals/lead-managment.md)
 * [Segments](fundamentals/task-lists.md)
 * [LeadBoards](fundamentals/tasks.md)
 
