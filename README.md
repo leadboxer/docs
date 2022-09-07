@@ -50,8 +50,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [task-lists.md](fundamentals/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="fundamentals/leadboard.md" %}
+[leadboard.md](fundamentals/leadboard.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
