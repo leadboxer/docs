@@ -18,7 +18,7 @@ In LeadBoxer, we have defined **Leads** quite broadly as any <mark style="color:
 
 ### What are Accounts
 
-In LeadBoxer, we define companies and organizations as [<mark style="color:purple;">**Accounts**</mark>](leads-and-accounts.md#undefined). Accounts contain one or more leads. In other words:
+In LeadBoxer, we define companies and organizations as [<mark style="color:purple;">**Accounts**</mark>](projects.md#undefined). Accounts contain one or more leads. In other words:
 
 {% hint style="success" %}
 **An account is a grouped 'view' of leads from the same organization.**
