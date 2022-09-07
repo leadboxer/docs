@@ -1,2 +1,2 @@
-# Newsletters
+# 📧 Newsletters
 
