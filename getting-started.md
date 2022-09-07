@@ -1,7 +1,5 @@
 # Getting Started
 
-_LeadBoxer offers a suite of lead and customer tracking solutions for marketing, sales, and customer service, with an analytics engine at its core. They’re powerful alone — but even better when used together._
-
 In this document you will find the essential steps needed to get the most out of your leadBoxer (trial) account. Not all steps are required, however we encourage you to complete as many steps as possible.
 
 ***
