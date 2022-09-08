@@ -6,11 +6,20 @@
 ## 🏗 Fundamentals
 
 * [Leads & Accounts](fundamentals/projects.md)
-* [Lead Identification ](fundamentals/members.md)
-* [Lead Qualification](fundamentals/lead-qualification.md)
-* [Lead Managment](fundamentals/lead-managment.md)
-* [Segments](fundamentals/task-lists.md)
 * [LeadBoard](fundamentals/tasks.md)
+* [Dashboard](fundamentals/dashboard.md)
+* [Segments](fundamentals/task-lists.md)
+* [Datasets](fundamentals/datasets.md)
+* [Users](fundamentals/users.md)
+* [Clients (agents)](fundamentals/clients-agents.md)
+* [Lists](fundamentals/lists.md)
+* [Leadscore](fundamentals/leadscore.md)
+
+## 🏆 Solutions
+
+* [Lead Identification ](solutions/lead-identification.md)
+* [Lead Qualification](solutions/lead-qualification.md)
+* [Lead Managment](solutions/lead-managment.md)
 
 ## 🦮 Guides
 
@@ -24,8 +33,7 @@
   * [Google Tag Manager (GTM)](integrations/website/figma-integration.md)
 * [✉ Email](integrations/email/README.md)
   * [Individual emails](integrations/email/individual-emails/README.md)
-    * [Gmail](integrations/email/individual-emails/github-integration/README.md)
-      * [Page 1](integrations/email/individual-emails/github-integration/page-1.md)
+    * [Gmail](integrations/email/individual-emails/github-integration.md)
   * [marketing emails](integrations/email/marketing-emails/README.md)
     * [Intro: Track Email Opens](integrations/email/marketing-emails/intro-track-email-opens.md)
     * [Intro: track contacts on your site ](integrations/email/marketing-emails/intro-track-contacts-on-your-site.md)

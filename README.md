@@ -42,8 +42,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [projects.md](fundamentals/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/task-lists.md" %}
