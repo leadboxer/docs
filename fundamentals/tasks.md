@@ -17,13 +17,14 @@ To create a LeadBoard, you click on the 'Create LeadBoard' button and follow the
 2. Define Stages
 3. Import Data
 
-#### 1. Create LeadBoard
+### 1. Create LeadBoard
 
-Provide a name for your LeadBoard. We recommend a short and descriptive name, so that all users understand what the goal of the board is. eg. Demo signups, LinkedIn campaign leads, EU Leads, etc.
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 
-Select the Dataset / site.&#x20;
+* Provide a name for your LeadBoard. We recommend a short and descriptive name, so that all users understand what the goal of the board is. eg. Demo signups, LinkedIn campaign leads, EU Leads, etc.
+* Select the Dataset / site.&#x20;
+* Select the [Segment](task-lists.md) from which the matched leads will be automatically imported in this LeadBoard.
+* Set the visibility of this LeadBoard to be visible to only you or anyone that has access to this dataset.
 
-Select the [Segment](task-lists.md) from which the matched leads will be automatically imported in this LeadBoard.
 
-Set the visibility of this LeadBoard to be visible to only you or anyone that has access to this dataset.
 
