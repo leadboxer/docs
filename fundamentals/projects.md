@@ -1,5 +1,5 @@
 ---
-description: What are Leads, and how are they processed in LeadBoxer
+description: What are Leads & Accounts and how are they processed in LeadBoxer
 ---
 
 # Leads & Accounts
