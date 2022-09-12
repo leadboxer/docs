@@ -6,8 +6,6 @@
 ## 🏗 Fundamentals
 
 * [Leads & Accounts](fundamentals/projects.md)
-* [Page 2](fundamentals/page-2.md)
-* [Page 1](fundamentals/page-1.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Dashboard](fundamentals/dashboard.md)
 * [Elements](fundamentals/elements/README.md)
