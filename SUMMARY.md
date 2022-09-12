@@ -8,12 +8,13 @@
 * [Leads & Accounts](fundamentals/projects.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Dashboard](fundamentals/dashboard.md)
-* [Segments](fundamentals/task-lists.md)
-* [Datasets](fundamentals/datasets.md)
-* [Users](fundamentals/users.md)
-* [Clients (agents)](fundamentals/clients-agents.md)
-* [Lists](fundamentals/lists.md)
-* [Leadscore](fundamentals/leadscore.md)
+* [Elements](fundamentals/elements/README.md)
+  * [Segments](fundamentals/elements/task-lists.md)
+  * [Datasets](fundamentals/elements/datasets.md)
+  * [Users](fundamentals/elements/users.md)
+  * [Clients (agents)](fundamentals/elements/clients-agents.md)
+  * [Lists](fundamentals/elements/lists.md)
+  * [Leadscore](fundamentals/elements/leadscore.md)
 
 ## 🏆 Solutions
 
