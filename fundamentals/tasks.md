@@ -10,7 +10,7 @@ The concept is not super complicated (that is the beauty of it) and you might al
 
 In our case, we have applied the concept so that each 'card' on your LeadBoard represents a Lead or Account. The natural flow is that your cards or Leads move from left tot right as they travel through your marketing workflow or funnel.&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption><p>The LeadBoxer LeadBoard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption><p>The LeadBoxer LeadBoard</p></figcaption></figure>
 
 The final step in your LeadBoard should be the step in your workflow where you offer or handover the Lead to Sales, and basically saying that you think this Lead is ready to be contacted, ready to be closed, ready to buy, or basically anything.
 
@@ -45,7 +45,7 @@ There are 4 items we need to create a LeadBoard.
 
 Based on you internal marketing workflow, add the stages so that your LeadBoard matches the steps you have defined to qualify or manage your leads. If you have not done this yet, we recommend you read this tutorial first: Define Your Marketing Workflow.&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption><p>Step 2 of Create new LeadBoard wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption><p>Step 2 of Create new LeadBoard wizard</p></figcaption></figure>
 
 * For each workflow step, add a Stage and provide a descriptive name
 * Once all steps are defined, make sure they are in the right order (you can drag & drop to change the order)&#x20;

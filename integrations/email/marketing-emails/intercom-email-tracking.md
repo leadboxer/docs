@@ -1,4 +1,4 @@
-# Intercom email tracking
+# Intercom
 
 This tutorial tells you how to use leadBoxer email tracking for individuals originating from your Intercom emails.
 

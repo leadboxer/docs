@@ -1,0 +1,37 @@
+# Hubspot Integration
+
+In this document you will find the steps needed to enable the Hubspot Integration
+
+Description:\
+The LeadBoxer Hubspot integration is a so-called two-way-sync between the 2 platforms:&#x20;
+
+1. We collect contact details from Hubspot
+2. Add these details to LeadBoxer&#x20;
+3. We push enriched data back into Hubspot
+
+#### What are the main benefits?&#x20;
+
+* Create better performing (email) campaigns in Hubspot by using additional firmographic data when creating segments to deliver differentiating or customised messages&#x20;
+* Let LeadBoxer fill in the gaps from Hubspot Business Insights. Local and smaller organisations are notably often not identified and enriched
+* Improve linking to associated companies by enriching your contacts with their company domain name (even if they used a public email address like gmail.com)&#x20;
+* Enable LeadBoxer to Identify known contacts to better filter, or segment out various groups within your audience. Eg: Identify new business vs upsell opportunities&#x20;
+
+How does the integration work:
+
+We grab the Hubspot cookie ID from your website visitors, and use this to lookup the contacts in Hubspot. For existing contacts (ie not anonymous web visitors), we collect the contact details (name, email, company, etc) and add this to the Leads in LeadBoxer for use in our Firmographic enrichment process. Any enriched field can then be pushed back to update these Hubspot contacts.&#x20;
+
+Additionally, you can define any fields that you want to sync back and forth between the LeadBoxer and Hubspot platforms. To get started, let us know your fields and we will setup  mapping. By default we enable First Name, Last Name, Email and Company Name. Recommended fields are Company Size, Industry and Domain, however we can add as many fields as you like.
+
+#### How to enable:
+
+1. Log into your LeadBoxer account as admin and go to the Hubspot Integrations page.
+2. Click on the Enable Integration button and select the Hubspot account you want to connect to.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449d902b380503dfdf239a/file-58peNdPpOD.png)
+3. authorise with your Hubspot Admin credentials![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449da72b380503dfdf239b/file-yKzY3I8HXE.png)
+4. Enable the integration, select the dataset you want to connect to and click save.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449d8000c03d6720758130/file-hfsvzY81Ay.png)
+5. Optionally, if you have multiple teams configured in Hubspot, and you want us to only sync contacts from a specific team, you can enter the team Id's here.
+
+Please let us know if you have any questions or remarks.
+
+Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+
+Last updated on January 12, 2022
