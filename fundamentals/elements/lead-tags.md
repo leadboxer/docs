@@ -1,6 +1,6 @@
 # Lead Tags
 
-### &#x20;What are Lead Tags?
+### What are Lead Tags?
 
 Lead Tags are tags or labels you can add to your leads /users in order to group them into categories.
 
@@ -67,7 +67,3 @@ You can use these parameters to add or remove specific tags:  _**\&action=add**_
 
 **NOTE:**\
 If you do not provide one of these parameters, then the request will overwrite all existing tags that are already present.
-
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
-
-Last updated on December 7, 2021
