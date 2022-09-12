@@ -1,4 +1,4 @@
-# Tracking emails with Mail Merge in Microsoft Word
+# Mail Merge (MS Word)
 
 ### Tracking email clicks
 

@@ -1,4 +1,4 @@
-# Google Maps Integration
+# Google Places
 
 The companies database that LeadBoxer uses for enrichment is large and very accurate. But there are many (smaller) companies out there that are not, and will never, make it into the main databases we use such as Linkedin or any of the other sources we use.
 

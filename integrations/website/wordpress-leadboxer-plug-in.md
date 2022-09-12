@@ -1,4 +1,4 @@
-# WordPress LeadBoxer plug-in
+# WordPress plug-in
 
 We have created a Wordpress Online Lead Generation plugin for easy installation of LeadBoxer on a Wordpress site.
 

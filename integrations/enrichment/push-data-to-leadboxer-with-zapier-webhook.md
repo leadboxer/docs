@@ -1,4 +1,4 @@
-# Push data to LeadBoxer with Zapier webhook
+# Zapier webhook
 
 In order to update Leads in LeadBoxer with data from other tools you can use the Zapier web-hooks feature.&#x20;
 

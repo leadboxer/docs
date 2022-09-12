@@ -1,4 +1,4 @@
-# LeadBoxer Marketo Integration
+# Marketo
 
 In this document you will find the steps needed in order to enable the Marketo Integration
 

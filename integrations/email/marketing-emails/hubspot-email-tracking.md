@@ -1,4 +1,4 @@
-# HubSpot email tracking
+# HubSpot
 
 Tracking Hubspot marketing emails is easy.
 
