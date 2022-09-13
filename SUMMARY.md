@@ -5,6 +5,7 @@
 
 ## 🏗 Fundamentals
 
+* [Leadscore](fundamentals/leadscore.md)
 * [Leads & Accounts](fundamentals/projects.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Dashboard](fundamentals/dashboard.md)
@@ -21,12 +22,6 @@
     * [LinkedIn Matched Audiences export](fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
     * [Adding client-customer database to LeadBoxer](fundamentals/elements/import-and-export/adding-client-customer-database-to-leadboxer.md)
     * [LeadBoxer User Interface Placeholder Names](fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
-* [Leadscore management](fundamentals/leadscore-management.md)
-* [Creating / managing lists](fundamentals/creating-managing-lists.md)
-* [Adding users / user management](fundamentals/adding-users-user-management.md)
-* [Adding datasets](fundamentals/adding-datasets.md)
-* [Creating notifications](fundamentals/creating-notifications/README.md)
-  * [Zapier webhook](fundamentals/creating-notifications/zapier-webhook.md)
 
 ## 🏆 Solutions
 
@@ -39,6 +34,12 @@
 * [Creating your first Segment](guides/creating-your-first-task.md)
 * [Creating your first LeadBoard](guides/creating-your-first-project.md)
 * [Advanced permissions](guides/advanced-permissions.md)
+* [Adding users / user management](guides/adding-users-user-management.md)
+* [Creating / managing lists](guides/creating-managing-lists.md)
+* [Adding datasets](guides/adding-datasets.md)
+* [Creating notifications](guides/creating-notifications/README.md)
+  * [Zapier webhook](guides/creating-notifications/zapier-webhook.md)
+* [Leadscore management](guides/leadscore-management.md)
 
 ## 🧩 Integrations
 
