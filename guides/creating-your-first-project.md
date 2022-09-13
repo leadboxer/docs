@@ -1,13 +1,42 @@
-# Creating your first project
+# Creating your first LeadBoard
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+To create a LeadBoard, you click on the 'Create LeadBoard' button and follow these 3 steps to complete:
 
-## The basics
+1. Create LeadBoard
+2. Define Stages
+3. Import Data
 
-Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
+### 1. Create New LeadBoard
 
-## Creating a project
+There are 4 items we need to create a LeadBoard.
 
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
+
+* Provide a name for your LeadBoard. We recommend a short and descriptive name, so that all users understand what the goal of the board is. eg. Demo signups, LinkedIn campaign leads, EU Leads, etc.
+* Select the Dataset / site.
+* Select the [Segment](https://app.gitbook.com/o/-M\_uFoDObQpQ4g4wQONe/s/-M\_u92JFMboVvSv\_dif4/fundamentals/elements/task-lists) from which the matched leads will be automatically imported in this LeadBoard.
+* Set the visibility of this LeadBoard to be visible to only you or anyone that has access to this dataset.
+* Click Next
+
+### 2. Define stages <a href="#2.-define-stages" id="2.-define-stages"></a>
+
+Based on you internal marketing workflow, add the stages so that your LeadBoard matches the steps you have defined to qualify or manage your leads. If you have not done this yet, we recommend you read this tutorial first: Define Your Marketing Workflow.
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M_u92JFMboVvSv_dif4%2Fuploads%2FTsXGEC3ri2qqHDZ364wn%2FLeadBoxer_App.png?alt=media&#x26;token=9312851b-545d-40ed-9137-d58d076be9ae" alt=""><figcaption><p>Step 2 of Create new LeadBoard wizard</p></figcaption></figure>
+
+* For each workflow step, add a Stage and provide a descriptive name
+* Once all steps are defined, make sure they are in the right order (you can drag & drop to change the order)
+* Check if the default column is the 'entry' stage. This is the stage where leads will be added by either the auto import or manually.
+* Click Next
+
+We recommend to to start simple, with a minimum of 3 stages. You can always revisit and modify if needed later.
+
+### 3. Import Leads <a href="#3.-import-leads" id="3.-import-leads"></a>
+
+Now that you have created your LeadBoard and defined the stages, you can start managing your leads right away by importing your existing LeadBoxer leads into your new LeadBoard.Step 3 of Create new LeadBoard wizard
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M_u92JFMboVvSv_dif4%2Fuploads%2FapZzJiM19MfC6UXR5vQg%2FNotification_Center.png?alt=media&#x26;token=ef98638b-cdf2-4a83-91c6-8e383da347d8" alt=""><figcaption></figcaption></figure>
+
+You can choose data from today, last 7 days or last 14 days.
+
+Click import, to perform this step or skip and start with a clean LeadBoard.
