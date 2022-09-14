@@ -16,7 +16,7 @@ Once the Lead Pixel is installed on your site we will start collecting data and 
 
 Use any of the following plugins or tutorials to get started:&#x20;
 
-* [Wordpress](https://docs.leadboxer.com/article/17-wordpress-leadboxer-plug-in)
+* Wordpress
 * [Drupal](https://docs.leadboxer.com/article/85-drupal-module)
 * [Google Tag Manager](https://docs.leadboxer.com/article/76-using-google-tag-manager-to-insert-lead-pixel)
 
