@@ -1,16 +1,44 @@
-# Spotler email tracking
+---
+description: Formerly known as MailPlus
+---
 
-1.  To track mail open/reads, add a new block switch to the HTML/code view in there you need to add:
+# Spotler
 
-    _**\<img src="https://track.leadboxer.com/log?datasetId=YOUR DATASET ID\&campaign=Voorbeeld-Campagne-Naam\&email={email}”/>**_Change datasetId and campaign name
-2.  Tracking clicks
+### 1. Track Spotler Email opens or reads:
 
-    example URL
+To track mail open/reads, add a new block switch to the HTML/code view in there you need to add:
 
-    ```
-    https://www.leadboxer.com?firstName={vNaam}&lastName={aNaam}&email={email}&companyName={bedrijf}
-    ```
+{% code overflow="wrap" %}
+```html
+<img src="https://track.leadboxer.com/log?datasetId=YOUR DATASET ID&campaign=Voorbeeld-Campagne-Naam&email={email}"/>
+```
+{% endcode %}
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+```
+Make sure you change datasetId and campaign name in above snippet
+```
 
-Last updated on February 6, 2019
+### 2. Tracking Spotler clicks
+
+First we recommend you enable the Google Analytics integration, so that UTM tags are added to all the URLs
+
+Secondly, you can to add identification parameters to every URL. This can be accomplished by using 'Extra parameters' feature. We recommend to add email and company parameters.
+
+<figure><img src="../../../.gitbook/assets/Screenshot_13_09_2022__11_44.png" alt=""><figcaption></figcaption></figure>
+
+Even though it looks like it is enabled for for all emails like this, we found It might be necessary to manually enable this again in the emails/ newsletters themselves.
+
+&#x20;Click on the Analytics button at the top of the email
+
+<figure><img src="../../../.gitbook/assets/Spotler (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Spotler.png" alt=""><figcaption></figcaption></figure>
+
+The Extra parameters feature only allows for 2 additional parameters, so if you need more you can still manually add them like this:
+
+{% code overflow="wrap" %}
+```url
+https://www.leadboxer.com?firstName={vNaam}&lastName={aNaam}&email={email}&companyName={bedrijf}
+```
+{% endcode %}
+
