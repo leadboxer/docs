@@ -1,6 +1,4 @@
-# Creating / managing lists
-
-
+# How to upload a List
 
 ### Instructions
 
@@ -35,7 +33,9 @@ we allow for you to use wildcards in both the organizationDomain and organizatio
 
 1. Log into LeadBoxer as admin and go to the List overview page
 2. Click the Upload button, a new window will appear
-3. Provide a name for your list, select the .CSV file from step 1 and press Save![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/6203c2ac68cd260cc2d394a8/file-6EoYoBqchI.png)
+3.  Provide a name for your list, select the .CSV file from step 1 and press Save
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/6203c2ac68cd260cc2d394a8/file-6EoYoBqchI.png" alt=""><figcaption></figcaption></figure>
 
 Here is a screenshot of how it can look like if you have multiple lists:
 
@@ -47,5 +47,7 @@ Here is a screenshot of how it can look like if you have multiple lists:
 
 Once the list is uploaded, you can apply it using the List Filter in both the leads and accounts view.
 
-1. Find and select the list from the Primary filters category.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/6203c3eb025ca67522c795b7/file-D5R7EfJ7RA.png)
+1.  Find and select the list from the Primary filters category.
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/6203c3eb025ca67522c795b7/file-D5R7EfJ7RA.png" alt=""><figcaption></figcaption></figure>
 2. Save as segment and set notification, see the [Segment documentation](https://docs.leadboxer.com/article/100-create-a-smartlist-how-to) on how to do this.

@@ -1,25 +1,17 @@
-# Adding datasets
-
-
+# How to add a datasets
 
 ## How to add a dataset (website) to your account
 
-## Add extra datasets&#x20;
+### Add extra datasets&#x20;
 
 Add extra datasets to your LeadBoxer account at no extra charge.\
 In other words, add as many datasets ays need to your account for the same low price.&#x20;
 
-### What is a dataset?&#x20;
+1. [**Login**](https://product.leadboxer.com/?utm\_source=feature-spotlight\&utm\_medium=email\&utm\_campaign=feature-spot-google-analytics-parameter-tracking) and go to your profile dropdown, you should see a menu-item called Datasets, this is where you can add one or more datasets. &#x20;
+2. **Set permissions**\
+   Assign access rights for the users that need access. See this tutorial on [How to add new users](https://docs.leadboxer.com/article/70-how-to-add-a-user-to-your-account).
 
-A dataset is anything that you want to measure. In the past we referred to datasets as sites, but the definition has changed to include a broader definition. \
-Now, a dataset can be a  single page, subset of pages, campaign landing page, sub-domain, app. etc. Think Internet of Things.&#x20;
-
-### &#x20;How to add datasets to your account
-
-**1.** [**Login**](https://product.leadboxer.com/?utm\_source=feature-spotlight\&utm\_medium=email\&utm\_campaign=feature-spot-google-analytics-parameter-tracking) and go to your profile dropdown, you should see a menu-item called Datasets, this is where you can add one or more datasets.  \
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f0486482c7d3a10cbaa2250/file-747Wi2LMWM.png)\
-**2. Set permissions**\
-Assign access rights for the users that need access. See this tutorial on [How to add new users](https://docs.leadboxer.com/article/70-how-to-add-a-user-to-your-account).
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f0486482c7d3a10cbaa2250/file-747Wi2LMWM.png" alt=""><figcaption></figcaption></figure>
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f04895c04286306f8064b81/file-HJ4HNrag8w.png)
 

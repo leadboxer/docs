@@ -10,3 +10,5 @@ The LeadBoxer Lists feature allows you to:&#x20;
 
 1. Upload a list of company names and / or domain names.&#x20;
 2. Apply this list as a Filter and make part of your Segments (and notifications)
+
+##

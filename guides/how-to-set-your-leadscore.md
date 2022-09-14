@@ -1,10 +1,10 @@
-# Leadscore management
+# How to set your Leadscore
 
 ## How to change the leadscore
 
 ### Customise leadscore&#x20;
 
-[![](https://gallery.mailchimp.com/bf6600641dcdb33445c8b6553/images/8710ca03-9097-409d-b8d1-46da82638995.png)](https://product.leadboxer.com/)
+<figure><img src="https://gallery.mailchimp.com/bf6600641dcdb33445c8b6553/images/8710ca03-9097-409d-b8d1-46da82638995.png" alt=""><figcaption></figcaption></figure>
 
 **Q: what does this mean in english?**
 
@@ -47,8 +47,10 @@ Receive 'buy signals' - leads who check key pages of your website are more likel
 
 #### How to assign a single url
 
-When you access your leadscore settings, scroll down until you see the item 4. There, you just need to define which URL is relevant and should affect your leadscore. You can use a absolute  url, like [http://www.mywebsite.com/sample-page](http://www.mywebsite.com/sample-page), or relative paths, like /sample-page/.Just write your url on the left, and assign a weight to it.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5832e340c697916f5d053079/file-59ddEQyjIf.gif)\
+When you access your leadscore settings, scroll down until you see the item 4. There, you just need to define which URL is relevant and should affect your leadscore. You can use a absolute  url, like [http://www.mywebsite.com/sample-page](http://www.mywebsite.com/sample-page), or relative paths, like /sample-page/.Just write your url on the left, and assign a weight to it.\
 Using relative paths to target multiple urlsIf you have multiple plans, and you want to check if the visitor visited any of the pages, you can use the url structure to achieve this. for example:&#x20;
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5832e340c697916f5d053079/file-59ddEQyjIf.gif" alt=""><figcaption></figcaption></figure>
 
 * www.mywebsite.com/plans/plan-a
 * www.mywebsite.com/plans/plan-b
@@ -81,66 +83,4 @@ This short video piece will tell you how to adjust your leadscore, and explain w
 \
 
 
-## Leadscore parameters
-
-If you want to use the leadscore features build inside our API you can use this documentation to get started.
-
-The LeadBoxer scoring engine can score on 4 criteria
-
-1. Range
-2. Match
-3. Exist
-4. Boost
-
-### Range
-
-A range can be used for scoring on number ranges, eg pageviews, visits, etc.Range needs these 5 values:
-
-1. field name
-2. Start of the range
-3. End of range
-4. Score value
-5. Comma (not for last)
-
-**Example:**
-
-user.total\_number\_visits.total\_number\_visits\_long|1|5|2.3,user.total\_number\_visits.total\_number\_visits\_long|5|25|4.7,user.total\_number\_visits.total\_number\_visits\_long|25|1000|7.0,user.total\_pages\_viewed.total\_pages\_viewed\_long|1|5|2.3,user.total\_pages\_viewed.total\_pages\_viewed\_long|5|25|4.7,user.total\_pages\_viewed.total\_pages\_viewed\_long|25|1000|
-
-### Match
-
-Match can be used if you want to score on a exact value match on any field
-
-A match needs 3 values
-
-1. field name
-2. Value
-3. Score
-
-**Example**
-
-OrganizationIndustry|Publishing|9|last\_country\_code|US|9
-
-### Exist
-
-Exist can be used to score on the existence of a value
-
-An Exist needs 2 values
-
-1. field name
-2. Score
-
-**Example**
-
-email|3,organizationPhone|10,organizationDomain|15
-
-### Boost
-
-Boost can be used for scoring on events/pageviews/etcA Boost requires 3 values
-
-1. Event type (usually root\_url)
-2. The actual URL
-3. Score
-
-**Example**
-
-root\_url|https://mydomain.com/contact/|7,root\_url|https://mydomain.com/buy-your-equipment/|7,root\_url|https://mydomain.com/sell-your-equipment/|7
+##

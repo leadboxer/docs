@@ -5,7 +5,6 @@
 
 ## 🏗 Fundamentals
 
-* [Leadscore](fundamentals/leadscore.md)
 * [Leads & Accounts](fundamentals/projects.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Dashboard](fundamentals/dashboard.md)
@@ -17,29 +16,12 @@
   * [Clients (agents)](fundamentals/elements/clients-agents.md)
   * [Lists](fundamentals/elements/lists.md)
   * [Leadscore](fundamentals/elements/leadscore.md)
+  * [Leadscore](fundamentals/elements/leadscore-1.md)
   * [Lead Tags](fundamentals/elements/lead-tags.md)
   * [Import & Export](fundamentals/elements/import-and-export/README.md)
     * [LinkedIn Matched Audiences export](fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
     * [Adding client-customer database to LeadBoxer](fundamentals/elements/import-and-export/adding-client-customer-database-to-leadboxer.md)
     * [LeadBoxer User Interface Placeholder Names](fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
-
-## 🏆 Solutions
-
-* [Lead Identification ](solutions/lead-identification.md)
-* [Lead Qualification](solutions/lead-qualification.md)
-* [Lead Managment](solutions/lead-managment.md)
-
-## 🦮 Guides
-
-* [Creating your first Segment](guides/creating-your-first-task.md)
-* [Creating your first LeadBoard](guides/creating-your-first-project.md)
-* [Advanced permissions](guides/advanced-permissions.md)
-* [Adding users / user management](guides/adding-users-user-management.md)
-* [Creating / managing lists](guides/creating-managing-lists.md)
-* [Adding datasets](guides/adding-datasets.md)
-* [Creating notifications](guides/creating-notifications/README.md)
-  * [Zapier webhook](guides/creating-notifications/zapier-webhook.md)
-* [Leadscore management](guides/leadscore-management.md)
 
 ## 🧩 Integrations
 
@@ -93,6 +75,23 @@
   * [Whatagraph](integrations/for-support/intercom-integration.md)
   * [LinkedIn](integrations/for-support/linkedin.md)
   * [Google Places](integrations/for-support/google-places.md)
+  * [Zapier webhook](integrations/for-support/zapier-webhook.md)
+
+## 🦮 Guides
+
+* [Creating your first Segment](guides/creating-your-first-task.md)
+* [Creating your first LeadBoard](guides/creating-your-first-project.md)
+* [How to add a user](guides/how-to-add-a-user.md)
+* [How to upload a List](guides/how-to-upload-a-list.md)
+* [How to add a datasets](guides/how-to-add-a-datasets.md)
+* [How to create a notification](guides/how-to-create-a-notification.md)
+* [How to set your Leadscore](guides/how-to-set-your-leadscore.md)
+
+## 🏆 Solutions
+
+* [Lead Identification ](solutions/lead-identification.md)
+* [Lead Qualification](solutions/lead-qualification.md)
+* [Lead Managment](solutions/lead-managment.md)
 
 ## Extras
 
