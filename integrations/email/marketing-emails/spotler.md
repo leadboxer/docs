@@ -14,9 +14,11 @@ To track mail open/reads, add a new block switch to the HTML/code view in there 
 ```
 {% endcode %}
 
-```
-Make sure you change datasetId and campaign name in above snippet
-```
+{% hint style="info" %}
+Make sure you change datasetId and campaign name in above snippet.
+
+Unfortunatly, Spotler does not have the option to dynamically use the title of the email in the campaign variable, meaning you will need to either use a generic campaign name or manually change this for each email that is send out.
+{% endhint %}
 
 ### 2. Tracking Spotler clicks
 
