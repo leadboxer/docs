@@ -55,8 +55,8 @@ setTimeout(() => $(".profile-form").submit(), 5000);
 
 Working example
 
-For a working example on how to submit form fields go  [here](http://api.leadboxer.com/api/examples/forms/index.html)
+For a working example on how to submit form fields go [here](http://api.leadboxer.com/api/examples/forms/index.html)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)&#x20;
 
 Last updated on October 27, 2020

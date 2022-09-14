@@ -6,7 +6,7 @@ Amazingly easy: Automatically send us all **\<Form>** data - when visitors fill 
 
 Automatic Form tracking can be easily enabled. This will allow us to auto-magically capture and track all (contact) details or form data submitted by ANY form.
 
-Additionally, if you build the form-fields to match the [placeholder names](https://www.leadboxer.com/development/app-interface-placeholder-names/) we use, we will populate the LeadBoard in our LeadBoxer reporting interface with the data fields submitted by your visitors and leads. Alternatively, you can send you own custom data to LeadBoxer, which will then appear under Lead Properties on your Lead.
+Additionally, if you build the form-fields to match the [placeholder names](../../fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md) we use, we will populate the LeadBoard in our LeadBoxer reporting interface with the data fields submitted by your visitors and leads. Alternatively, you can send you own custom data to LeadBoxer, which will then appear under Lead Properties on your Lead.
 
 ### Instructions
 
@@ -35,7 +35,7 @@ When you implement the code, your data will appear on your LeadBoard. Here is an
 
 If the field names that we capture are not properly defined, we recommend you alter them in your forms.
 
-Adjust your form fields to match our pre-defined properties, for full integration in our app interface. These are the [placeholder names](https://www.leadboxer.com/development/app-interface-placeholder-names/) we use.
+Adjust your form fields to match our pre-defined properties, for full integration in our app interface. These are the [placeholder names](../../fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md) we use.
 
 \<!DOCTYPE html>\
 \<html lang= "en">\
@@ -84,6 +84,6 @@ phone number:\
 
 If you prefer full control over the data that is being captured and submitted, you can try using manual form tracking. See the link below.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)&#x20;
 
 Last updated on March 14, 2019

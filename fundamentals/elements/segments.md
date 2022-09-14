@@ -14,6 +14,6 @@ Segments have several functions:&#x20;
 
 * As a saved combination of filters which you can select from the Segment drop-down menu.
 * Share your combination of filters with team-members/ colleagues.
-* As a start point for notifications - see this [article on setting up (email) alerts](https://docs.leadboxer.com/article/102-create-an-alert-from-a-smartlist-how-to).
+* As a start point for notifications - see this [article on setting up (email) alerts](notifications.md).
 
 If you would like to learn how to create your (first) segments [CLICK HERE](../../guides/creating-your-first-task.md).

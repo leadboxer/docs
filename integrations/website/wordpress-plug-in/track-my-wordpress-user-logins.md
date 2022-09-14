@@ -62,6 +62,6 @@ Paste the above inside the snippet to to send us a signal when a user logs in to
 * Enable the snippet to run everywhere.
 * And don't forget to disable the regular LeadBoxer Wordpress plugin, or remove the tracking pixel from your templates, etc. as it is included in the above script.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on July 30, 2019

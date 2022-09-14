@@ -38,7 +38,7 @@ Behaviour can also be crucial in your **Lead Qualification** process to either q
 
 ### Lead Profile
 
-Their digital footprint and online (or offline) behaviour allows us to build up a Lead Profile.
+Digital footprints and online (or offline) behaviour allow us to build up Lead Profiles.
 
 ### Acquisition
 
@@ -75,6 +75,6 @@ Examples of Visitor Touchpoints are:&#x20;
 
 Documentation for each of these individual events, located here:
 
-[Enriching](https://docs.leadboxer.com/category/61-enrichment)
+[Enriching](../integrations/website/)
 
 We are happy to discuss/ plan with you technically how to accomplish any of this measurement. Please get in touch with us if you would benefit from this type of discussion.

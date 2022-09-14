@@ -48,6 +48,6 @@ Note that UTM parameters are case sensitive, which means if you use  _abc_ for y
 
 [Start a free trial](https://www.leadboxer.com/start/)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on June 3, 2022

@@ -38,6 +38,6 @@ If you have not done so yet, you can register your site for a  [free Online Lead
 
 [Download Plugin](https://wordpress.org/plugins/leadboxer/) [Start a free trial](https://www.leadboxer.com/?signup=true)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on September 24, 2019

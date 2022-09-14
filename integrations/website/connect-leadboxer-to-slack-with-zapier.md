@@ -1,6 +1,6 @@
 # Connect Leadboxer to Slack with Zapier
 
-This guide continues where  [Getting started with LeadBoxer on Zapier](https://docs.leadboxer.com/article/75-how-to-get-started-with-leadboxer-on-zapier) left off.
+This guide continues where  [Getting started with LeadBoxer on Zapier](how-to-get-started-with-leadboxer-on-zapier.md) left off.
 
 Select Slack as the tool you want to be triggered by Leadboxer.
 
@@ -26,6 +26,6 @@ To avoid being spammed because you have so much traffic on your website, we can 
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/57ac5ebf90336059d4ede951/file-Z6TrUHdP9r.png)Your Zap is working and your filter is set, enjoy the convenience.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)&#x20;
 
-Last updated on August 11, 2016
+Last updated on August 11, 2021

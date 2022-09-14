@@ -1,6 +1,6 @@
 # Connect Leadboxer to Salesforce with Zapier
 
-This guide continues where [Getting started with LeadBoxer on Zapier](https://docs.leadboxer.com/article/75-how-to-get-started-with-leadboxer-on-zapier) left off.
+This guide continues where [Getting started with LeadBoxer on Zapier](how-to-get-started-with-leadboxer-on-zapier.md) left off.
 
 Select Salesforce as the tool you want to be triggered by Leadboxer.
 
@@ -33,6 +33,6 @@ Simply test the Zap by clicking Create & Continue. Congratulations! You have a w
 
 Zap, all you have to do now is turn it on!
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on June 8, 2016

@@ -11,6 +11,6 @@ When a login-event occurs, you grab all the information from your db that you th
 
 The document tagging leads with properties explains how to do this in technical terms. In other words, how to get things into the leadboard with an event (download or pageview).
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
-Last updated on November 2, 2016
+Last updated on September 2, 2022

@@ -27,6 +27,6 @@ Instructions: using these names for event data will populate placeholder fields 
 
 for the full list please contact us
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on October 29, 2020

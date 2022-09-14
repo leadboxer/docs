@@ -25,7 +25,7 @@ See the Pen [Track an event](https://codepen.io/LeadBoxer/pen/xxGLvda) by Wart F
 
 **Event with properties**&#x20;
 
-LeadBoxer does not only support custom events, but also adding  [lead properties](https://docs.leadboxer.com/article/71-tagging-leads-with-properties)
+LeadBoxer does not only support custom events, but also adding [lead properties](enrich-leads-with-properties.md)
 
 ```
 <script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
@@ -95,6 +95,6 @@ If you are using the Google Tag manager, See instructions below.
     ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f44f5d9042863444aa0cdd7/file-2LVgTG8MTi.png)
 4. Don't forget to publish and you should be set.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on April 15, 2022

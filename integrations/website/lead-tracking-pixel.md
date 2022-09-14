@@ -4,7 +4,8 @@
 
 **How it works**: Drop the Lead Pixel (JavaScript code snippet) in your site. Once in place, the pixel generates a list of leads - names of companies interested in your products and services, based on your website traffic.
 
-**Where to put it**: Track incoming leads across your whole website. You can also put the pixel into individual landing pages. Examples would be a contact form or newsletter sign-up form. You can  [integrate the pixel directly](https://docs.leadboxer.com/article/16-getting-started), use  [our WordPress plugin](https://docs.leadboxer.com/article/17-wordpress-leadboxer-plug-in), or get an API license.&#x20;
+**Where to put it**: Track incoming leads across your whole website. You can also put the pixel into individual landing pages. Examples would be a contact form or newsletter sign-up form. You can  integrate the pixel directly, use  our [WordPress plugin](wordpress-plug-in/), or get an API license. \
+If integrated directly, the **Lead Pixel needs to be placed in the source code** of all the webpage(s) that you wish to track. The best place is the footer - this will place the tracking code in the whole site, and takes less than 5 minutes.
 
 **What you can accomplish with a Lead Pixel**:\
 1\. Generate a list of qualified leads - companies interested in your product/service - based on their interest in your site.\
@@ -28,10 +29,10 @@ If you havent done so already, the first step is to [Start a trial](https://www.
 You can use any of the following plugins / tutorials to get started:\
 
 
-* [Wordpress](https://docs.leadboxer.com/article/17-wordpress-leadboxer-plug-in)
-* [Drupal](https://docs.leadboxer.com/article/85-drupal-module)
-* [Google Tag Manger](https://docs.leadboxer.com/article/76-using-google-tag-manager-to-insert-lead-pixel)
-* [Unbounce](https://docs.leadboxer.com/article/121-track-unbounce-landing-pages)
+* [Wordpress](wordpress-plug-in/)
+* Drupal
+* [Google Tag Manger](figma-integration.md)
+* [Unbounce](track-unbounce-landing-pages.md)
 
 **Other / Manual installation**
 
@@ -214,7 +215,7 @@ See the Pen [Track an event](https://codepen.io/LeadBoxer/pen/xxGLvda) by Wart F
 
 **Event with properties**&#x20;
 
-LeadBoxer does not only support custom events, but also adding  [lead properties](https://docs.leadboxer.com/article/71-tagging-leads-with-properties)
+LeadBoxer does not only support custom events, but also [adding lead properties](lead-tracking-pixel.md#adding-properties-on-page-load)
 
 ```
 <script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 

@@ -113,6 +113,6 @@ Thats it, place both pieces of javascript on your form page (and make sure the t
 
 Feel free to contact us if you would like us to help.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on July 15, 2022

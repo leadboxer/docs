@@ -62,6 +62,6 @@ Mistakes in list uploads live in the account forever because there’s no list d
 
 Source: [Martech.org](https://martech.org/linkedins-new-matched-audiences-feature-just-blew-facebook-custom-audiences-water-b2b/)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on November 11, 2021

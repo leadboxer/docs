@@ -69,6 +69,6 @@ OTLogService.sendEvent("Login added", map, false);
 
 [Login](https://app.leadboxer.com/) or [Start a free trial](https://www.leadboxer.com/?signup=true)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on April 8, 2022

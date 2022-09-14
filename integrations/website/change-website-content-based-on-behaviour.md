@@ -66,6 +66,6 @@ alert(pageviews);
 </script>
 ```
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on May 28, 2019

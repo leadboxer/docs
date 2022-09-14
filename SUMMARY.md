@@ -10,18 +10,18 @@
 * [Dashboard](fundamentals/dashboard.md)
 * [Elements](fundamentals/elements/README.md)
   * [Segments](fundamentals/elements/segments.md)
-  * [Datasets](fundamentals/elements/datasets.md)
   * [Notifications](fundamentals/elements/notifications.md)
   * [Users](fundamentals/elements/users.md)
   * [Clients (agents)](fundamentals/elements/clients-agents.md)
   * [Lists](fundamentals/elements/lists.md)
   * [Leadscore](fundamentals/elements/leadscore.md)
-  * [Leadscore](fundamentals/elements/leadscore-1.md)
+  * [Leadscore parameters](fundamentals/elements/leadscore-parameters.md)
   * [Lead Tags](fundamentals/elements/lead-tags.md)
   * [Import & Export](fundamentals/elements/import-and-export/README.md)
     * [LinkedIn Matched Audiences export](fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
     * [Adding client-customer database to LeadBoxer](fundamentals/elements/import-and-export/adding-client-customer-database-to-leadboxer.md)
     * [LeadBoxer User Interface Placeholder Names](fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
+  * [Datasets](fundamentals/elements/datasets.md)
 
 ## 🧩 Integrations
 

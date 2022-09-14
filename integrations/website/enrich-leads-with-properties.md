@@ -76,6 +76,6 @@ Add a tag for email campaign
 
 A working example can be found here:  [http://api.leadboxer.com/api/examples/log/index.html](http://api.leadboxer.com/api/examples/log/index.html)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](broken-reference)
 
 Last updated on April 15, 2022
