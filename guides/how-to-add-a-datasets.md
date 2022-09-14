@@ -7,7 +7,7 @@
 Add extra datasets to your LeadBoxer account at no extra charge.\
 In other words, add as many datasets ays need to your account for the same low price.&#x20;
 
-1. [**Login**](https://product.leadboxer.com/?utm\_source=feature-spotlight\&utm\_medium=email\&utm\_campaign=feature-spot-google-analytics-parameter-tracking) and go to your profile dropdown, you should see a menu-item called Datasets, this is where you can add one or more datasets. &#x20;
+1. **Login** and go to your profile dropdown, you should see a menu-item called Datasets, this is where you can add one or more datasets. &#x20;
 2. **Set permissions**\
    Assign access rights for the users that need access. See this tutorial on [How to add new users](https://docs.leadboxer.com/article/70-how-to-add-a-user-to-your-account).
 

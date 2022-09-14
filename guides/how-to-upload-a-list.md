@@ -11,8 +11,9 @@
    2. **organizationName**: put the name of the organization in this row
 4. 'Save As' and (re)name so the file so that it is clear what the list contains. (eg. Target-accounts-2022.csv)
 
-**Note**: We will use both the domain OR the name of the organization to match the identified leads or customers to your list.\
-
+{% hint style="info" %}
+**Note**: We will use both the domain OR the name of the organization to match the identified leads or customers to your list.
+{% endhint %}
 
 **Wildcards**
 
