@@ -9,7 +9,7 @@
 * [LeadBoard](fundamentals/tasks.md)
 * [Dashboard](fundamentals/dashboard.md)
 * [Elements](fundamentals/elements/README.md)
-  * [Segments](fundamentals/elements/task-lists.md)
+  * [Segments](fundamentals/elements/segments.md)
   * [Datasets](fundamentals/elements/datasets.md)
   * [Notifications](fundamentals/elements/notifications.md)
   * [Users](fundamentals/elements/users.md)
