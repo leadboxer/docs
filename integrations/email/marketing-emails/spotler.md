@@ -24,7 +24,7 @@ Unfortunatly, Spotler does not have the option to dynamically use the title of t
 
 First we recommend you enable the Google Analytics integration, so that UTM tags are added to all the URLs
 
-Secondly, you can to add identification parameters to every URL. This can be accomplished by using 'Extra parameters' feature. We recommend to add email and company parameters.
+Secondly, we need to add identification parameters to every URL. This can be accomplished by using the 'Extra parameters' feature. We recommend to add the email and company parameter.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_13_09_2022__11_44.png" alt=""><figcaption></figcaption></figure>
 
