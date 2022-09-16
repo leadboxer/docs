@@ -59,7 +59,7 @@ You manually add leads to the board by providing the domain name of the organisa
 
 ## The Account Panel
 
-This Panel shows up when you click on a Leadcard in your LeadBoard and provides you with an overview of all details from a company or organisation we call [Accounts](leads-and-accounts/#what-are-accounts) and consist of 2 sections:
+This Panel shows up when you click on a Leadcard in your LeadBoard and provides you with an overview of all details from a company or organisation we call [Accounts](projects.md#what-are-accounts) and consist of 2 sections:
 
 1. The Account details
 2. The Lead details

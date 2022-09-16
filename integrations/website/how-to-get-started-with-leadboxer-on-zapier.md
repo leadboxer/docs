@@ -1,4 +1,4 @@
-# How to Get Started with LeadBoxer on Zapier
+# Zapier
 
 Follow these easy steps to connect your LeadBoard to whatever tool you want using Zapier:
 

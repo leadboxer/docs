@@ -1,4 +1,4 @@
-# LeadBoxer lead pixel into Wix
+# Tracking pixel into Wix
 
 From the Wix documentation:
 

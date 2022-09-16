@@ -1,4 +1,4 @@
-# How to add the LeadBoxer pixel using the Adobe Dynamic Tag Manager
+# Adobe Tag Manager
 
 1. Open [Adobe Dynamic Tag Management](https://dtm.adobe.com/sign\_in).
 2. Select the appropriate company if you work on multiple. If not, just click the Web Property you want to install the LeadBoxer pixel on.

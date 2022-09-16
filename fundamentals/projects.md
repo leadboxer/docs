@@ -32,9 +32,9 @@ By using various tracking technologies and connecting with your other marketing 
 Individual behavioural visualisation is also know as a click-stream, event-stream, actions, etc.
 {% endhint %}
 
-The behaviour gives insight into their interests, buyer journey, marketing phase, and also provides input to build up a rich Lead Profile, for example by [tagging](../elements/lead-tags.md) based on pages they visit.
+The behaviour gives insight into their interests, buyer journey, marketing phase, and also provides input to build up a rich Lead Profile, for example by [tagging](elements/lead-tags.md) based on pages they visit.
 
-Behaviour can also be crucial in your [**Lead Qualification**](../../solutions/lead-qualification.md) process to either qualify or disqualify a lead.
+Behaviour can also be crucial in your [**Lead Qualification**](../solutions/lead-qualification.md) process to either qualify or disqualify a lead.
 
 ### Lead Profile
 

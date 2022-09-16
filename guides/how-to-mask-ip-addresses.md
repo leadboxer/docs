@@ -14,4 +14,4 @@ To do so, go to your datasets overview (you need to be an admin to see this) and
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5df903cc2c7d3a7e9ae53985/file-hGwO2hbcaM.png)
 
-<figure><img src="../.gitbook/assets/file-4lgEMva5wL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/file-4lgEMva5wL (1).png" alt=""><figcaption></figcaption></figure>

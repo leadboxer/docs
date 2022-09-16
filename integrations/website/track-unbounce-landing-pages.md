@@ -1,4 +1,4 @@
-# Track Unbounce landing pages
+# Unbounce landing pages
 
 To track Leads and Customers on your Unbounce landing page with LeadBoxer, you need to add the lead pixel to your landing page
 

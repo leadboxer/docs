@@ -1,4 +1,4 @@
-# Insert the lead pixel into Magento
+# Magento
 
 ### To install the lead pixel into your Magento site, copy your code snippet and follow these steps:
 

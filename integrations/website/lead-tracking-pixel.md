@@ -32,7 +32,7 @@ You can use any of the following plugins / tutorials to get started:\
 * [Wordpress](wordpress-plug-in/)
 * Drupal
 * [Google Tag Manger](figma-integration.md)
-* [Unbounce](unbounce-landing-pages.md)
+* [Unbounce](track-unbounce-landing-pages.md)
 
 **Other / Manual installation**
 
