@@ -39,7 +39,7 @@ In other words - LeadBoxer monitors all traffic on your site - identifies compan
 
 In below example we take the LeadBoxer user ID from the LeadBoxer cookie and use it to send a signal to our servers with the Lead Tag: customer
 
-```
+```javascript
 <script defer src="//script.leadboxer.com/?dataset=yourDatasetId"></script>
 <script type="text/javascript">
 

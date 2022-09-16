@@ -1,4 +1,4 @@
-# Hubspot Integration
+# Hubspot
 
 In this document you will find the steps needed to enable the Hubspot Integration
 
@@ -25,13 +25,57 @@ Additionally, you can define any fields that you want to sync back and forth bet
 #### How to enable:
 
 1. Log into your LeadBoxer account as admin and go to the Hubspot Integrations page.
-2. Click on the Enable Integration button and select the Hubspot account you want to connect to.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449d902b380503dfdf239a/file-58peNdPpOD.png)
-3. authorise with your Hubspot Admin credentials![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449da72b380503dfdf239b/file-yKzY3I8HXE.png)
-4. Enable the integration, select the dataset you want to connect to and click save.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449d8000c03d6720758130/file-hfsvzY81Ay.png)
+2.  Click on the Enable Integration button and select the Hubspot account you want to connect to.
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449d902b380503dfdf239a/file-58peNdPpOD.png" alt=""><figcaption></figcaption></figure>
+3.  authorise with your Hubspot Admin credentials
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449da72b380503dfdf239b/file-yKzY3I8HXE.png" alt=""><figcaption></figcaption></figure>
+4.  Enable the integration, select the dataset you want to connect to and click save.
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61449d8000c03d6720758130/file-hfsvzY81Ay.png" alt=""><figcaption></figcaption></figure>
 5. Optionally, if you have multiple teams configured in Hubspot, and you want us to only sync contacts from a specific team, you can enter the team Id's here.
 
 Please let us know if you have any questions or remarks.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
 
-Last updated on January 12, 2022
+
+## Track Hubspot forms
+
+If you would like to track your Hubspot forms, here is how you can do it:
+
+Requirements:
+
+* Embedded Hubspot Form
+* LeadBoxer account & pixel&#x20;
+
+In this example we will only push the email value to LeadBoxer and associate this with the user-id from LeadBoxer
+
+```javascript
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "123",
+	formId: "abc",
+	onFormSubmit: function($form) {
+		setTimeout(function(){   // we add a small delay 
+			var email = $form.find('input[name="email"]').val();
+			var userId = ot_uid();	        // define userID
+		
+			// Construct API call to add lead tag to the visitor
+			var url = "https://log.leadboxer.com/?si=my-dataset-id&ti=Form-Submit&uid=" + userId + "&email=" + email;
+  
+			// send the data to the LeadBoxer API
+			fetch(url,{mode: 'no-cors'});			
+ 		}, 500); // end of timeout function			
+	}
+});
+</script>
+```
+
+Obviously you need to replace the various values with your own:
+
+* form-field-name
+* portalId
+* formId
+* my-dataset-id

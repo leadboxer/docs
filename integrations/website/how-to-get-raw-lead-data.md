@@ -60,7 +60,3 @@ setTimeout(function(){
 
 </script>
 ```
-
-Still need help? [Contact Us](broken-reference)
-
-Last updated on September 4, 2020

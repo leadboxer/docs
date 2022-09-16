@@ -1,4 +1,6 @@
-# Tracking Calendly Conversions on your site
+# Calendly
+
+## Tracking Calendly Conversions on your site
 
 If you are using Calendly to let people schedule meetings or appointments on your site, you can use LeadBoxer to identify these leads and see all their behaviour.
 

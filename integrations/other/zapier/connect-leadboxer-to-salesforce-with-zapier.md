@@ -1,6 +1,6 @@
 # Connect Leadboxer to Salesforce with Zapier
 
-This guide continues where [Getting started with LeadBoxer on Zapier](how-to-get-started-with-leadboxer-on-zapier.md) left off.
+This guide continues where [Getting started with LeadBoxer on Zapier](./) left off.
 
 Select Salesforce as the tool you want to be triggered by Leadboxer.
 

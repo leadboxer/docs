@@ -44,8 +44,8 @@ Learn the fundamentals of LeadBoxer to get a deeper understanding of our main fe
 [segments.md](fundamentals/elements/segments.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/elements/leadscore-parameters.md" %}
-[leadscore-parameters.md](fundamentals/elements/leadscore-parameters.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/elements/lead-tags.md" %}

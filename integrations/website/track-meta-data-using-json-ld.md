@@ -6,7 +6,7 @@ When you use [Json-ld](https://json-ld.org/), you are following open standards a
 
 If you would like to capture specific JSON-LD metadata information on your webpages and add these to the profile of your leads or customers, you can do so with the following example
 
-Make sure you read first about how you can [add properties to a lead/customer on page-load](advanced-javascript-pixel-usage.md) as we basically build on top of that feature.
+Make sure you read first about how you can [add properties to a lead/customer on page-load](broken-reference) as we basically build on top of that feature.
 
 #### Example
 
