@@ -79,7 +79,6 @@
 * [Other](integrations/for-support/README.md)
   * [Hubspot](integrations/for-support/hubspot.md)
   * [Marketo](integrations/for-support/marketo.md)
-  * [Whatagraph](integrations/for-support/intercom-integration.md)
   * [LinkedIn](integrations/for-support/linkedin.md)
     * [LinkedIn job titles search](integrations/other/linkedin/linkedin-job-titles-search.md)
   * [Google Places](integrations/for-support/google-places.md)
@@ -93,6 +92,7 @@
     * [Connect Leadboxer to Salesforce with Zapier](integrations/website/connect-leadboxer-to-salesforce-with-zapier.md)
   * [Pipedrive](integrations/other/pipedrive/README.md)
     * [Pipedrive Workflow Automation with LeadBoxer](integrations/website/pipedrive-workflow-automation-with-leadboxer.md)
+  * [Whatagraph](integrations/other/whatagraph.md)
 
 ## 🦮 Guides
 

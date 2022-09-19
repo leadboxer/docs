@@ -6,11 +6,22 @@ If you want to track your forms and use the Gravity Forms Wordpress plugin, you 
 
 Here are the steps:
 
-1. Install and activate the Wordpress plugin like you would normally do: either searching for it on the plugins page or by downloading/uploading.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d16e33eabe9a7235b3e21e/file-YkXZDhhjhi.png)
-   1. If you do not have gravity Forms installed you will get a error and warning.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d16e8203382e4311cf4e01/file-scFSAbRhzz.png)
-2. Once installed and activated, you need to configure / add your dataset ID in the global gravity Forms Plugin settings![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d16f95eabe9a7235b3e22a/file-KsqmRg93U4.png)
-3. Next, you need to map your form fields to the correct default LeadBoxer field names for each form.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d17032d242501d78c64cf0/file-iIdJqMJe5U.png)
-4. If you have form fields that cannot be mapped to a default LeadBoxer field, you can add manual mappings. These form fields and values will be shown under Lead Properties. you can add up to 20 custom fields.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d170fac74a080359c8a1fd/file-t87PUuQ7FP.png)
+1.  Install and activate the Wordpress plugin like you would normally do: either searching for it on the plugins page or by downloading/uploading.
+
+    1.  If you do not have gravity Forms installed you will get a error and warning.
+
+        <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d16e8203382e4311cf4e01/file-scFSAbRhzz.png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d16e33eabe9a7235b3e21e/file-YkXZDhhjhi.png" alt=""><figcaption></figcaption></figure>
+2.  Once installed and activated, you need to configure / add your dataset ID in the global gravity Forms Plugin settings
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d16f95eabe9a7235b3e22a/file-KsqmRg93U4.png" alt=""><figcaption></figcaption></figure>
+3.  Next, you need to map your form fields to the correct default LeadBoxer field names for each form.
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d17032d242501d78c64cf0/file-iIdJqMJe5U.png" alt=""><figcaption></figcaption></figure>
+4.  If you have form fields that cannot be mapped to a default LeadBoxer field, you can add manual mappings. These form fields and values will be shown under Lead Properties. you can add up to 20 custom fields.
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/62d170fac74a080359c8a1fd/file-t87PUuQ7FP.png" alt=""><figcaption></figcaption></figure>
 
 ### Thats it.
 
@@ -84,7 +95,7 @@ As you may know, Gravity forms has dynamically generated form ID's so that makes
 
 Here is an example of the actual function:
 
-```
+```javascript
 <script type="text/javascript">
 function sendTextForm() {
 	
@@ -112,7 +123,3 @@ function sendTextForm() {
 Thats it, place both pieces of javascript on your form page (and make sure the tracking pixel is loaded as well) and you should see your form submissions appear in LeadBoxer.
 
 Feel free to contact us if you would like us to help.
-
-Still need help? [Contact Us](broken-reference)
-
-Last updated on July 15, 2022

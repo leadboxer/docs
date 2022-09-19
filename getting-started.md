@@ -206,4 +206,4 @@ For other CRM vendors you can use [Zapier App](integrations/website/how-to-get-s
 
 #### Dashboarding
 
-[Whatagraph Integration](integrations/for-support/intercom-integration.md)
+[Whatagraph Integration](broken-reference)
