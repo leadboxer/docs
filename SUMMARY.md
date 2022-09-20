@@ -96,8 +96,8 @@
 
 ## 🦮 Guides
 
-* [Creating your first Segment](guides/creating-your-first-task.md)
-* [Creating your first LeadBoard](guides/creating-your-first-project.md)
+* [Creating your first Segment](guides/creating-your-first-segment.md)
+* [Creating your first LeadBoard](guides/creating-your-first-leadboard.md)
 * [How to add a user](guides/how-to-add-a-user.md)
 * [How to upload a List](guides/how-to-upload-a-list.md)
 * [How to add a datasets](guides/how-to-add-a-datasets.md)

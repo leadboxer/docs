@@ -31,8 +31,8 @@ To create a LeadBoard, you click on the 'Create LeadBoard' button and follow the
 
 Use below guide to start using the LeadBoard feature
 
-{% content-ref url="../guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](../guides/creating-your-first-project.md)
+{% content-ref url="../guides/creating-your-first-leadboard.md" %}
+[creating-your-first-leadboard.md](../guides/creating-your-first-leadboard.md)
 {% endcontent-ref %}
 
 ## Using the LeadBoard

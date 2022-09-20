@@ -16,8 +16,8 @@ Segments have several functions:&#x20;
 
 If you would like to learn how to create your (first) segment use this tutorial:
 
-{% content-ref url="../../guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](../../guides/creating-your-first-task.md)
+{% content-ref url="../../guides/creating-your-first-segment.md" %}
+[creating-your-first-segment.md](../../guides/creating-your-first-segment.md)
 {% endcontent-ref %}
 
 **Saving segments**

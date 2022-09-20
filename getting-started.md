@@ -142,7 +142,7 @@ In Leadboxer, you can create segments. A segment is basically a saved set of fil
 
 LeadBoxer contains 1 default segment: Top leads and is used to send you your daily or weekly notification. You can modify this segments or create your own.
 
-[Learn how to use filters and create segments](guides/creating-your-first-task.md)
+[Learn how to use filters and create segments](guides/creating-your-first-segment.md)
 
 ***
 
