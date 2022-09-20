@@ -1,7 +1,7 @@
 # Table of contents
 
 * [LeadBoxer Documentation](README.md)
-* [Getting Started](getting-started.md)
+* [🛠 Getting Started](getting-started.md)
 
 ## 🏗 Fundamentals
 
@@ -96,7 +96,7 @@
 
 ## 🦮 Guides
 
-* [Creating your first Segment](guides/creating-your-first-segment.md)
+* [💎 Creating your first Segment](guides/creating-your-first-segment.md)
 * [Creating your first LeadBoard](guides/creating-your-first-leadboard.md)
 * [How to add a user](guides/how-to-add-a-user.md)
 * [How to upload a List](guides/how-to-upload-a-list.md)
