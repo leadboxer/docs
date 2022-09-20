@@ -8,7 +8,7 @@ With LeadBoxer, you can identify, qualify and manage all your leads in one place
 
 **Got 2 minutes?** Check out a video overview of our product.
 
-_Coming soon!_
+{% embed url="https://leadboxer.wistia.com/medias/v3bywlqtww" %}
 
 ## Ready to get going?
 
