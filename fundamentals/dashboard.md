@@ -18,12 +18,10 @@ You can select any of your Segments in the dashboard and the graphs and chart wi
 
 You added the option to ‘slice’ the data on our dashboard, by clicking on any of the donut chart pieces.
 
-We also added a the option to drill down directly to the accounts view.![slice dashboard](https://wp.leadboxer.com/wp-content/uploads/Screenshot-2021-11-20-at-08.30.11-1.png)
+We also added a the option to drill down directly to the accounts view.
+
+<figure><img src="https://wp.leadboxer.com/wp-content/uploads/Screenshot-2021-11-20-at-08.30.11-1.png" alt=""><figcaption></figcaption></figure>
 
 Once sliced you can see these labels
 
 <figure><img src="https://wp.leadboxer.com/wp-content/uploads/LeadBoxer_App-6-1.png" alt="sliced data"><figcaption></figcaption></figure>
-
-* \
-
-

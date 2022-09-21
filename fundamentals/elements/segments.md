@@ -37,3 +37,13 @@ When you open a previously saved segment, you have the option to edit this segme
 You also have the option to delete your segments. Simply go to the segment drop-down menu, and press the delete icon. Be careful - there’s no going back from deleting a segment!
 
 If you would like to learn how to create your (first) segments
+
+{% content-ref url="../../guides/creating-your-first-segment.md" %}
+[creating-your-first-segment.md](../../guides/creating-your-first-segment.md)
+{% endcontent-ref %}
+
+### Ownership
+
+You can (as an Admin) change ownership for all segments in your account. This is useful if you want to create or modify segments for your colleagues or clients
+
+<figure><img src="https://wp.leadboxer.com/wp-content/uploads/LeadBoxer_App-3-1-1.png" alt=""><figcaption></figcaption></figure>
