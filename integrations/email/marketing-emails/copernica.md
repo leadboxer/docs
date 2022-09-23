@@ -1,4 +1,4 @@
-# Copernica Integration
+# Copernica
 
 ### Identify & track Copernica email recipients on your website&#x20;
 
@@ -33,14 +33,12 @@ lb_src=copernica
 lb_eid={$profile.id}
 ```
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5cdad7b90428634b85592fbf/file-BbOL6bSWLC.png)\
+\
 
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5cdad7b90428634b85592fbf/file-BbOL6bSWLC.png" alt=""><figcaption></figcaption></figure>
 
 Example:\
 
 
 Thats all, and let the magic begin!
-
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
-
-Last updated on June 3, 2019

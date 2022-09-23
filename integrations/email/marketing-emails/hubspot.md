@@ -1,12 +1,18 @@
 # HubSpot
 
-Tracking Hubspot marketing emails is easy.
+{% hint style="info" %}
+Make sure you also enable our [Hubspot Integration](../../for-support/hubspot.md), as this will sync all your existing contacts with LeadBoxer and allow you to enrich your Hubspot contacts with LeadBoxers rich firmographic and marketing data.
+{% endhint %}
+
+Tracking Hubspot marketing emails is easy.U
 
 To track email open events, either add this tracking image to your template as a piece of HTML
 
+{% code overflow="wrap" %}
+```html
+<img src="https://track.leadboxer.com/log?datasetId=YOUR_DATSET_ID&campaign=Newsletter&email={{contact.email}}"/>
 ```
-<img src="https://track.leadboxer.com/log?datasetId=YOUR_DATSET_ID&campaign=Newsletter&email={{contact.email}}"/><br>
-```
+{% endcode %}
 
 Alternatively, you can add an image from an URL  like this:
 
@@ -22,12 +28,10 @@ Optionally, you can also identify your Hubspot contacts using merge tags on the 
 
 To track link clicks and identify these readers on our site you need to be appended with a parameter like in this example:
 
-```
+{% code overflow="wrap" %}
+```url
 https://www.leadboxer.com/?email={{contact.email}}&firstName={{contact.firstname}}&lastName={{contact.lastname}}&companyName={{company.name}}
 ```
+{% endcode %}
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d9f372404286364bc903d64/file-NstHPmk2UM.png)
-
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
-
-Last updated on August 11, 2022

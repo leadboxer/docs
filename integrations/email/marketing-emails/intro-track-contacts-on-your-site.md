@@ -1,4 +1,4 @@
-# Identify website leads and customers with emails
+# Intro: track contacts on your site&#x20;
 
 ### Track clicks within emails
 
@@ -49,7 +49,7 @@ Meaning you would need to append these to the links in your newsletter or email 
 
 eg
 
-```
+```url
 ?email=*|EMAIL|*
 ```
 
@@ -57,7 +57,7 @@ This will append the email address of your recipient to the url of the landing p
 
 You can do this for other fields available in your mail or newsletter solution. eg:
 
-```
+```url
 ?email=*|EMAIL|*&firstName=*|FNAME|*&lastName=*|LNAME|*
 ```
 

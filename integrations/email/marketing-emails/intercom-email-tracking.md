@@ -24,7 +24,7 @@ Create your emails like you always do, and make sure you add a link to a landing
 
 When your email is ready, add custom parameters to your link. These parameters, known as ' [merge tags](http://mailchimp.com/features/merge-tags/)', will be added to your links:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c1394fb2c7d3a31944f1fed/file-2q6ZEzoXiI.jpg)
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c1394fb2c7d3a31944f1fed/file-2q6ZEzoXiI.jpg" alt=""><figcaption></figcaption></figure>
 
 ```
 ?email={{ email }}
@@ -51,7 +51,3 @@ First, see this page on how to generate the email tracking pixel and copy this c
 From there on LeadBoxer will take over and add the data to the lead. Obviously the LeadBoxer pixel needs to be installed on the pages they land on.&#x20;
 
 It's always a good idea to test this thoroughly before sending this to you main lists. If things are working, you'll see the emails of leads interested in your newsletter's landing page.
-
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
-
-Last updated on December 14, 2018

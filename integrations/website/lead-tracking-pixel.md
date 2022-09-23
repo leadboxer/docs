@@ -48,7 +48,9 @@ You can add extra datasets to your LeadBoxer account.
 
 This can be accomplished in the datasets overview:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c471dee2c7d3a66e32d7c70/file-Anv46pNpYQ.png)After adding your dataset(s) you can also give permission to team members to access the data.
+After adding your dataset(s) you can also give permission to team members to access the data.
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c471dee2c7d3a66e32d7c70/file-Anv46pNpYQ.png" alt=""><figcaption></figcaption></figure>
 
 Note: You need to have admin rights to be able to see/do this.
 
@@ -62,7 +64,7 @@ Simply add the property name and value you wish to add by using LeadBoxer's map 
 
 **Basic Example:**
 
-```
+```javascript
 <script>
 
 // define an empty variable called 'map'
@@ -90,8 +92,8 @@ These are de functions you can use for adding properties using a map
 
 Once your map has been defined, you can send it to us with a simple javascript function:
 
-```
-OTLogService.sendEvent("your event title", map); :
+```javascript
+OTLogService.sendEvent("your event title", map);
 ```
 
 This function will send (submit) the data to our log servers.
@@ -100,11 +102,11 @@ This function will send (submit) the data to our log servers.
 
 Add multiple properties to a lead
 
-```
+```javascript
 <script type="text/javascript" src="https://script.leadboxer.com/?dataset=YourDatasetId"></script> 
 
 <script type="text/javascript">    
-	var map = new OTMap();    
+	javavar map = new OTMap();    
 	map.put("firstName", "John");    
 	map.put("lastName", "Doe");   
 	OTLogService.sendEvent("my custom event", map); 
@@ -113,7 +115,7 @@ Add multiple properties to a lead
 
 Add a tag for email campaign
 
-```
+```javascript
 <script type="text/javascript" src="https://script.leadboxer.com/?dataset=YourDatasetId"></script> 
 <script type="text/javascript"> 
 	var map = new OTMap();    
@@ -146,7 +148,7 @@ The function needs to be in the html of the page, or if loaded externally, needs
 
 A simple example looks like this:
 
-```
+```javascript
 <script type="text/javascript"> 
 function ot_onload() {
   // define variables
@@ -202,10 +204,10 @@ The Lead Pixel contains functions and listeners that facilitate the insertion of
 
 **basic event**
 
-```
+```javascript
 <script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
 <script type="text/javascript">    
-	OTLogService.sendEvent("basic event"); 
+	OTLogService.sendEvent("basic event"); java
 </script>
 ```
 
@@ -217,7 +219,7 @@ See the Pen [Track an event](https://codepen.io/LeadBoxer/pen/xxGLvda) by Wart F
 
 LeadBoxer does not only support custom events, but also [adding lead properties](lead-tracking-pixel.md#adding-properties-on-page-load)
 
-```
+```javascript
 <script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
 <script type="text/javascript">    
 	var map = new OTMap();    
@@ -231,7 +233,7 @@ LeadBoxer does not only support custom events, but also [adding lead properties]
 
 To measure a click on a link that downloads a file, you can add a small piece of javascript to track this download:
 
-```
+```javascript
 <!-- Load the LeadBoxer javascript before you define the custom variable -->
 <script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
 <script type="text/javascript">

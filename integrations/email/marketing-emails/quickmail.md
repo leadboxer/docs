@@ -55,7 +55,9 @@ Next, you will need to add the LeadBoxer email tracking pixel so that we can als
 
 You can add this email tracking pixel to the source of your email by clicking the 'img' feature in the editor
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/615ae258e5648623c88e130f/file-H8ZexUwQFD.png)Here is the link of the tracking pixel you need to paste in.&#x20;
+Here is the link of the tracking pixel you need to paste in.&#x20;
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/615ae258e5648623c88e130f/file-H8ZexUwQFD.png" alt=""><figcaption></figcaption></figure>
 
 **Tip**: Construct yours in a plain text before you start
 

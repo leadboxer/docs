@@ -1,4 +1,4 @@
-# Email Opens
+# Intro: Track Email Opens
 
 ### How to Track Email Opens or Reads
 
@@ -10,7 +10,7 @@ Our tracking pixel is a transparent image with a size of 1x1 pixel, (hence the w
 
 **AutoGenerate your email tracking pixel**
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5abf3f16042863794fbeca16/file-KxSr9Uz4pD.png)
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5abf3f16042863794fbeca16/file-KxSr9Uz4pD.png" alt=""><figcaption></figcaption></figure>
 
 1. Log into LeadBoxer as admin and go to the datasets overview.&#x20;
 2. Click the configuration icon next to the dataset/website you want to track and select email tracking pixel
@@ -21,9 +21,11 @@ Our tracking pixel is a transparent image with a size of 1x1 pixel, (hence the w
 
 . The tracking pixel should look something like this:&#x20;
 
-```
+{% code overflow="wrap" %}
+```html
 <img src="https://track.leadboxer.com/log?datasetId={{yourDatasetId}}&campaign={{YourCampaignName}}&email={{emailMergTag}}">
 ```
+{% endcode %}
 
 There are 3 values that need to be modified:&#x20;
 
@@ -74,7 +76,3 @@ Since we rely upon an image loading, we aren’t able to track recipients who do
 Gmail loads images via a proxy and cache. This means that using images to identify the recipient’s location and browser details won’t work. Since the images are cached, all subsequent opens won’t be trackable.
 
 People using alternative clients to access their Gmail accounts will bypass Google’s image proxy.
-
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
-
-Last updated on September 24, 2020

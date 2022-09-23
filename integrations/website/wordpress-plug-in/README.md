@@ -8,7 +8,7 @@ Simply add the plugin to your Wordpress installation and we will start tracking 
 
 ### Video Tutorial
 
-{% embed url="https://leadboxer.wistia.com/medias/p6z1uusvxo" %}
+{% embed url="https://leadboxer.wistia.com/medias/4nxakyv5sw" %}
 
 ### Installation
 
@@ -27,10 +27,13 @@ You can set this setting under Settings -> LeadBoxer
 
 ![Wordpress Online Lead Generation plugin screenshot](../../../.gitbook/assets/LeadBoxer-Wordpress-lead-generation-settings.png)
 
-You will need to enter your dataset ID as you registered it with LeadBoxer.\
-NOTE: just enter your dataset number do not enter "dataset="\
-So, for example, this is incorrect: "dataset=cd5717170a36ce6b02baf64c6deaf8c6"\
-Correct: "cd5717170a36ce6b02baf64c6deaf8c6"
+Then, enter your [dataset ID](../../../fundamentals/elements/datasets.md#where-can-i-find-my-dataset-id) as you registered it with LeadBoxer.
 
 ![Wordpress Online Lead Generation plugin screenshot-2](../../../.gitbook/assets/LeadBoxer-Wordpress-lead-generation-dataset.png)
+
+{% hint style="warning" %}
+NOTE: just enter your dataset ID do not add "dataset="\
+So, for example, this is incorrect: "dataset=123123123"\
+Correct: "123123123"
+{% endhint %}
 

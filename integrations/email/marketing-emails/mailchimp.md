@@ -1,4 +1,4 @@
-# Mailchimp Integration
+# Mailchimp
 
 **See all Mailchimp activity in LeadBoxer**
 
@@ -13,14 +13,16 @@ NOTE: Step 2 is VERY IMPORTANT as this will allow us to combine measurement of e
 Go to the Mailchimp integrations page in your LeadBoxer account, and click **New Integration**\
 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d0ccb8c2c7d3a2f29345cc6/file-fBEYsF1QmI.png)
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d0ccb8c2c7d3a2f29345cc6/file-fBEYsF1QmI.png" alt=""><figcaption></figcaption></figure>
 
 \
 You will then be redirected to Mailchimp where you will need to authorise access by providing your Mailchimp (admin) credentials.\
 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d0ccc4e0428632b7311983a/file-XtL75INPkk.png)\
+\
 
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d0ccc4e0428632b7311983a/file-XtL75INPkk.png" alt=""><figcaption></figcaption></figure>
 
 On successful authentication, you are automatically returned to the integrations page, where you need to select the dataset (website) that you want to connect to your MailChimp account.&#x20;
 
@@ -50,7 +52,9 @@ These parameters are called [merge tags](http://mailchimp.com/features/merge-tag
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5cfea9100428632218e3ed15/file-a0Jz6KDL8s.png)
 
-(1) Once you have edited the links, (2) save your newsletter, and (3) test the links by hovering or clicking on them in the preview (enable merge tags in your preview). You should see the user ID and other fields appended to the url on your landing page: ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5cfea2682c7d3a3837135620/file-v9HVLNscDx.png)
+(1) Once you have edited the links, (2) save your newsletter, and (3) test the links by hovering or clicking on them in the preview (enable merge tags in your preview). You should see the user ID and other fields appended to the url on your landing page:&#x20;
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5cfea2682c7d3a3837135620/file-v9HVLNscDx.png" alt=""><figcaption></figcaption></figure>
 
 **You're Ready to Roll!**
 

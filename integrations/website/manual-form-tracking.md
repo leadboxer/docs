@@ -28,7 +28,7 @@ Here are a few examples, using jQuery and pure javascript.
 
 You can do this by adding the following to the bottom of the sendTextForm function
 
-```
+```javascript
 setTimeout(function() {
   document.myform.submit();  // replace myform with the <form> name 
 },2000);
@@ -56,7 +56,3 @@ setTimeout(() => $(".profile-form").submit(), 5000);
 Working example
 
 For a working example on how to submit form fields go [here](http://api.leadboxer.com/api/examples/forms/index.html)
-
-Still need help? [Contact Us](broken-reference)&#x20;
-
-Last updated on October 27, 2020

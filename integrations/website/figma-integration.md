@@ -11,7 +11,7 @@ Steps:
 3.  Name your tag as LeadBoxer pixel or LeadPixel and select ‘custom HTML in the Tag Configuration section
 
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf1ec12c7d3a04dd5b8a2a/file-XMMheyuVPu.png" alt=""><figcaption></figcaption></figure>
-4.  Cut & paste your Lead Pixel (grab this from your LeadBoxer email or welcome screen)
+4.  Cut & paste your Tracking Pixel (grab this from your LeadBoxer welcome screen or find it on the dataset overview, right-click on the settings icon)
 
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf20bd2c7d3a04dd5b8a3d/file-7okdOvbb7b.png" alt=""><figcaption></figcaption></figure>
 5.  Next you need to select or create your Trigger. We recommend to set it on all pageviews.
