@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LeadBoxer Documentation](README.md)
+* [Welcome](README.md)
 * [🛠 Getting Started](getting-started.md)
 
 ## 🏗 Fundamentals
@@ -96,7 +96,7 @@
 
 ## 🦮 Guides
 
-* [💎 Creating your first Segment](guides/creating-your-first-segment.md)
+* [Creating your first Segment](guides/creating-your-first-segment.md)
 * [Creating your first LeadBoard](guides/creating-your-first-leadboard.md)
 * [How to add a user](guides/how-to-add-a-user.md)
 * [How to upload a List](guides/how-to-upload-a-list.md)
@@ -121,3 +121,8 @@
 * [LeadBoxer reseller best practices](extras/leadboxer-reseller-best-practices.md)
 * [How to contact leads](extras/how-to-contact-leads.md)
 * [LeadBoxer cookies](extras/leadboxer-cookies.md)
+
+***
+
+* [Terms of Service](https://www.leadboxer.com/terms-of-agreement)
+* [Privacy Policy](https://www.leadboxer.com/privacy)
