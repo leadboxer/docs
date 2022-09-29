@@ -12,15 +12,22 @@ In our case, we have applied the concept so that each 'card' on your LeadBoard r
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption><p>The LeadBoxer LeadBoard</p></figcaption></figure>
 
-The final step in your LeadBoard should be the step in your workflow where you offer or handover the Lead to Sales, and basically saying that you think this Lead is ready to be contacted, ready to be closed, ready to buy, or basically anything.
+#### Now here are the 2 things that make it super powerful:
+
+1. In the first column, all the leads that need to be qualified will be added automatically.
+2. The last column, or final step in your workflow, can trigger a automated automation &#x20;
+
+In most cases, the first column should contain only leads that are automatically pre-qualified with some sort of filter (eg country or Industry). The final column is where you offer or handover the Lead to Sales, and basically saying that you think this Lead is ready to be contacted, ready to be closed, ready to buy, or basically anything.
 
 ## Getting started
 
 If you arrive at the LeadBoard for the first time, you get asked to create your first LeadBoard.
 
 {% hint style="info" %}
-1. Before you continue, we recommend you make sure you have workflow defined: eg a marketing funnel, lead generation or lead qualification workflow.&#x20;
-2. Also you first need to create a Segment that contains the Leads you want to be imported into your boards.&#x20;
+Before you continue, we recommend you&#x20;
+
+1. make sure you have an internal workflow defined: eg a marketing funnel, lead generation or lead qualification workflow.&#x20;
+2. Also you first need to create a [Segment](elements/segments.md) that contains the Leads you want to be automatically imported into your board.
 {% endhint %}
 
 To create a LeadBoard, you click on the 'Create LeadBoard' button and follow these 3 steps to complete:
@@ -40,37 +47,55 @@ Use below guide to start using the LeadBoard feature
 Once you have Leads showing up in your default or entry stage, the high-level goal is that you  move as much cards from left to right, if they are allowed to be moved according to your workflow.&#x20;
 
 {% hint style="info" %}
-We recommend that all movement of cards should be based on your defined marketing or Lead Gen workflow. If you have not defined this yet, we recommend you create one first.&#x20;
+We recommend that all movement of cards should be based on your internally defined marketing or Lead Gen workflow. If you have not defined this yet, we recommend you create one first.&#x20;
 {% endhint %}
 
-There are many different ways you can use the LeadBoard, so to give you some inspiration here are 2 use-cases on how we use the LeadBoard ourselves.
+There are many different ways you can use the LeadBoard, so to give you some inspiration, here are use-cases on how we use the LeadBoard ourselves.
 
-#### Use case Example1: Trial Qualification workflow
+#### Use case Example 1: Trial Qualification workflow
 
-Many visitors to our site sign up for a trial account, which is great. However, there are many visitors and trial accounts that for one reason or another are not qualified
+Many visitors to our site sign up for a trial account, which is great. However, there are many visitors and trial accounts that for one reason or another we think are not qualified and we do not want these to 'pollute' our CRM. To avoid this we use the LeadBoard.
 
-To see if a lead is qualified to go to the next step, you can analyze the data collected, which you can see by clicking on an individual Leadcard and open the so called Account Pannel.
+* First we have created a Segment called 'Trials-to-qualify' that already filters out certain trials , for example very small organisations, as we know they usually do not have the budget to purchase LeadBoxer.
+* We have setup a Board called 'Trials' and auto import the leads from the 'Trials-to-qualify' Segment so they auto appear in the first column.
+* Every morning, one of us has a look at this LeadBoard and checks out the new trials.
+* In our case, we have a few steps in between, before we consider them qualified and will put some sales effort in.
+* To see if a lead is qualified to go to the next step, we analyze the data collected, which we can see by clicking on an individual LeadCard and see all the details of the organisation, and all the behaviour of this individual lead.
+* Now based on their behaviour, eg trial activation, number of logins, users added, industry, size, etc these leads can go through a couple of qualification stages we have defined internally.&#x20;
+* Once we move a lead card in the final stage, they will automatically go into a second Segment called 'Qualified Trials"&#x20;
+* This Segment is connected to our CRM (Pipedrive) and will push these qualified leads to our CRM so that our Sales team can do their magic.
 
-###
+
+
+
 
 ### Manually adding Leads to the Leadboard
 
-You manually add leads to the board by providing the domain name of the organisation or company. Our enrichment engine will try and find the associated firmographic details and once accepted the lead will show up in the default or entry stage.
+You manually add leads to the board by providing the domain name (website) of the organisation or company. Our enrichment engine will try and find the associated firmographic details and once accepted the card will show up in the default or entry stage.
+
+We will also search through your data and connect any leads or contacts that are associated to this domain name.
 
 ## The Account Panel
 
-This Panel shows up when you click on a Leadcard in your LeadBoard and provides you with an overview of all details from a company or organisation we call [Accounts](projects.md#what-are-accounts) and consist of 2 sections:
+This Panel shows up when you click on a Leadcard in your LeadBoard and provides you with an overview of all details from a company or organisation we call [Accounts](projects.md#what-are-accounts) and consist of various sections:
 
-1. The Account details
-2. The Lead details
+1. Account details
+2. Notes
+3. Leads
+
+
 
 ### Account details
 
 The Account details section on the Account Pannel shows the (enriched) company or organization information that is available based on the domain-name of the organisation.
 
-### Lead details
+### Leads
 
-The Lead details section shows a list of individual leads (or contacts) with some lead details such as marketing channel, sessions, events, etc. You can click on any Lead to expand this lead. this will reveal the last 5 session and their complete behaviour or clickstream. You can continue clicking to reveal 5 more sessions.&#x20;
+The Leads details section shows a list of individual leads (or contacts) with some lead details such as marketing channel, sessions, events, etc.&#x20;
+
+You can click on any Lead to expand this lead and this will reveal the last 5 sessions and their complete behaviour or clickstream. You can continue clicking to reveal 5 more sessions.&#x20;
+
+If there is only one lead in the account we will expand the lead automatically.
 
 #### &#x20;The Behavioural stream&#x20;
 
@@ -83,8 +108,11 @@ Sessions are usually a group of events. and there are several kind of events tha
 * exit&#x20;
 * email open
 * email click
+* card update / status
 
+Some events can contain meta data such as marketing tags (utm).
 
+We will also show when a lead was added to the leadboard.
 
 #### Background Lead Operations
 
