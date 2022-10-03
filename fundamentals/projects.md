@@ -13,7 +13,7 @@ There are also many subsets of Leads such as Marketing Qualified Leads (MQL), Sa
 ### Our definition of a Lead
 
 {% hint style="success" %}
-In LeadBoxer, we have defined **Leads** quite broadly as any <mark style="color:orange;">**Individual**</mark> that shows or has shown any interest in our product or service AND is Identifiable as either an (anonymous) employee of a company or as a know contact.
+In LeadBoxer, we have defined **Leads** quite broadly as any <mark style="color:orange;">**Individual**</mark> that shows or has shown any interest in your product or service AND is Identifiable as either an (anonymous) employee of a company or as a know contact.
 {% endhint %}
 
 ### What are Accounts
