@@ -1,4 +1,4 @@
-# Getting Started
+# 🛠 Getting Started
 
 In this document you will find the essential steps needed to get the most out of your leadBoxer (trial) account. Not all steps are required, however we encourage you to complete as many steps as possible.
 

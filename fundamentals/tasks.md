@@ -75,6 +75,30 @@ You manually add leads to the board by providing the domain name (website) of th
 
 We will also search through your data and connect any leads or contacts that are associated to this domain name.
 
+## LeadBoard cards
+
+If you have setup and configured your LeadBoard, your LeadBoard cards will appear on the board.
+
+
+
+<figure><img src="../.gitbook/assets/LeadBoard_card.png" alt=""><figcaption></figcaption></figure>
+
+* Each cards represents an Account or Organization.&#x20;
+* Cards are uniquely grouped based on a domain-name and/or Organization Name.
+* Cards are updated in the background.&#x20;
+* Cards contain:
+  * Company Logo
+  * Organization Domain or Name
+  * The number of Contacts (Leads with email known)
+  * The number of Visitors (Anonymous Website visitors from this organization)
+  * All the different Tags that are applied to these leads
+  * The number of occurrences of each tag
+  * The last activity date-time of any of the leads in this account
+  * the last modification of the account card, indicating when the card was&#x20;
+    * Initially Created
+    * Moved between stages manually (not within same stage)
+    * Moved between stages when deleting a stage
+
 ## The Account Panel
 
 This Panel shows up when you click on a Leadcard in your LeadBoard and provides you with an overview of all details from a company or organisation we call [Accounts](projects.md#what-are-accounts) and consist of various sections:

@@ -15,6 +15,11 @@ There are 4 items we need to create a LeadBoard.
 * Provide a name for your LeadBoard. We recommend a short and descriptive name, so that all users understand what the goal of the board is. eg. Demo signups, LinkedIn campaign leads, EU Leads, etc.
 * Select the Dataset / site.
 * Select the [Segment](https://app.gitbook.com/o/-M\_uFoDObQpQ4g4wQONe/s/-M\_u92JFMboVvSv\_dif4/fundamentals/elements/task-lists) from which the matched leads will be automatically imported in this LeadBoard.
+
+{% hint style="danger" %}
+We strongly recommend you use or create a new separate Segment and not use the default 'Top Leads' Segment as this will auto import ALL identified leads and would quickly pollute your board and make it unusable.
+{% endhint %}
+
 * Set the visibility of this LeadBoard to be visible to only you or anyone that has access to this dataset.
 * Click Next
 
