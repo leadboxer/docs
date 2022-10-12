@@ -98,6 +98,7 @@ If you have setup and configured your LeadBoard, your LeadBoard cards will appea
     * Initially Created
     * Moved between stages manually (not within same stage)
     * Moved between stages when deleting a stage
+    * When a new note is added to the Account card
 
 ## The Account Panel
 
