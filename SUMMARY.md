@@ -12,6 +12,7 @@
 * [Elements](fundamentals/elements/README.md)
   * [Filters](fundamentals/elements/filters.md)
   * [Segments](fundamentals/elements/segments.md)
+  * [Workflow Automation](fundamentals/elements/workflow-automation.md)
   * [Notifications](fundamentals/elements/notifications.md)
   * [Users](fundamentals/elements/users.md)
   * [Datasets](fundamentals/elements/datasets.md)
