@@ -36,9 +36,9 @@ this appends the email address to the url of the landing page. You can do this f
 ?email={{ email }}&firstName={{ firstName }}&lastName={{ lastName }}
 ```
 
-Save your email, and test the links by clicking on them in the final draft, you should see the email address and other fields appended to the url on your landing page. The following image shows what you should see appended to the url of your landing page:
+Save your email, and test the links by clicking on them in the final draft, you should see the email address and other fields appended to the url on your landing page. The following image shows what you should see appended to the url of your landing page
 
-[![Mailchimp-LeadBoxer-landing-url](https://www.leadboxer.com/wp-content/uploads/2015/02/Mailchimp-LeadBoxer-landing-url.png)](https://www.leadboxer.com/wp-content/uploads/2015/02/Mailchimp-LeadBoxer-landing-url.png)
+<figure><img src="../../../.gitbook/assets/Mailchimp-LeadBoxer-landing-url.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2
 

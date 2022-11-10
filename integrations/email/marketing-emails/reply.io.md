@@ -1,4 +1,4 @@
-# Reply.io email tracking
+# Reply.io
 
 This tutorial tells you how to get setup for LeadBoxer email tracking of recipients originating from your Reply.io emails.
 
@@ -44,9 +44,11 @@ Next, you will need to add the LeadBoxer email tracking pixel so that we can als
 
 You will need to add this email tracking pixel to the source of your email or templates, place it at the bottom of the source.
 
-```
+{% code overflow="wrap" %}
+```html
 <img src="https://track.leadboxer.com/log?datasetId={{yourDatasetId}}&campaign={{YourCampaignName}}&email={Email}&firstName={firstName}&lastName={lastName}&companyName={company}">
 ```
+{% endcode %}
 
 ![](https://downloads.intercomcdn.com/i/o/29561275/7217a68d6af946526de3eac5/Material\_2016-08-26\_06-47-11.png)
 

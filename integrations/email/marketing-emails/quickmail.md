@@ -34,16 +34,20 @@ This appends the email address to the url of the landing page and we will use th
 
 **TIP:** You can do this for all fields available in QuickMail eg:
 
-```
+{% code overflow="wrap" %}
+```html
 ?email={{prospect.email}}&firstName={{prospect.first_name}}&lastName={{prospect.last_name}}&companyName={{company.name}}
 ```
+{% endcode %}
 
 **Tip 2**\
 add UTM tags to get these clicks also identified in your Analytics solution like Google Analytics
 
+{% code overflow="wrap" %}
 ```
 ?email={{prospect.email}}&firstName={{prospect.first_name}}&lastName={{prospect.last_name}}&companyName={{company.name}&utm_medium=email&utm_source=quickmail&utm_campaign=email1
 ```
+{% endcode %}
 
 Save your email, and test the links by hovering on them in the preview version, you should see the email address and other fields appended to the url on your landing page. The following image shows what you should see appended to the url of your landing page:
 
@@ -61,9 +65,11 @@ Here is the link of the tracking pixel you need to paste in.&#x20;
 
 **Tip**: Construct yours in a plain text before you start
 
+{% code overflow="wrap" %}
 ```
 https://track.leadboxer.com/log?datasetId=yourDatasetId&campaign=YourCampaignName&email={{prospect.email}}
 ```
+{% endcode %}
 
 Do not forget to replace the  **yourDatasetId** and **YourCampaignName** with your own values.
 
