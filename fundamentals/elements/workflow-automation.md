@@ -44,4 +44,6 @@ The most simple example is to tag a web visitor if they visit a certain page:
 
 
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_Workflow_automation_step_1 (1).png" alt=""><figcaption></figcaption></figure>
+{% content-ref url="../../guides/how-to-create-a-workflow-automation.md" %}
+[how-to-create-a-workflow-automation.md](../../guides/how-to-create-a-workflow-automation.md)
+{% endcontent-ref %}
