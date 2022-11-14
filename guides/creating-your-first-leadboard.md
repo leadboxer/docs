@@ -10,7 +10,7 @@ To create a LeadBoard, you click on the 'Create LeadBoard' button and follow the
 
 There are 4 items we need to create a LeadBoard.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1).png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
 
 * Provide a name for your LeadBoard. We recommend a short and descriptive name, so that all users understand what the goal of the board is. eg. Demo signups, LinkedIn campaign leads, EU Leads, etc.
 * Select the Dataset / site.
@@ -40,7 +40,7 @@ We recommend to to start simple, with a minimum of 3 stages. You can always revi
 
 Now that you have created your LeadBoard and defined the stages, you can start managing your leads right away by importing your existing LeadBoxer leads into your new LeadBoard.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption><p>Step 3 of Create new LeadBoard wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (4).png" alt=""><figcaption><p>Step 3 of Create new LeadBoard wizard</p></figcaption></figure>
 
 You can choose data from today, last 7 days or last 14 days.
 

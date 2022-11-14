@@ -1,13 +1,47 @@
 # Workflow Automation
 
-At LeadBoxer we don't like repetitive tasks and aims to make things as easy as possible for you, For that reason we added the Workflow Automation section.
+At LeadBoxer we don't like to do a lot of repetitive tasks and we assume you don't like these either. For that reason we have created Workflow Automations.
 
-### What is Workflow Automation
+### What are Workflow Automations?
 
-Use the Workflow Automation section create all kinds of (business) logic or rules to automate simple and complex tasks. This will allow you to implement the logic of your desired workflow to be executed by LeadBoxer.
+Use Workflow Automations to create all kinds of (business) logic or rules to automate simple or even complex tasks. They will enable you to implement logic so that you can build your desired Lead Generation Workflow.
 
-### Examples
+{% hint style="success" %}
+A basic Workflow consist of a Trigger (rule) and an Action
+{% endhint %}
 
-The most simple example is to tag a  webvisitor if they visit a certain page.
+But Workflows can also contain multiple triggers with multiple Actions if needed.
 
-eg, tag a webvisitor as <mark style="color:red;background-color:red;">job-seeker</mark> if the visited the /jobs.html page
+### Triggers
+
+A trigger is basically 1 or more rule(s) that must be met, in order to 'trigger' the start of an automation.
+
+Example Trigger: If a certain page (URL) is visited.
+
+#### Available Triggers:
+
+* Event URL (pageview, email open, custom event)
+* Lead Property created or updated <mark style="color:green;">(coming soon)</mark>
+
+### Actions
+
+A action is basically a task or 'thing' that needs to happen. There are many 'things' we want or need to automate so the list of actions will grow over time as LeadBoxer adds more integrations and features.
+
+#### Available Actions:
+
+* Set or update a Lead tag(s)
+* Webhook push <mark style="color:green;">(coming soon)</mark>
+* Assign owner <mark style="color:green;">(coming soon)</mark>
+* Send Email notification <mark style="color:green;">(coming soon)</mark>
+
+### Real life Examples
+
+The most simple example is to tag a web visitor if they visit a certain page:
+
+* Tag a web visitor as <mark style="color:red;background-color:red;">Job-seeker</mark> if they visit the /jobs.html page
+* Tag a web visitor as <mark style="color:blue;background-color:blue;">Customer</mark> if they log into a portal or app
+* Tag a web visitor as <mark style="color:green;background-color:green;">Lead</mark> if they download a white-paper
+
+
+
+<figure><img src="../../.gitbook/assets/LeadBoxer_Workflow_automation_step_1 (1).png" alt=""><figcaption></figcaption></figure>

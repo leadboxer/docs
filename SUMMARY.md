@@ -107,6 +107,7 @@
 * [How to set your Leadscore](guides/how-to-set-your-leadscore.md)
 * [How to hide leads, customers, team memebers, etc](guides/how-to-hide-leads-customers-team-memebers-etc.md)
 * [Filter Leads from ad campaigns](guides/filter-leads-from-ad-campaigns.md)
+* [How to create a Workflow Automation](guides/how-to-create-a-workflow-automation.md)
 * [How to mask IP addresses](guides/how-to-mask-ip-addresses.md)
 
 ## 🏆 Solutions
