@@ -1,10 +1,10 @@
 # Workflow Automation
 
-At LeadBoxer we don't like to do a lot of repetitive tasks and we assume you don't like these either. For that reason we have created Workflow Automations.
+At LeadBoxer we don't like to do a lot of repetitive tasks and we assume the same for you. For that reason we have created Workflow Automations.
 
 ### What are Workflow Automations?
 
-Use Workflow Automations to create all kinds of (business) logic or rules to automate simple or even complex tasks. They will enable you to implement logic so that you can build your desired Lead Generation Workflow.
+Use Workflow Automations to create all kinds of (business) logic or rules to automate simple or even complex tasks. They will enable you to implement logic so that you can build your desired Lead Generation Workflow. An example is tagging visitors who fulfil specific criteria.
 
 {% hint style="success" %}
 A basic Workflow consist of a Trigger (rule) and an Action
@@ -25,7 +25,7 @@ Example Trigger: If a certain page (URL) is visited.
 
 ### Actions
 
-A action is basically a task or 'thing' that needs to happen. There are many 'things' we want or need to automate so the list of actions will grow over time as LeadBoxer adds more integrations and features.
+A action is basically a task or something that needs to happen. There are many 'things' we want or need to automate so the list of actions will grow over time as LeadBoxer adds more integrations and features.
 
 #### Available Actions:
 
