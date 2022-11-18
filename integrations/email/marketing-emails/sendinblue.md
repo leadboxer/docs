@@ -1,13 +1,13 @@
 # Sendinblue
 
-This tutorial tells you how to use leadBoxer email tracking for individuals originating from your Sendiblue emails.
+This tutorial tells you how to use leadBoxer email tracking for individuals originating from your Sendinblue emails.
 
 Leadboxer will show you the email and website behaviour of the person who opened and clicked through the links in your email, simply by adding a special link in the emails sent and adding code to the landing page.
 
 Technical requirements:
 
 1. LeadBoxer account
-2. Sendiblue account
+2. Sendinblue account
 
 Steps:
 
@@ -20,7 +20,7 @@ Assuming you fulfilled both requirements, let's proceed to step 1.
 
 Capturing data from your email readers involves a small change to your normal workflow.
 
-Create your emails like you always do, and modify all the links that go to the pages of your website. If our tracking code is on these pages, it will automatically capture the information being sent from the Sendiblue email once they click a link.
+Create your emails like you always do, and modify all the links that go to the pages of your website. If our tracking code is on these pages, it will automatically capture the information being sent from the Sendinblue email once they click a link.
 
 When your email is ready, add dynamic fields to your links as parameters.
 
