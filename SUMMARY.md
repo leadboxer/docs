@@ -68,6 +68,7 @@
     * [Copernica](integrations/email/marketing-emails/copernica.md)
     * [Intercom](integrations/email/marketing-emails/intercom-email-tracking.md)
     * [Mailup](integrations/email/marketing-emails/mailup.md)
+    * [Sendinblue](integrations/email/marketing-emails/sendinblue.md)
     * [Poppulo](integrations/email/marketing-emails/poppulo.md)
     * [Reply.io](integrations/email/marketing-emails/reply.io.md)
     * [Spotler](integrations/email/marketing-emails/spotler.md)
