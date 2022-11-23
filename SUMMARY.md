@@ -120,7 +120,6 @@
 ## Extras
 
 * [Changelog](extras/changelog.md)
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
 * [Email tracking info](extras/email-tracking-info.md)
 * [linkedIn industries](extras/linkedin-industries.md)
 * [LeadBoxer reseller best practices](extras/leadboxer-reseller-best-practices.md)
