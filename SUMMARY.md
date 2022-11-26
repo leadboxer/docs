@@ -80,6 +80,7 @@
     * [Outreach](integrations/email/marketing-emails/outreach.md)
     * [Mail Merge (MS Word)](integrations/email/marketing-emails/mail-merge-ms-word.md)
 * [Other](integrations/for-support/README.md)
+  * [Active Campaign](integrations/other/active-campaign.md)
   * [Hubspot](integrations/for-support/hubspot.md)
   * [Marketo](integrations/for-support/marketo.md)
   * [LinkedIn](integrations/for-support/linkedin.md)
