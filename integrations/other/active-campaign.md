@@ -1,6 +1,6 @@
 # Active Campaign
 
-This integration can be used to push LeadBoxer data to Active Campaign.
+This integration can be used to push LeadBoxer data into Active Campaign.
 
 The main functionality is to enrich and update your Active Campaign Contacts and Accounts with data available in LeadBoxer.
 
@@ -22,18 +22,18 @@ For a technical overview of this integration, see [here](active-campaign.md#tech
 
 #### Preparations:&#x20;
 
-* You need to be both an admin in LeadBoxer as in Active Campaign
-* Make sure you have created a [Segment ](../../fundamentals/elements/segments.md)that contain the contacts you want to sync to Active Campaign
+* You need to be both an admin in both LeadBoxer and Active Campaign
+* Make sure you have created a [Segment ](../../fundamentals/elements/segments.md)that contains the contacts you want to sync to Active Campaign
 
 #### Step 1.
 
 On the integrations page (in the new Interface), go to the Active Campaign option and click New Integration
 
-Provide the basic details such as:
+Provide basic details such as:
 
-* The name of the integration. This is particular useful if you plan to add multiple integrations
+* The name of the integration. This is very useful if you plan to add multiple integrations
 * The subdomain value of your AC account
-* the API key, you can find this under Settings > developer
+* the API key; you can find this under Settings > developer
 * The [dataset](../../fundamentals/elements/datasets.md) or site in LeadBoxer you want to integrate with &#x20;
 * the [Segment](../../fundamentals/elements/segments.md) that you want to use as source.
 
@@ -47,22 +47,22 @@ Define who will be the 'owner' of the newly created Contacts and Accounts in Act
 
 #### Step 3.
 
-Select if you would like to import the last hours data or not.
+Select whether to import the last hour's data or not.
 
 <figure><img src="../../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
 
-Thats it! Once finished we will start updating every hour, on the hour.
+That's it! Once finished we will start updating every hour, on the hour.
 
 ### Technical overview
 
 #### The data flow / logic
 
-* Every hour we will check for a specific [segment](../../fundamentals/elements/segments.md) if there are any new leads or contacts and /or activity.
-* Once we find new data, we will create or update existing contacts and linked accounts (organizations)
+* Every hour we will check for a specific [segment](../../fundamentals/elements/segments.md) - if there are any new leads or contacts and /or activity.
+* When we find new data, we will create or update existing contacts and linked accounts (organizations)
 * Both Contacts and Accounts will be enriched with pre-defined fields, if they have a value present in LeadBoxer
 * For contacts, a 'LeadBoxer Events' widget will be added, which will include the events or pageviews measured by LeadBoxer
 * A new tag will be created and added to each Lead or Account that is created or updated by the integration
-* A new List will be created called 'LeadBoxer'
+* A new List called 'LeadBoxer' will be created&#x20;
 
 
 
