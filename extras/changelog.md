@@ -6,6 +6,26 @@ description: >-
 
 # Changelog
 
+## 30-11-2022
+
+### New Enrichment Engine
+
+We enabled our new enrichment Engine based on domain-names for all accounts. Meaning all new leads and contacts that have either an email or domain-name will be enriched using our new Engine.&#x20;
+
+The New engine is our new 'state-of-the-art' API based endpoint. We will release this endpoint to the public in 2023.
+
+### Lead Details & UI improvements
+
+As you may have noticed, many of the new features we have added are based on a new User Interface library with modern design patterns that we are transitioning to.&#x20;
+
+We now have added a new Lead Details View or drill-down, and we are also pleased to announce that we have added animations!&#x20;
+
+To see them in action, go to your LeadBoard and click on one of your cards, and open an associated lead.&#x20;
+
+##
+
+##
+
 ## 22-11-2022
 
 ### Bug-fixes and small improvements&#x20;
