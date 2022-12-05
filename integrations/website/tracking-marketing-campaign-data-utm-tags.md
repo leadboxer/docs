@@ -42,12 +42,13 @@ You can learn more about  [how to tag your links](https://support.google.com/ana
 
 Note that UTM parameters are case sensitive, which means if you use  _abc_ for your utm\_campaign tags on some links and _ABC_ for your utm\_campaign tags on other links, they will show up as separate campaigns in your Google Analytics. Also note that UTM parameters will be shown in the browser’s address bar, so be sure you’re not using any tags that you would want to remain unseen.
 
-**Additional reading:**\
-[http://www.degordian.com/blog/5-cool-examples-of-utm-tracking ](https://www.degordian.com/blog/5-cool-examples-of-utm-tracking/)\
-[http://blog.rafflecopter.com/2014/04/utm-naming-conventions](http://blog.rafflecopter.com/2014/04/utm-naming-conventions/)
+**Additional reading:**
+
+
+
+{% embed url="https://degordian.com/blog/5-cool-examples-of-utm-tracking/" %}
+
+{% embed url="https://web.utm.io/blog/utm-naming-conventions-guide/" %}
 
 [Start a free trial](https://www.leadboxer.com/start/)
 
-Still need help? [Contact Us](broken-reference)
-
-Last updated on June 3, 2022

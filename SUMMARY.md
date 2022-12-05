@@ -40,6 +40,7 @@
   * [Track meta data using JSON-LD](integrations/website/track-meta-data-using-json-ld.md)
   * [Cross device tracking](integrations/website/cross-device-tracking.md)
   * [Tracking marketing campaign data (UTM tags)](integrations/website/tracking-marketing-campaign-data-utm-tags.md)
+  * [UTM tags for Google Adwords](integrations/website/utm-tags-for-google-adwords.md)
   * [How to track user logins](integrations/website/how-to-track-user-logins.md)
   * [Automatic form tracking](integrations/website/automatic-form-tracking.md)
   * [Manual form tracking](integrations/website/manual-form-tracking.md)
