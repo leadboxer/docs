@@ -6,6 +6,16 @@ description: >-
 
 # Changelog
 
+## 19-12-2022
+
+This week so far, we fixed an issue with links to LinkedIn not working properly in some cases on the account details panel and actually link to the homepage of an organization if we know it.&#x20;
+
+## 15-12-2022
+
+We added the option to manually create a Card on the LeadBoard, straight from from the Leads view. That sounds complicated but it is not really, just have a look at this screenshot and hopefully it wil make sense:
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+
 ## 30-11-2022
 
 ### New Enrichment Engine

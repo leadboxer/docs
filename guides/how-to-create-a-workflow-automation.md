@@ -15,7 +15,7 @@ To Add your first Workflow, log into LeadBoxer as admin and find the Workflow Au
 
 4.  Define you action(s). What do you want to happen?
 
-    <figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/LeadBoxer_App (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  Review your Workflow automation and save.
