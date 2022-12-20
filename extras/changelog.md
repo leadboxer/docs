@@ -16,9 +16,19 @@ We added the option to manually create a Card on the LeadBoard, straight from fr
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 
-## 30-11-2022
+### 07-12-2022
 
-### New Enrichment Engine
+## New Integration: Active Campaign
+
+We are happy to announce the latest native integration with Marketing Automation and CRM software Active Campaign.&#x20;
+
+You can see the complete details of the integration [here](../integrations/other/active-campaign.md)
+
+
+
+### 30-11-2022
+
+## New Enrichment Engine
 
 We enabled our new enrichment Engine based on domain-names for all accounts. Meaning all new leads and contacts that have either an email or domain-name will be enriched using our new Engine.&#x20;
 
