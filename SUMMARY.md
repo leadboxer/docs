@@ -33,7 +33,7 @@
   * [Lead Tracking Pixel](integrations/website/lead-tracking-pixel.md)
   * [WordPress plug-in](integrations/website/wordpress-plug-in/README.md)
     * [track my WordPress user logins?](integrations/website/wordpress-plug-in/track-my-wordpress-user-logins.md)
-  * [Google Tag Manager (GTM)](integrations/website/figma-integration.md)
+  * [Google Tag Manager (GTM)](integrations/website/google-tag-manager-gtm.md)
   * [Drupal module](integrations/website/drupal-module.md)
   * [Gravity Form Tracking](integrations/website/gravity-form-tracking.md)
   * [Change website content based on behaviour](integrations/website/change-website-content-based-on-behaviour.md)

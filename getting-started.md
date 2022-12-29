@@ -16,7 +16,7 @@ Use any of the following plugins or tutorials to get started:&#x20;
 
 * [Wordpress](integrations/website/wordpress-plug-in/)
 * [Drupal](integrations/website/drupal-module.md)
-* [Google Tag Manager](integrations/website/figma-integration.md)
+* [Google Tag Manager](integrations/website/google-tag-manager-gtm.md)
 
 If you do not use any of the above solutions, simply paste your pixel code into the source code of your website just before the end tag.
 
