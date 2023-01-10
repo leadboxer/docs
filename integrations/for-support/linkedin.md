@@ -39,17 +39,19 @@ See option 2. (above) \
 * Individuals **CAN** be identified on your website
 * Companies can be identified by IP address
 
-### Get your Audiences from LeadBoxer
+
+
+## Get your Audiences from LeadBoxer
 
 Selecting your audience is an important part of setting up your LinkedIn ad campaigns.&#x20;
 
 There are many options to select your target audience and it can be quite overwhelming to find the correct settings.
 
-Some time ago, LinkedIn introduced the option to [upload a list of companies or persons](https://www.linkedin.com/help/lms/answer/73938) to target or to find lookalikes.
+Some time ago, LinkedIn introduced the option to [upload a list of companies or persons](https://business.linkedin.com/marketing-solutions/ad-targeting/matched-audiences) to target or to find lookalikes.
 
 You can now use LeadBoxer to create these lists. See this tutorial / documentation for more details:
 
-[LinkedIn Matched Audiences export](https://docs.leadboxer.com/article/186-linkedin-matched-audiences-export)
+[LinkedIn Matched Audiences export](../../fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
 
 #### Notes about your landing pages
 

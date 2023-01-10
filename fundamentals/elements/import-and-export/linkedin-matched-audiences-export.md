@@ -2,13 +2,17 @@
 
 LeadBoxer enables you to easily export your identified companies and/or contacts to a CSV file that can be uploaded into the LinkedIn Matched Audiences feature.
 
+See this page for what [LinkedIn Matched Audiences](https://business.linkedin.com/marketing-solutions/ad-targeting/matched-audiences) is
+
+And here is their [documentation](https://www.linkedin.com/help/lms/answer/a420552)
+
 This is especially useful if you want to (re)target the companies visiting your site or the most active contacts from your existing marketing audience, and have LinkedIn find lookalikes
 
 To get going, please follow these steps:
 
 #### 1. Choose to export either contacts of companies.
 
-For contacts export, you start with the Leads view, For companies export you start with the Accounts view
+For contacts export, you start with the Leads view, For companies export you start with the (grouped) Accounts view
 
 #### 2. Apply filters&#x20;
 
@@ -60,8 +64,3 @@ As with the rest of LinkedIn’s new targeting options, the minimum audience siz
 
 Mistakes in list uploads live in the account forever because there’s no list deletion or management of any kind.
 
-Source: [Martech.org](https://martech.org/linkedins-new-matched-audiences-feature-just-blew-facebook-custom-audiences-water-b2b/)
-
-Still need help? [Contact Us](broken-reference)
-
-Last updated on November 11, 2021
