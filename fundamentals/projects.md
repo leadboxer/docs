@@ -1,8 +1,16 @@
----
-description: What are Leads & Accounts and how are they processed in LeadBoxer
----
-
 # Leads & Accounts
+
+## The main page of LeadBoxer
+
+Once you login, you will arrive on a page called Leads & Accounts. This page /screen / report / view or whatever you would like to call it is the beating heart of LeadBoxer.&#x20;
+
+Here you will be able to see all your Leads and Accounts (hence the name) to apply filters, create segments, import, export data, hide, remove, group, merge and many other operational tasks.&#x20;
+
+It is also the place to research and drill down into your data to find opportunities or other pieces of information you were not aware of.
+
+<figure><img src="../.gitbook/assets/LeadBoxer-leads-accounts-clean (1).png" alt=""><figcaption></figcaption></figure>
+
+## Leads & Accounts: how are they processed in LeadBoxer
 
 ### What are Leads
 
