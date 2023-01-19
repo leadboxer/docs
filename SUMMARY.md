@@ -9,6 +9,7 @@
   * [Lead card: Complete lead details in one page](fundamentals/leads-and-accounts/lead-card-complete-lead-details-in-one-page.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Dashboard](fundamentals/dashboard.md)
+* [Definitions](fundamentals/definitions.md)
 * [Elements](fundamentals/elements/README.md)
   * [Filters](fundamentals/elements/filters.md)
   * [Segments](fundamentals/elements/segments.md)
