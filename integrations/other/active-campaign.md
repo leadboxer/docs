@@ -43,13 +43,13 @@ Provide basic details such as:
 
 Define who will be the 'owner' of the newly created Contacts and Accounts in Active Campaign.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3.
 
 Select whether to import the last hour's data or not.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 That's it! Once finished we will start updating every hour, on the hour.
 

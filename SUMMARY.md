@@ -25,7 +25,7 @@
   * [Import & Export](fundamentals/elements/import-and-export/README.md)
     * [download data](fundamentals/elements/import-and-export/download-data.md)
     * [LinkedIn Matched Audiences export](fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
-    * [Adding client-customer database to LeadBoxer](fundamentals/elements/import-and-export/adding-client-customer-database-to-leadboxer.md)
+    * [Custom Properties](fundamentals/elements/import-and-export/custom-properties.md)
     * [LeadBoxer User Interface Placeholder Names](fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
 
 ## 🧩 Integrations

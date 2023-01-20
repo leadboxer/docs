@@ -6,6 +6,28 @@ description: >-
 
 # Changelog
 
+## 17-01-2023
+
+### LeadBoxer 3.0 released&#x20;
+
+A complete new User Interface, Navigation and a rebuilt Leads & Accounts report.
+
+<figure><img src="../.gitbook/assets/LeadBoxer-leads-accounts-clean.png" alt=""><figcaption></figcaption></figure>
+
+One of the main differences is that the Leads & Accounts are shown in a grid format, allowing for numerous easy customisations such as:
+
+* Turning columns on and off
+* Grouping Leads into Accounts
+* Re-ordering of columns
+* Custom summary columns
+* Sorting on any column
+* Pinning columns
+* Filtering within columns
+
+You can read a full breakdown of the new [Leads & Accounts](../fundamentals/projects.md) section.
+
+
+
 ## 19-12-2022
 
 This week so far, we fixed an issue with links to LinkedIn not working properly in some cases on the account details panel and actually link to the homepage of an organization if we know it.&#x20;
@@ -14,7 +36,7 @@ This week so far, we fixed an issue with links to LinkedIn not working properly 
 
 We added the option to manually create a Card on the LeadBoard, straight from from the Leads view. That sounds complicated but it is not really, just have a look at this screenshot and hopefully it wil make sense:
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 07-12-2022
 
