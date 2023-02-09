@@ -34,7 +34,7 @@ You can use any of the following plugins / tutorials to get started:\
 * [Google Tag Manger](google-tag-manager-gtm.md)
 * [Unbounce](track-unbounce-landing-pages.md)
 
-**Other / Manual installation**
+### **Other / Manual installation**
 
 If you do not use any of above solutions, simply paste your Lead Pixel into the source code of your website just before the end \</body> tag. The best place is the footer or template - this will place the tracking code in the whole site, and usually takes less than 5 minutes.
 
