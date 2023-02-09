@@ -105,7 +105,7 @@
 * [Creating your first Segment](guides/creating-your-first-segment.md)
 * [Creating your first LeadBoard](guides/creating-your-first-leadboard.md)
 * [How to add a user](guides/how-to-add-a-user.md)
-* [How to upload a List](guides/how-to-upload-a-list.md)
+* [How to upload a List (ABM)](guides/how-to-upload-a-list-abm.md)
 * [How to add a datasets](guides/how-to-add-a-datasets.md)
 * [How to create a notification](guides/how-to-create-a-notification.md)
 * [How to set your Leadscore](guides/how-to-set-your-leadscore.md)

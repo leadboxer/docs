@@ -1,15 +1,21 @@
-# How to upload a List
+---
+description: >-
+  Upload a list of accounts /organizations to verify ABM campaign progress or
+  success and get notifications for successful engagements
+---
 
-### Instructions
+# How to upload a List (ABM)
 
-**Step 1: preparations**
+## Instructions
 
-1. Log into LeadBoxer as admin and go to the List overview page (from the dropdown menu in the top right corner)
+### **Step 1: preparations**
+
+1. Log into LeadBoxer as admin and go to the List Settings page (from the left menu in the bottom )
 2. Download the .CSV sample file
 3. Open in a spreadsheet application and add your list into the sheet. There are 2 columns:
    1. **organizationDomain**: Put the domain name of the organization in this row&#x20;
    2. **organizationName**: put the name of the organization in this row
-4. 'Save As' and (re)name so the file so that it is clear what the list contains. (eg. Target-accounts-2022.csv)
+4. 'Save As' and (re)name so the file so that it is clear what the list contains. (eg. Target-accounts-2023.csv)
 
 {% hint style="info" %}
 **Note**: We will use both the domain OR the name of the organization to match the identified leads or customers to your list.
@@ -30,7 +36,7 @@ we allow for you to use wildcards in both the organizationDomain and organizatio
 
 ***
 
-**Step 2: Upload list**
+### **Step 2: Upload list**
 
 1. Log into LeadBoxer as admin and go to the List overview page
 2. Click the Upload button, a new window will appear
@@ -44,11 +50,12 @@ Here is a screenshot of how it can look like if you have multiple lists:
 
 
 
-**Step 3: Apply your lists and save in Segment**
+### **Step 3: Apply your lists and save in Segment**
 
-Once the list is uploaded, you can apply it using the List Filter in both the leads and accounts view.
+Once the list is uploaded, you can use it using the List Filter on the leads & accounts view.
 
-1.  Find and select the list from the Primary filters category.
+1.  Find and select the list from in the filters when creating a new Segment.
 
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/6203c3eb025ca67522c795b7/file-D5R7EfJ7RA.png" alt=""><figcaption></figcaption></figure>
-2. Save as segment and set notification, see the [Segment documentation](https://docs.leadboxer.com/article/100-create-a-smartlist-how-to) on how to do this.
+2. Apply and see the results.
+3. Save as segment and optionally set notification, see the [Segment documentation](../fundamentals/elements/segments.md) on how to do this.
