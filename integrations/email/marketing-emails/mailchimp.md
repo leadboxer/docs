@@ -17,7 +17,7 @@ NOTE: Step 2 is VERY IMPORTANT as this will allow us to combine measurement of e
 Go to the Mailchimp integrations page in your LeadBoxer account, and click **New Integration**\
 
 
-<figure><img src="../../../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LeadBoxer_App (10).png" alt=""><figcaption></figcaption></figure>
 
 \
 You will then be redirected to Mailchimp where you will need to authorise access by providing your Mailchimp (admin) credentials.

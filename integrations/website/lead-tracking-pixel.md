@@ -2,19 +2,18 @@
 
 **Definition Lead Pixel**: a code snippet you get from LeadBoxer and place in one or more pages in your website. Any visitor to that page activates the pixel and is then captured as a potential lead. The Lead Pixel functions to a) identify the company behind the visit and b) record all future visits by that lead.
 
-**How it works**: Drop the Lead Pixel (JavaScript code snippet) in your site. Once in place, the pixel generates a list of leads - names of companies interested in your products and services, based on your website traffic.
+**How it works**: Drop the [Lead Pixel (JavaScript code snippet)](lead-tracking-pixel.md#where-to-find-your-tracking-pixel-or-dataset-id) in your site. Once in place, the pixel generates a list of leads - names of companies interested in your products and services, based on your website traffic.
 
 **Where to put it**: Track incoming leads across your whole website. You can also put the pixel into individual landing pages. Examples would be a contact form or newsletter sign-up form. You can  integrate the pixel directly, use  our [WordPress plugin](wordpress-plug-in/), or get an API license. \
 If integrated directly, the **Lead Pixel needs to be placed in the source code** of all the webpage(s) that you wish to track. The best place is the footer - this will place the tracking code in the whole site, and takes less than 5 minutes.
 
-**What you can accomplish with a Lead Pixel**:\
-1\. Generate a list of qualified leads - companies interested in your product/service - based on their interest in your site.\
-2\. Prioritise leads based on leadscore - automatically sort through all incoming leads using big data algorithms to score based on quality\
-3\. Track all activity on your site by (potential) leads - during sales cycles and beyond
+**What you can accomplish with a Lead Pixel**:
 
-[Get your Lead Pixel](https://www.leadboxer.com/?signup=true)
+1. Generate a list of leads - identify companies and known contacts that visit your site.
+2. Track all activity on your site by leads and your contacts
+3. Measure marketing campaigns and their success
 
-#### Introduction
+### Introduction
 
 By installing the LeadBoxer Tracking Pixel on your website(s), we will automatically start to collect data and provide more information about your website visitors.
 
@@ -22,7 +21,7 @@ The LeadBoxer Tracking Pixel is a small snippet of javascript that will track al
 
 Once the Pixel is in place, we immediately start tracking and identifying your leads and customers. &#x20;
 
-#### Installation
+### Installation
 
 If you havent done so already, the first step is to [Start a trial](https://www.leadboxer.com/start/) at leadboxer.com - you will then receive the Pixel (code snippet) from us.
 
@@ -34,25 +33,93 @@ You can use any of the following plugins / tutorials to get started:\
 * [Google Tag Manger](google-tag-manager-gtm.md)
 * [Unbounce](track-unbounce-landing-pages.md)
 
-### **Other / Manual installation**
+### **Other / Manual pixel installation**
 
 If you do not use any of above solutions, simply paste your Lead Pixel into the source code of your website just before the end \</body> tag. The best place is the footer or template - this will place the tracking code in the whole site, and usually takes less than 5 minutes.
 
 #### Where to find your tracking Pixel or dataset ID
 
-The tracking pixel and/or dataset ID can be found here:
+The tracking pixel and/or dataset ID can be found here: [Dataset Overview](https://app.leadboxer.com/datasets)
 
-#### Adding extra sites (datasets)
+More details on Datasets in general can be found here:
 
-You can add extra datasets to your LeadBoxer account.
+{% content-ref url="../../fundamentals/elements/datasets.md" %}
+[datasets.md](../../fundamentals/elements/datasets.md)
+{% endcontent-ref %}
 
-This can be accomplished in the datasets overview:
+## Tracking events
 
-After adding your dataset(s) you can also give permission to team members to access the data.
+### What are events?
 
-<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c471dee2c7d3a66e32d7c70/file-Anv46pNpYQ.png" alt=""><figcaption></figcaption></figure>
+LeadBoxer defines an event as a signal that is send to our service . An event can represent any type of activity, but usually is something that happens on a webpage that does not trigger a page load. For example a file download, or a single page website or app.
 
-Note: You need to have admin rights to be able to see/do this.
+With the LeadBoxer Lead Pixel in place, you can track (log) any action or event in your web app or website.
+
+The Lead Pixel contains functions and listeners that facilitate the insertion of events into LeadBoxer.
+
+### Examples
+
+**basic event**
+
+```javascript
+<script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
+<script type="text/javascript">    
+	OTLogService.sendEvent("basic event");
+</script>
+```
+
+**basic event on pageload**
+
+{% embed url="https://codepen.io/LeadBoxer/pen/xxGLvda" %}
+
+
+
+**Event with properties**&#x20;
+
+LeadBoxer does not only support custom events, but also [adding custom properties](../../fundamentals/elements/import-and-export/custom-properties.md)
+
+```javascript
+<script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
+<script type="text/javascript">    
+	var map = new OTMap();    
+	map.put("firstName", "John");    
+	map.put("lastName", "Doe");    
+	OTLogService.sendEvent("my custom event", map); 
+</script>
+```
+
+**Example: Track a PDF download link**
+
+To measure a click on a link that downloads a file, you can add a small piece of javascript to track this download:
+
+```javascript
+<!-- Load the LeadBoxer javascript before you define the custom variable -->
+<script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
+<script type="text/javascript">
+
+function downloadlink(file) {
+	var map = new OTMap();    
+	map.put("PDF", file);
+	OTLogService.sendEvent("Download", map, false); 
+
+	// add 1 second delay so the event registers before downloading
+	setTimeout(function() {
+		window.location=file;
+	},1000); 
+}; 
+</script>
+
+<p><a href="#" onclick="downloadlink('mypdf.pdf');">Download PDF</a></p>
+<p><input onclick="downloadlink('mypdf.pdf');" type="button" value="Download PDF" /></p>
+```
+
+#### Working example
+
+A working example can be found here:  [http://api.leadboxer.com/api/examples/log/index.html](http://api.leadboxer.com/api/examples/log/index.html)
+
+###
+
+### Custom Properties
 
 Adding properties to a lead is very straightforward.&#x20;
 
@@ -130,6 +197,12 @@ Add a tag for email campaign
 
 A working example can be found here:  [http://api.leadboxer.com/api/examples/log/index.html](http://api.leadboxer.com/api/examples/log/index.html)
 
+##
+
+
+
+****
+
 ## Advanced
 
 This is a list of exposed javascript functions from the LeadBoxer tracking pixel.&#x20;
@@ -168,6 +241,8 @@ Above example will add 2 additional properties to the lead or customer custom fi
 
 **Reminder**: This function needs to be loaded before the default tracking script gets loaded.
 
+###
+
 ### Static version of the javascript library
 
 The Leadboxer tracking script or pixel is served form a high availability, low latency, geo-ip based custom build Content Delivery Network.&#x20;
@@ -187,75 +262,3 @@ Make sure you regularly rerun these steps, as we make changes to our hosted vers
 **Important notice / disclaimer**
 
 Some portions of the LeadBoxer javascript library are dynamically generated and provide customised code for advanced features like cross-device or cross-browser tracking, auto-form tracking and other functions. Meaning that the basic tracking features will work properly, but we do not guarantee that all advanced features work as designed when using a static version of our pixel.&#x20;
-
-
-
-
-
-### What are events?
-
-LeadBoxer defines an event as a signal that is send to our service . An event can represent any type of activity, but usually is something that happens on a webpage that does not trigger a page load. For example a file download, or a single page website or app.
-
-With the LeadBoxer Lead Pixel in place, you can track (log) any action or event in your web app or website.
-
-The Lead Pixel contains functions and listeners that facilitate the insertion of events into LeadBoxer.
-
-### Examples
-
-**basic event**
-
-```javascript
-<script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
-<script type="text/javascript">    
-	OTLogService.sendEvent("basic event"); java
-</script>
-```
-
-**basic event on pageload**
-
-See the Pen [Track an event](https://codepen.io/LeadBoxer/pen/xxGLvda) by Wart Fransen ([@LeadBoxer](https://codepen.io/LeadBoxer)) on [CodePen](https://codepen.io/).
-
-**Event with properties**&#x20;
-
-LeadBoxer does not only support custom events, but also [adding lead properties](lead-tracking-pixel.md#adding-properties-on-page-load)
-
-```javascript
-<script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
-<script type="text/javascript">    
-	var map = new OTMap();    
-	map.put("firstName", "John");    
-	map.put("lastName", "Doe");    
-	OTLogService.sendEvent("my custom event", map); 
-</script>
-```
-
-**Example: Track a PDF download link**
-
-To measure a click on a link that downloads a file, you can add a small piece of javascript to track this download:
-
-```javascript
-<!-- Load the LeadBoxer javascript before you define the custom variable -->
-<script src="//script.leadboxer.com/?dataset=YourDatasetId"></script> 
-<script type="text/javascript">
-
-function downloadlink(file) {
-	var map = new OTMap();    
-	map.put("PDF", file);
-	OTLogService.sendEvent("Download", map, false); 
-
-	// add 1 second delay so the event registers before downloading
-	setTimeout(function() {
-		window.location=file;
-	},1000); 
-}; 
-</script>
-
-<p><a href="#" onclick="downloadlink('mypdf.pdf');">Download PDF</a></p>
-<p><input onclick="downloadlink('mypdf.pdf');" type="button" value="Download PDF" /></p>
-```
-
-#### Working example
-
-A working example can be found here:  [http://api.leadboxer.com/api/examples/log/index.html](http://api.leadboxer.com/api/examples/log/index.html)
-
-###

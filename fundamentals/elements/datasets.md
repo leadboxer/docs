@@ -5,12 +5,16 @@
 A dataset is anything that you want to measure. In the past we referred to datasets as sites, but the definition has changed to include a broader definition. \
 Now, a dataset can be a  single page, subset of pages, campaign landing page, sub-domain, app. etc. Think Internet of Things, or 'types of behavior'.&#x20;
 
-### Where can i find my Dataset ID?
+### Where can i find my Dataset ID or tracking pixel?
 
-You can find all dataset ID's in the dataset overview.
+You can find all dataset ID's in the [dataset overview](https://app.leadboxer.com/datasets).
+
+You can also get your tracking pixel by clicking on the settings icon.
+
+<figure><img src="../../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Dataset overview is only visible and accessible for users with 'admin' permissions&#x20;
+Note: Dataset overview is only visible and accessible for users with 'admin' permissions&#x20;
 {% endhint %}
 
 ### Measure all your websites
