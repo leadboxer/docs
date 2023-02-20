@@ -27,15 +27,17 @@ Steps:
 If you want to track on-page events using the Google Tag manager, you can follow these instructions .
 
 1. Make sure the LeadBoxer pixel (script tag) is loaded on the initial pageview.
-2.  You need to define the page title as a variable:&#x20;
+2.  First you need to define a new variable to grab the page title (for some reason GTM does not provide this variable by default so we need to define it ourselves)\
+    In your Google Tag Manager container, go to Variables > Javascript Variable and enter \
+
 
     ```javascript
-    function() {
-      return document.title;
-    }
+    document.title
     ```
 
-    ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f44f7ad042863444aa0cdeb/file-BLAXv0uQk4.png)
+
+
+    ![](<../../.gitbook/assets/Google\_Tag\_Manager (3).png>)
 3.  Create and send a new event that triggers on every Custom Event.\
 
 
@@ -43,12 +45,63 @@ If you want to track on-page events using the Google Tag manager, you can follow
     <script type="text/javascript">    
     	var map = new OTMap();    
     	map.put("lc", {{Page URL}});    
-    	OTLogService.sendEvent("{{GA PageTitle}}", map); 
+    	OTLogService.sendEvent("{{Javascript - Page Title}}", map); 
     </script>
     ```
 
-    ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f44f5d9042863444aa0cdd7/file-2LVgTG8MTi.png)
-4. Don't forget to publish and you should be set.
+
+
+    ![](<../../.gitbook/assets/Google\_Tag\_Manager (4).png>)
+4. Now connect this tag to any trigger you want: events, clicks, buttons, downloads, etc.
+5. Don't forget to publish and you should be set.
+
+
+
+### Complete Example: how to track a button click
+
+1.  **In GTM, enable built-in Click Variables**\
+    ****To be a able to trigger based on a click you need to enable these specific click variables. \
+    Variables are little pieces of information that can be used both in Tags and Triggers. For example, **Click ID**. You can use it as a trigger condition (e.g. _fire the LeadBoxer Event code **when** the ID of the clicked link equals to “main-cta-link”_).
+
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (1).png" alt=""><figcaption></figcaption></figure>
+2.  **In GTM tag assistant, Find the variable values to trigger on**\
+    ****Go to preview mode and on your site, click on the button you want to track. Switch to the assistant mode and you should see the button click listed in your behaviour.\
+    Select this click and find the right variable. (in our case the button text works, but you might want to use ID, class, URL or any of the above variables.) \
+    Copy the variable value.\
+
+
+    <figure><img src="../../.gitbook/assets/Tag_Assistant__Connected_.png" alt=""><figcaption></figcaption></figure>
+3.  **in GTM, enable a link click trigger** \
+    ****In order to enable link click tracking, we need to enable a thing called link click listener (a.k.a. link click auto-event listener). It’s a feature in GTM that listens to link clicks on a page. If it spots one, it will display that event in the GTM Preview and Debug (P\&D) mode, and we’ll be able to use it as a condition to fire tags. \
+    In Google Tag Manager, go to Triggers > Trigger Configuration > New > Click - All elements. Set the trigger to only to fire on some Clicks and choose your variable from step 2.\
+
+
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (2).png" alt=""><figcaption></figcaption></figure>
+
+    ****
+4.  **Create a LeadBoxer Event tag to fire on this trigger**\
+    Create a new tag, and add this javascript to send the custom event to LeadBoxer
+
+
+
+    ```javascript
+    <script type="text/javascript">    
+    	var map = new OTMap();    
+    	map.put("lc", {{Page URL}});    
+    	OTLogService.sendEvent("Case study submit click", map); 
+    </script>
+    ```
+
+
+
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager.png" alt=""><figcaption></figcaption></figure>
+
+
+5. Don't forget to connect the tag from step 4 to the trigger from step 3 and also to publish the changes.
+
+
+
+
 
 ## Google Tag Manager Data Layer Integration
 
