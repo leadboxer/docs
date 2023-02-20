@@ -2,21 +2,22 @@
 
 ## How to add a user to your account
 
-Add extra users\
-\
-1\. Login to your account\
-2\. Under your name drop-down select 'users'\
-3\. See the user management page and click on 'Add a User'\
-\
-5\. Enter details \
-6\. Select the dataset(s) for which the user will have permissions&#x20;
+{% hint style="info" %}
+Note: you need to have admin permissions to be able to add or modify users
+{% endhint %}
 
-<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f048c1b2c7d3a10cbaa22eb/file-pDKWpZg58G.png" alt=""><figcaption></figcaption></figure>
+1. Login to your account&#x20;
+2. Under your name drop-down select **Users**
 
-<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f048bd42c7d3a10cbaa22e3/file-rnwTGlR4dx.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
 
-\
-7\. An email will be sent to the new user asking them to create a password
+3. On the user management page click **'Add a User'**
+4. Enter details of your colleague&#x20;
+5. Select the dataset(s) for which the user will have permissions&#x20;
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (12).png" alt=""><figcaption></figcaption></figure>
+
+6. Once saved, an email will be sent to the new user asking them to create a password and they will then have access to the account.
 
 
 
