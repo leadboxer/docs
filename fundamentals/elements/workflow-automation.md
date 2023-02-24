@@ -12,6 +12,8 @@ A basic Workflow consist of a Trigger (rule) and an Action
 
 But Workflows can also contain multiple triggers with multiple Actions if needed.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-23 at 14.19.27.png" alt=""><figcaption><p>An example list of workflows</p></figcaption></figure>
+
 ### Triggers
 
 A trigger is basically 1 or more rule(s) that must be met, in order to 'trigger' the start of an automation.
@@ -21,7 +23,10 @@ Example Trigger: If a certain page (URL) is visited.
 #### Available Triggers:
 
 * Event URL (pageview, email open, custom event)
-* Lead Property created or updated <mark style="color:green;">(coming soon)</mark>
+* A specific Lead Property value for
+  * Industry
+  * Employee count range
+  * country
 
 ### Actions
 
@@ -30,9 +35,13 @@ A action is basically a task or something that needs to happen. There are many '
 #### Available Actions:
 
 * Set or update a Lead tag(s)
+* Create a custom property with a value from the session
 * Webhook push <mark style="color:green;">(coming soon)</mark>
+* Create, update a LeadBoard card  <mark style="color:green;">(coming soon)</mark>
 * Assign owner <mark style="color:green;">(coming soon)</mark>
 * Send Email notification <mark style="color:green;">(coming soon)</mark>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-23 at 14.18.25.png" alt=""><figcaption></figcaption></figure>
 
 ### Real life Examples
 
@@ -40,7 +49,9 @@ The most simple example is to tag a web visitor if they visit a certain page:
 
 * Tag a web visitor as <mark style="color:red;background-color:red;">Job-seeker</mark> if they visit the /jobs.html page
 * Tag a web visitor as <mark style="color:blue;background-color:blue;">Customer</mark> if they log into a portal or app
-* Tag a web visitor as <mark style="color:green;background-color:green;">Lead</mark> if they download a white-paper
+* Tag a web visitor as <mark style="color:green;background-color:green;">Prospect</mark> if they download a white-paper
+
+
 
 
 
