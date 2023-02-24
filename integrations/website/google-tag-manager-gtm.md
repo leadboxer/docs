@@ -8,16 +8,24 @@ Steps:
 
 1. Login to your Google Tag Manager and access your container
 2. To add the Lead Pixel, click on ‘add new tag’&#x20;
-3.  Name your tag as LeadBoxer pixel or LeadPixel and select ‘custom HTML in the Tag Configuration section
+3.  Name your tag as LeadBoxer pixel or LeadPixel and select ‘custom HTML in the Tag Configuration section\
 
-    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf1ec12c7d3a04dd5b8a2a/file-XMMheyuVPu.png" alt=""><figcaption></figcaption></figure>
-4.  Cut & paste your Tracking Pixel (grab this from your LeadBoxer welcome screen or find it on the dataset overview, right-click on the settings icon)
 
-    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf20bd2c7d3a04dd5b8a3d/file-7okdOvbb7b.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf1ec12c7d3a04dd5b8a2a/file-XMMheyuVPu.png" alt=""><figcaption><p>Add a new Tag</p></figcaption></figure>
+
+
+4.  Cut & paste your Tracking Pixel. You can find your tracking pixel on the [datasets overview page](https://app.leadboxer.com/datasets) under the settings icon.
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf20bd2c7d3a04dd5b8a3d/file-7okdOvbb7b.png" alt=""><figcaption><p>Add code to Tag</p></figcaption></figure>
+
+
 5.  Next you need to select or create your Trigger. We recommend to set it on all pageviews.
 
-    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf21c0042863158cc74cb9/file-lBUJmSoc1S.png" alt=""><figcaption></figcaption></figure>
-6.  Save the trigger and the tag
+
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf21c0042863158cc74cb9/file-lBUJmSoc1S.png" alt=""><figcaption><p>Trigger on all pageviews</p></figcaption></figure>
+6.  Save the trigger and the tag\
+
 
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf22ca2c7d3a04dd5b8a57/file-PMMGKCZW8A.png" alt=""><figcaption></figcaption></figure>
 7. Don't forget to Submit (publish) your changes - you’re done, you now have the basic Lead Pixel (javascript) working.
