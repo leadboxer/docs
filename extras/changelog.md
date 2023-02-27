@@ -6,9 +6,43 @@ description: >-
 
 # Changelog
 
-## 17-01-2023
+### 24-02-2023
 
-### LeadBoxer 3.0 released&#x20;
+## Workflow Automation update
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-23 at 14.19.27.png" alt=""><figcaption></figcaption></figure>
+
+1. We have added new triggers:&#x20;
+
+* Industry
+* Employee count
+* Country
+
+Meaning you can now trigger an Action based on the values of the above fields.
+
+2. New Action
+
+* Create a new custom property (field) and populate with UTM campaign data.
+
+This is particularly useful to capture the [UTM tags](../integrations/website/utm-tags-for-google-adwords.md) values for the session where a conversion has happend.&#x20;
+
+See complete [Workflow Automation](../fundamentals/elements/workflow-automation.md) docs for more details
+
+
+
+### 08-02-2023
+
+## Easy Export for LinkedIn Matched Audiences
+
+Updated and now located directly in the export /download window.
+
+See the complete [LinkedIn Matched Audience](../fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md) documentation for full details and instructions.
+
+
+
+### 17-01-2023
+
+## LeadBoxer 3.0 released&#x20;
 
 A complete new User Interface, Navigation and a rebuilt Leads & Accounts report.
 
