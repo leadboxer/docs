@@ -75,6 +75,8 @@
     * [Reply.io](integrations/email/marketing-emails/reply.io.md)
     * [Spotler](integrations/email/marketing-emails/spotler.md)
     * [Prospect.io](integrations/email/marketing-emails/prospect.io.md)
+    * [Woodpecker](integrations/email/marketing-emails/woodpecker.md)
+    * [Lemlist](integrations/email/marketing-emails/lemlist.md)
     * [Autopilot](integrations/email/marketing-emails/autopilot.md)
     * [Constant Contact](integrations/email/marketing-emails/constant-contact.md)
     * [dotdigital](integrations/email/marketing-emails/dotdigital.md)

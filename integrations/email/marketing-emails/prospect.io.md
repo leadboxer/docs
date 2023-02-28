@@ -1,4 +1,4 @@
-# Prospect.io email tracking
+# Prospect.io
 
 To track mail open/reads, you need to add the tracking pixel to your campaigns or templates.&#x20;
 
@@ -9,9 +9,11 @@ Here are the steps needed for adding the tracking pixel:
 3. paste in your email tracking pixel at the bottom\
 
 
-```
+{% code overflow="wrap" %}
+```html
 <img src="https://track.leadboxer.com/log?datasetId=YOUR DATASET ID&campaign=prospect.io&email={{prospect_email}}" width="1" height="1" class="fr-fic fr-dib">
 ```
+{% endcode %}
 
 **Notes:**
 
@@ -25,9 +27,11 @@ To track email clicks, you need to modify your links to include these parameters
 
 example URL
 
-```
+{% code overflow="wrap" %}
+```url
 https://www.YOURDOMAINNAME.com?&firstName={{prospect_firstname}}&lastName={{prospect_lastname}}&email={{prospect_email}}&companyName={{prospect_company_name}}
 ```
+{% endcode %}
 
 For more details see these pages:
 
