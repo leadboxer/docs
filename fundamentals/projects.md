@@ -89,7 +89,7 @@ In this section we show you all your custom Lead properties. Learn how to [add y
 
 See how the Leadscore for this Lead is calcultaed or build up. See this section of our help docs to learn more on [how the Leadscore works](projects.md#leadscore).&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Technical
 

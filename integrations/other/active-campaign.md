@@ -43,7 +43,7 @@ Provide basic details such as:
 
 Define who will be the 'owner' of the newly created Contacts and Accounts in Active Campaign.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3.
 
