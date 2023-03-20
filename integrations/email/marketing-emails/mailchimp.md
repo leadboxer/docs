@@ -66,8 +66,21 @@ The easiest way to accomplish this is to enable Google Analytics tracking in Mai
 Instructions are located here:\
 [https://kb.mailchimp.com/integrations/google-analytics/integrate-google-analytics-with-mailchimp](https://kb.mailchimp.com/integrations/google-analytics/integrate-google-analytics-with-mailchimp)
 
-###
-
 Moving forwards LeadBoxer will take over and add the data to each lead. Obviously the LeadBoxer pixel needs to be installed on the landing pages.&#x20;
 
 It's always a good idea to test this thoroughly before sending to your main lists. If things are working, you'll see the emails of leads interested in your newsletter's landing page.
+
+### Custom fields
+
+We can also capture additional (custom) fields you might have defined, for example to indicate if a contact is a (former) client or any other (merge) field you might have.
+
+#### Example
+
+A usefull example would be a field called **Client Status.** If you can indicate in Mailchimp contacts are currently a client, a former client, etc. We can then capture this and add this as a custom field in LeadBoxer. This will allow you to easily filter IN or OUT these contacts based on this field.
+
+<figure><img src="../../../.gitbook/assets/Audience_Fields_and___MERGE___Tags_for_test___Mailchimp.png" alt=""><figcaption></figcaption></figure>
+
+Simply contact support and let us know which field(s) names you would would like us to capture, in the above example the field would be 'Client Status'
+
+
+
