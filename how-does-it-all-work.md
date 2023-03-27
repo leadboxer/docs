@@ -4,24 +4,24 @@ description: >-
   I use the Platform?
 ---
 
-# How does it work?
+# How does it all work?
 
 This is not an easy question to answer, as LeadBoxer does many things. 😉 So here are some of the basic concepts:
 
-* [Identification](how-does-it-work.md#identification)
-  * [IP address](how-does-it-work.md#ip-address)
-  * [Forms](how-does-it-work.md#forms)
-  * [Integrations](how-does-it-work.md#integrations)
-* [Behavioural Tracking](how-does-it-work.md#behavioural-tracking)
-  * [Website](how-does-it-work.md#website)
-  * [Email](how-does-it-work.md#email)
-  * [Other](how-does-it-work.md#other)
-* [Enrichment](how-does-it-work.md#enrichment)
-  * [Firmographic](how-does-it-work.md#firmographic-enrichment)
-  * [First party](how-does-it-work.md#first-party-data)
-* [From Leads to Opportunities](how-does-it-work.md#from-leads-to-opportunities)
-  * [Qualification](how-does-it-work.md#qualification)
-  * [Management](how-does-it-work.md#lead-management)
+* [Identification](how-does-it-all-work.md#identification)
+  * [IP address](how-does-it-all-work.md#ip-address)
+  * [Forms](how-does-it-all-work.md#forms)
+  * [Integrations](how-does-it-all-work.md#integrations)
+* [Behavioural Tracking](how-does-it-all-work.md#behavioural-tracking)
+  * [Website](how-does-it-all-work.md#website)
+  * [Email](how-does-it-all-work.md#email)
+  * [Other](how-does-it-all-work.md#other)
+* [Enrichment](how-does-it-all-work.md#enrichment)
+  * [Firmographic](how-does-it-all-work.md#firmographic-enrichment)
+  * [First party](how-does-it-all-work.md#first-party-data)
+* [From Leads to Opportunities](how-does-it-all-work.md#from-leads-to-opportunities)
+  * [Qualification](how-does-it-all-work.md#qualification)
+  * [Management](how-does-it-all-work.md#lead-management)
 
 ## Identification
 
@@ -41,7 +41,7 @@ At LeadBoxer, we are constantly updating our technology and databases and keep t
 
 ### Forms
 
-Another well known technique is [Form tracking](../integrations/website/manual-form-tracking.md): to capture or track what people fill out on a web form and attach or connect that to the user who is visiting your website. This can include their email, name, company, etc.&#x20;
+Another well known technique is [Form tracking](integrations/website/manual-form-tracking.md): to capture or track what people fill out on a web form and attach or connect that to the user who is visiting your website. This can include their email, name, company, etc.&#x20;
 
 You can do this for any form, for example a newsletter signup, a lead-magnet or white-paper download, etc. but also chatbots, 'wizards', price calculators, etc.
 
@@ -49,11 +49,11 @@ Once the person or organization is identified, this will stored and for any prev
 
 ### Integrations
 
-By using any of the [integrations we support](how-does-it-work.md#integrations) (or by building your own) you can enable LeadBoxer to use the first-party data that is available in your marketing and sales tools  and so to speak 'connect-the-dots' and identify all these contacts and account in LeadBoxer to create a central hub for all your Lead Generation: Lead Identification, Lead Qualification, and Lead Management.
+By using any of the [integrations we support](how-does-it-all-work.md#integrations) (or by building your own) you can enable LeadBoxer to use the first-party data that is available in your marketing and sales tools  and so to speak 'connect-the-dots' and identify all these contacts and account in LeadBoxer to create a central hub for all your Lead Generation: Lead Identification, Lead Qualification, and Lead Management.
 
 ## Behavioural Tracking
 
-LeadBoxer makes (amongst other techniques) use of website tracking pixels, also known as a tracking script, tag, code or a web beacon. [Our tracking script](../integrations/website/lead-tracking-pixel.md) is a small, highly optimized, load-balanced snippet of javascript that -at its core- loads a small, invisible image file with a width and height of 1x1 pixel (hence the name tracking pixel) that is then embedded into a website or an email. The purpose of the tracking pixel is to track user behavior and collect data about how users interact with the website or email.
+LeadBoxer makes (amongst other techniques) use of website tracking pixels, also known as a tracking script, tag, code or a web beacon. [Our tracking script](integrations/website/lead-tracking-pixel.md) is a small, highly optimized, load-balanced snippet of javascript that -at its core- loads a small, invisible image file with a width and height of 1x1 pixel (hence the name tracking pixel) that is then embedded into a website or an email. The purpose of the tracking pixel is to track user behavior and collect data about how users interact with the website or email.
 
 ### Website
 
@@ -68,7 +68,7 @@ Here's how it works in more detail:
 5. The tracking servers pass on this data to our processing servers, that in return will try **Identify** the organization and/or person and to **enrich** the data before it gets stored in our secured and private cloud.&#x20;
 
 **Cookies**\
-****Perhaps needles to say, but our tracking javascript does a lot more than loading the tracking pixel image, such as setting or reading a first-party cookie in the browser, so we can identify this browser when there are multiple requests or pageviews, and string these together into a session and recognise the browser if they return. We do not store any identifiable information in our first-party cookies. More details can be found at our [LeadBoxer Cookies](../extras/leadboxer-cookies.md) page.
+****Perhaps needles to say, but our tracking javascript does a lot more than loading the tracking pixel image, such as setting or reading a first-party cookie in the browser, so we can identify this browser when there are multiple requests or pageviews, and string these together into a session and recognise the browser if they return. We do not store any identifiable information in our first-party cookies. More details can be found at our [LeadBoxer Cookies](extras/leadboxer-cookies.md) page.
 
 ### Email
 
@@ -127,7 +127,7 @@ In General, Lead qualification helps companies prioritize their sales efforts an
 
 At LeadBoxer, Lead qualification is the process of evaluating the readiness and likelihood of a potential customer to become a paying customer. The process involves collecting and analyzing data about a lead, such as their interests, company profile, budget, timeline, authority, and need, to determine if they are a good fit for a company's product or service.&#x20;
 
-During lead qualification, the lead is assessed against predefined criteria using [Filters](elements/filters.md) and [Segments](elements/segments.md) to determine if they meet the minimum requirements to move forward in a lead qualification process or workflow or Lead Management solution.
+During lead qualification, the lead is assessed against predefined criteria using [Filters](fundamentals/elements/filters.md) and [Segments](fundamentals/elements/segments.md) to determine if they meet the minimum requirements to move forward in a lead qualification process or workflow or Lead Management solution.
 
 ### Lead Management
 
@@ -135,7 +135,7 @@ Lead management is basically the process of capturing, tracking, and nurturing p
 
 The goal of lead management is to maximize the number of qualified leads that can be passed on to sales, while minimizing the time and resources spent on unqualified leads.&#x20;
 
-In LeadBoxer this can be achieved using the [LeadBoard](tasks.md), where our clients can visually research and move leads manually or automatically through their workflow or qualification process until they become actual opportunities.
+In LeadBoxer this can be achieved using the [LeadBoard](fundamentals/tasks.md), where our clients can visually research and move leads manually or automatically through their workflow or qualification process until they become actual opportunities.
 
 A typical example is that once a Lead fits the final criteria, they are deemed 'sales qualified' and handed over to the sales team for further engagement.
 

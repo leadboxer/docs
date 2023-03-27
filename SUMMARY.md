@@ -2,10 +2,10 @@
 
 * [Welcome](README.md)
 * [🛠 Getting Started](getting-started.md)
+* [How does it all work?](how-does-it-all-work.md)
 
 ## 🏗 Fundamentals
 
-* [How does it work?](fundamentals/how-does-it-work.md)
 * [Leads & Accounts](fundamentals/projects.md)
   * [Lead card: Complete lead details in one page](fundamentals/leads-and-accounts/lead-card-complete-lead-details-in-one-page.md)
 * [LeadBoard](fundamentals/tasks.md)
