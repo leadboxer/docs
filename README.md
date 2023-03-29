@@ -16,7 +16,7 @@ With LeadBoxer, you can [Identify](solutions/lead-identification.md), [Qualify](
 
 ## Ready to get going?
 
-Here is a link to the getting started Guide
+Here is a link to the Getting Started guide. This is interesting for anybody considering use of LeadBoxer because it explains a) how the system works b) what we actually measure and c) what the benefits are.
 
 {% content-ref url="getting-started.md" %}
 [getting-started.md](getting-started.md)
