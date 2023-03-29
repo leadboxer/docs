@@ -4,9 +4,9 @@ description: LeadBoxer Documentation
 
 # Welcome
 
-**LeadBoxer** is Lead Generation Platform that helps you get more and better leads for your sales team.
+LeadBoxer is a Lead Generation Platform designed to help you increase both the quality and quantity of leads you generate for your sales team.
 
-With LeadBoxer, you can [Identify](solutions/lead-identification.md), [Qualify](solutions/lead-qualification.md) and [Manage](solutions/lead-managment.md) all your leads in one place, and make sure that no opportunity gets lost or overlooked.
+With LeadBoxer, you can [Identify](solutions/lead-identification.md), [Qualify](solutions/lead-qualification.md) and [Manage](solutions/lead-managment.md) all your leads in one place, and make sure that no opportunity gets lost or overlooked. We call this Managing Opportunity.
 
 ## LeadBoxer in 2 minutes
 

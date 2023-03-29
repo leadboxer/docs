@@ -1,16 +1,16 @@
 # 🛠 Getting Started
 
-In this document you will find the essential steps needed to get the most out of your leadBoxer (trial) account. Not all steps are required, however we encourage you to complete as many steps as possible.
+In this document you will find the essential steps needed to get the most out of your LeadBoxer (trial) account. Not all steps are required, however we encourage you to complete as many steps as possible. This will generate more data of higher quality.
 
 ### Track website behaviour
 
 In order to get going, there is one essential step to take.&#x20;
 
-Even though this step is simple (takes less than 5 minutes) it’s the most important step of all, if you ever want to see any results during your trial.
+Even though this step is simple (takes less than 5 minutes) it’s the most important step of all, if you want to see any results during your trial.
 
-The tracking code (aka Lead Pixel) is what makes it possible for us to track your website visitors, so without the pixel, we will not be able to track anything - meaning no new leads 😉
+The tracking code (aka Lead Pixel) is what makes it possible for us to track your website visitors. Without the pixel, we will not be able to track anything - meaning no new leads 😉
 
-Once the Lead Pixel is installed on your site we will start collecting data and provide more information about the companies and organisations that visit your site.
+Once the Lead Pixel is installed on your site we will start collecting data and provide (more) information about the companies and organisations that visit your site.
 
 Use any of the following plugins or tutorials to get started:&#x20;
 
@@ -28,7 +28,7 @@ You can also send your lead pixel to your developer or the agency responsible fo
 
 ### Track Marketing / Newsletter emails
 
-To track email behaviour and combine this information with visitor website activity, we offer solutions for almost all major email providers.
+To track email behaviour and combine this information with visitor website activity, we offer solutions for almost all major email providers. **Please keep in mind that this is not only about tracking opens**. Tracking newsletter and email activity is connecting the dots between email activity and website traffic. It allows us to identify visitors who would otherwise be anonymous when they visit your site.&#x20;
 
 NOTE: LeadBoxer Email Tracking consists of 2 separate elements. Meaning there are two steps needed to get everything setup:
 
