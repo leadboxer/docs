@@ -6,19 +6,19 @@ description: If you could ask your marketing data a question, what would it be?
 
 ## The main page of LeadBoxer
 
-Once you login, you will arrive on a page called **Leads & Accounts**. This page /screen / report / view is the beating heart of LeadBoxer.&#x20;
+When you login, you will open the **Leads & Accounts** page. This page /screen / report / view is the command centre and beating heart of LeadBoxer.&#x20;
 
-Here you will be able to see all your Leads and Accounts (hence the name) to apply filters, create segments, import, export data, hide, remove, group, merge and many other operational tasks.&#x20;
+You will see an overview of all your Leads and Accounts. You can apply filters, create segments, import, export data, hide, remove, group, merge and many other operational tasks.&#x20;
 
-It is also the place to research and drill down into your data to find opportunities or other pieces of information you were not aware of.&#x20;
+It is also the place for research, and to drill-down in your data and locate opportunities or other pieces of information you were not aware of.&#x20;
 
-On this page you will find a complete overview of the page and links to all the relevant sections, definitions or elements.
+Below, you will find a complete overview of the page and links to all the relevant sections, definitions and elements.
 
 <figure><img src="../.gitbook/assets/LeadBoxer-leads-accounts-clean (1).png" alt=""><figcaption><p>The Leads &#x26; Accounts page </p></figcaption></figure>
 
 ### What is the Leads & Accounts page?
 
-In one sentence: a list displaying all your Leads; which can be grouped into Accounts.
+In a nutshell: a list displaying all your Leads; which can also be grouped into Accounts.
 
 {% hint style="info" %}
 For an explanation of [Leads](definitions.md#what-are-leads) and [Accounts](definitions.md#what-are-accounts), please read our [definitions](definitions.md).
