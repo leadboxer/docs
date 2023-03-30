@@ -20,7 +20,7 @@ Using tags is simple, and involves just 2 steps:
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_App (13).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (4).png" alt=""><figcaption></figcaption></figure>
 2.  **Set your Lead Tag filter**\
     Once you have added lead tags to your leads, you can use the filters to include or exclude them from/ to your Segments.\
 

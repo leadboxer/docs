@@ -11,7 +11,7 @@ You can find all dataset ID's in the [dataset overview](https://app.leadboxer.co
 
 You can also get your tracking pixel by clicking on the settings icon.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (11).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note: Dataset overview is only visible and accessible for users with 'admin' permissions&#x20;
