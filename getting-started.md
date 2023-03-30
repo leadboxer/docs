@@ -36,7 +36,8 @@ The main benefit is that we can identify those email recipients when they visit 
 
 NOTE: LeadBoxer Email Tracking consists of 2 separate elements. Meaning there are two steps needed to get everything setup:
 
-Tracking email opens and clicks Identifying leads and customers by name when they visit your website.&#x20;
+1. Tracking email opens and&#x20;
+2. clicks Identifying leads and customers by name when they visit your website
 
 Top integrations/ tutorials:
 

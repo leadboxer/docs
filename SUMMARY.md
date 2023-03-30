@@ -24,6 +24,7 @@
   * [Leadscore](fundamentals/elements/leadscore.md)
   * [Lead Tags](fundamentals/elements/lead-tags.md)
   * [Import & Export](fundamentals/elements/import-and-export/README.md)
+    * [Upload Leads](fundamentals/elements/import-and-export/upload-leads.md)
     * [download data](fundamentals/elements/import-and-export/download-data.md)
     * [LinkedIn Matched Audiences export](fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
     * [Custom Properties](fundamentals/elements/import-and-export/custom-properties.md)

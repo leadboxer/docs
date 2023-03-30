@@ -10,11 +10,11 @@ description: >-
 
 ## New Tag options
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (3).png" alt=""><figcaption></figcaption></figure>
 
 You can now manually add tags from 2 places: from the lead details window, but also from the leads & accounts list.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 To read more on Lead Tags, see the [Lead tags documentation](../fundamentals/elements/lead-tags.md) page.
 
