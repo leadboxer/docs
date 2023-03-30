@@ -9,7 +9,7 @@ Note: you need to have admin permissions to be able to add or modify users
 1. Login to your account&#x20;
 2. Under your name drop-down select **Users**
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. On the user management page click **'Add a User'**
 4. Enter details of your colleague&#x20;

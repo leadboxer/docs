@@ -37,7 +37,7 @@ Provide basic details such as:
 * The [dataset](../../fundamentals/elements/datasets.md) or site in LeadBoxer you want to integrate with &#x20;
 * the [Segment](../../fundamentals/elements/segments.md) that you want to use as source.
 
-<figure><img src="../../.gitbook/assets/Notification_Center.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Notification_Center (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2.
 
@@ -49,7 +49,7 @@ Define who will be the 'owner' of the newly created Contacts and Accounts in Act
 
 Select whether to import the last hour's data or not.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's it! Once finished we will start updating every hour, on the hour.
 

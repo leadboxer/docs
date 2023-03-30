@@ -10,7 +10,7 @@ The concept is not super complicated (that is the beauty of it) and you might al
 
 In our case, we have applied the concept so that each 'card' on your LeadBoard represents a Lead or Account. The natural flow is that your cards or Leads move from left tot right as they travel through your marketing workflow or funnel.&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (3) (1).png" alt=""><figcaption><p>The LeadBoxer LeadBoard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (3).png" alt=""><figcaption><p>The LeadBoxer LeadBoard</p></figcaption></figure>
 
 #### Now here are the 2 things that make it super powerful:
 
