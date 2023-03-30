@@ -1,12 +1,12 @@
 ---
 description: >-
-  How does LeadBoxer and all its components actually work and how can or should
-  I use the Platform?
+  How do LeadBoxer and its components actually work.  What can you do with the
+  platform? What do we actually capture and how?
 ---
 
 # How does it all work?
 
-This is not an easy question to answer, as LeadBoxer does many things. 😉 So here are some of the basic concepts:
+This is not an easy question to answer 1-2-3, as LeadBoxer does many things. 😉 So here are some of the basic concepts:
 
 * [Identification](how-does-it-all-work.md#identification)
   * [IP address](how-does-it-all-work.md#ip-address)
@@ -25,15 +25,15 @@ This is not an easy question to answer, as LeadBoxer does many things. 😉 So h
 
 ## Identification
 
-At LeadBoxer, we use various techniques to identify both the Organizations and Individuals that interact with our clients websites, emails, marketing tools, chatbots, portals, apps or any other digital platform they are using. Here is a description of the most used:&#x20;
+At LeadBoxer, we use multiple techniques to identify both the Organizations and Individuals that interact with our clients websites, emails, marketing tools, chatbots, portals, apps or any other digital platform they are using. Here is a description of the most commonly used touchpoints:&#x20;
 
 ### IP address
 
-One of the more known techniques to identify website visitors is by analyzing the IP addresses associated with their internet connection. It can be used to identify companies and organizations that visit a website.&#x20;
+One of the oldest and best-known techniques to identify website visitors is by analyzing the IP addresses associated with their internet connection (also known as ip lookup). This can be used to identify companies and organizations that visit a website.&#x20;
 
-Every device that connects to the internet is assigned an IP (Internet Protocol) address, which is a unique numerical identifier that allows devices to communicate with each other over the internet. IP addresses can be used to determine the approximate geographic location of a device and can also be associated with specific organizations.
+Every device that connects to the internet is assigned an IP (Internet Protocol) address; a unique numerical identifier that allows devices to communicate with each other over the internet. IP addresses can be used to determine the approximate geographic location of a device and can also be associated with specific organizations.
 
-To identify the companies behind IP addresses, we use a combination of advanced techniques to map IP addresses to specific companies or organizations.
+To identify the companies behind IP addresses, we use a combination of advanced techniques to map IP addresses to specific companies or organizations. We've been building our proprietary identification technology for close to twenty years.
 
 It's important to note that while IP-based company identification can be a useful tool for businesses and marketers, it is not always accurate. IP addresses can be shared, sold, hired or masked, and not all organizations have a unique IP address associated with their internet traffic. Additionally, some businesses may use virtual private networks (VPNs) or proxy servers to obfuscate their IP address and maintain their privacy.&#x20;
 
@@ -41,19 +41,19 @@ At LeadBoxer, we are constantly updating our technology and databases and keep t
 
 ### Forms
 
-Another well known technique is [Form tracking](integrations/website/manual-form-tracking.md): to capture or track what people fill out on a web form and attach or connect that to the user who is visiting your website. This can include their email, name, company, etc.&#x20;
+Another well-known technique is [Form tracking](integrations/website/manual-form-tracking.md): to capture or track what people fill out on a web form and attach or connect that to the user who is visiting your website. This can include their email, name, company, etc.&#x20;
 
 You can do this for any form, for example a newsletter signup, a lead-magnet or white-paper download, etc. but also chatbots, 'wizards', price calculators, etc.
 
-Once the person or organization is identified, this will stored and for any previous or future event this will.
+Once the person or organization is identified, this will stored and for retroactive (previous) and future identification when activity takes place. Subsequent sessions will be connected to this person and organization (if relevant).
 
 ### Integrations
 
-By using any of the [integrations we support](how-does-it-all-work.md#integrations) (or by building your own) you can enable LeadBoxer to use the first-party data that is available in your marketing and sales tools  and so to speak 'connect-the-dots' and identify all these contacts and account in LeadBoxer to create a central hub for all your Lead Generation: Lead Identification, Lead Qualification, and Lead Management.
+By using any of the [integrations we support](how-does-it-all-work.md#integrations) (or by building your own) you can enable LeadBoxer to use the first-party data available in your marketing and sales tools, and, so-to-speak 'connect-the-dots': identify these contacts and accounts in LeadBoxer. The result will be a central Lead Generation hub: Lead Identification, Lead Qualification, and Lead Management.
 
 ## Behavioural Tracking
 
-LeadBoxer makes (amongst other techniques) use of website tracking pixels, also known as a tracking script, tag, code or a web beacon. [Our tracking script](integrations/website/lead-tracking-pixel.md) is a small, highly optimized, load-balanced snippet of javascript that -at its core- loads a small, invisible image file with a width and height of 1x1 pixel (hence the name tracking pixel) that is then embedded into a website or an email. The purpose of the tracking pixel is to track user behavior and collect data about how users interact with the website or email.
+LeadBoxer makes (among other techniques) use of website tracking pixels, also known as a tracking script, tag, code or a web beacon. [Our tracking script](integrations/website/lead-tracking-pixel.md) is a small, highly optimized, load-balanced snippet of javascript that -at its core- fires a small, invisible image file with a width and height of 1x1 pixel (hence the name tracking pixel) that is then embedded into a website or an email. The purpose of the tracking pixel is to track user behavior and collect data about how users interact with website or email.
 
 ### Website
 
@@ -64,23 +64,23 @@ Here's how it works in more detail:
 1. The LeadBoxer tracking JavaScript code is added to a website's HTML code.
 2. When a visitor loads a page on the website, the LeadBoxer JavaScript code creates an Image object, sets the source of the image to the URL of our tracking server, and appends the image to the document.
 3. The browser then makes a request to our tracking server to load the image. This request includes the URL and title of the page in the referrer header.
-4. Our tracking server receives the request and logs the URL and title of the page along with other data such as the user's IP address and browser information.
-5. The tracking servers pass on this data to our processing servers, that in return will try **Identify** the organization and/or person and to **enrich** the data before it gets stored in our secured and private cloud.&#x20;
+4. Our tracking server receives the request and logs the URL and title of the page along with other data such as the user's IP address and browser information, utm tags, etc.
+5. The tracking servers pass on this data to our processing servers, which in return try to **Identify** the organization and/or person and **enrich** the data before it gets stored in our secure and private cloud.&#x20;
 
 **Cookies**\
-****Perhaps needles to say, but our tracking javascript does a lot more than loading the tracking pixel image, such as setting or reading a first-party cookie in the browser, so we can identify this browser when there are multiple requests or pageviews, and string these together into a session and recognise the browser if they return. We do not store any identifiable information in our first-party cookies. More details can be found at our [LeadBoxer Cookies](extras/leadboxer-cookies.md) page.
+****Perhaps needless to say; our tracking javascript does a lot more just load the tracking pixel image. We also set and read first-party browser cookies, so we can identify the browser when there are multiple requests or pageviews, and string these together into a session and recognise the browser upon return. We do not store any personally identifiable information (PII) in our first-party cookies. Additional details can be found on the [LeadBoxer Cookies](extras/leadboxer-cookies.md) page.
 
 ### Email
 
 Similar to website tracking, the core technique for email tracking is adding a 1x1 transparent pixel image into the body of an email, which tells the LeadBoxer servers an email is opened or read.
 
-As almost all email clients do not support javascript, there is much less data that can be captured, meaning the signals we receive can be translated into basic behavioural events.&#x20;
+As very few email clients support javascript, there is less data that can be captured, meaning the signals we receive are most useful when translated into basic behavioural events.&#x20;
 
-However, as part of a 'customer journey' they can be quite powerful.
+As part of a 'customer journey,' however, they can be quite powerful. Think about 'individual buyer intent' or 'buy signals' here.&#x20;
 
-Another option with email tracking is to track the clicks inside an email to your website, which also can trigger an Identification.&#x20;
+Another option with email tracking is to track the clicks inside an email to your website, which also can trigger an Identification. In other words when and if that person visits your website after receiving an email, even months later.
 
-### Other&#x20;
+### Additional behavioral data types&#x20;
 
 We also support other kinds of behavioral data, for example data from an ERP, CRM, telemarketing, shopping systems, registers, etc. This data can be transferred to LeadBoxer using our API or even via file transfer. This enables our customers to connect even more dots and create complete lead, opportunity or customer 360 views.
 

@@ -65,7 +65,7 @@ The Lead details drawer contains multiple items, listed and described below:
 
 This item shows a summary of stats on  behaviour, such as events (pageview, email opens, etc) website visits, time on site, etc.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Acquisition
 
