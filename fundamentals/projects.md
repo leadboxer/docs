@@ -65,13 +65,13 @@ The Lead details drawer contains multiple items, listed and described below:
 
 This item shows a summary of stats on  behaviour, such as events (pageview, email opens, etc) website visits, time on site, etc.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Acquisition
 
 In LeadBoxer we primarily focus on Leads that are acquired through digital channels. Leads from trade shows, events, showrooms, etc are other examples which can be added. It is important to keep track your acquisition channels to provide insights into which successful channels to invest in.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (8).png" alt=""><figcaption></figcaption></figure>
 
 #### LeadBoard
 
@@ -95,6 +95,6 @@ See how the Leadscore for any lead is calculated. Refer to our help docs to lear
 
 A section showing technical details about the browser, email client, connection, network, etc.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (5).png" alt=""><figcaption></figcaption></figure>
 
 ##

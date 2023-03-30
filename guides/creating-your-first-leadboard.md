@@ -40,7 +40,7 @@ We recommend to to start simple, with a minimum of 3 stages. You can always revi
 
 Now that you have created your LeadBoard and defined the stages, you can start managing your leads right away by importing your existing LeadBoxer leads into your new LeadBoard.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (4).png" alt=""><figcaption><p>Step 3 of Create new LeadBoard wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (4) (2).png" alt=""><figcaption><p>Step 3 of Create new LeadBoard wizard</p></figcaption></figure>
 
 You can choose data from today, last 7 days or last 14 days.
 

@@ -2,7 +2,7 @@
 
 You can upload your leads by using the upload feature directly on the [Leads & Accounts](../../projects.md) page.
 
-<figure><img src="../../../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LeadBoxer_App (3).png" alt=""><figcaption></figcaption></figure>
 
 1. Start by downloading the sample CSV file, to see how the list needs to be structured. The most important fields is companyDomain, as this is the best way for us to enrich your leads with firmographic data.
 2. Paste your leads into the sample file or format your list int the right format and store locally.
@@ -10,7 +10,7 @@ You can upload your leads by using the upload feature directly on the [Leads & A
 4. Select your CSV file with the Leads to upload.
 5. Click Upload.
 
-<figure><img src="../../../.gitbook/assets/LeadBoxer_App (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LeadBoxer_App (14).png" alt=""><figcaption></figcaption></figure>
 
 Once you have hit upload, your list will be processed in the background and depending on the size it will be done in a few minutes.
 

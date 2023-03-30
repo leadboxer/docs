@@ -14,7 +14,7 @@ To add your first Workflow, log into LeadBoxer as Admin and find the Workflow Au
     <figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 5.  Review your Workflow automation and save.
 
-    <figure><img src="../.gitbook/assets/LeadBoxer_App (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/LeadBoxer_App (4).png" alt=""><figcaption></figcaption></figure>
 
 Going forward, each new event or piece of data that goes through our engine will be evaluated to  match triggers and execute the relevant action(s) when triggers are met.
 
