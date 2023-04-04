@@ -71,7 +71,7 @@ This item shows a summary of stats on  behaviour, such as events (pageview, emai
 
 In LeadBoxer we primarily focus on Leads that are acquired through digital channels. Leads from trade shows, events, showrooms, etc are other examples which can be added. It is important to keep track your acquisition channels to provide insights into which successful channels to invest in.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### LeadBoard
 
@@ -89,7 +89,7 @@ Your custom Lead properties are displayed here. Learn how to [add your own custo
 
 See how the Leadscore for any lead is calculated. Refer to our help docs to learn more on [how the Leadscore works](projects.md#leadscore).&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Technical
 

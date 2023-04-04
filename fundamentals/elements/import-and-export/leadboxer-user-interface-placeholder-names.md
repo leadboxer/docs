@@ -19,14 +19,11 @@ Instructions: using these names for event data will populate placeholder fields 
 
 **Organization properties**
 
-* organizationName, company, companyName
-* organizationPhoneNumber, PhoneNumber
-* organizationDomain, website
-* organizationDescription, description
+* companyName
+* PhoneNumber
+* companyDomain
+* description
 * etc
 
 for the full list please contact us
 
-Still need help? [Contact Us](broken-reference)
-
-Last updated on October 29, 2020

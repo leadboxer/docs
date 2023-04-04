@@ -27,6 +27,9 @@ Example Trigger: If a certain page (URL) is visited.
   * Industry
   * Employee count range
   * country
+* LeadBoard (check for existence and stage)
+* Lead Tagged <mark style="color:green;">(coming soon)</mark>
+* Owner assigned <mark style="color:green;">(coming soon)</mark>
 
 ### Actions
 
@@ -34,10 +37,10 @@ A action is basically a task or something that needs to happen. There are many '
 
 #### Available Actions:
 
-* Set or update a Lead tag(s)
+* Set or update a Lead tag
 * Create a custom property with a value from the session
+* Create, or update (move) a LeadBoard card
 * Webhook push <mark style="color:green;">(coming soon)</mark>
-* Create, update a LeadBoard card  <mark style="color:green;">(coming soon)</mark>
 * Assign owner <mark style="color:green;">(coming soon)</mark>
 * Send Email notification <mark style="color:green;">(coming soon)</mark>
 
@@ -45,13 +48,17 @@ A action is basically a task or something that needs to happen. There are many '
 
 ### Real life Examples
 
-The most simple example is to tag a web visitor if they visit a certain page:
+The most simple example is to <mark style="background-color:orange;">tag</mark> a web visitor if they visit a certain page:
 
 * Tag a web visitor as <mark style="color:red;background-color:red;">Job-seeker</mark> if they visit the /jobs.html page
-* Tag a web visitor as <mark style="color:blue;background-color:blue;">Customer</mark> if they log into a portal or app
+* Tag a web visitor as <mark style="color:blue;background-color:blue;">Customer</mark> if they log into your portal or app
 * Tag a web visitor as <mark style="color:green;background-color:green;">Prospect</mark> if they download a white-paper
 
+More advanced examples:
 
+* Create a new leadboard card on LeadBoard 'Canada Sales' on stage 'New leads' when identified company has Industry 'Accounting' and company size is 51-200 and country is 'Canada.
+* Move LeadBoard card to stage 'engaged' when email 'white-paper' is opened.
+* Set custom field 'Conversion campaign' with value from UTM field when a conversion (eg thank-you pageview) happens.
 
 
 

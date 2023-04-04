@@ -6,6 +6,59 @@ description: >-
 
 # Changelog
 
+### 01-04-2023
+
+## New trigger and Actions to automate LeadBoard cards moving through your funnel!
+
+We are super excited to announce that we you can now configure LeadBoxer to automatically create new cards and move existing leadboard cards from one stage to another based on all the triggers we support.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
+
+This means you can now create a **fully automated visual overview of your Lead Generation efforts!**
+
+See the [Workflow Automation](../fundamentals/elements/workflow-automation.md) documentation to get started and see examples.
+
+## Upload Leads
+
+Now this is something new: You can now Upload other leads and Accounts to LeadBoxer.&#x20;
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (7).png" alt=""><figcaption></figcaption></figure>
+
+Why is this useful? 2 answers:
+
+1. Use LeadBoxer and the Lead Management features from the LeadBoard for ALL your leads. for example from offline sources like events, phone enquiries, physical encounters, etc.&#x20;
+2. To visualize and get complete insights of your outbound campaigns: Upload all leads that are contacted, put them in a board, and automatically track how they move through your leadboard funnel once they start interacting with your content.
+
+More details and instructions can be found in the [Upload Leads](changelog.md#upload-leads) documentation page.
+
+
+
+### 17-03-2023
+
+## Quick Segments
+
+We have added the concept of **Quick Segments.**&#x20;
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (15).png" alt=""><figcaption></figcaption></figure>
+
+Quick Segments are pre-defined Segments that allow you to quickly filter your data. Quick Segments are not real Segments, meaning they are basically filters applied to the data in real-time and cannot be altered. You can however duplicate a Quick Segment and modify and save as a 'real' segment.
+
+See the [Quick Segments](changelog.md#quick-segments) documentation to see the details.
+
+## Engagement details
+
+We have added 4 new metrics to the Leads & Accounts view regarding the level of engagement in your content. In other words the number of sessions and events for each lead.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (8).png" alt=""><figcaption></figcaption></figure>
+
+## Improved UTM and marketing campaign tracking & reporting
+
+We improved the way we store and display the values from UTM tags for each Lead. They are now categorised in First \* and Last \* values (eg first Campaign and Last Campaign).
+
+For more details see our documentation on [UTM tracking](../integrations/website/tracking-marketing-campaign-data-utm-tags.md)
+
+
+
 ### 03-03-2023
 
 ## New Tag options
