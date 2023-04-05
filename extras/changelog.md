@@ -1,16 +1,16 @@
 ---
 description: >-
-  Here you will find the latest changes, addictions, updates, fixes, etc. for
-  the LeadBoxer Platform
+  Here you will find the latest changes, additions, updates, fixes, etc. for the
+  LeadBoxer Platform
 ---
 
 # Changelog
 
 ### 01-04-2023
 
-## New trigger and Actions to automate LeadBoard cards moving through your funnel!
+## New trigger and Actions to automate movement of LeadBoard cards through your funnel!
 
-We are super excited to announce that we you can now configure LeadBoxer to automatically create new cards and move existing leadboard cards from one stage to another based on all the triggers we support.
+We are super excited to announce that you can now configure LeadBoxer to automatically create new cards and move existing leadboard cards from one stage to another based on all the triggers we support.
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ See the [Workflow Automation](../fundamentals/elements/workflow-automation.md) d
 
 ## Upload Leads
 
-Now this is something new: You can now Upload other leads and Accounts to LeadBoxer.&#x20;
+Something new: You can now Upload other leads and Accounts to LeadBoxer.&#x20;
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (7).png" alt=""><figcaption></figcaption></figure>
 
