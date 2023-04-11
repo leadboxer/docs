@@ -8,12 +8,6 @@ LeadBoxer is a Lead Generation Platform designed to help you increase both the q
 
 With LeadBoxer, you can [Identify](solutions/lead-identification.md), [Qualify](solutions/lead-qualification.md) and [Manage](solutions/lead-managment.md) all your leads in one place, and make sure that no opportunity gets lost or overlooked. We call this Managing Opportunity.
 
-## LeadBoxer in 2 minutes
-
-**Got 2 minutes?** Check out a video overview of our product.
-
-{% embed url="https://leadboxer.wistia.com/medias/v3bywlqtww" %}
-
 ## Ready to get going?
 
 Here is a link to the Getting Started guide. This is interesting for anybody considering use of LeadBoxer because it explains a) how the system works b) what we actually measure and c) what the benefits are.

@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [🛠 Getting Started](getting-started.md)
+* [Lead Management Workflow](lead-management-workflow.md)
 * [How does it all work?](how-does-it-all-work.md)
 
 ## 🏗 Fundamentals
