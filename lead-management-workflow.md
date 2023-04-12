@@ -9,7 +9,7 @@ description: >-
 
 ### How will I benefit?
 
-Configuring your workflow will unlock the full potential of LeadBoxer. In real terms: we will measure key engagement milestones and organise your leads so that they are visualised (segmented) according to where they are in respective buyer stages. Managing opportunity. You can of course use the LeadBoard without this extra work, but this will sweeten the deal.
+Configuring your workflow will unlock the full potential of LeadBoxer. In real terms: we will measure key engagement milestones and organise your leads so that they are visualised (segmented) according to where they are in respective buyer stages. Managing opportunity. You can of course use the LeadBoard without this extra configuration, but this will sweeten the deal.
 
 ### What LeadBoxer features are involved?
 
