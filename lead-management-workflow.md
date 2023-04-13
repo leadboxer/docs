@@ -7,21 +7,24 @@ description: >-
 
 # Lead Management Workflow
 
-### How will I benefit?
+## How will I benefit?
 
 Configuring your workflow will unlock the full potential of LeadBoxer. In real terms: we will measure key engagement milestones and organise your leads so that they are visualised (segmented) according to where they are in respective buyer stages. You can of course use the LeadBoxer without this extra configuration, but this will make it fly.
 
 **Main benefit**: for each lead you can actually see what stage they are in. \
 This determines how you interact and communicate with each lead. And who, in your company, will communicate with them; Marketing, Pre-sales, Customer Success or Sales.
 
+
+
+{% hint style="info" %}
 ### What LeadBoxer features are involved?
 
 The place to create your qualification workflow and manage your leads is called the [LeadBoard](fundamentals/tasks.md).&#x20;
 
-The tool to automate the steps from your qualification workflow is called [Workflow Automation](fundamentals/elements/workflow-automation.md).\
+The tool to automate the steps from your qualification workflow is called [Workflow Automation](fundamentals/elements/workflow-automation.md).
+{% endhint %}
 
-
-### Quick Summary&#x20;
+## Quick Summary&#x20;
 
 A B2B **buyer's journey** is made up of multiple buying phases or stages. Workflow automation enables you to map the stages to specific behavior (actions). You can then easily filter and segment both audience and users into their respective stages.
 
@@ -29,12 +32,12 @@ _Think of this process as mapping the ideal sales flow_.&#x20;
 
 There are 2 parts to the process of setting up and configuring your LeadBoard:
 
-#### Step 1: define lead stages & key events
+### Step 1: define lead stages & key events
 
 1. Define the stage(s) your prospects and leads need to complete in order to become real opportunities (see complete explanation below). Typically 3,4, or 5.
 2. Create a list of key events that are measured and categorize them to each stage (see  explanation below).
 
-#### Step 2: setup stages in LeadBoxer:
+### Step 2: setup stages in LeadBoxer:
 
 1. Make a new LeadBoard and add the stages from Step 1 above
 2. In your Workflow Automation:&#x20;
@@ -69,7 +72,7 @@ To get started, we recommend you focus on these 5 remaining stages:&#x20;
 
 Obviously you can design and customize your workflow to your needs. Additional example stages are: Exploration, Nurturing, On-boarding, Negotiation, etc.
 
-### The last stage&#x20;
+#### The last stage&#x20;
 
 By default, we suggest to use these 5 stages to your first LeadBoard.
 
@@ -83,7 +86,7 @@ Make a list of the events (pageviews, clicks, sign-ups, opening newsletter, etc)
 
 Examples of key events are: viewed a specific product page, viewed pricing page, downloaded a PDF white paper, Form submits, sign-ups, opened or clicked through from a newsletter or email, etc. We can measure anything and everything that takes place digitally.
 
-### Example event mapping
+#### Example event mapping
 
 Here are some example events that can be mapped to a buyer journey stage\
 
