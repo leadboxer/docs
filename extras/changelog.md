@@ -39,7 +39,7 @@ More details and instructions can be found in the [Upload Leads](changelog.md#up
 
 We have added the concept of **Quick Segments.**&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Quick Segments are pre-defined Segments that allow you to quickly filter your data. Quick Segments are not real Segments, meaning they are basically filters applied to the data in real-time and cannot be altered. You can however duplicate a Quick Segment and modify and save as a 'real' segment.
 

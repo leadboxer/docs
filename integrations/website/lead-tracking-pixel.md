@@ -201,7 +201,7 @@ A working example can be found here:  [http://api.leadboxer.com/api/examples/log
 
 
 
-****
+
 
 ## Advanced
 

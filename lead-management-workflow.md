@@ -9,7 +9,10 @@ description: >-
 
 ### How will I benefit?
 
-Configuring your workflow will unlock the full potential of LeadBoxer. In real terms: we will measure key engagement milestones and organise your leads so that they are visualised (segmented) according to where they are in respective buyer stages. Managing opportunity. You can of course use the LeadBoard without this extra configuration, but this will sweeten the deal.
+Configuring your workflow will unlock the full potential of LeadBoxer. In real terms: we will measure key engagement milestones and organise your leads so that they are visualised (segmented) according to where they are in respective buyer stages. You can of course use the LeadBoxer without this extra configuration, but this will make it fly.
+
+The main benefit is that you actually can see for each lead what stage they are in. \
+This should determine how you interact and how you communicate with each lead. It may also determine who, in your company, will communicate with them; Marketing, Pre-sales, Customer Succes or Sales.
 
 ### What LeadBoxer features are involved?
 
@@ -38,27 +41,38 @@ There are 2 parts to the process of setting up and configuring your LeadBoard:
    1. Add a tag with the name of the stage to each of the key events from Step 2,&#x20;
    2. Add rules to move cards between stages (based on lead tags)
 
-##
+
 
 ## Preparing your workflow
 
 ### 1. Define your lead stages&#x20;
 
-In most cases, the buyer journey can be defined using these 3 stages:
+In most cases, a complete buyer journey can be defined using these 7 stages:
 
-1. **Awareness Stage**: The buyer becomes aware that they have a problem.
-2. **Consideration Stage**: The buyer defines their problem and considers options to solve it.
-3. **Decision Stage**: The buyer evaluates and decides on the best solution.&#x20;
+1. **Awareness** : The buyer becomes aware that they have a problem. eg: searches in Google.
+2. **Orientation :** The buyer starts looking around to orientate. eg reads blog posts, watch videos
+3. **Discovery** : The buyer is checking out various solutions to their problem. Be in this list.
+4. **Interest** : The buyer is interested in a few solutions, wants to know more, test it, see it.
+5. **Evaluation** : the buyer has tested it, and is now evaluating and comparing solutions.
+6. **Intent** : The buyer has intent to buy an solution shortly, wants to negotiate price or contract.
+7. **Decision** : The buyer has decided on the best solution to their problem. becomes a customer.
 
-Additional example stages are: Orientation, Nurturing, On-boarding, Negotiation, etc.
+However, at LeadBoxer we rather focus on the middle part of this journey: the stages where behaviour can be measured and categorised.&#x20;
 
-The question we are trying to answer for each lead is: what stage are they in. The answer will determine how you interact and how you communicate with each lead. It may also determine who, in your company, will communicate with them; Marketing, CS, or Sales.
+This means we recommend you focus on these stages: **Orientation, Discovery, Interest, Intent, Decision**
 
-For example, in their first stage a lead may download a product overview or sign up for a newsletter, the next step may be to sign up for a free trial. The third stage may be the decision-making stage, in which they will frequently consult the Pricing documentation.
+### **Example event mapping**
+
+Here are some example events that can be mapped to a buyer journey stage
+
+<table><thead><tr><th>Stage</th><th>Example events</th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Orientation</strong></td><td><ul><li>Blog post read</li><li>Podcast listend</li><li>Landing page viewed</li></ul></td><td></td></tr><tr><td><strong>Discovery</strong></td><td><ul><li>Product pages viewed</li><li>Pricing page viewed</li><li>Features pages</li><li>Case study download</li></ul></td><td></td></tr><tr><td><strong>Interest</strong></td><td><ul><li>Started a Trial</li><li>Booked a Demo call</li><li>Joined a Webinar</li></ul></td><td></td></tr><tr><td><strong>Intent</strong></td><td><ul><li>Looked at Contact page</li><li>Signed up for Newsletter or Course</li><li>scheduled On-boarding call</li></ul></td><td></td></tr><tr><td><strong>Decision</strong></td><td><ul><li>Did a checkout</li><li>Requested an invoice</li></ul></td><td></td></tr></tbody></table>
+
+
+
+Obviously you can design and customize your workflow to your needs. Additional example stages are: Exploration, Nurturing, On-boarding, Negotiation, etc.
 
 The last stage is usually a Sales Qualified Lead (SQL).&#x20;
 
-We recommend to create a process of 4 or 5 stages. \
 
 
 ### 2. List the actions or key events&#x20;
@@ -79,6 +93,8 @@ Go to the [LeadBoard](fundamentals/tasks.md) section of our account, and [create
 Using [Workflow Automation](fundamentals/elements/workflow-automation.md) triggers and Actions, add a [Lead Tag](fundamentals/elements/lead-tags.md) with the name of the stage for each of the key events from Step 2.
 
 These tags are used to segment and move your leads into different columns on your LeadBoard. Events should be mapped to specific stages. For example, if a lead views a brochure they are tagged with ‘Orientation’.&#x20;
+
+<figure><img src=".gitbook/assets/LeadBoxer_App (15).png" alt=""><figcaption></figcaption></figure>
 
 
 

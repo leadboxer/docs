@@ -71,25 +71,25 @@ If you want to track on-page events using the Google Tag manager, you can follow
 ### Complete Example: how to track a button click
 
 1.  **In GTM, enable built-in Click Variables**\
-    ****To be a able to trigger based on a click you need to enable these specific click variables. \
+    To be a able to trigger based on a click you need to enable these specific click variables. \
     Variables are little pieces of information that can be used both in Tags and Triggers. For example, **Click ID**. You can use it as a trigger condition (e.g. _fire the LeadBoxer Event code **when** the ID of the clicked link equals to “main-cta-link”_).
 
     <figure><img src="../../.gitbook/assets/Google_Tag_Manager (1).png" alt=""><figcaption></figcaption></figure>
 2.  **In GTM tag assistant, Find the variable values to trigger on**\
-    ****Go to preview mode and on your site, click on the button you want to track. Switch to the assistant mode and you should see the button click listed in your behaviour.\
+    Go to preview mode and on your site, click on the button you want to track. Switch to the assistant mode and you should see the button click listed in your behaviour.\
     Select this click and find the right variable. (in our case the button text works, but you might want to use ID, class, URL or any of the above variables.) \
     Copy the variable value.\
 
 
     <figure><img src="../../.gitbook/assets/Tag_Assistant__Connected_.png" alt=""><figcaption></figcaption></figure>
 3.  **in GTM, enable a link click trigger** \
-    ****In order to enable link click tracking, we need to enable a thing called link click listener (a.k.a. link click auto-event listener). It’s a feature in GTM that listens to link clicks on a page. If it spots one, it will display that event in the GTM Preview and Debug (P\&D) mode, and we’ll be able to use it as a condition to fire tags. \
+    In order to enable link click tracking, we need to enable a thing called link click listener (a.k.a. link click auto-event listener). It’s a feature in GTM that listens to link clicks on a page. If it spots one, it will display that event in the GTM Preview and Debug (P\&D) mode, and we’ll be able to use it as a condition to fire tags. \
     In Google Tag Manager, go to Triggers > Trigger Configuration > New > Click - All elements. Set the trigger to only to fire on some Clicks and choose your variable from step 2.\
 
 
     <figure><img src="../../.gitbook/assets/Google_Tag_Manager (2).png" alt=""><figcaption></figcaption></figure>
 
-    ****
+
 4.  **Create a LeadBoxer Event tag to fire on this trigger**\
     Create a new tag, and add this javascript to send the custom event to LeadBoxer
 

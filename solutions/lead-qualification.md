@@ -50,7 +50,7 @@ What to talk about (engagement) will be covered in our next post.
 
 **Conclusion: the point is to get a total picture of what you know about a lead, and use your understanding to decide whether or not to pursue the lead.**
 
-****
+
 
 ### First-party Intent Data
 

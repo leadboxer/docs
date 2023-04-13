@@ -68,7 +68,7 @@ Here's how it works in more detail:
 5. The tracking servers pass on this data to our processing servers, which in return try to **Identify** the organization and/or person and **enrich** the data before it gets stored in our secure and private cloud.&#x20;
 
 **Cookies**\
-****Perhaps needless to say; our tracking javascript does a lot more just load the tracking pixel image. We also set and read first-party browser cookies, so we can identify the browser when there are multiple requests or pageviews, and string these together into a session and recognise the browser upon return. We do not store any personally identifiable information (PII) in our first-party cookies. Additional details can be found on the [LeadBoxer Cookies](extras/leadboxer-cookies.md) page.
+Perhaps needless to say; our tracking javascript does a lot more just load the tracking pixel image. We also set and read first-party browser cookies, so we can identify the browser when there are multiple requests or pageviews, and string these together into a session and recognise the browser upon return. We do not store any personally identifiable information (PII) in our first-party cookies. Additional details can be found on the [LeadBoxer Cookies](extras/leadboxer-cookies.md) page.
 
 ### Email
 
