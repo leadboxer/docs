@@ -11,8 +11,8 @@ description: >-
 
 Configuring your workflow will unlock the full potential of LeadBoxer. In real terms: we will measure key engagement milestones and organise your leads so that they are visualised (segmented) according to where they are in respective buyer stages. You can of course use the LeadBoxer without this extra configuration, but this will make it fly.
 
-The main benefit is that you actually can see for each lead what stage they are in. \
-This should determine how you interact and how you communicate with each lead. It may also determine who, in your company, will communicate with them; Marketing, Pre-sales, Customer Succes or Sales.
+**Main benefit**: for each lead you can actually see what stage they are in. \
+This determines how you interact and communicate with each lead. And who, in your company, will communicate with them; Marketing, Pre-sales, Customer Success or Sales.
 
 ### What LeadBoxer features are involved?
 
@@ -23,15 +23,15 @@ The tool to automate the steps from your qualification workflow is called [Workf
 
 ### Quick Summary&#x20;
 
-A B2B buyer's journey is made up of multiple buying phases or stages. Workflow automation enables you to map the stages to specific behavior (actions). You can then easily filter and segment both audience and users into their respective stages.
+A B2B **buyer's journey** is made up of multiple buying phases or stages. Workflow automation enables you to map the stages to specific behavior (actions). You can then easily filter and segment both audience and users into their respective stages.
 
-Think of this process as mapping the ideal sales flow.&#x20;
+_Think of this process as mapping the ideal sales flow_.&#x20;
 
 There are 2 parts to the process of setting up and configuring your LeadBoard:
 
 #### Step 1: define lead stages & key events
 
-1. Define the stage(s) your prospects and leads need to complete in order to become real opportunities (see complete explanation below). Typically 3-4.
+1. Define the stage(s) your prospects and leads need to complete in order to become real opportunities (see complete explanation below). Typically 3,4, or 5.
 2. Create a list of key events that are measured and categorize them to each stage (see  explanation below).
 
 #### Step 2: setup stages in LeadBoxer:
@@ -54,12 +54,12 @@ In most cases, a complete buyer journey can be defined using these 7 stages:
 3. **Discovery** : The buyer is checking out various solutions to their problem. Be in this list.
 4. **Interest** : The buyer is interested in a few solutions, wants to know more, test it, see it.
 5. **Evaluation** : the buyer has tested it, and is now evaluating and comparing solutions.
-6. **Intent** : The buyer has intent to buy an solution shortly, wants to negotiate price or contract.
-7. **Decision** : The buyer has decided on the best solution to their problem. becomes a customer.
+6. **Intent** : The buyer intends to buy a solution and wants to negotiate price or contract.
+7. **Decision** : The buyer has decided on the best solution to their problem. Becomes a customer.
 
-At LeadBoxer however, we tend to focus on the middle part of this journey: the stages where behaviour can be measured and categorised. So we usually do not use the stages: Awareness and Evaluation.
+At LeadBoxer we focus on the middle part of this journey: the stages where behaviour can be measured and categorised. So we usually do not use the stages: Awareness and Evaluation.
 
-So to get started, we recommend you focus on these 5 remaining stages:&#x20;
+To get started, we recommend you focus on these 5 remaining stages:&#x20;
 
 1. **Orientation**
 2. **Discovery**
