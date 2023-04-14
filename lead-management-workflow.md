@@ -14,7 +14,7 @@ Configuring your workflow will unlock the full potential of LeadBoxer. In real t
 **Main benefit**: for each lead you can actually see what stage they are in. \
 This determines how you interact and communicate with each lead. And who, in your company, will communicate with them; Marketing, Pre-sales, Customer Success or Sales.
 
-
+<figure><img src=".gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption><p>The LeadBoxer LeadBoard: "Like Trello, but with your leads"</p></figcaption></figure>
 
 {% hint style="info" %}
 ### What LeadBoxer features are involved?
