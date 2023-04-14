@@ -95,6 +95,6 @@ See how the Leadscore for any lead is calculated. Refer to our help docs to lear
 
 A section showing technical details about the browser, email client, connection, network, etc.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 ##
