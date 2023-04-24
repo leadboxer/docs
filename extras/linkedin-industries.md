@@ -4,6 +4,16 @@ This is the complete list of Industries and Industry groups as we use them in Le
 
 You can use these as individual filters or as groups
 
+## LinkedIn Industries v2
+
+You can find the up-to-date list of industries on the [Microsoft LinkedIn Industries](https://learn.microsoft.com/en-us/linkedin/shared/references/reference-tables/industry-codes-v2) documentation page.
+
+
+
+### Legacy Industries (v1)
+
+These are the old LeadBoxer industries and are phased out of our products.
+
 | <h3>Description</h3>                 | <h3>Groups</h3>  |
 | ------------------------------------ | ---------------- |
 | Accounting                           | corp, fin        |

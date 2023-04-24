@@ -6,13 +6,46 @@ description: >-
 
 # Changelog
 
+### 24-04-2023
+
+## Industry Categories Overhaul
+
+This was a big one, but we did it! We now have implemented the new LinkedIn version 2 Industry Categorization.
+
+#### From 148 to 421 industries
+
+This means that you will see any of the new 421 industry values in LeadBoxer and they replace the old version that only had 148 industries. The new industries are much more detailed and also make much more sense in many ways.
+
+#### Industry Grouping Filter
+
+We also implemented the new industry groupings, so if you dont want to choose individual industries, you can also select an industry group and filter on multiple industries in one go.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+
+## System events
+
+If you are using one of the new features we added like the LeadBoard and Importing Leads, you might have noticed that we have started adding events in the activity stream for updates that the LeadBoxer system did to this lead or account. We have modified the UI so you can now clearly distinct these from behavioural events, and added some context to the event itself.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
+
+### 10-04-2023
+
+## Allow LeadBoard without linked Segment
+
+You can now create a LeadBoard and only manually add leads. You can always add a segment later in the LeadBoard settings page.
+
+## UI / UX improvements
+
+* We added a reset button, so you can now easily reset and remove all filters/ (quick) segments you might have applied.
+* We changed the colouring of labels, to easier make a distinction between values.
+
 ### 01-04-2023
 
 ## New trigger and Actions to automate movement of LeadBoard cards through your funnel!
 
 We are super excited to announce that you can now configure LeadBoxer to automatically create new cards and move existing leadboard cards from one stage to another based on all the triggers we support.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 This means you can now create a **fully automated visual overview of your Lead Generation efforts!**
 
