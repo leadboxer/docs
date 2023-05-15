@@ -6,7 +6,21 @@ description: >-
 
 # Changelog
 
-### 24-04-2023
+#### 15-05-2023
+
+## New Trigger: Lead Tags
+
+You can now trigger a [Workflow Automation](changelog.md#workflow-automation), when you manually add or automatically set a lead tag. This is useful if you want to automate your [LeadBoard](../fundamentals/tasks.md) based on [Lead Tags](../fundamentals/elements/lead-tags.md).
+
+
+
+## Support for nested triggers for Workflow Automation
+
+We added the option to create groups of triggers to combine AND and OR conditions in the trigger settings.
+
+
+
+#### 24-04-2023
 
 ## Industry Categories Overhaul
 
@@ -28,7 +42,7 @@ If you are using one of the new features we added like the LeadBoard and Importi
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
 
-### 10-04-2023
+#### 10-04-2023
 
 ## Allow LeadBoard without linked Segment
 
@@ -39,7 +53,7 @@ You can now create a LeadBoard and only manually add leads. You can always add a
 * We added a reset button, so you can now easily reset and remove all filters/ (quick) segments you might have applied.
 * We changed the colouring of labels, to easier make a distinction between values.
 
-### 01-04-2023
+#### 01-04-2023
 
 ## New trigger and Actions to automate movement of LeadBoard cards through your funnel!
 
@@ -66,7 +80,7 @@ More details and instructions can be found in the [Upload Leads](changelog.md#up
 
 
 
-### 17-03-2023
+#### 17-03-2023
 
 ## Quick Segments
 
@@ -92,7 +106,7 @@ For more details see our documentation on [UTM tracking](../integrations/website
 
 
 
-### 03-03-2023
+#### 03-03-2023
 
 ## New Tag options
 
@@ -104,7 +118,7 @@ You can now manually add tags from 2 places: from the lead details window, but a
 
 To read more on Lead Tags, see the [Lead tags documentation](../fundamentals/elements/lead-tags.md) page.
 
-### 24-02-2023
+#### 24-02-2023
 
 ## Workflow Automation update
 
@@ -128,7 +142,7 @@ See complete [Workflow Automation](../fundamentals/elements/workflow-automation.
 
 
 
-### 08-02-2023
+#### 08-02-2023
 
 ## Easy Export for LinkedIn Matched Audiences
 
@@ -138,7 +152,7 @@ See the complete [LinkedIn Matched Audience](../fundamentals/elements/import-and
 
 
 
-### 17-01-2023
+#### 17-01-2023
 
 ## LeadBoxer 3.0 released&#x20;
 
@@ -160,17 +174,17 @@ You can read a full breakdown of the new [Leads & Accounts](../fundamentals/proj
 
 
 
-## 19-12-2022
+#### 19-12-2022
 
 This week so far, we fixed an issue with links to LinkedIn not working properly in some cases on the account details panel and actually link to the homepage of an organization if we know it.&#x20;
 
-## 15-12-2022
+#### 15-12-2022
 
 We added the option to manually create a Card on the LeadBoard, straight from from the Leads view. That sounds complicated but it is not really, just have a look at this screenshot and hopefully it wil make sense:
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (1) (3).png" alt=""><figcaption></figcaption></figure>
 
-### 07-12-2022
+#### 07-12-2022
 
 ## New Integration: Active Campaign
 
@@ -180,7 +194,7 @@ You can see the complete details of the integration [here](../integrations/other
 
 
 
-### 30-11-2022
+#### 30-11-2022
 
 ## New Enrichment Engine
 
@@ -200,7 +214,7 @@ To see them in action, go to your LeadBoard and click on one of your cards, and 
 
 ##
 
-## 22-11-2022
+#### 22-11-2022
 
 ### Bug-fixes and small improvements&#x20;
 
@@ -210,7 +224,7 @@ To see them in action, go to your LeadBoard and click on one of your cards, and 
 
 
 
-## 14-22-2022
+#### 14-22-2022
 
 ### Workflow automation
 
