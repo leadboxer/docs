@@ -1,3 +1,7 @@
+---
+description: Identify individuals that are known to you
+---
+
 # How to track user logins
 
 ### How to track and identify user/ clients/ customers when they log-in
@@ -6,11 +10,11 @@ In order to track user logins form your website, you can to collect client data 
 
 ### Submit data on load (preferred)
 
-The LeadBoxer tracking script library, once loaded, will immediately check for a function called " ot\_onload". This is a hidden function that if defined, gets executed. **This function needs to be loaded before the script itself and needs to include ot\_log\_state()** - to actually append all data before the default request to our logging servers is made.&#x20;
+The LeadBoxer tracking script library, once loaded, will immediately check for a function called "ot\_onload". This is a hidden function that if defined, gets executed. **This function needs to be loaded before the script itself and needs to include ot\_log\_state()** - to actually append all data before the default request to our logging servers is made.&#x20;
 
 A example looks like this:
 
-```
+```javascript
 <script type="text/javascript"> 
 function ot_onload() {
   // define variables
@@ -42,7 +46,8 @@ Make sure that: a. the default LeadBoxer javascript loads before the execution o
 
 A simple example looks like this:
 
-```
+{% code overflow="wrap" %}
+```javascript
 <script type="text/javascript">
 
 // define an empty variable called 'map' 
@@ -59,6 +64,7 @@ OTLogService.sendEvent("Login added", map, false);
 
 </script>
 ```
+{% endcode %}
 
 #### notes:
 
@@ -67,8 +73,3 @@ OTLogService.sendEvent("Login added", map, false);
 * You can change all the words that are inside quotes to suit your needs. For example you can dynamically generate the tag from your CMS
 * To retrieve the data, you can use the LeadBoxer interface or our API
 
-[Login](https://app.leadboxer.com/) or [Start a free trial](https://www.leadboxer.com/?signup=true)
-
-Still need help? [Contact Us](broken-reference)
-
-Last updated on April 8, 2022
