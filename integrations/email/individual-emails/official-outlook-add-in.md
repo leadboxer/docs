@@ -15,10 +15,29 @@ This technology can also track links clicked to your site (website activity) and
 
 ### Step 1: Start your (trial) license
 
-1. Login with your **Work or School account\***\
-   \* This is only needed to setup billing, once the license is activated you can add any MS email address. ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb824dccff47e00160bc335/file-pkskkKWwnl.png)
-2. Once logged in, select your Plan & Term. You can choose monthly or yearly billing. The first month is free and you can cancel at any time.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb827c3cff47e00160bc343/file-aTJgHD5cff.png)
-3. Select the number of seats you want to start with.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb827e34cedfd001610f207/file-MfHCKcOrux.png)
+1.  Login with your **Work or School account\***\
+    \* This is only needed to setup billing, once the license is activated you can add any MS email address.&#x20;
+
+    <div align="left">
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb824dccff47e00160bc335/file-pkskkKWwnl.png" alt=""><figcaption></figcaption></figure>
+
+    </div>
+2.  Once logged in, select your Plan & Term. You can choose monthly or yearly billing. The first month is free and you can cancel at any time.
+
+    <div align="left">
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb827c3cff47e00160bc343/file-aTJgHD5cff.png" alt=""><figcaption></figcaption></figure>
+
+    </div>
+3.  Select the number of seats you want to start with.\
+
+
+    <div align="left">
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb827e34cedfd001610f207/file-MfHCKcOrux.png" alt=""><figcaption></figcaption></figure>
+
+    </div>
 4. Add Payment method to be used for after the free trial
 5. Place your order and wait for Microsoft to process it
 
@@ -30,8 +49,12 @@ Once your order has been processed, you need to configure your license
 
 1. If you are still on the Appsource page, click the configure button&#x20;
 2. You will be redirected to the [Outlook subscription portal](https://subscription.leadboxer.com/) where you will need to authenticate / login again with your Microsoft credentials
-3. Once logged in, activate your license![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb829e34cedfd00165b29c1/file-V4hbm2Kn0l.png)
-4. Once activated, you can start assigning users to seats![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb82aed46e0fb0017fce3ea/file-QIoDvGUSaa.png)
+3.  Once logged in, activate your license
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb829e34cedfd00165b29c1/file-V4hbm2Kn0l.png" alt=""><figcaption></figcaption></figure>
+4.  Once activated, you can start assigning users to seats
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb82aed46e0fb0017fce3ea/file-QIoDvGUSaa.png" alt=""><figcaption></figcaption></figure>
 5. Each email address (user) added to the licensed users list will receive an email with instructions to install individually.
 
 ***
@@ -44,18 +67,30 @@ You can install the add-in individually, or if you are an MS Office Admin you ca
 
 #### To install as Individual:
 
-1. In your Outlook application, click on the **Get Add-ins** button, located in the top of your application![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60c1d23e96768369c70bc5a5/file-PATOS1rlbk.png)
-2. Click on the My add-ins tab and search for LeadBoxer, select and click **Add**![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60a3be34eb3af44cc1209b85/file-kUcIgiFMrt.png)
+1.  In your Outlook application, click on the **Get Add-ins** button, located in the top of your application
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60c1d23e96768369c70bc5a5/file-PATOS1rlbk.png" alt=""><figcaption></figcaption></figure>
+2.  Click on the My add-ins tab and search for LeadBoxer, select and click **Add**
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60a3be34eb3af44cc1209b85/file-kUcIgiFMrt.png" alt=""><figcaption></figcaption></figure>
 3. That's it. You add-in should appear in your Outlook environment and you can start tracking emails.
 
 #### To install as Group Admin&#x20;
 
 1. Login to your [Microsoft Office Portal](https://portal.office.com/adminportal/)
-2. Go to Settings > integrated Apps and click Get apps![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb82dd2cff47e0017d34129/file-buhAVuzBOD.png)
+2.  Go to Settings > integrated Apps and click Get apps
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb82dd2cff47e0017d34129/file-buhAVuzBOD.png" alt=""><figcaption></figcaption></figure>
 3. Search for LeadBoxer and select the **LeadBoxer for Outlook - Email Tracking Platform** and click the **Get it now** button
-4. Accept the generic permissions and agree with our terms:![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db81d0604286364bc91060d/file-C3klXymMPy.png)
-5. Configure the add-in![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb83053cff47e00160bc36d/file-LClxCnFq2G.png)
-6. Accept permissions![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb830974cedfd00165b29ea/file-nc5OZaKxJk.png)
+4.  Accept the generic permissions and agree with our terms:
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db81d0604286364bc91060d/file-C3klXymMPy.png" alt=""><figcaption></figcaption></figure>
+5.  Configure the add-in
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb83053cff47e00160bc36d/file-LClxCnFq2G.png" alt=""><figcaption></figcaption></figure>
+6.  Accept permissions
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb830974cedfd00165b29ea/file-nc5OZaKxJk.png" alt=""><figcaption></figcaption></figure>
 7. Once finished, and depending on your configuration your users can now install the plugin. Make sure that each user is registered in the LB portal. There should be no need to configure the add-in on the client side.
 
 ***
@@ -72,7 +107,9 @@ The dataset ID field should automatically be populated with your dataset ID if y
 
 > _Note: Outlook for Mac email client not supported at the moment_
 
-In order for us to start tracking the links in your emails, you need to enable this feature and specify the domains you want us to track: ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60a3d46eeb3af44cc1209c4a/file-VqzZo0xPts.png)
+In order for us to start tracking the links in your emails, you need to enable this feature and specify the domains you want us to track:&#x20;
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60a3d46eeb3af44cc1209c4a/file-VqzZo0xPts.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -93,8 +130,12 @@ This will add the tracking pixel and append the links inside your emails with tr
 
 Once the email is sent, you can see tracking details either from within Outlook, or log in to the LeadBoxer app and see all activity.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db820d72c7d3a7e9ae32c67/file-5MKB0PvRx6.png) ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db821142c7d3a7e9ae32c6c/file-UpOucDLtyI.png)
+<div data-full-width="true">
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+<img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db820d72c7d3a7e9ae32c67/file-5MKB0PvRx6.png" alt="">
 
-Last updated on June 10, 2021
+ 
+
+<img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db821142c7d3a7e9ae32c6c/file-UpOucDLtyI.png" alt="">
+
+</div>
