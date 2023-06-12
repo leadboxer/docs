@@ -43,7 +43,9 @@ You can download the latest version of the Outlook plugin here: [Download](https
 
 When the recipient opens the email and / or clicks the link in the email we will capture this activity and add this to your data.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c6bf7142c7d3a66e32ea079/file-synppbzJM4.png)Including full behaviour of all email open and clicks
+Including full behaviour of all email open and clicks
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c6bf7142c7d3a66e32ea079/file-synppbzJM4.png" alt=""><figcaption></figcaption></figure>
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c6afd022c7d3a66e32e97f6/file-xgw18SGSWN.png)
 

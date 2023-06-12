@@ -4,7 +4,11 @@
 
 ### Customise leadscore&#x20;
 
+<div align="left">
+
 <figure><img src="https://gallery.mailchimp.com/bf6600641dcdb33445c8b6553/images/8710ca03-9097-409d-b8d1-46da82638995.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **Q: what does this mean in english?**
 

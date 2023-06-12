@@ -42,7 +42,11 @@ we allow for you to use wildcards in both the organizationDomain and organizatio
 2. Click the Upload button, a new window will appear
 3.  Provide a name for your list, select the .CSV file from step 1 and press Save
 
+    <div align="left">
+
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/6203c2ac68cd260cc2d394a8/file-6EoYoBqchI.png" alt=""><figcaption></figcaption></figure>
+
+    </div>
 
 Here is a screenshot of how it can look like if you have multiple lists:
 
@@ -56,6 +60,10 @@ Once the list is uploaded, you can use it using the List Filter on the leads & a
 
 1.  Find and select the list from in the filters when creating a new Segment.
 
+    <div align="left">
+
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/6203c3eb025ca67522c795b7/file-D5R7EfJ7RA.png" alt=""><figcaption></figcaption></figure>
+
+    </div>
 2. Apply and see the results.
 3. Save as segment and optionally set notification, see the [Segment documentation](../fundamentals/elements/segments.md) on how to do this.

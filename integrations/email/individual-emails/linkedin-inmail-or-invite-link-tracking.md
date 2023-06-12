@@ -16,8 +16,10 @@ Let's assume you have a list of the high-value target contacts that you are goin
 
 Here are the steps:
 
-1. Modify your list of recipients you want to contact via InMail or invite and add a column with an ID.\
-   This ID can be anything, in this example we simply choose to use a number.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f58a87fc9e77c00160375ee/file-jBZizQYFOw.png)
+1.  Modify your list of recipients you want to contact via InMail or invite and add a column with an ID.\
+    This ID can be anything, in this example we simply choose to use a number.
+
+    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f58a87fc9e77c00160375ee/file-jBZizQYFOw.png" alt=""><figcaption></figcaption></figure>
 2. Upload the list to the automation tool you have chosen and make sure the ID is added as a custom field in your audience list
 3.  Compose your InMail or Invite message, add your website link and append the link with a parameter that includes the ID.
 

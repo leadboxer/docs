@@ -55,7 +55,7 @@
   * [Tracking pixel into Wix](integrations/website/leadboxer-lead-pixel-into-wix.md)
 * [✉ Email](integrations/email/README.md)
   * [Individual emails](integrations/email/individual-emails/README.md)
-    * [Gmail](integrations/email/individual-emails/github-integration.md)
+    * [Gmail Email tracking](integrations/email/individual-emails/gmail-email-tracking.md)
     * [G Suite email tracking](integrations/email/individual-emails/g-suite-email-tracking.md)
     * [Official Outlook Add-in](integrations/email/individual-emails/official-outlook-add-in.md)
     * [Advanced Outlook Add-in](integrations/email/individual-emails/advanced-outlook-add-in.md)

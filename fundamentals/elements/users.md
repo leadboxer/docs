@@ -2,19 +2,7 @@
 
 ### Permissions overview
 
-| Permission                          | User                 | Admin                |
-| ----------------------------------- | -------------------- | -------------------- |
-| View all leads & accounts           | :white\_check\_mark: | :white\_check\_mark: |
-| View & edit all Segments            |                      | :white\_check\_mark: |
-| View & edit their own Segments      | :white\_check\_mark: | :white\_check\_mark: |
-| Access & manage integrations        |                      | :white\_check\_mark: |
-| Acces & manage Clients / agents     |                      | :white\_check\_mark: |
-| Acces & manage lists                |                      | :white\_check\_mark: |
-| Access & manage Users               |                      | :white\_check\_mark: |
-| Access & manage Datasets (sites)    |                      | :white\_check\_mark: |
-| Access & manage their LeadBoards    | :white\_check\_mark: | :white\_check\_mark: |
-| Access and edit Workflow Automation |                      | :white\_check\_mark: |
-| Upload Leads                        | :white\_check\_mark: | :white\_check\_mark: |
+<table><thead><tr><th width="343">Permission</th><th>User</th><th>Admin</th></tr></thead><tbody><tr><td>View all leads &#x26; accounts</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>View &#x26; edit all Segments</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>View &#x26; edit their own Segments</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Access &#x26; manage integrations</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Acces &#x26; manage Clients / agents</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Acces &#x26; manage lists</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Access &#x26; manage Users</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Access &#x26; manage Datasets (sites)</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Access &#x26; manage their LeadBoards</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Access and edit Workflow Automation</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Upload Leads</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr></tbody></table>
 
 ### Ownership
 

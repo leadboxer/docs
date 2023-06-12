@@ -15,7 +15,11 @@ Note: you need to have admin permissions to be able to add or modify users
 4. Enter details of your colleague&#x20;
 5. Select the dataset(s) for which the user will have permissions&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/LeadBoxer_App (12).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 6. Once saved, an email will be sent to the new user asking them to create a password and they will then have access to the account.
 

@@ -62,7 +62,7 @@ To measure email opens, a pixel specific to email tracking needs to be implement
 
 Description: Track all individual emails that you (or colleagues) send from a mail client program.&#x20;
 
-* [Gmail](integrations/email/individual-emails/github-integration.md) &#x20;
+* [Gmail](integrations/email/individual-emails/gmail-email-tracking.md) &#x20;
 * [G Suite](integrations/email/individual-emails/g-suite-email-tracking.md)
 * [Office 365 / Outlook 365](integrations/email/individual-emails/official-outlook-add-in.md)
 * [Manually](integrations/email/individual-emails/manually-identify-leads-using-email.md)

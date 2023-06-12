@@ -32,7 +32,9 @@ To do so, select any email in your account to display the LeadBoxer panel conten
 
 ***
 
-In Settings, add your dataset ID (you can find this in your datasets overview [here](https://app.leadboxer.com/datasets).) ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d9c5dfc2c7d3a7e9ae23630/file-SqWfWT0BSX.png)
+In Settings, add your dataset ID (you can find this in your datasets overview [here](https://app.leadboxer.com/datasets).)&#x20;
+
+<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d9c5dfc2c7d3a7e9ae23630/file-SqWfWT0BSX.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

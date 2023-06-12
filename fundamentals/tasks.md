@@ -6,7 +6,11 @@ The LeadBoard is a [kanban](https://en.wikipedia.org/wiki/Kanban)-style overview
 
 The concept is not super complicated (that is the beauty of it) and you might already be familiar with it as many tools already have used the concept, the most well-known tool is Trello.
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/wat_is_kanban_.png" alt=""><figcaption><p>The basic Kanban board</p></figcaption></figure>
+
+</div>
 
 In our case, we have applied the concept so that each 'card' on your LeadBoard represents a Lead or Account. The natural flow is that your cards or Leads move from left tot right as they travel through your marketing workflow or funnel.&#x20;
 

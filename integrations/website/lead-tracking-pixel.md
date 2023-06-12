@@ -150,12 +150,7 @@ OTLogService.sendEvent("gender logged", map);
 
 These are de functions you can use for adding properties using a map
 
-| **var map = newOTMap();** | define an empty variable called 'map'                            |
-| ------------------------- | ---------------------------------------------------------------- |
-| **map.put**               | insert data into an object (map) as a property name/ value pair. |
-| **map.get**               | <p>read a previous value set <br></p>                            |
-| **map.clear**             | used to clear all the data in a                                  |
-| **map.remove**            | use to remove specific property from a map                       |
+<table data-header-hidden><thead><tr><th width="235"></th><th></th></tr></thead><tbody><tr><td><strong>var map = newOTMap();</strong></td><td>define an empty variable called 'map'</td></tr><tr><td><strong>map.put</strong></td><td>insert data into an object (map) as a property name/ value pair.</td></tr><tr><td><strong>map.get</strong></td><td>read a previous value set <br></td></tr><tr><td><strong>map.clear</strong></td><td>used to clear all the data in a</td></tr><tr><td><strong>map.remove</strong></td><td>use to remove specific property from a map</td></tr></tbody></table>
 
 Once your map has been defined, you can send it to us with a simple javascript function:
 
