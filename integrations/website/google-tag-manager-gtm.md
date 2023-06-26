@@ -8,30 +8,44 @@ Steps:
 
 1. Login to your Google Tag Manager and access your container
 2. To add the Lead Pixel, click on ‘add new tag’&#x20;
-3.  Name your tag as LeadBoxer pixel or LeadPixel and select ‘custom HTML in the Tag Configuration section\
+3.  For Tag type, choose: Discover more tag types\
 
 
-    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf1ec12c7d3a04dd5b8a2a/file-XMMheyuVPu.png" alt=""><figcaption><p>Add a new Tag</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (2).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Cut & paste your Tracking Pixel. You can find your tracking pixel on the [datasets overview page](https://app.leadboxer.com/datasets) under the settings icon.\
+4.  Search for LeadBoxer\
 
 
-    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf20bd2c7d3a04dd5b8a3d/file-7okdOvbb7b.png" alt=""><figcaption><p>Add code to Tag</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (6).png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Next you need to select or create your Trigger. We recommend to set it on all pageviews.
+5.  Add the LeadBoxer pixel tag to your workspace\
+
+
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager_and_Onboarding.png" alt=""><figcaption></figcaption></figure>
+
+
+6.  Cut & paste your dataset ID. You can find your dataset ID [datasets overview page](https://app.leadboxer.com/datasets). Also give your tag a clear name.\
+
+
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (5).png" alt=""><figcaption><p>Add code to Tag</p></figcaption></figure>
+
+
+7.  Next you need to select or create your Trigger. We recommend to set it on all pageviews.
 
 
 
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf21c0042863158cc74cb9/file-lBUJmSoc1S.png" alt=""><figcaption><p>Trigger on all pageviews</p></figcaption></figure>
-6.  Save the trigger and the tag\
+
+
+8.  Save the trigger and the tag\
 
 
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5bbf22ca2c7d3a04dd5b8a57/file-PMMGKCZW8A.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Don't forget to Submit (publish) your changes - you’re done, you now have the basic Lead Pixel (javascript) working.
+9. Don't forget to Submit (publish) your changes - you’re done, you now have the basic Lead Pixel (javascript) working.
 
 ## Events
 
@@ -74,7 +88,7 @@ If you want to track on-page events using the Google Tag manager, you can follow
     To be a able to trigger based on a click you need to enable these specific click variables. \
     Variables are little pieces of information that can be used both in Tags and Triggers. For example, **Click ID**. You can use it as a trigger condition (e.g. _fire the LeadBoxer Event code **when** the ID of the clicked link equals to “main-cta-link”_).
 
-    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  **In GTM tag assistant, Find the variable values to trigger on**\
     Go to preview mode and on your site, click on the button you want to track. Switch to the assistant mode and you should see the button click listed in your behaviour.\
     Select this click and find the right variable. (in our case the button text works, but you might want to use ID, class, URL or any of the above variables.) \
@@ -87,7 +101,7 @@ If you want to track on-page events using the Google Tag manager, you can follow
     In Google Tag Manager, go to Triggers > Trigger Configuration > New > Click - All elements. Set the trigger to only to fire on some Clicks and choose your variable from step 2.\
 
 
-    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  **Create a LeadBoxer Event tag to fire on this trigger**\
