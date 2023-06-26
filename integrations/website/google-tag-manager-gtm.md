@@ -2,6 +2,10 @@
 
 ### How to place the Lead Tracking Pixel in your website using Google Tag Manager (GTM)
 
+{% embed url="https://leadboxer.wistia.com/medias/t0801ta53m" %}
+
+### Step by step guide
+
 Here are the basic steps needed to publish the Lead Pixel in your website and start converting anonymous traffic into leads.
 
 Steps:
