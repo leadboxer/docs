@@ -110,7 +110,7 @@ For more details see our documentation on [UTM tracking](../integrations/website
 
 ## New Tag options
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (3).png" alt=""><figcaption></figcaption></figure>
 
 You can now manually add tags from 2 places: from the lead details window, but also from the leads & accounts list.
 

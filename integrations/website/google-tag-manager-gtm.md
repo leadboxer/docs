@@ -15,13 +15,13 @@ Steps:
 3.  For Tag type, choose: Discover more tag types\
 
 
-    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager.png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Search for LeadBoxer\
 
 
-    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (5).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  Add the LeadBoxer pixel tag to your workspace\
@@ -33,7 +33,7 @@ Steps:
 6.  Cut & paste your dataset ID. You can find your dataset ID [datasets overview page](https://app.leadboxer.com/datasets). Also give your tag a clear name.\
 
 
-    <figure><img src="../../.gitbook/assets/Google_Tag_Manager.png" alt=""><figcaption><p>Add code to Tag</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Google_Tag_Manager (1).png" alt=""><figcaption><p>Add code to Tag</p></figcaption></figure>
 
 
 7.  Next you need to select or create your Trigger. We recommend to set it on all pageviews.
