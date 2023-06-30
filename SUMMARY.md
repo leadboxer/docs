@@ -30,6 +30,7 @@
     * [LinkedIn Matched Audiences export](fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
     * [Custom Properties](fundamentals/elements/import-and-export/custom-properties.md)
     * [LeadBoxer User Interface Placeholder Names](fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
+  * [Roles & Permissions](fundamentals/elements/roles-and-permissions.md)
 
 ## 🧩 Integrations
 
