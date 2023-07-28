@@ -115,7 +115,7 @@
 * [How to add a datasets](guides/how-to-add-a-datasets.md)
 * [How to create a notification](guides/how-to-create-a-notification.md)
 * [How to set your Leadscore](guides/how-to-set-your-leadscore.md)
-* [How to hide leads, customers, team memebers, etc](guides/how-to-hide-leads-customers-team-memebers-etc.md)
+* [How to hide & unhide Leads](guides/how-to-hide-and-unhide-leads.md)
 * [Filter Leads from ad campaigns](guides/filter-leads-from-ad-campaigns.md)
 * [How to create a Workflow Automation](guides/how-to-create-a-workflow-automation.md)
 * [How to mask IP addresses](guides/how-to-mask-ip-addresses.md)

@@ -1,4 +1,10 @@
-# How to hide leads, customers, team memebers, etc
+---
+description: >-
+  This is useful if you would like to hide colleagues, accounts, customers, your
+  marketing agency, etc
+---
+
+# How to hide & unhide Leads
 
 Q: Can I exclude or hide visits from myself or my colleagues
 
@@ -28,10 +34,10 @@ Choose to either hide just this one lead, or all leads from this company. Click 
 
 If you have hidden an entry by accident or would like to see your hidden leads, you need to apply the 'hidden' value in the display filter:
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App_and__16256_Re__Unknown_Leadboxer_Leads_-_Tyler_Massicotte.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App_and__16256_Re__Unknown_Leadboxer_Leads_-_Tyler_Massicotte (1).png" alt=""><figcaption></figcaption></figure>
 
 Add a filter called 'Display', select 'Hidden' and apply.
 
 Find the entry you want to unhide and click the options icon and select Unhide
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App_and__16256_Re__Unknown_Leadboxer_Leads_-_Tyler_Massicotte (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App_and__16256_Re__Unknown_Leadboxer_Leads_-_Tyler_Massicotte.png" alt=""><figcaption></figcaption></figure>
