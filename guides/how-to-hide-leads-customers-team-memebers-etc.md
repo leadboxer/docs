@@ -18,8 +18,8 @@ Now you can hide all entries coming from a company that you don't want in your l
 
 **1.** [**Login**](https://product.leadboxer.com/?email=%3C%3CEmail%20Address%3E%3E) and go to your Leadboard. Locate the lead / customer/ employee you want hidden and click the icon with the 3 dots.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5b87f8b32c7d3a03f89e4800/file-SqdFADD5qu.png)
+![](<../.gitbook/assets/LeadBoxer\_App (16).png>)
 
 Choose to either hide just this one lead, or all leads from this company. Click submit and your lead list will become a lot cleaner.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5b87f9d00428631d7a8a8a62/file-Ugu3I6Tyfm.png)
+![](<../.gitbook/assets/LeadBoxer\_App (17).png>)

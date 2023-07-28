@@ -36,7 +36,7 @@ Make sure our tracking pixel is installed on your website or the landing page!
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5e739e7a2c7d3a7e9ae97563/file-xfYgFf4RjA.png)
 
-***
+
 
 #### 2. Automatic identification using a link shortener
 

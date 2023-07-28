@@ -4,7 +4,7 @@ _**Q: Can I change the content of my site based on some basic behavioural proper
 
 **A: Yes, this is possible: By reading the LeadBoxer cookies with javascript, you can get basic information like number of sessions and pageviews.**
 
-***
+
 
 #### LeadBoxer cookies (yum ;)
 

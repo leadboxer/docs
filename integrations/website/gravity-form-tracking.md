@@ -25,7 +25,7 @@ Here are the steps:
 
 ### Thats it.
 
-***
+
 
 **Manual setup (legacy)**
 

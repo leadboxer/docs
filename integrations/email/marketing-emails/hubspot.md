@@ -18,7 +18,7 @@ Alternatively, you can add an image from an URL  like this:
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d9f34c22c7d3a7e9ae25805/file-Z3n5jih2z8.png) ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5d9f352f2c7d3a7e9ae2581d/file-AheGf4jI5H.png)
 
-***
+
 
 Make sure you enable the Hubspot integration so we can connect your Hubspot contacts with LeadBoxer leads.
 

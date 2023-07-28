@@ -50,7 +50,7 @@ https://www.YOURDOMAINNAME.com/my-landing-page/?firstName=%FIRSTNAME%&lastName=%
 
 Tip: Best practice is to test before sending out a mass email
 
-***
+
 
 To see more on For more details see these pages:
 
