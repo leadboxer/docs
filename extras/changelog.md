@@ -119,6 +119,8 @@ If you are using one of the new features we added like the LeadBoard and Importi
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 #### 10-04-2023
 
 ## Allow LeadBoard without linked Segment
