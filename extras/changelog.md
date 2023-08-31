@@ -6,19 +6,96 @@ description: >-
 
 # Changelog
 
+#### 31-08-2023
+
+## Duplicate LeadBoard
+
+We added the option to duplicate a LeadBoard, also to another dataset.&#x20;
+
+This is particularly useful if you want to create multiple leadboards for multiple sites, sales-teams, products, etc.&#x20;
+
+{% hint style="info" %}
+A duplicate will not duplicate the content aka LeadCards, but only the stages&#x20;
+{% endhint %}
+
+***
+
+#### 25-08-2023
+
+## UI improvements
+
+* Clicking the close /remove icon (x) and removing a filter from a selection or Segment now reloads the Leads & Accounts view.
+* We fixed a bug causing scroll-bards to appear in the top dropdown navigation
+* You can now horizontally drag and drop columns on the LeadBoard and your browser will automatically scroll to the left or right.
+
+***
+
+#### 18-08-2023
+
+## LeadBoard Ownership
+
+We added the concept of 'ownership' on the LeadBoard, allowing you to assign one of your users to become the 'owner' of a Leadcard.
+
+Easy user Avatars allow you to quickly filter the Board for your or other owners cards.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 08-08-2023
+
+## Batch Update Leads&#x20;
+
+We have added the option to batch update a list of leads, meaning you can now select multiple leads and perform an action for all the selected leads.&#x20;
+
+For now, you can add or remove Tags in batch mode. In the near future we will add other actions like hide, assign, add to LeadBoard, etc.
+
+
+
+***
+
+#### 04-07-2023
+
+## Roles & Permissions
+
+We have implemented a robust roles and permissions system to help you manage user access and control within your organization.&#x20;
+
+For a complete overview of all documentation see the [Roles & Permissions](changelog.md#roles-and-permissions) page.
+
+## Improved Lead details&#x20;
+
+We changed the location where we show the preview of the organization to be more prominent. We also added the option to manually link an organization to a lead. This is useful if you actually know the organization of an unidentified visitor (eg because you were just on the phone with them) you can aslos 'unlink' an organisation if you want to update or improve the data.
+
+
+
+***
+
+#### 20-06-2023
+
+## Multiple Actions in Workflow Automation
+
+You can now set up to 3 actions in the same Automation, for example: Add a tag, move to Stage, and add a custom property.
+
+#### Other updates:
+
+* Segment Overview UI fixes
+* Improved Active Campaign integration
+
+***
+
 #### 15-05-2023
 
 ## New Trigger: Lead Tags
 
 You can now trigger a [Workflow Automation](changelog.md#workflow-automation), when you manually add or automatically set a lead tag. This is useful if you want to automate your [LeadBoard](../fundamentals/tasks.md) based on [Lead Tags](../fundamentals/elements/lead-tags.md).
 
-
-
 ## Support for nested triggers for Workflow Automation
 
 We added the option to create groups of triggers to combine AND and OR conditions in the trigger settings.
 
 
+
+***
 
 #### 24-04-2023
 

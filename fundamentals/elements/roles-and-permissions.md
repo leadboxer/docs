@@ -36,7 +36,7 @@ In LeadBoxer, we have implemented a robust roles and permissions system to help 
 * After creating the custom role, you can customize the permissions by enabling or disabling specific actions or access rights.
 * You can assign the custom role to individual users from the Users overview page as needed.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (18).png" alt=""><figcaption></figcaption></figure>
 
 ## How to set a Role for a User:
 
