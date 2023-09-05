@@ -89,7 +89,7 @@
     * [Mail Merge (MS Word)](integrations/email/marketing-emails/mail-merge-ms-word.md)
 * [Other](integrations/for-support/README.md)
   * [Active Campaign](integrations/other/active-campaign.md)
-  * [Hubspot](integrations/for-support/hubspot.md)
+  * [HubSpot](integrations/for-support/hubspot.md)
   * [Marketo](integrations/for-support/marketo.md)
   * [LinkedIn](integrations/for-support/linkedin.md)
     * [LinkedIn job titles search](integrations/other/linkedin/linkedin-job-titles-search.md)
