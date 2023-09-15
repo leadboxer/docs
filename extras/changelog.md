@@ -6,6 +6,18 @@ description: >-
 
 # Changelog
 
+#### 15-09-2023
+
+## Search & Sort your leads on the LeadBoard&#x20;
+
+You can now search through all leads on your LeadBoard, and also sort leads based on either the last lead activity or last LeadCard modification date.
+
+You also choose ascending or descending in each column by clicking the little arrows.
+
+To make room for these new features we moved the help button and switch LeadBoard to the top header bar.
+
+<figure><img src="../.gitbook/assets/Notification_Center.png" alt=""><figcaption></figcaption></figure>
+
 #### 31-08-2023
 
 ## Duplicate LeadBoard
