@@ -6,6 +6,29 @@ description: >-
 
 # Changelog
 
+#### 25-09-2023
+
+## Improved Referrer details
+
+We improved the referrer data we capture for all website visitors.
+
+Meaning we now have these 4 fields:
+
+* First Referrer (full URL)
+* First Referring domain
+* Last Referrer full URL)
+* Last Referring domain&#x20;
+
+## URL Routing
+
+We have added 'routing' to our application, meaning you can now copy & paste and share the browser URL from the Leadboxer application or link to any Lead, Account or Leadcard. The person opening that link will automatically be taken to the right report, date-range and selected item.
+
+## Redirect
+
+If a user that is trying to access a direct link to a Lead, Account or LeadCard in the LeadBoxer application and this user is not logged in, the user will be first taken to the login page, and after successful login we will now redirect this user to the correct item.
+
+***
+
 #### 15-09-2023
 
 ## Search & Sort your leads on the LeadBoard&#x20;
@@ -17,6 +40,8 @@ You also choose ascending or descending in each column by clicking the little ar
 To make room for these new features we moved the help button and switch LeadBoard to the top header bar.
 
 <figure><img src="../.gitbook/assets/Notification_Center.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 #### 31-08-2023
 
