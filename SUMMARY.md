@@ -131,7 +131,7 @@
 * [Changelog](extras/changelog.md)
 * [Email tracking info](extras/email-tracking-info.md)
 * [linkedIn industries](extras/linkedin-industries.md)
-* [LeadBoxer reseller best practices](extras/leadboxer-reseller-best-practices.md)
+* [LeadBoxer reseller getting started](extras/leadboxer-reseller-getting-started.md)
 * [How to contact leads](extras/how-to-contact-leads.md)
 * [LeadBoxer cookies](extras/leadboxer-cookies.md)
 
