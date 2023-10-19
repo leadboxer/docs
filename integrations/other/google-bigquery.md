@@ -1,4 +1,10 @@
-# Google Big Query
+---
+description: >-
+  Here you can find the instructions to Setup your google BigQuery account so
+  that LeadBoxer can push the raw analytics data to your BigQuery Tables.
+---
+
+# Google BigQuery
 
 ### Prerequisites <a href="#h_cd7bfcb583" id="h_cd7bfcb583"></a>
 

@@ -88,7 +88,6 @@
     * [Outreach](integrations/email/marketing-emails/outreach.md)
     * [Mail Merge (MS Word)](integrations/email/marketing-emails/mail-merge-ms-word.md)
 * [Other](integrations/for-support/README.md)
-  * [Google Big Query](integrations/other/google-big-query.md)
   * [Active Campaign](integrations/other/active-campaign.md)
   * [HubSpot](integrations/for-support/hubspot.md)
   * [Marketo](integrations/for-support/marketo.md)
@@ -106,6 +105,7 @@
   * [Pipedrive](integrations/other/pipedrive/README.md)
     * [Pipedrive Workflow Automation with LeadBoxer](integrations/website/pipedrive-workflow-automation-with-leadboxer.md)
   * [Whatagraph](integrations/other/whatagraph.md)
+  * [Google BigQuery](integrations/other/google-bigquery.md)
 
 ## 🦮 Guides
 
