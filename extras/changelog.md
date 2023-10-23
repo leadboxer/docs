@@ -6,6 +6,34 @@ description: >-
 
 # Changelog
 
+#### 23-10-2023
+
+## Google BigQuery integration
+
+We now support native export of LeadBoxer data into Google BigQuery.
+
+Push all your raw analytics and behavioural data into this powerful storage platform and write custom queries to analyse and visualize your data.&#x20;
+
+This also enables 1 click export to Google Looker Studio!
+
+## Download improvements for Leads & Accounts
+
+* Your downloaded file now has the same column order as what you seen on your screen
+* Downloaded files now have a more descriptive title\
+  eg: **LeadBoxer-Leads-mysegment-20230901-20230907.csv**
+* You can now also modify the name of the file you are downloading
+* When selecting Excel format, we now hide the delimiter dropdown&#x20;
+* When you start a download, we now automatically close the download modal
+
+## Other
+
+* We fixed several bugs on the LeadBoard
+* Speed improvements
+
+
+
+
+
 #### 25-09-2023
 
 ## Improved Referrer details
