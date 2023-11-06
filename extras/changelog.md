@@ -6,6 +6,14 @@ description: >-
 
 # Changelog
 
+#### 02-11-2023
+
+## New Date-Range Picker
+
+We updated and improved the date-range picker, to make it more intuitive and easy to use.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App_and_Changelog_-_Public_docs.png" alt=""><figcaption></figcaption></figure>
+
 #### 23-10-2023
 
 ## Google BigQuery integration

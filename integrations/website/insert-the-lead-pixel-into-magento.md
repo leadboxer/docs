@@ -10,7 +10,7 @@
 
 **Put your pixel in Miscellaneous Scripts and Save Config.**
 
-
+***
 
 **Magento 2.0.x:**\
 Go to _Admin > Stores > Configuration > General > Design > HTML Head_
@@ -19,7 +19,7 @@ Change the scope via _Store View_ selector located on top-left of the page.
 
 Put your pixel in **Miscellaneous Scripts** and **Save Config**.
 
-
+***
 
 **Magento 2.1.x/2.2.x:**
 

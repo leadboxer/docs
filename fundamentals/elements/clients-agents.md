@@ -19,7 +19,7 @@ In LeadBoxer, you can add multiple datasets (websites) to your account and colle
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61d598dea6a5ee76d8a2d5c9/file-H82oJYmWw4.png)
 
-
+***
 
 Next, we'll explain how you can add segments, clients, and users to a specific client.
 
@@ -36,7 +36,7 @@ Next, we'll explain how you can add segments, clients, and users to a specific c
 
 ![](https://lh6.googleusercontent.com/J-CIoAqsuMStJZD6jc1yTkqQ3tmBEV3P5Wyz4bl4Qwg0ATAe5\_KkqpPOh7zc6CNylW4M5L8XPtHz\_kvOBH0qoSYpnmGPgTk7yq3S-hohkNOCULrsQRNSYFcF1up81NcEYZxOhqyX)
 
-
+***
 
 #### 2. Adding a new Client&#x20;
 
@@ -48,7 +48,7 @@ Next, we'll explain how you can add segments, clients, and users to a specific c
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61fd3f8c68cd260cc2d37f20/file-xSHNljEYK3.png)
 
-
+***
 
 #### 3. Adding users to a client group
 

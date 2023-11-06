@@ -24,7 +24,7 @@ Notes:
 * you can add other template variables as parameters if you have them, eg _\&companyName={$companyName}_\
 
 
-
+***
 
 ### Step 2: Track email clicks and identify prospects on your site
 
@@ -44,7 +44,7 @@ https://www.YOURDOMAINNAME.com/my-landing-page/?firstName={$firstName}&lastName=
 
 Tip: Best practice is to test before sending out a mass email
 
-
+***
 
 To see more on For more details see these pages:
 

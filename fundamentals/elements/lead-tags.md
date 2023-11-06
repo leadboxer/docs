@@ -27,7 +27,7 @@ Using tags is simple, and involves just 2 steps:
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_App (9) (1).png" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 ## Automatically tag leads
 

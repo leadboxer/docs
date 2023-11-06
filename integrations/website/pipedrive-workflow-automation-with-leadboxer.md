@@ -6,7 +6,7 @@ Automation can take a trigger event and perform one or many actions if the trigg
 
 The possibilities are endless, but go get you going we are going to prove an example. In this example we are going to fire a slack message if a lead or customer looks at the pricing page.
 
-
+***
 
 #### Step 1: go to automation and create a new Automation
 
