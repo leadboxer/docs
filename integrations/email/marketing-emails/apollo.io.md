@@ -8,16 +8,16 @@ To track mail open/reads from your Apollo audience in LeadBoxer, you need to add
 
 Here are the steps needed for adding the tracking pixel:
 
-1. Go to your campaign or template
-2. Create or edit an element where we can add our tracking pixel, usually a footer element or similar.
-3.  Switch to HTML view, so you can ad HTML code (\</>)
+1. Go to your sequence templates
+2. Choose the mail template you want to track
+3.  Switch to HTML view, so you can ad HTML code (< >)
 
     <figure><img src="../../../.gitbook/assets/Cursor (1).png" alt=""><figcaption></figcaption></figure>
 4. Paste your email tracking pixel into the bottom of the HTML:
 
 {% code overflow="wrap" %}
 ```html
-<div><img src="https://track.leadboxer.com/log?datasetId=YOUR-DATASET-ID&campaign=Apollo-outreach-email-day-01&email={{email}}&firstName={{first_name}}&lastName={{last_name}}&companyName={{company}}"></div>
+<img src="https://track.leadboxer.com/log?datasetId=YOUR-DATASET-ID&campaign=Apollo-outreach-email-day-01&email={{email}}&firstName={{first_name}}&lastName={{last_name}}&companyName={{company}}">
 ```
 {% endcode %}
 
@@ -26,7 +26,7 @@ Here are the steps needed for adding the tracking pixel:
 **Notes:**
 
 * Don't forget to change the DATASET ID to your own.&#x20;
-* You can add additional data fields variables as parameters by simply adding these to the pixel, eg \&companyName=\{{ contact.data.company \}}
+* You can add additional data fields variables as parameters by simply adding these to the pixel, eg \&companyName=\{{company\}}
 * For more details on advanced data fields in Apollo see:&#x20;
 * [https://knowledge.apollo.io/hc/en-us/articles/4409415084813-Use-Basic-Dynamic-Variables#toc\_3](https://knowledge.apollo.io/hc/en-us/articles/4409415084813-Use-Basic-Dynamic-Variables#toc\_3)
 
@@ -52,5 +52,5 @@ https://www.YOURDOMAINNAME.com/my-landing-page/?firstName={{first_name}}&lastNam
 ```
 {% endcode %}
 
-NOTE: remember to update 'YOURDOMAINNAME' with your url.\
+NOTE: remember to update the landing page with your url.\
 Tip: Best practice is to test before sending out a mass email
