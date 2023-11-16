@@ -34,7 +34,7 @@ we allow for you to use wildcards in both the organizationDomain and organizatio
 
 **Troubleshooting**: if you get an error when uploading your .CSV, make sure there are no additional columns in your CSV file. The formatting is strict.
 
-***
+
 
 ### **Step 2: Upload list**
 

@@ -31,7 +31,7 @@ Close and Save
   * _firstName=_\{{person.firstname\}}
   * etc
 
-***
+
 
 ### Step 2: Track email clicks and identify prospects on your site
 
