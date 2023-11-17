@@ -85,6 +85,7 @@
     * [Constant Contact](integrations/email/marketing-emails/constant-contact.md)
     * [dotdigital](integrations/email/marketing-emails/dotdigital.md)
     * [Apollo.io](integrations/email/marketing-emails/apollo.io.md)
+    * [Campaign Monitor](integrations/email/marketing-emails/campaign-monitor.md)
     * [QuickMail](integrations/email/marketing-emails/quickmail.md)
     * [Outreach](integrations/email/marketing-emails/outreach.md)
     * [Mail Merge (MS Word)](integrations/email/marketing-emails/mail-merge-ms-word.md)
