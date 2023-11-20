@@ -6,16 +6,16 @@ Lead Tags are tags or labels you can add to your leads /users in order to group 
 
 ### Why would I want to tag my leads?
 
-Once you start tagging your leads, you can use the lead tag filter to include or exclude leads from your filter pre-sets (views)/ segmentS.&#x20;
+Once you start tagging your leads, you can use the 'lead tag' filter to include or exclude leads from your filter pre-sets (views)/ segments.&#x20;
 
-In plain english: you tag leads into general categories such as (existing) Customer, or Competitor, and then filter your leads on these tags.
+In plain English: (1) tag leads into general categories such as (existing) Customer, or Competitor, and then (2) filter your leads on these tags.
 
 ### Getting started with Lead Tags
 
 Using tags is simple, and involves just 2 steps:
 
-1.  **Manually Tag a lead**\
-    Using the LeadBoxer interface you can manually tag your leads on 2 different places: On the Lead details section or in the Leads & Accounts view. We have added 4 default tags: Competitor, Customer, Key account and Partner.  Obviously you can add other tags yourself. There is a hard limit of 100 tags.\
+1.  **Manually tag a lead**\
+    Using the LeadBoxer interface you can manually tag your leads in 2 different places: On the Lead details section or in the Leads & Accounts view. We have added 4 default tags: Competitor, Customer, Key account and Partner.  You can add additional tags yourself. There is a hard limit of 100 tags.\
 
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_App (13).png" alt=""><figcaption></figcaption></figure>
@@ -27,7 +27,7 @@ Using tags is simple, and involves just 2 steps:
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_App (9) (1).png" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 ## Automatically tag leads
 
@@ -35,7 +35,7 @@ There are 2 options, using **Workflow Automation** or using **javascript**&#x20;
 
 ### 1. Workflow Automation
 
-Use the **Add lead tag** Action to automatically create or add a tag to lead based on a trigger. For example a specific page, or country.
+Use the **Add lead tag** action to automatically create or add a tag to lead based on a trigger. For example a specific page, or country.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-23 at 14.19.27.png" alt=""><figcaption></figcaption></figure>
 
