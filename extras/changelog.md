@@ -6,6 +6,28 @@ description: >-
 
 # Changelog
 
+#### 30-11-2023
+
+## Mailchimp Tags Sync
+
+We now automatically import tags from your contacts in Mailchimp and add these to LeadBoxer Leads as [Lead Tags](../fundamentals/elements/lead-tags.md). This can be very useful if you label or tag your Mailchimp audiences, for example your customers, or how they entered your maillist, or what product group or service they are interested in, etc.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 23-11-2023
+
+## Batch Add or Remove Leads from LeadBoard
+
+We added the option to add or remove a list of leads to your [LeadBoards](../fundamentals/tasks.md). Meaning you can now create a list of leads using filter or saved segments and add all these leads to a board.
+
+This is very useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
 #### 02-11-2023
 
 ## New Date-Range Picker
@@ -111,7 +133,7 @@ We added the concept of 'ownership' on the LeadBoard, allowing you to assign one
 
 Easy user Avatars allow you to quickly filter the Board for your or other owners cards.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -184,13 +206,13 @@ This means that you will see any of the new 421 industry values in LeadBoxer and
 
 We also implemented the new industry groupings, so if you dont want to choose individual industries, you can also select an industry group and filter on multiple industries in one go.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## System events
 
 If you are using one of the new features we added like the LeadBoard and Importing Leads, you might have noticed that we have started adding events in the activity stream for updates that the LeadBoxer system did to this lead or account. We have modified the UI so you can now clearly distinct these from behavioural events, and added some context to the event itself.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -334,7 +356,7 @@ This week so far, we fixed an issue with links to LinkedIn not working properly 
 
 We added the option to manually create a Card on the LeadBoard, straight from from the Leads view. That sounds complicated but it is not really, just have a look at this screenshot and hopefully it wil make sense:
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 07-12-2022
 

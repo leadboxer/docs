@@ -49,7 +49,7 @@ Define who will be the 'owner' of the newly created Contacts and Accounts in Act
 
 Select whether to import the last hour's data or not.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's it! Once finished we will start updating every hour, on the hour.
 
