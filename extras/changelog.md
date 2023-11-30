@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here you will find the latest changes, additions, updates, fixes, etc. for the
-  LeadBoxer Platform
+  Fresh bread! Updates on the latest changes, additions, updates, fixes, etc.,
+  to the LeadBoxer platform
 ---
 
 # Changelog
@@ -10,7 +10,7 @@ description: >-
 
 ## Mailchimp Tags Sync
 
-We now automatically import tags from your contacts in Mailchimp and add these to LeadBoxer Leads as [Lead Tags](../fundamentals/elements/lead-tags.md). This can be very useful if you label or tag your Mailchimp audiences, for example your customers, or how they entered your maillist, or what product group or service they are interested in, etc.
+We now automatically import tags from your contacts in Mailchimp and add these to LeadBoxer leads as [Lead Tags](../fundamentals/elements/lead-tags.md). This can be very useful if you label or tag your Mailchimp audiences, for example your customers (client status, or how they entered your mail-list, or the product group or service they are interested in.
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,11 +18,11 @@ We now automatically import tags from your contacts in Mailchimp and add these t
 
 #### 23-11-2023
 
-## Batch Add or Remove Leads from LeadBoard
+## Batch 'add' or 'remove' leads from LeadBoard
 
-We added the option to add or remove a list of leads to your [LeadBoards](../fundamentals/tasks.md). Meaning you can now create a list of leads using filter or saved segments and add all these leads to a board.
+We added the option to add or remove a list of leads to your [LeadBoards](../fundamentals/tasks.md). Meaning you can now create a list of leads using filters or saved segments and upload these leads to a board. Very cool: this works retroactively.
 
-This is very useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
+This is extremely useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ This is very useful if you want to build a board with existing data, and do not 
 
 #### 02-11-2023
 
-## New Date-Range Picker
+## New ease-of-use: calendar / date-range selector
 
 We updated and improved the date-range picker, to make it more intuitive and easy to use.
 
