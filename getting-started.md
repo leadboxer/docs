@@ -47,7 +47,7 @@ Top integrations/ tutorials:
 * [Intercom](integrations/email/marketing-emails/intercom-email-tracking.md)
 * [Reply.io ](integrations/email/marketing-emails/reply.io.md)
 * [Poppulo](integrations/email/marketing-emails/poppulo.md)
-* [Spotler](integrations/email/marketing-emails/spotler.md)
+* [Spotler](integrations/email/marketing-emails/spotler-mail+.md)
 * [See all... ](integrations/email/marketing-emails/)
 
 **For all other email / marketing automation providers**

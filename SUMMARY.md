@@ -77,7 +77,7 @@
     * [Sendinblue](integrations/email/marketing-emails/sendinblue.md)
     * [Poppulo](integrations/email/marketing-emails/poppulo.md)
     * [Reply.io](integrations/email/marketing-emails/reply.io.md)
-    * [Spotler](integrations/email/marketing-emails/spotler.md)
+    * [Spotler mail+](integrations/email/marketing-emails/spotler-mail+.md)
     * [Prospect.io](integrations/email/marketing-emails/prospect.io.md)
     * [Woodpecker](integrations/email/marketing-emails/woodpecker.md)
     * [Lemlist](integrations/email/marketing-emails/lemlist.md)
