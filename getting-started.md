@@ -24,7 +24,7 @@ You can find your tracking code / lead-pixel on your welcome screen or in the da
 
 You can also send your lead pixel to your developer or the agency responsible for your site from within your dashboard.
 
-
+***
 
 ### Track Marketing / Newsletter emails
 
@@ -56,7 +56,7 @@ To track email clicks and combine this information with visitor website behaviou
 
 To measure email opens, a pixel specific to email tracking needs to be implemented. [Documentation can be found here.](integrations/email/marketing-emails/intro-track-email-opens.md)
 
-
+***
 
 ### Track individual email behaviour
 
@@ -67,7 +67,7 @@ Description: Track all individual emails that you (or colleagues) send from a ma
 * [Office 365 / Outlook 365](integrations/email/individual-emails/official-outlook-add-in.md)
 * [Manually](integrations/email/individual-emails/manually-identify-leads-using-email.md)
 
-
+***
 
 ### LinkedIn - Track and identify Leads
 
@@ -75,7 +75,7 @@ To See how LeadBoxer and LinkedIn can work together see this overview:
 
 [Best LinkedIn Strategies using LeadBoxer](integrations/for-support/linkedin.md)
 
-
+***
 
 ### Capture marketing & campaign data
 
@@ -87,7 +87,7 @@ In order to take full advantage of this feature, make sure that all your online 
 
 More information can be found here: [All about UTM tags](integrations/website/tracking-marketing-campaign-data-utm-tags.md)
 
-
+***
 
 ### Track additional customer touch-points
 
@@ -113,7 +113,7 @@ Similar to contact forms, you can use both ways of form tracking. We also provid
 
 If you have a section on your site where users or customers login, this is low-hanging fruit to identify them for all website visits. Tracking logins delivers numerous benefits; see and associate your clients and users within your system and be aware of what they are doing. Crucially it allows for audience segmentation, meaning we can exclude logins from your lead list. Remove noise: separate your existing clients from your prospects for efficiency.
 
-
+***
 
 ### Third party enrichment
 
@@ -129,7 +129,7 @@ If you have other data that you would like to combine or collect, we have an ope
 * [Enriching customer profile data ](fundamentals/elements/enrichment.md)
 * [Tracking custom behavioral touchpoints (events)](integrations/website/lead-tracking-pixel.md#what-are-events)
 
-
+***
 
 ### Set your Leadscore
 
@@ -139,7 +139,7 @@ Once you start using LeadBoxer, you'll notice that every lead has a Leadscore. B
 
 [Learn how to change the leadscore](guides/how-to-set-your-leadscore.md)
 
-
+***
 
 #### Create your segments
 
@@ -149,7 +149,7 @@ LeadBoxer contains 1 default segment: Top leads is used to send you your daily o
 
 [Learn how to use filters and create segments](guides/creating-your-first-segment.md)
 
-
+***
 
 ### Setup notifications
 
@@ -159,7 +159,7 @@ A good practice is to create Segments for your key accounts, or geographical sal
 
 [Learn how to setup notifications](guides/how-to-create-a-notification.md)
 
-
+***
 
 ### Add all your sales and marketing colleagues
 
@@ -169,7 +169,7 @@ See a tutorial [here](https://docs.leadboxer.com/article/70-how-to-add-a-user-to
 
 You can add a users in your [users overview](guides/how-to-add-a-user.md)
 
-
+***
 
 ### Measure all your websites
 
@@ -181,7 +181,7 @@ Simply add them to your account in the [dataset overview](https://app.leadboxer.
 
 We also offer cross-domain tracking, which means that you can track across all of your domains and site with a single pixel. Please contact us for details and pricing.
 
-
+***
 
 ### Integrate with Zapier
 
@@ -191,7 +191,7 @@ This means you can a) set up a LeadBoxer account, b) collect leads, and c) send 
 
 Get started with [LeadBoxer on Zapier](integrations/website/how-to-get-started-with-leadboxer-on-zapier.md)
 
-
+***
 
 ### Integrate with your CRM
 
@@ -207,7 +207,7 @@ Pipedrive is a sales driven CRM and Lead management tool designed to help sales 
 
 For other CRM vendors you can use [Zapier App](integrations/website/how-to-get-started-with-leadboxer-on-zapier.md) or our [API](https://docs.leadboxer.com/collection/109-api) to roll your own
 
-
+***
 
 #### Dashboarding
 

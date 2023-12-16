@@ -41,7 +41,7 @@ This technology can also track links clicked to your site (website activity) and
 4. Add Payment method to be used for after the free trial
 5. Place your order and wait for Microsoft to process it
 
-
+***
 
 ### Step 2: Configure your license
 
@@ -57,7 +57,7 @@ Once your order has been processed, you need to configure your license
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb82aed46e0fb0017fce3ea/file-QIoDvGUSaa.png" alt=""><figcaption></figcaption></figure>
 5. Each email address (user) added to the licensed users list will receive an email with instructions to install individually.
 
-
+***
 
 ### Step 3: Install the add-in
 
@@ -93,7 +93,7 @@ You can install the add-in individually, or if you are an MS Office Admin you ca
     <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb830974cedfd00165b29ea/file-nc5OZaKxJk.png" alt=""><figcaption></figcaption></figure>
 7. Once finished, and depending on your configuration your users can now install the plugin. Make sure that each user is registered in the LB portal. There should be no need to configure the add-in on the client side.
 
-
+***
 
 #### Step 4: Configure add-in
 
@@ -111,7 +111,7 @@ In order for us to start tracking the links in your emails, you need to enable t
 
 <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60a3d46eeb3af44cc1209c4a/file-VqzZo0xPts.png" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 #### Step 5: Tracking your emails
 
@@ -124,7 +124,7 @@ Now, before you send the email, you need to activate the LeadBoxer tracking for 
 
 This will add the tracking pixel and append the links inside your emails with tracking parameters.
 
-
+***
 
 ### Step 6: tracking details
 

@@ -16,7 +16,7 @@ Steps:
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/596cbc622c7d3a73488b27d6/file-CfTzadBAIt.png)
 
-
+***
 
 ### How to disable Notifications
 

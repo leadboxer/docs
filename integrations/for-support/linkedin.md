@@ -100,7 +100,7 @@ This may sound complicated or burdensome for the lead, but the benefit of this s
 * When they return to the site later down the road, they will be automatically recognized by LeadBoxer and you can get notified when they become qualified.
 * Last but not least, the lead will now be in your marketing automation platform and you can start nurturing them.
 
-
+***
 
 ### Example implementation:&#x20;
 

@@ -6,6 +6,30 @@ description: >-
 
 # Changelog
 
+#### 14-12-2023
+
+## Lead Tags in the event / click / behaviour streams
+
+Starting today, we are showing [Lead tags](../fundamentals/elements/lead-tags.md) activity in the lead details drawer / panel so you can see when they were added and by whom.
+
+We will show if the tag was added or removed  manually, through a workflow automation, or even an integration like Mailchimp.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (23).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 07-12-2023
+
+## More permission options for your users & roles&#x20;
+
+You can now enable and disable even more UI elements and features for your users by setting [permissions](changelog.md#roles-and-permissions).&#x20;
+
+This is very useful if you would like to make LeadBoxer less 'advanced' or easier to use.
+
+<figure><img src="../.gitbook/assets/Cursor_and_LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 #### 30-11-2023
 
 ## Mailchimp Tags Sync
