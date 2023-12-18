@@ -53,7 +53,7 @@ To make life easy, we have added something we call Quick Segments. It is a list 
 
 ### Segments Overview
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (3) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (3) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Segment overview screen gives you a complete overview of all your segments. Here you can edit, duplicate, delete and change ownership of all your segments. The Admin of the account can see all Segments.
 

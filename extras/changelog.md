@@ -36,7 +36,7 @@ This is very useful if you would like to make LeadBoxer less 'advanced' or easie
 
 We now automatically import tags from your contacts in Mailchimp and add these to LeadBoxer leads as [Lead Tags](../fundamentals/elements/lead-tags.md). This can be very useful if you label or tag your Mailchimp audiences, for example your customers (client status, or how they entered your mail-list, or the product group or service they are interested in.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ We added the option to add or remove a list of leads to your [LeadBoards](../fun
 
 This is extremely useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -157,7 +157,7 @@ We added the concept of 'ownership' on the LeadBoard, allowing you to assign one
 
 Easy user Avatars allow you to quickly filter the Board for your or other owners cards.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -308,7 +308,7 @@ For more details see our documentation on [UTM tracking](../integrations/website
 
 ## New Tag options
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 You can now manually add tags from 2 places: from the lead details window, but also from the leads & accounts list.
 

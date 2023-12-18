@@ -26,7 +26,7 @@ For an explanation of [Leads](definitions.md#what-are-leads) and [Accounts](defi
 
 The Leads and/or Accounts are rendered in a table or grid which can be customized to show or hide additional columns. You can choose from a wide range of properties or behavioural fields. You can customize the columns by clicking on the column icon and  choose to show/ hide. you can also search for specific columns.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Summary Columns
 
@@ -77,7 +77,7 @@ In LeadBoxer we primarily focus on Leads that are acquired through digital chann
 
 See what LeadBoard this lead or Account is on, or quickly add them to any existing LeadBoards.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Custom Properties
 

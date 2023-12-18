@@ -9,6 +9,7 @@
 
 * [Leads & Accounts](fundamentals/projects.md)
   * [Lead card: Complete lead details in one page](fundamentals/leads-and-accounts/lead-card-complete-lead-details-in-one-page.md)
+  * [Batch operations](fundamentals/leads-and-accounts/batch-operations.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Dashboard](fundamentals/dashboard.md)
 * [Definitions](fundamentals/definitions.md)
