@@ -1,6 +1,8 @@
 # Customer.io
 
-### Identify & track Customer.io email recipients on your website&#x20;
+### Identify & track Customer.io email recipients on your website
+
+### NOTE: this is a two-step process&#x20;
 
 #### Step 1: Track email opens
 
@@ -13,7 +15,7 @@ Here are the steps needed for adding the tracking pixel:
 3.  Add an HTML content type to the bottom of your template or email
 
     <figure><img src="../../../.gitbook/assets/Customer_io_and_Cralan_-_LeadBoxer_-_Slack.png" alt=""><figcaption></figcaption></figure>
-4.  Click on the HTML block an paste your email tracking pixel into the box:
+4.  Click on the HTML block and paste your email tracking pixel into the box:
 
     <figure><img src="../../../.gitbook/assets/Customer_io.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +38,7 @@ Here are the steps needed for adding the tracking pixel:
 
 ### Step 2: Track email clicks (click-throughs) and identify prospects on your site
 
-To track email clicks, you need to modify the links inside your email campaigns and add this parameter to the URL of the link:
+To track email clicks, you need to (a) modify the links inside your email campaigns and (b) add this parameter to the URL of the link:
 
 **?email=\{{customer.email\}}**
 
@@ -46,7 +48,7 @@ This will allow us to identify the individual visitors when they land on your si
 
 <figure><img src="../../../.gitbook/assets/Customer_io_and___Cralan_-_LeadBoxer_-_1_new_item_-_Slack.png" alt=""><figcaption></figcaption></figure>
 
-Optional, but recommended; add additional parameters to enrich  visitors with additional information from your database:
+Optional, but recommended; add extra parameters to enrich visitors with additional information from your database:
 
 **example URL**
 
@@ -56,7 +58,7 @@ https://www.YOURDOMAINNAME.com/my-landing-page/?firstName={{customer.firstName}}
 ```
 {% endcode %}
 
-NOTE: remember to update the landing page with your url.
+NOTE: remember to update "my-landing-page" with your url.
 
 {% hint style="warning" %}
 Tip: Best practice is to test before sending out a mass email
