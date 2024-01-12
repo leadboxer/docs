@@ -32,18 +32,63 @@ The behaviour gives insight into their interests, buyer journey, marketing phase
 
 Behaviour can also be crucial in your [**Lead Qualification**](../solutions/lead-qualification.md) process to either qualify or disqualify a lead.
 
-### Channel
+###
 
-A channel is a marketing term that refers to the source of traffic to a website or a specific page within a website. Common channels include organic search, social media, email marketing, and paid advertising. See [Tracking Marketing campaign data](../integrations/website/tracking-marketing-campaign-data-utm-tags.md#channels) for more details.
+## Glossary / field names
+
+### Marketing Fields
+
+LeadBoxer captures various marketing data and stores these in the following field.
+
+{% hint style="info" %}
+Note: Each of these fields has both a **first** and **last** version.&#x20;
+
+* First represents the very first value that was tracked. eg the initial campaign.  This field will never be overwritten.
+* Last represents the very last value that was tracked & stored. this value will be overwritten every time we track or receive a new value.
+{% endhint %}
+
+<table><thead><tr><th width="219">name</th><th>description</th></tr></thead><tbody><tr><td>Channel </td><td>A channel is a marketing term that refers to the source of traffic to a website or a specific page within a website. Common channels include organic search, social media, email marketing, and paid advertising. See <a href="../integrations/website/tracking-marketing-campaign-data-utm-tags.md#channels">Tracking Marketing campaign data</a> for more details.</td></tr><tr><td>Campaign (utm)</td><td>This is the name of the campaign that the traffic is associated with, eg "Spring sale"</td></tr><tr><td>Source (utm)</td><td>This indicates the source of the traffic. eg "google"</td></tr><tr><td>Medium (utm)</td><td>This indicates the medium through which the traffic was acquired, eg "cpc", "email", etc.</td></tr><tr><td>Content (utm)</td><td>This field is often used to differentiate between different versions or elements of an ad or a piece of content.</td></tr><tr><td>Term (utm)</td><td>This field is used to track the specific keywords or search terms that were used to trigger an ad or a piece of content. It is commonly used in paid search campaigns to track the effectiveness of specific keywords or phrases.</td></tr><tr><td>referrer</td><td>Third party website or source (i.e. search engine, link, ad, email) through which a visitor reaches your site. Search engines are the primary example. All sites with links leading to your site are also referrers.  Email and newsletters can also be referrers.</td></tr><tr><td></td><td></td></tr><tr><td>leadscore</td><td></td></tr><tr><td><p>person city </p><p>person country </p><p>person region</p></td><td>We determine an Internet visitor’s location based on their IP address and /or GPS coordinates. ​Geolocation is the identification of the real-world geographic location of an object, such as a mobile phone or an Internet-connected computer. </td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+
+
+
+### Behavioural
+
+<table><thead><tr><th width="225"></th><th></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td>exit page<br><mark style="color:blue;">[url]</mark></td><td>The last page a visitor views before leaving your site. If the visitor follows a link from your site LeadBoxer will record the exit link followed. If they close their browser or use bookmarks no further information on their activity is available.</td></tr><tr><td>exit link<br><mark style="color:blue;">[url]</mark></td><td>An exit link is a link from your site (domain) to another site (technically a 3rd party domain). An exit link is a link leaving your site to third-party site, a bridge from your site to another. Exit links begin on your site and lead to the other side of the bridge.</td></tr><tr><td>event count<br><mark style="color:blue;">[number]</mark></td><td>Event; pageview, click, download, login, newsletter open, etc. Any activity that takes place on an Internet-connected device can be defined as an <strong>event</strong>. </td></tr><tr><td>web sessions<br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct web sessions made to a site over a given period of time. A session starts with an entry click and ends with an exit event or a 10 minute period of inactivity. A visitor can make an unlimited number of sessions. Also know as web visits. </td></tr><tr><td>last event <br><mark style="color:blue;">[dynamic]</mark> </td><td>The time difference between now and the last registered activity time by a user . eg 5s, 2 days, 3 weeks, 4 months</td></tr></tbody></table>
+
+### Technical
+
+
+
+
+
+
+
+
+
+### Organization fields
+
+LeadBoxer offers multiple options for identifying organizations and companies. Examples are via IP address, login, sign-up, email or form submission.
+
+Once we have identified an organization, we enrich this identified organization with an extensive range of fields. As we use multiple data sources, field availability differs, depending on factors such as region, location, online presence, etc.
+
+<table><thead><tr><th width="144">Description</th><th width="264">field name</th><th>technical name</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td>Organization Name</td><td>organizationName</td></tr><tr><td><p><strong>Address fields</strong><br><br></p><p><br><br><br><br><br><br><br></p></td><td><p>Street Name</p><p>Street Number</p><p>SubPremise</p><p>City</p><p>PostalCode</p><p>State</p><p>StateCode</p><p>Country</p><p>CountryCode</p><p>Longitude</p><p>Latitude</p></td><td><p>organizationStreetName</p><p>organizationStreetNumber</p><p>organizationSubPremise</p><p>organizationCity</p><p>organizationPostalCode</p><p>organizationState</p><p>organizationStateCode</p><p>organizationCountry</p><p>organizationCountryCode</p><p>organizationLongitude</p><p>organizationLatitude</p></td></tr><tr><td>Generic fields<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td><td><p>Logo </p><p>Employee Count Estimate</p><p>Employee Count Range Code</p><p>Employee Count Range Name</p><p>Industry Name </p><p>Industry Code </p><p>Industry Group </p><p>Naics Code </p><p>Sector </p><p>Tags </p><p>Specialties </p><p>Founded </p><p>Description </p><p>Description Short </p><p>Type </p><p>Domain </p><p>Phone </p><p>Email Addresses  </p><p>Ceo Title </p><p>Executives </p><p>NationalId </p><p>Technology </p><p>Website Ip Address</p></td><td><p>OrganizationLogo organizationEmployeeCountEstimate organizationEmployeeCountRangeCode organizationEmployeeCountRangeName organizationIndustryName organizationIndustryCode organizationIndustryGroup</p><p>organizationNaicsCode</p><p>organizationSector </p><p>organizationTags</p><p>organizationSpecialties organizationFounded organizationDescription organizationDescriptionShort organizationType</p><p>organizationDomain</p><p>organizationPhone organizationEmailAddresses  organizationCeoTitle organizationExecutives organizationNationalId organizationTechnology organizationWebsiteIpAddress</p></td></tr><tr><td>Social fields<br><br><br><br><br><br></td><td><p>LinkedIn ID </p><p>LinkedIn Url </p><p>Facebook Url </p><p>Twitter Url </p><p>Instagram Url </p><p>Youtube Url </p><p>Google Places Id</p></td><td>organizationLinkedInID organizationLinkedInUrl organizationFacebookUrl organizationTwitterUrl organizationInstagramUrl organizationYoutubeUrl organizationGooglePlacesId</td></tr><tr><td>Financial</td><td>Sales Volume Category Name<br>Sales Volume Currency<br>Sales Volume Category Code</td><td>organizationSalesVolumeCategoryName organizationSalesVolumeCurrency organizationSalesVolumeCategoryCode</td></tr></tbody></table>
+
+
+
+\
+
+
+
+
+####
+
+###
 
 ### Clickstream
 
 A clickstream, or click path, is a list of all the pages viewed by a visitor, presented in the order the pages were viewed, also defined as the ’succession of mouse clicks’ that each visitor makes through a website.
 
-### Organization name
 
-We identify the organization name for some larger corporate and educational networks using the IP address.\
-A list of the organizations from which visitors accessed your site. These are mostly large organisations which service their own networks. A lot of educational networks fall into this category.
 
 ### Country / Region / City
 
@@ -56,10 +101,6 @@ Event; pageview, click, launch.\
 Any activity that takes place on an Internet-connected device can be defined as an event. This web-service securely tracks, monitors, and generate real-time analytical reports for any device connected to the Internet.\
 WAA Definition: Any logged or recorded action that has a specific date and time assigned to it by either the browser or server.
 
-### Exit links
-
-An exit link is a link from your site (domain) to another site (technically a 3rd party domain). An exit link is a link leaving your site to a third-party site. Imagine a bridge from your site to another site. Exit links begin on your site and lead to the other side of the bridge.
-
 ### Geo-location
 
 Geolocation is the identification of the real-world geographic location of an object, such as a mobile phone or an Internet-connected computer.\
@@ -71,9 +112,7 @@ Last recorded event or click made by a visitor on a site. Either a click on an e
 
 last page visited if no exit activity is measured.
 
-### Number of visits
 
-The total number of distinct visits made to a site over a given period of time. A visit starts with an entry click and ends with an exit event or a 10 minute period of inactivity. Every visitor can make an unlimited number of visits.
 
 ### Pageview
 
