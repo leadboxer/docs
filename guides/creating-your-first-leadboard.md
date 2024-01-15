@@ -10,7 +10,7 @@ To create a LeadBoard, you click on the 'Create LeadBoard' button and follow the
 
 There are 4 items we need to create a LeadBoard.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1).png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1).png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
 
 * Provide a name for your LeadBoard. We recommend a short and descriptive name, so that all users understand what the goal of the board is. eg. Demo signups, LinkedIn campaign leads, EU Leads, etc.
 * Select the Dataset / site.
@@ -23,7 +23,7 @@ We strongly recommend you use or create a new separate Segment and not use the d
 * Set the visibility of this LeadBoard to be visible to only you or anyone that has access to this dataset.
 * Click Next
 
-### 2. Define stages <a href="#2.-define-stages" id="2.-define-stages"></a>
+### 2. Define stages <a href="#id-2.-define-stages" id="id-2.-define-stages"></a>
 
 Based on you internal marketing workflow, add the stages so that your LeadBoard matches the steps you have defined to qualify or manage your leads. If you have not done this yet, we recommend you read this tutorial first: Define Your Marketing Workflow.
 
@@ -36,7 +36,7 @@ Based on you internal marketing workflow, add the stages so that your LeadBoard 
 
 We recommend to to start simple, with a minimum of 3 stages. You can always revisit and modify if needed later.
 
-### 3. Import Leads <a href="#3.-import-leads" id="3.-import-leads"></a>
+### 3. Import Leads <a href="#id-3.-import-leads" id="id-3.-import-leads"></a>
 
 Now that you have created your LeadBoard and defined the stages, you can start managing your leads right away by importing your existing LeadBoxer leads into your new LeadBoard.
 

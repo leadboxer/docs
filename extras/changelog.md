@@ -6,6 +6,22 @@ description: >-
 
 # Changelog
 
+#### 03-12-2024
+
+## LeadBoard Improvements
+
+### We now show individual tags for each lead in a LeadCard details&#x20;
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+
+### We added LeadCard tags to the Account details
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+
+### We added LeadBoard Loading improvements
+
+
+
 #### 14-12-2023
 
 ## Lead Tags in the event / click / behaviour streams
@@ -48,7 +64,7 @@ We added the option to add or remove a list of leads to your [LeadBoards](../fun
 
 This is extremely useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -157,7 +173,7 @@ We added the concept of 'ownership' on the LeadBoard, allowing you to assign one
 
 Easy user Avatars allow you to quickly filter the Board for your or other owners cards.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
