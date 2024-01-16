@@ -10,17 +10,17 @@ To create a LeadBoard, you click on the 'Create LeadBoard' button and follow the
 
 There are 4 items we need to create a LeadBoard.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1).png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
 
 * Provide a name for your LeadBoard. We recommend a short and descriptive name, so that all users understand what the goal of the board is. eg. Demo signups, LinkedIn campaign leads, EU Leads, etc.
-* Select the Dataset / site.
-* Select the [Segment](https://app.gitbook.com/o/-M\_uFoDObQpQ4g4wQONe/s/-M\_u92JFMboVvSv\_dif4/fundamentals/elements/task-lists) from which the matched leads will be automatically imported in this LeadBoard.
+* Set the visibility of this LeadBoard to be visible to only you or anyone that has access to this dataset.
+* Optional: Select the [Segment](https://app.gitbook.com/o/-M\_uFoDObQpQ4g4wQONe/s/-M\_u92JFMboVvSv\_dif4/fundamentals/elements/task-lists) from which the matched leads will be automatically imported in this LeadBoard. This import will happen hourly, so if you want to your cards to move automatically based on behaviour we recommend you use Workflow Automation to import leads onto your boards.
 
 {% hint style="danger" %}
 We strongly recommend you use or create a new separate Segment and not use the default 'Top Leads' Segment as this will auto import ALL identified leads and would quickly pollute your board and make it unusable.
 {% endhint %}
 
-* Set the visibility of this LeadBoard to be visible to only you or anyone that has access to this dataset.
+* Enable or disable the Fixed Flow direction. (when enabled, this will prohibit workflow automations to move LeadCards to the left )
 * Click Next
 
 ### 2. Define stages <a href="#id-2.-define-stages" id="id-2.-define-stages"></a>
@@ -40,8 +40,10 @@ We recommend to to start simple, with a minimum of 3 stages. You can always revi
 
 Now that you have created your LeadBoard and defined the stages, you can start managing your leads right away by importing your existing LeadBoxer leads into your new LeadBoard.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (4) (1).png" alt=""><figcaption><p>Step 3 of Create new LeadBoard wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (4) (1) (1).png" alt=""><figcaption><p>Step 3 of Create new LeadBoard wizard</p></figcaption></figure>
 
 You can choose data from today, last 7 days or last 14 days.
 
 Click import, to perform this step or skip and start with a clean LeadBoard.
+
+Once the LeadBoard has been setup, we recommend you add your [Workflow Automations](../fundamentals/elements/workflow-automation.md).

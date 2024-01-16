@@ -83,7 +83,7 @@ See what LeadBoard this lead or Account is on, or quickly add them to any existi
 
 Your custom Lead properties are displayed here. Learn how to [add your own custom properties](projects.md#custom-properties)&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Leadscore
 
@@ -95,6 +95,6 @@ See how the Leadscore for any lead is calculated. Refer to our help docs to lear
 
 A section showing technical details about the browser, email client, connection, network, etc.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ##

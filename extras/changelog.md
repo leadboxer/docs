@@ -6,21 +6,37 @@ description: >-
 
 # Changelog
 
-#### 03-12-2024
+#### 12-01-2024
 
 ## LeadBoard Improvements
 
-### We now show individual tags for each lead in a LeadCard details&#x20;
+#### We now show all individual tags for the organization or account in a LeadCard details&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (5).png" alt=""><figcaption></figcaption></figure>
 
-### We added LeadCard tags to the Account details
+#### We added LeadCard tags to the Account details
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### We added LeadBoard Loading improvements
+#### We added LeadBoard Loading improvements
 
+You will now see various loaders, so that it is clear if we have finished updating the card with the relevant details.
 
+***
+
+#### 03-01-2024
+
+## Set Fixed LeadBoard Direction or flow for Automations
+
+This might seem tedious but is in fact a very useful update. If enabled (default), [Workflow Automation](changelog.md#workflow-automation) actions can only move your LeadBoard cards to the Right direction of your funnel or qualification stages. You can still manually move cards to the Left. You can set or change this setting in the [LeadBoard settings](../fundamentals/tasks.md).
+
+***
+
+#### 28-12-2023
+
+## Added LeadTags to Daily & weekly HTML notifications
+
+<figure><img src="../.gitbook/assets/Spark_-_Trash.png" alt=""><figcaption></figcaption></figure>
 
 #### 14-12-2023
 
@@ -52,7 +68,7 @@ This is very useful if you would like to make LeadBoxer less 'advanced' or easie
 
 We now automatically import tags from your contacts in Mailchimp and add these to LeadBoxer leads as [Lead Tags](../fundamentals/elements/lead-tags.md). This can be very useful if you label or tag your Mailchimp audiences, for example your customers (client status, or how they entered your mail-list, or the product group or service they are interested in.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -64,7 +80,7 @@ We added the option to add or remove a list of leads to your [LeadBoards](../fun
 
 This is extremely useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -173,7 +189,7 @@ We added the concept of 'ownership' on the LeadBoard, allowing you to assign one
 
 Easy user Avatars allow you to quickly filter the Board for your or other owners cards.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

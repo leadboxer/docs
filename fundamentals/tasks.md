@@ -14,24 +14,25 @@ The concept is not super complicated (that is the beauty of it) and you might al
 
 In our case, we have applied the concept so that each 'card' on your LeadBoard represents a Lead or Account. The natural flow is that your cards or Leads move from left tot right as they travel through your marketing workflow or funnel.&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (3) (1).png" alt=""><figcaption><p>The LeadBoxer LeadBoard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (19).png" alt=""><figcaption><p>The LeadBoxer LeadBoard</p></figcaption></figure>
 
-#### Now here are the 2 things that make it super powerful:
+#### Now here are the 3 things that make it super powerful:
 
-1. In the first column, all the leads that need to be qualified will be added automatically.
-2. The last column, or final step in your workflow, can trigger a automated automation &#x20;
+1. All the leads that need to be qualified will be added automatically to the first column
+2. You can create [workflow automations](elements/workflow-automation.md) to automatically move leads on your leadboard 'down the funnel' based on behaviour or specific Lead details.
+3. You can get a notification when Leads enter the last stage of phase in your qualification funnel. (or any other stage) and trigger a sync with various integrations.
 
 In most cases, the first column should contain only leads that are automatically pre-qualified with some sort of filter (eg country or Industry). The final column is where you offer or handover the Lead to Sales, and basically saying that you think this Lead is ready to be contacted, ready to be closed, ready to buy, or basically anything.
 
 ## Getting started
 
-If you arrive at the LeadBoard for the first time, you get asked to create your first LeadBoard.
+During the onboarding, we have automatically setup your first LeadBoard. If not, you will get asked to create your first LeadBoard yourself.
 
 {% hint style="info" %}
 Before you continue, we recommend you&#x20;
 
-1. make sure you have an internal workflow defined: eg a marketing funnel, lead generation or lead qualification workflow.&#x20;
-2. Also you first need to create a [Segment](elements/segments.md) that contains the Leads you want to be automatically imported into your board.
+1. Make sure you have an internal workflow defined: eg a marketing funnel, lead generation or lead qualification workflow.&#x20;
+2. Optionally, you can create a [Segment](elements/segments.md) that contains the Leads you want to be automatically imported into your board.
 {% endhint %}
 
 To create a LeadBoard, you click on the 'Create LeadBoard' button and follow these 3 steps to complete:
@@ -48,11 +49,66 @@ Use below guide to start using the LeadBoard feature
 
 ## Using the LeadBoard
 
-Once you have Leads showing up in your default or entry stage, the high-level goal is that you  move as much cards from left to right, if they are allowed to be moved according to your workflow.&#x20;
+Once you have Leads showing up in your default or entry stage, the high-level goal is that you move as much cards from left to right, if they are allowed to be moved according to your workflow.&#x20;
 
 {% hint style="info" %}
 We recommend that all movement of cards should be based on your internally defined marketing or Lead Gen workflow. If you have not defined this yet, we recommend you create one first.&#x20;
 {% endhint %}
+
+### Lead or Account Cards
+
+Leads that are added to the LeadBoard are grouped on Account. Meaning that multiple visitors or contacts from the same company or domain are grouped into one one card on the board.&#x20;
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+
+### LeadBoard Card or Account details
+
+You can click on any LeadBoard Cards to see all the details of the account and all the associated Leads.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (3).png" alt=""><figcaption></figcaption></figure>
+
+### Associated Leads
+
+Once you opened a LeadBoard Card and see the Account or Card details, you can scroll down and see all the identified contacts and unidentified website visitors from this organization:
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (4).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you want to know more about the LeadBoard card Account details and ossociated leads, see [the section below](tasks.md#account-card-details)
+{% endhint %}
+
+### Lead Tags
+
+Each Card can contain [Lead Tags](tasks.md#lead-tags). Because tags are set on the individual Lead level, we will show all the Lead Tags for all the individual Leads from one organization on that card.
+
+### Ownership
+
+LeadBoard Cards can have an owner. Once an owner has been set, the icon of the owner will appear in the header bar. you can click on one or multiple owners to see their cards.
+
+{% hint style="info" %}
+For more details on LeadCards you can [see below](tasks.md#leadboard-cards)
+{% endhint %}
+
+### Search
+
+You can search for a specific card by using the search feature. It will search through the organization name and domain name fields.
+
+### Sorting
+
+You can sort or re-order your cards based on&#x20;
+
+* The last activity timestamp of any of the individual leads in a card
+* The last modification timestamp of the account card, indicating when the card was added or moved.
+
+### Manually adding Leads to the Leadboard
+
+You can manually add leads to the board by providing the domain name (website) of the organisation or company. Our enrichment engine will try and find the associated firmographic details and once accepted the card will show up in the default or entry stage.
+
+We will also search through your data and connect any leads or contacts that are associated to this domain name.
+
+
+
+## Example cases
 
 There are many different ways you can use the LeadBoard, so to give you some inspiration, here are use-cases on how we use the LeadBoard ourselves.
 
@@ -71,19 +127,9 @@ Many visitors to our site sign up for a trial account, which is great. However, 
 
 
 
-
-
-### Manually adding Leads to the Leadboard
-
-You manually add leads to the board by providing the domain name (website) of the organisation or company. Our enrichment engine will try and find the associated firmographic details and once accepted the card will show up in the default or entry stage.
-
-We will also search through your data and connect any leads or contacts that are associated to this domain name.
-
 ## LeadBoard cards
 
 If you have setup and configured your LeadBoard, your LeadBoard cards will appear on the board.
-
-
 
 <figure><img src="../.gitbook/assets/LeadBoard_card.png" alt=""><figcaption></figcaption></figure>
 
@@ -104,17 +150,9 @@ If you have setup and configured your LeadBoard, your LeadBoard cards will appea
     * Moved between stages when deleting a stage
     * When a new note is added to the Account card
 
-## The Account Panel
-
-This Panel shows up when you click on a Leadcard in your LeadBoard and provides you with an overview of all details from a company or organisation we call [Accounts](projects.md#what-are-accounts) and consist of various sections:
-
-1. Account details
-2. Notes
-3. Leads
 
 
-
-### Account details
+## Account card details
 
 The Account details section on the Account Pannel shows the (enriched) company or organization information that is available based on the domain-name of the organisation.
 
@@ -126,7 +164,7 @@ You can click on any Lead to expand this lead and this will reveal the last 5 se
 
 If there is only one lead in the account we will expand the lead automatically.
 
-#### &#x20;The Behavioural stream&#x20;
+### &#x20;The Behavioural stream&#x20;
 
 This subsection of an individual lead or contact contains the sessions and all the 'events' or actions that were tracked or registered within these sessions.&#x20;
 

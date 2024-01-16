@@ -115,7 +115,7 @@ The last step is to add logic so that leads automatically get moved through your
 
 For example: If a lead is tagged with value 'interest' AND the lead is currently in stage 'Discovery', move the lead to stage 'Interest'
 
-<figure><img src=".gitbook/assets/LeadBoxer_App (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/LeadBoxer_App (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
