@@ -104,6 +104,7 @@ This also enables 1 click export to Google Looker Studio!
 
 ## Download improvements for Leads & Accounts
 
+* A BIG SHOUT OUT to Charyle Gandee of Fineos here - whose many insightful pieces of feedback have been published here - THANK YOU CHARYLE
 * Your downloaded file now has the same column order as what you seen on your screen
 * Downloaded files now have a more descriptive title\
   eg: **LeadBoxer-Leads-mysegment-20230901-20230907.csv**
