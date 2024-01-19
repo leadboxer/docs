@@ -21,7 +21,7 @@ Below, you will find a complete overview of the page and links to all the releva
 In a nutshell: a list displaying all your Leads; which can also be grouped into Accounts.
 
 {% hint style="info" %}
-For an explanation of [Leads](definitions.md#what-are-leads) and [Accounts](definitions.md#what-are-accounts), please read our [definitions](definitions.md).
+For an explanation of [Leads](definitions-and-glossary.md#what-are-leads) and [Accounts](definitions-and-glossary.md#what-are-accounts), please read our [definitions](definitions-and-glossary.md).
 {% endhint %}
 
 The Leads and/or Accounts are rendered in a table or grid which can be customized to show or hide additional columns. You can choose from a wide range of properties or behavioural fields. You can customize the columns by clicking on the column icon and  choose to show/ hide. you can also search for specific columns.

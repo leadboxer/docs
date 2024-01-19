@@ -12,7 +12,7 @@
   * [Batch operations](fundamentals/leads-and-accounts/batch-operations.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Dashboard](fundamentals/dashboard.md)
-* [Definitions](fundamentals/definitions.md)
+* [Definitions & Glossary](fundamentals/definitions-and-glossary.md)
 * [Elements](fundamentals/elements/README.md)
   * [Filters](fundamentals/elements/filters.md)
   * [Segments](fundamentals/elements/segments.md)
