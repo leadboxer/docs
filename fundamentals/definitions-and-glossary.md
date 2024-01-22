@@ -28,8 +28,13 @@ In LeadBoxer, we define companies and organizations as <mark style="color:purple
 
 ### Events
 
-includes: pageview, email click, swipe, scroll, download, email open, etc.\
 An event in LeadBoxer is defined as any tracked activity that takes place on an Internet-connected device.&#x20;
+
+{% hint style="info" %}
+Events include: pageview, (email) clicks, swipe, scroll, download, email open, etc.
+{% endhint %}
+
+***
 
 ### Sessions (visits)
 
@@ -61,7 +66,9 @@ A “single event” visit is defined when a lead or visitor views a single page
 
 ## Glossary & field names
 
-### Acquisition or Marketing Fields
+## Person or contact fields
+
+<table><thead><tr><th width="251">Field Name</th><th>Technical name</th></tr></thead><tbody><tr><td>First Name</td><td>firstName</td></tr><tr><td>Last Name</td><td>lastName</td></tr><tr><td>Full Name</td><td>fullName</td></tr><tr><td>Job Title</td><td>title</td></tr><tr><td>Email Address</td><td>email</td></tr><tr><td>Lead Tag</td><td>leadTag</td></tr></tbody></table>
 
 LeadBoxer captures various marketing data and stores these in the following field.
 
@@ -72,23 +79,27 @@ Note: Each of these fields has both a **first** and **last** version.&#x20;
 * Last represents the very last value that was tracked & stored. this value will be overwritten every time we track or receive a new value.
 {% endhint %}
 
-<table><thead><tr><th width="219">name</th><th>description</th></tr></thead><tbody><tr><td>Channel </td><td>A channel is a marketing term that refers to the source of traffic to a website or a specific page within a website. Common channels include organic search, social media, email marketing, and paid advertising. See <a href="../integrations/website/tracking-marketing-campaign-data-utm-tags.md#channels">Tracking Marketing campaign data</a> for more details.</td></tr><tr><td>Campaign (utm)</td><td>This is the name of the campaign that the traffic is associated with, eg "Spring sale"</td></tr><tr><td>Source (utm)</td><td>This indicates the source of the traffic. eg "google"</td></tr><tr><td>Medium (utm)</td><td>This indicates the medium through which the traffic was acquired, eg "cpc", "email", etc.</td></tr><tr><td>Content (utm)</td><td>This field is often used to differentiate between different versions or elements of an ad or a piece of content.</td></tr><tr><td>Term (utm)</td><td>This field is used to track the specific keywords or search terms that were used to trigger an ad or a piece of content. It is commonly used in paid search campaigns to track the effectiveness of specific keywords or phrases.</td></tr><tr><td>referrer</td><td>Third party website or source (i.e. search engine, link, ad, email) through which a visitor reaches your site. Search engines are the primary example. All sites with links leading to your site are also referrers.  Email and newsletters can also be referrers.</td></tr></tbody></table>
+<table><thead><tr><th width="219">name</th><th>description</th></tr></thead><tbody><tr><td>Channel </td><td>A channel is a marketing term that refers to the source of traffic to a website or a specific page within a website. Common channels include organic search, social media, email marketing, and paid advertising. See <a href="../integrations/website/tracking-marketing-campaign-data-utm-tags.md#channels">Tracking Marketing campaign data</a> for more details.</td></tr><tr><td>Campaign (utm)</td><td>This is the name of the campaign that the traffic is associated with, eg "Spring sale"</td></tr><tr><td>Source (utm)</td><td>This indicates the source of the traffic. eg "google"</td></tr><tr><td>Medium (utm)</td><td>This indicates the medium through which the traffic was acquired, eg "cpc", "email", etc.</td></tr><tr><td>Content (utm)</td><td>This field is often used to differentiate between different versions or elements of an ad or a piece of content.</td></tr><tr><td>Term (utm)</td><td>This field is used to track the specific keywords or search terms that were used to trigger an ad or a piece of content. It is commonly used in paid search campaigns to track the effectiveness of specific keywords or phrases.</td></tr><tr><td>referrer</td><td>Third party website or source (i.e. search engine, link, ad, email) through which a visitor reaches your site. Search engines are the primary example. All sites with links leading to your site are also referrers.  Email and newsletters can also be referrers.</td></tr><tr><td>referring domain</td><td>the Top Level Domain of a referrer (eg google.com)</td></tr></tbody></table>
 
 
 
 ### Behavioural
 
-<table><thead><tr><th width="225"></th><th></th></tr></thead><tbody><tr><td>exit page<br><mark style="color:blue;">[url]</mark></td><td>The last page a visitor views before leaving your site. If the visitor follows a link from your site LeadBoxer will record the exit link followed. If they close their browser or use bookmarks no further information on their activity is available.</td></tr><tr><td>exit link<br><mark style="color:blue;">[url]</mark></td><td>An exit link is a link from your site (domain) to another site (technically a 3rd party domain). An exit link is a link leaving your site to third-party site, a bridge from your site to another. Exit links begin on your site and lead to the other side of the bridge.</td></tr><tr><td>event count<br><mark style="color:blue;">[number]</mark></td><td>Event; pageview, click, download, login, newsletter open, etc. Any activity that takes place on an Internet-connected device can be defined as an <strong>event</strong>. </td></tr><tr><td>web sessions<br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct web sessions made to a site over a given period of time. A session starts with an entry click and ends with an exit event or a 10 minute period of inactivity. A visitor can make an unlimited number of sessions. Also know as web visits. </td></tr><tr><td>last event <br><mark style="color:blue;">[dynamic]</mark> </td><td>The time difference between now and the last registered activity time by a user . eg 5s, 2 days, 3 weeks, 4 months</td></tr></tbody></table>
+<table><thead><tr><th width="225"></th><th></th></tr></thead><tbody><tr><td>exit page<br><mark style="color:blue;">[url]</mark></td><td>The last page a visitor views before leaving your site. If the visitor follows a link from your site LeadBoxer will record the exit link followed. If they close their browser or use bookmarks no further information on their activity is available.</td></tr><tr><td>exit link<br><mark style="color:blue;">[url]</mark></td><td>An exit link is a link from your site (domain) to another site (technically a 3rd party domain). An exit link is a link leaving your site to third-party site, a bridge from your site to another. Exit links begin on your site and lead to the other side of the bridge.</td></tr><tr><td>event count<br><mark style="color:blue;">[number]</mark></td><td>Event; pageview, click, download, login, newsletter open, etc. Any activity that takes place on an Internet-connected device can be defined as an <strong>event</strong>. </td></tr><tr><td>web visits<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct web visits (sessions) made to a site or the subtotal over a given period of time. <br>A session starts with an entry event and ends with an exit event or a 10 minute period of inactivity. A visitor can make an unlimited number of visits. Also know as web sessions. </td></tr><tr><td>events<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct events measured or the subtotal over a given period of time. </td></tr><tr><td>last event <br><mark style="color:blue;">[dynamic]</mark> </td><td>The time difference between now and the last registered activity time by a user . eg 5s, 2 days, 3 weeks, 4 months</td></tr></tbody></table>
 
 ### Technical
 
-
+| field name  | Technical Name |
+| ----------- | -------------- |
+| Browser     |                |
+| Platform    |                |
+| Screen size |                |
 
 ### Geo Location
 
 We determine an Internet visitor’s location based on their IP address and /or GPS coordinates. ​Geolocation is the identification of the real-world geographic location of an object, such as a mobile phone or an Internet-connected computer.&#x20;
 
-<table><thead><tr><th width="235"></th><th></th></tr></thead><tbody><tr><td>person city </td><td>The city where the IP address is registered </td></tr><tr><td>person country </td><td>The country where the IP address is registered</td></tr><tr><td>person region</td><td>The region where the IP address is registered</td></tr></tbody></table>
+<table><thead><tr><th width="235"></th><th></th></tr></thead><tbody><tr><td>person city </td><td>The city where the IP address is registered </td></tr><tr><td>person country </td><td>The country where the IP address is registered</td></tr><tr><td>person region</td><td>The region where the IP address is registered</td></tr><tr><td>IP address</td><td>The last IP address of the visitor or Lead </td></tr><tr><td>ISP</td><td>The last IP address of the visitor or Lead </td></tr><tr><td></td><td></td></tr></tbody></table>
 
 
 
