@@ -66,11 +66,13 @@ A “single event” visit is defined when a lead or visitor views a single page
 
 ## Glossary & field names
 
-## Person or contact fields
+### Person or contact fields
 
 <table><thead><tr><th width="251">Field Name</th><th>Technical name</th></tr></thead><tbody><tr><td>First Name</td><td>firstName</td></tr><tr><td>Last Name</td><td>lastName</td></tr><tr><td>Full Name</td><td>fullName</td></tr><tr><td>Job Title</td><td>title</td></tr><tr><td>Email Address</td><td>email</td></tr><tr><td>Lead Tag</td><td>leadTag</td></tr></tbody></table>
 
 LeadBoxer captures various marketing data and stores these in the following field.
+
+### Acquisition fields
 
 {% hint style="info" %}
 Note: Each of these fields has both a **first** and **last** version.&#x20;
@@ -85,21 +87,21 @@ Note: Each of these fields has both a **first** and **last** version.&#x20;
 
 ### Behavioural
 
-<table><thead><tr><th width="225"></th><th></th></tr></thead><tbody><tr><td>exit page<br><mark style="color:blue;">[url]</mark></td><td>The last page a visitor views before leaving your site. If the visitor follows a link from your site LeadBoxer will record the exit link followed. If they close their browser or use bookmarks no further information on their activity is available.</td></tr><tr><td>exit link<br><mark style="color:blue;">[url]</mark></td><td>An exit link is a link from your site (domain) to another site (technically a 3rd party domain). An exit link is a link leaving your site to third-party site, a bridge from your site to another. Exit links begin on your site and lead to the other side of the bridge.</td></tr><tr><td>event count<br><mark style="color:blue;">[number]</mark></td><td>Event; pageview, click, download, login, newsletter open, etc. Any activity that takes place on an Internet-connected device can be defined as an <strong>event</strong>. </td></tr><tr><td>web visits<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct web visits (sessions) made to a site or the subtotal over a given period of time. <br>A session starts with an entry event and ends with an exit event or a 10 minute period of inactivity. A visitor can make an unlimited number of visits. Also know as web sessions. </td></tr><tr><td>events<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct events measured or the subtotal over a given period of time. </td></tr><tr><td>last event <br><mark style="color:blue;">[dynamic]</mark> </td><td>The time difference between now and the last registered activity time by a user . eg 5s, 2 days, 3 weeks, 4 months</td></tr></tbody></table>
+<table><thead><tr><th width="225"></th><th></th></tr></thead><tbody><tr><td>exit page<br><mark style="color:blue;">[url]</mark></td><td>The last page a visitor views before leaving your site. If the visitor follows a link from your site LeadBoxer will record the exit link followed. If they close their browser or use bookmarks no further information on their activity is available.</td></tr><tr><td>exit link<br><mark style="color:blue;">[url]</mark></td><td>An exit link is a link from your site (domain) to another site (technically a 3rd party domain). An exit link is a link leaving your site to third-party site, a bridge from your site to another. Exit links begin on your site and lead to the other side of the bridge.</td></tr><tr><td>event count<br><mark style="color:blue;">[number]</mark></td><td>Event; pageview, click, download, login, newsletter open, etc. Any activity that takes place on an Internet-connected device can be defined as an <strong>event</strong>. </td></tr><tr><td>web visits<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct web visits (sessions) made to a site or the subtotal over a given period of time. <br>A session starts with an entry event and ends with an exit event or a 10 minute period of inactivity. A visitor can make an unlimited number of visits. Also know as web sessions. </td></tr><tr><td>events<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct events measured or the subtotal over a given period of time. </td></tr><tr><td>last event <br><mark style="color:blue;">[dynamic]</mark> </td><td>The time difference between now and the last registered activity time by a user . eg 5s, 2 days, 3 weeks, 4 months</td></tr><tr><td>last event in date format<br><mark style="color:blue;">[date]</mark> </td><td>The last registered activity time in ISO date format</td></tr></tbody></table>
 
 ### Technical
 
-| field name  | Technical Name |
-| ----------- | -------------- |
-| Browser     |                |
-| Platform    |                |
-| Screen size |                |
+| field name  | Technical Name                                    |
+| ----------- | ------------------------------------------------- |
+| Browser     | last\_browser                                     |
+| Platform    | last\_platform                                    |
+| Screen size | last\_resolution\_height, last\_resolution\_width |
 
 ### Geo Location
 
 We determine an Internet visitor’s location based on their IP address and /or GPS coordinates. ​Geolocation is the identification of the real-world geographic location of an object, such as a mobile phone or an Internet-connected computer.&#x20;
 
-<table><thead><tr><th width="235"></th><th></th></tr></thead><tbody><tr><td>person city </td><td>The city where the IP address is registered </td></tr><tr><td>person country </td><td>The country where the IP address is registered</td></tr><tr><td>person region</td><td>The region where the IP address is registered</td></tr><tr><td>IP address</td><td>The last IP address of the visitor or Lead </td></tr><tr><td>ISP</td><td>The last IP address of the visitor or Lead </td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="235"></th><th></th></tr></thead><tbody><tr><td>person city </td><td>The city where the IP address is registered </td></tr><tr><td>person country </td><td>The country where the IP address is registered</td></tr><tr><td>person region</td><td>The region where the IP address is registered</td></tr><tr><td>IP address</td><td>The last IP address of the visitor or Lead </td></tr><tr><td>ISP</td><td>The last IP address of the visitor or Lead </td></tr></tbody></table>
 
 
 
@@ -110,10 +112,3 @@ LeadBoxer offers multiple options for identifying organizations and companies. E
 Once we have identified an organization, we enrich this identified organization with an extensive range of fields. As we use multiple data sources, field availability differs, depending on factors such as region, location, online presence, etc.
 
 <table><thead><tr><th width="144">Description</th><th width="264">field name</th><th>technical name</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td>Organization Name</td><td>organizationName</td></tr><tr><td><p><strong>Address fields</strong><br><br></p><p><br><br><br><br><br><br><br></p></td><td><p>Street Name</p><p>Street Number</p><p>SubPremise</p><p>City</p><p>PostalCode</p><p>State</p><p>StateCode</p><p>Country</p><p>CountryCode</p><p>Longitude</p><p>Latitude</p></td><td><p>organizationStreetName</p><p>organizationStreetNumber</p><p>organizationSubPremise</p><p>organizationCity</p><p>organizationPostalCode</p><p>organizationState</p><p>organizationStateCode</p><p>organizationCountry</p><p>organizationCountryCode</p><p>organizationLongitude</p><p>organizationLatitude</p></td></tr><tr><td>Generic fields<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td><td><p>Logo </p><p>Employee Count Estimate</p><p>Employee Count Range Code</p><p>Employee Count Range Name</p><p>Industry Name </p><p>Industry Code </p><p>Industry Group </p><p>Naics Code </p><p>Sector </p><p>Tags </p><p>Specialties </p><p>Founded </p><p>Description </p><p>Description Short </p><p>Type </p><p>Domain </p><p>Phone </p><p>Email Addresses  </p><p>Ceo Title </p><p>Executives </p><p>NationalId </p><p>Technology </p><p>Website Ip Address</p></td><td><p>OrganizationLogo organizationEmployeeCountEstimate organizationEmployeeCountRangeCode organizationEmployeeCountRangeName organizationIndustryName organizationIndustryCode organizationIndustryGroup</p><p>organizationNaicsCode</p><p>organizationSector </p><p>organizationTags</p><p>organizationSpecialties organizationFounded organizationDescription organizationDescriptionShort organizationType</p><p>organizationDomain</p><p>organizationPhone organizationEmailAddresses  organizationCeoTitle organizationExecutives organizationNationalId organizationTechnology organizationWebsiteIpAddress</p></td></tr><tr><td>Social fields<br><br><br><br><br><br></td><td><p>LinkedIn ID </p><p>LinkedIn Url </p><p>Facebook Url </p><p>Twitter Url </p><p>Instagram Url </p><p>Youtube Url </p><p>Google Places Id</p></td><td>organizationLinkedInID organizationLinkedInUrl organizationFacebookUrl organizationTwitterUrl organizationInstagramUrl organizationYoutubeUrl organizationGooglePlacesId</td></tr><tr><td>Financial</td><td>Sales Volume Category Name<br>Sales Volume Currency<br>Sales Volume Category Code</td><td>organizationSalesVolumeCategoryName organizationSalesVolumeCurrency organizationSalesVolumeCategoryCode</td></tr></tbody></table>
-
-
-
-### Referrer
-
-Third party website or source (i.e. search engine, link, banner, email) through which a visitor reaches your site. Search engines are the primary example, but other sites with links leading to your site are also referrers. Some examples are forums, banners, links, directories, portals, shops, homepages, etc. Newsletters and Email are also be referrers. If a person clicks on a link from an email to your site this is captured if they are using an online mail client.
-
