@@ -26,7 +26,7 @@ In LeadBoxer, we define companies and organizations as <mark style="color:purple
 
 ***
 
-### Events
+### Events (pageviews)
 
 An event in LeadBoxer is defined as any tracked activity that takes place on an Internet-connected device.&#x20;
 
@@ -36,7 +36,7 @@ Events include: pageview, (email) clicks, swipe, scroll, download, email open, e
 
 ***
 
-### Sessions (visits)
+### Sessions (website visits)
 
 A Session begins when a Website visitors enters your site with an entry event and views a succession of one or more pages. Each page requested and viewed is a pageview. The end of a visit is signalled by an exit event or a 10 minute period of inactivity. In that case, a next event (click) will start a new visit.
 
@@ -81,7 +81,7 @@ Note: Each of these fields has both a **first** and **last** version.&#x20;
 * Last represents the very last value that was tracked & stored. this value will be overwritten every time we track or receive a new value.
 {% endhint %}
 
-<table><thead><tr><th width="219">name</th><th>description</th></tr></thead><tbody><tr><td>Channel </td><td>A channel is a marketing term that refers to the source of traffic to a website or a specific page within a website. Common channels include organic search, social media, email marketing, and paid advertising. See <a href="../integrations/website/tracking-marketing-campaign-data-utm-tags.md#channels">Tracking Marketing campaign data</a> for more details.</td></tr><tr><td>Campaign (utm)</td><td>This is the name of the campaign that the traffic is associated with, eg "Spring sale"</td></tr><tr><td>Source (utm)</td><td>This indicates the source of the traffic. eg "google"</td></tr><tr><td>Medium (utm)</td><td>This indicates the medium through which the traffic was acquired, eg "cpc", "email", etc.</td></tr><tr><td>Content (utm)</td><td>This field is often used to differentiate between different versions or elements of an ad or a piece of content.</td></tr><tr><td>Term (utm)</td><td>This field is used to track the specific keywords or search terms that were used to trigger an ad or a piece of content. It is commonly used in paid search campaigns to track the effectiveness of specific keywords or phrases.</td></tr><tr><td>referrer</td><td>Third party website or source (i.e. search engine, link, ad, email) through which a visitor reaches your site. Search engines are the primary example. All sites with links leading to your site are also referrers.  Email and newsletters can also be referrers.</td></tr><tr><td>referring domain</td><td>the Top Level Domain of a referrer (eg google.com)</td></tr></tbody></table>
+<table><thead><tr><th width="219">name</th><th>description</th></tr></thead><tbody><tr><td>Channel </td><td>A channel is a marketing term that refers to the source of traffic to a website or a specific page within a website. Common channels include organic search, social media, email marketing, and paid advertising. See <a href="../integrations/website/tracking-marketing-campaign-data-utm-tags.md#channels">Tracking Marketing campaign data</a> for more details.</td></tr><tr><td>Campaign (utm)</td><td>This is the name of the campaign that the traffic is associated with, eg "Spring sale"</td></tr><tr><td>Source (utm)</td><td>This indicates the source of the traffic. eg "google"</td></tr><tr><td>Medium (utm)</td><td>This indicates the medium through which the traffic was acquired, eg "cpc", "email", etc.</td></tr><tr><td>Content (utm)</td><td>This field is often used to differentiate between different versions or elements of an ad or a piece of content.</td></tr><tr><td>Term (utm)</td><td>This field is used to track the specific keywords or search terms that were used to trigger an ad or a piece of content. It is commonly used in paid search campaigns to track the effectiveness of specific keywords or phrases.</td></tr><tr><td>Referrer</td><td>Third party website or source (i.e. search engine, link, ad, email) through which a visitor reaches your site. Search engines are the primary example. All sites with links leading to your site are also referrers.  Email and newsletters can also be referrers.</td></tr><tr><td>Referring domain</td><td>the Top Level Domain of a referrer (eg google.com)</td></tr></tbody></table>
 
 
 
