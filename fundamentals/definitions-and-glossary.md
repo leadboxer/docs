@@ -4,14 +4,14 @@
 
 ### Leads
 
-There are many different definitions of leads in this world, and we think it does not really matter how anyone defines it as long they keep their definition clear and fixed within their organisation and throughout the marketing and sales workflow.
+There are many manifold definitions of what constitutes a 'lead'. We don't think it matters - as long as the definition is clear and fixed across an organisation with regards to marketing and sales workflows.
 
-There are also many subsets of Leads such as Marketing Qualified Leads (MQL), Sales Qualified Leads (SQL), BAND leads, hot leads, etc.
+Additionally there are multiple subsets of Leads such as Marketing Qualified Leads (MQL), Sales Qualified Leads (SQL), BAND leads, hot leads, etc.
 
 #### Our definition of a Lead:
 
 {% hint style="success" %}
-In LeadBoxer, we have defined **Leads** quite broadly as any <mark style="color:orange;">**Individual**</mark> that shows or has shown any interest in your product or service AND is Identifiable as either an (anonymous) employee of a company or as a know contact.
+In LeadBoxer, we have defined **Leads** quite broadly as (1) any <mark style="color:orange;">**Individual**</mark> that shows or has shown any interest in your product or service AND (2) is Identifiable as either an (anonymous) employee of a company or as a know contact.
 {% endhint %}
 
 ***
@@ -28,27 +28,27 @@ In LeadBoxer, we define companies and organizations as <mark style="color:purple
 
 ### Events (pageviews)
 
-An event in LeadBoxer is defined as any tracked activity that takes place on an Internet-connected device.&#x20;
+An event in LeadBoxer is defined as any tracked activity that takes place on an internet-connected device.&#x20;
 
 {% hint style="info" %}
-Events include: pageview, (email) clicks, swipe, scroll, download, email open, etc.
+Example events include: pageview, (email) clicks, swipe, scroll, download, email open, etc.
 {% endhint %}
 
 ***
 
 ### Sessions (website visits)
 
-A Session begins when a Website visitors enters your site with an entry event and views a succession of one or more pages. Each page requested and viewed is a pageview. The end of a visit is signalled by an exit event or a 10 minute period of inactivity. In that case, a next event (click) will start a new visit.
+A Session begins when a Website visitors enters your site with an entry event and views a succession of one or more pages. Each page requested and viewed is a pageview. The end of a visit is signalled by an exit event or a 10-minute period of inactivity. In that case, a next event (click) will start a new visit.
 
 ### Behaviour tracking
 
-By using various tracking technologies and connecting with your other marketing tools, we can (among other things) track individual leads when they browse your site and read your emails. MeaningLeadBoxer can track all the (digital) interactions or engagement your leads have with your content or organization, and store this as their 'behaviour'. This behaviour can be found for each Lead as part of their LeadProfile&#x20;
+By using various tracking technologies and connecting with your other marketing tools, we can (among other things) track individual leads when they browse your site and read your emails. In other words, LeadBoxer can track all the (digital) interactions or engagement your leads have with your content or organization and store this as their 'behaviour'. This behaviour can be found for each Lead as part of their LeadProfile&#x20;
 
 {% hint style="info" %}
 Individual behavioural visualisation is also know as a click-stream, event-stream, action-stream, etc.
 {% endhint %}
 
-The behaviour gives insight into their interests, buyer journey, marketing phase, and also provides input to build up a rich Lead Profile, for example by [tagging](elements/lead-tags.md) based on pages they visit.
+The behaviour (a) gives insight into lead interests, buyer journey, marketing phase, and (b) provides input to build up a rich Lead Profile, for example by [tagging](elements/lead-tags.md) based on pages they visit.
 
 ### Clickstream
 
@@ -70,7 +70,7 @@ A “single event” visit is defined when a lead or visitor views a single page
 
 <table><thead><tr><th width="251">Field Name</th><th>Technical name</th></tr></thead><tbody><tr><td>First Name</td><td>firstName</td></tr><tr><td>Last Name</td><td>lastName</td></tr><tr><td>Full Name</td><td>fullName</td></tr><tr><td>Job Title</td><td>title</td></tr><tr><td>Email Address</td><td>email</td></tr><tr><td>Lead Tag</td><td>leadTag</td></tr></tbody></table>
 
-LeadBoxer captures various marketing data and stores these in the following field.
+LeadBoxer captures various marketing data and stores these in the following fields:
 
 ### Acquisition fields
 
@@ -87,7 +87,7 @@ Note: Each of these fields has both a **first** and **last** version.&#x20;
 
 ### Behavioural
 
-<table><thead><tr><th width="225"></th><th></th></tr></thead><tbody><tr><td>exit page<br><mark style="color:blue;">[url]</mark></td><td>The last page a visitor views before leaving your site. If the visitor follows a link from your site LeadBoxer will record the exit link followed. If they close their browser or use bookmarks no further information on their activity is available.</td></tr><tr><td>exit link<br><mark style="color:blue;">[url]</mark></td><td>An exit link is a link from your site (domain) to another site (technically a 3rd party domain). An exit link is a link leaving your site to third-party site, a bridge from your site to another. Exit links begin on your site and lead to the other side of the bridge.</td></tr><tr><td>event count<br><mark style="color:blue;">[number]</mark></td><td>Event; pageview, click, download, login, newsletter open, etc. Any activity that takes place on an Internet-connected device can be defined as an <strong>event</strong>. </td></tr><tr><td>web visits<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct web visits (sessions) made to a site or the subtotal over a given period of time. <br>A session starts with an entry event and ends with an exit event or a 10 minute period of inactivity. A visitor can make an unlimited number of visits. Also know as web sessions. </td></tr><tr><td>events<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct events measured or the subtotal over a given period of time. </td></tr><tr><td>last event <br><mark style="color:blue;">[dynamic]</mark> </td><td>The time difference between now and the last registered activity time by a user . eg 5s, 2 days, 3 weeks, 4 months</td></tr><tr><td>last event in date format<br><mark style="color:blue;">[date]</mark> </td><td>The last registered activity time in ISO date format</td></tr></tbody></table>
+<table><thead><tr><th width="225"></th><th></th></tr></thead><tbody><tr><td>exit page<br><mark style="color:blue;">[url]</mark></td><td>The last page a visitor views before leaving your site. If the visitor follows a link from your site LeadBoxer will record the exit link followed. If they close their browser or use bookmarks no further information on their activity is available.</td></tr><tr><td>exit link<br><mark style="color:blue;">[url]</mark></td><td>An exit link is a link from your site (domain) to another site (technically a 3rd party domain). An exit link is a link leaving your site to third-party site, a bridge from your site to another. Exit links begin on your site and lead to the other side of the bridge.</td></tr><tr><td>event count<br><mark style="color:blue;">[number]</mark></td><td>Event; pageview, click, download, login, newsletter open, etc. Any activity that takes place on an Internet-connected device can be defined as an <strong>event</strong>. </td></tr><tr><td>web visits<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct web visits (sessions) made to a site or the subtotal over a given period of time. <br>A session starts with an entry event and ends with an exit event or a 10 minute period of inactivity. A visitor can make an unlimited number of visits. Also know as web sessions. </td></tr><tr><td>events<br><mark style="color:purple;">Total / This Period</mark><br><mark style="color:blue;">[number]</mark></td><td>The total number of distinct events measured or the subtotal over a given period of time. </td></tr><tr><td>last event <br><mark style="color:blue;">[dynamic]</mark> </td><td>The time difference between now and the last registered activity time by a user . eg 5s, 2 days, 3 weeks, or 4 months.</td></tr><tr><td>last event in date format<br><mark style="color:blue;">[date]</mark> </td><td>The last registered activity time in ISO date format</td></tr></tbody></table>
 
 ### Technical
 
@@ -99,7 +99,7 @@ Note: Each of these fields has both a **first** and **last** version.&#x20;
 
 ### Geo Location
 
-We determine an Internet visitor’s location based on their IP address and /or GPS coordinates. ​Geolocation is the identification of the real-world geographic location of an object, such as a mobile phone or an Internet-connected computer.&#x20;
+We determine an internet visitor’s location based on their IP address and /or GPS coordinates. ​Geolocation is the identification of the real-world geographic location of an object, such as a mobile phone or an internet-connected computer.&#x20;
 
 <table><thead><tr><th width="235"></th><th></th></tr></thead><tbody><tr><td>person city </td><td>The city where the IP address is registered </td></tr><tr><td>person country </td><td>The country where the IP address is registered</td></tr><tr><td>person region</td><td>The region where the IP address is registered</td></tr><tr><td>IP address</td><td>The last IP address of the visitor or Lead </td></tr><tr><td>ISP</td><td>The last IP address of the visitor or Lead </td></tr></tbody></table>
 
