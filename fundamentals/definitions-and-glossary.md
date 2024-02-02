@@ -4,14 +4,14 @@
 
 ### Leads
 
-There are many manifold definitions of what constitutes a 'lead'. We don't think it matters - as long as the definition is clear and fixed across an organisation with regards to marketing and sales workflows.
+There are manifold definitions of what constitutes a 'lead'. We don't think it matters - as long as the definition is clear and fixed across an organisation with regards to marketing and sales workflows.
 
 Additionally there are multiple subsets of Leads such as Marketing Qualified Leads (MQL), Sales Qualified Leads (SQL), BAND leads, hot leads, etc.
 
 #### Our definition of a Lead:
 
 {% hint style="success" %}
-In LeadBoxer, we have defined **Leads** quite broadly as (1) any <mark style="color:orange;">**Individual**</mark> that shows or has shown any interest in your product or service AND (2) is Identifiable as either an (anonymous) employee of a company or as a know contact.
+In LeadBoxer, we have defined a **Lead** quite broadly as (1) any <mark style="color:orange;">**Individual**</mark> that shows or has shown any interest in your product or service AND (2) is identifiable as either an (anonymous) employee of a company or as a know contact.
 {% endhint %}
 
 ***
