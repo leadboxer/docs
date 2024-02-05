@@ -6,6 +6,32 @@ description: >-
 
 # Changelog
 
+#### 02-02-2024
+
+## LeadBoard Filters
+
+We added a few new filters to the Leadboard, allowing you to narrow down the results so you can focus on the most important or qualified leads.
+
+**Filter on Tags:** include and/or exclude Leadcards that have a one or multiple tags.
+
+**Filter on Owner**: Did you know you could already assign an owner to a Leadcard? Well now it is also much easier to filter on your or your colleague's cards.&#x20;
+
+**Filter on Date-range**: set a relativly fixed date-range, so you can focus on the leads that are new. You can choose between lead activity and Card activity or card created.
+
+Also: you can Enable the filters by default (make it sticky), so you can continue where you left off yesterday!
+
+<figure><img src="../.gitbook/assets/Cursor_and_LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+
+## Cross-domain tracking (based on GA)
+
+We now support cross-domain measurement if this is implemented using the Google Analytics GA4 method, see [https://support.google.com/analytics/answer/10071811?hl=en](https://support.google.com/analytics/answer/10071811?hl=en)&#x20;
+
+If you are looking for this feature, please contact us to get this enabled for your account.
+
+
+
+***
+
 #### 12-01-2024
 
 ## LeadBoard Improvements
@@ -58,7 +84,7 @@ You can now enable and disable even more UI elements and features for your users
 
 This is very useful if you would like to make LeadBoxer less 'advanced' or easier to use.
 
-<figure><img src="../.gitbook/assets/Cursor_and_LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Cursor_and_LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
