@@ -10,13 +10,13 @@ description: >-
 
 ## LeadBoard Filters
 
-We added a few new filters to the Leadboard, allowing you to narrow down the results so you can focus on the most important or qualified leads.
+We've added new filters to the Leadboard, allowing you to narrow down results so you can focus on the most important or qualified leads.
 
-**Filter on Tags:** include and/or exclude Leadcards that have a one or multiple tags.
+**Filter on Tags:** include and/or exclude Leadcards with one- or multiple tags.
 
-**Filter on Owner**: Did you know you could already assign an owner to a Leadcard? Well now it is also much easier to filter on your or your colleague's cards.&#x20;
+**Filter on Owner**: Did you know you can assign an owner to a Leadcard? It's now also easier to filter on your- or your colleague's cards.&#x20;
 
-**Filter on Date-range**: set a relativly fixed date-range, so you can focus on the leads that are new. You can choose between lead activity and Card activity or card created.
+**Filter on Date-range**: set a relatively fixed date-range, so you can focus on new leads. Choose between lead activity and Card activity or card created.
 
 Also: you can Enable the filters by default (make it sticky), so you can continue where you left off yesterday!
 
