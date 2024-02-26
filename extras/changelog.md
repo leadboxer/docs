@@ -6,6 +6,34 @@ description: >-
 
 # Changelog
 
+#### 23-02-2024
+
+## Account Tags
+
+We have introduced a new tagging concept, allowing you to tag Accounts, companies or organzations.
+
+Account tags are visible in the Account details pannel, on the LeadBoard cards, and in the Leads & Accounts report as a column.
+
+
+
+## New Workflow Action: Set LeadCard Owner
+
+You can now automatically set an owner for Leadboard cards using an action in your workflow automations.
+
+For example, set the owner for Leads from a certain country or region to the responsible person.
+
+### Bonus:  Auto Ownership
+
+When enabled, ownership is auto assigned based on fromEmail address value.
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+
+## Improved LeadBoard cards removing features
+
+You can now optionally add an leadcard organization to the Exclude list, which means it can no longer be added to this LeadBoard going forward, effectively blocking it from appearing again.
+
+<figure><img src="../.gitbook/assets/Screenshot_from_2024-02-19_10-14-46.png" alt=""><figcaption></figcaption></figure>
+
 #### 02-02-2024
 
 ## LeadBoard Filters
@@ -42,7 +70,7 @@ If you are looking for this feature, please contact us to get this enabled for y
 
 #### We added LeadCard tags to the Account details
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### We added LeadBoard Loading improvements
 
@@ -106,7 +134,7 @@ We added the option to add or remove a list of leads to your [LeadBoards](../fun
 
 This is extremely useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

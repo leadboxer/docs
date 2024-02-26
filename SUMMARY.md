@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [🛠 Getting Started](getting-started.md)
+* [🛠️ Getting Started](getting-started.md)
 * [Lead Management Workflow](lead-management-workflow.md)
 * [How does it all work?](how-does-it-all-work.md)
 
-## 🏗 Fundamentals
+## 🏗️ Fundamentals
 
 * [Leads & Accounts](fundamentals/projects.md)
   * [Lead card: Complete lead details in one page](fundamentals/leads-and-accounts/lead-card-complete-lead-details-in-one-page.md)
@@ -55,7 +55,7 @@
   * [Adobe Tag Manager](integrations/website/how-to-add-the-leadboxer-pixel-using-the-adobe-dynamic-tag-manager.md)
   * [Unbounce landing pages](integrations/website/track-unbounce-landing-pages.md)
   * [Tracking pixel into Wix](integrations/website/leadboxer-lead-pixel-into-wix.md)
-* [✉ Email](integrations/email/README.md)
+* [✉️ Email](integrations/email/README.md)
   * [Individual emails](integrations/email/individual-emails/README.md)
     * [Gmail Email tracking](integrations/email/individual-emails/gmail-email-tracking.md)
     * [G Suite email tracking](integrations/email/individual-emails/g-suite-email-tracking.md)
