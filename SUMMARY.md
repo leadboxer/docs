@@ -82,6 +82,7 @@
     * [Prospect.io](integrations/email/marketing-emails/prospect.io.md)
     * [Woodpecker](integrations/email/marketing-emails/woodpecker.md)
     * [Instantly](integrations/email/marketing-emails/instantly.md)
+    * [Mailerlite](integrations/email/marketing-emails/mailerlite.md)
     * [Lemlist](integrations/email/marketing-emails/lemlist.md)
     * [Autopilot](integrations/email/marketing-emails/autopilot.md)
     * [Constant Contact](integrations/email/marketing-emails/constant-contact.md)
