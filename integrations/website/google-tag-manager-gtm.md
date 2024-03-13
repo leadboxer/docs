@@ -53,7 +53,25 @@ Steps:
 
 ## Events
 
-If you want to track on-page events using the Google Tag manager, you can follow these instructions .
+If you want to track on-page events using the Google Tag manager, you can follow these instructions.
+
+### Simple events
+
+If you would like to send a simple signal for any on-page event. for example when a lead expands a section on your site, you can use the sendEvent function that is build into the LeadBoxer tag.
+
+Simply add a new Tag like this
+
+```javascript
+<script type="text/javascript"> 
+   OTLogService.sendEvent("My simple event name"); 
+</script>
+```
+
+And connect this to any trigger
+
+
+
+### Advanced event tracking
 
 1. Make sure the LeadBoxer pixel (script tag) is loaded on the initial pageview.
 2.  First you need to define a new variable to grab the page title (for some reason GTM does not provide this variable by default so we need to define it ourselves)\
