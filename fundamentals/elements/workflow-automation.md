@@ -40,11 +40,40 @@ A action is basically a task or something that needs to happen. There are many '
 * Set or update a Lead tag
 * Create a custom property with a value from the session
 * Create, or update (move) a LeadBoard card
+* Assign or set LeadBoard card Owner
 * Webhook push <mark style="color:green;">(coming soon)</mark>
-* Assign owner <mark style="color:green;">(coming soon)</mark>
 * Send Email notification <mark style="color:green;">(coming soon)</mark>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-23 at 14.18.25.png" alt=""><figcaption></figcaption></figure>
+
+### Detailed descriptions&#x20;
+
+#### Set LeadBoard Card Owner
+
+When using this action, you can also enable 'Auto ownership'. This feature allows you to auto assign ownership based on the 'fromEmail' value that we receive from our [Gmail](../../integrations/email/individual-emails/gmail-email-tracking.md) and [Outlook](../../integrations/email/individual-emails/official-outlook-add-in.md) integrations.
+
+You can also manually set this paramater, by adding this to the email tracking pixel.
+
+eg <mark style="color:blue;">`&fromEmail=bart@leadboxer.com`</mark>
+
+Some email sending applications also support dynamic insertion of the from email address, which could be useful if you are sending automated outbound emails.
+
+{% hint style="success" %}
+The goal of this feature is that you can auto assign leads to the person who initiated the (email) contact with this particular lead.
+{% endhint %}
+
+In order to set this up properly you will need to create a new workflow like this:
+
+1. Create a new Trigger and set condition: URL contains "/open"\
+   (this will means that the workflow will trigger on all email open events)
+2. optionally, add a action to add a lead to a specific board and/ or stage.
+3. Add an action to set the ownership, configure the correct board, and enable the Auto Ownership feature (optionally you can set a 'default' owner, for cases where the fromEmail value is not provided or the sender is not a LeadBoxer user.
+
+
+
+
+
+###
 
 ### Real life Examples
 
