@@ -112,6 +112,7 @@
     * [Pipedrive Workflow Automation with LeadBoxer](integrations/website/pipedrive-workflow-automation-with-leadboxer.md)
   * [Whatagraph](integrations/other/whatagraph.md)
   * [Google BigQuery](integrations/other/google-bigquery.md)
+  * [Single Sign On (SSO)](integrations/other/single-sign-on-sso.md)
 
 ## 🦮 Guides
 
