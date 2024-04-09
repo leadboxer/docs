@@ -66,7 +66,9 @@ Once confirmed  your users can log into LeadBoxer using their SSO Account.
 
 ## Microsoft Entra ID login <a href="#h_2fe40bd98a" id="h_2fe40bd98a"></a>
 
-1. Use the Login with Microsoft button
+1.  Use the Login with Microsoft button
+
+    <figure><img src="../../.gitbook/assets/LeadBoxer_App (25).png" alt=""><figcaption></figcaption></figure>
 2. Login and /or authenticate with your Microsoft account
 3. Once authenticated you will get redirected to the application
 
