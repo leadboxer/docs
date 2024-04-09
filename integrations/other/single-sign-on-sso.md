@@ -1,5 +1,5 @@
 ---
-description: Here you can find the instructions to Enable SSO for LeadBoxer
+description: These are instructions for enabling SSO for LeadBoxer
 ---
 
 # Single Sign On (SSO)
@@ -7,11 +7,11 @@ description: Here you can find the instructions to Enable SSO for LeadBoxer
 ### Prerequisites <a href="#h_cd7bfcb583" id="h_cd7bfcb583"></a>
 
 1. A LeadBoxer Enterprise account
-2.  A valid SSO service.&#x20;
+2.  Valid SSO service&#x20;
 
-    At the moment we support Microsoft Entra ID (previously Azure Active Directory)\
-    contact us if you need us to support other SSO providers
-3. All users that you want to provide LeadBoxer access through SSO also need to be present in LeadBoxer as users.
+    We currently support Microsoft Entra ID (previously Azure Active Directory)\
+    Contact us regarding alternative SSO providers
+3. All users requiring LeadBoxer access through SSO (also) need to be registered in LeadBoxer as users.
 
 ## Microsoft Entra ID setup  <a href="#h_2fe40bd98a" id="h_2fe40bd98a"></a>
 
@@ -60,7 +60,7 @@ description: Here you can find the instructions to Enable SSO for LeadBoxer
 
 ## Login
 
-Once confirmed  your users can log into LeadBoxer using their SSO Account.
+Your users will then be able log into LeadBoxer using their SSO Account.
 
 <figure><img src="../../.gitbook/assets/LeadBoxer_App (24).png" alt=""><figcaption></figcaption></figure>
 
@@ -70,9 +70,9 @@ Once confirmed  your users can log into LeadBoxer using their SSO Account.
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_App (25).png" alt=""><figcaption></figcaption></figure>
 2. Login and /or authenticate with your Microsoft account
-3. Once authenticated you will get redirected to the application
+3. Once authenticated you will be redirected to the application
 
 {% hint style="warning" %}
-Any user that you want to provide LeadBoxer access through SSO also need to be present in LeadBoxer as a user.
+All users requiring LeadBoxer access through SSO (also) need to be registered in LeadBoxer as users.
 {% endhint %}
 
