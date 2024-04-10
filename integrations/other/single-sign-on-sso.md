@@ -39,24 +39,28 @@ description: These are instructions for enabling SSO for LeadBoxer
 
 <figure><img src="../../.gitbook/assets/LeadBoxer_SSO_-_Microsoft_Azure.png" alt=""><figcaption></figcaption></figure>
 
-6.  On the next screen, edit the Basic SAML configuration, and set the following URLs:
+6. On the next screen, edit the Basic SAML configuration, and set the following URLs:
 
-    \
-    Identifier (Entity ID):
+{% hint style="warning" %}
+Before proceeding, make sure you have received your account ID from the LeadBoxer team
+{% endhint %}
 
-    `https://lbapiv2/saml2/service-provider-metadata/adfs`
+Identifier (Entity ID):
 
-    \
-    Reply URL (Assertion Consumer Service URL):
+`https://lbapiv2/saml2/service-provider-metadata/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>
 
-    `https://lb1.leadboxer.com/login/saml2/sso/adfs`\
+\
+Reply URL (Assertion Consumer Service URL):
+
+`https://lb1.leadboxer.com/login/saml2/sso/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>\
 
 
-    <figure><img src="../../.gitbook/assets/Basic_SAML_Configuration_-_Microsoft_Azure (1).png" alt=""><figcaption></figcaption></figure>
-7.  The last step is to copy and share with us the "App Federation Metadata Url" located under the "SAML Certificates" section.
+<figure><img src="../../.gitbook/assets/Basic_SAML_Configuration_-_Microsoft_Azure (1).png" alt=""><figcaption></figcaption></figure>
+
+6.  The last step is to copy and share with us the "App Federation Metadata Url" located under the "SAML Certificates" section.
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_SSO_-_Microsoft_Azure (1).png" alt=""><figcaption></figcaption></figure>
-8. Once we have received the App Federation Metadata Url from you, we will add it to our settings and confirm.&#x20;
+7. Once we have received the App Federation Metadata Url from you, we will add it to our settings and confirm.&#x20;
 
 ## Login
 
@@ -66,9 +70,9 @@ Your users will then be able log into LeadBoxer using their SSO Account.
 
 ## Microsoft Entra ID login <a href="#h_2fe40bd98a" id="h_2fe40bd98a"></a>
 
-1.  Use the Login with Microsoft button
+1.  Enter your email and use the **Login with Microsoft** button.
 
-    <figure><img src="../../.gitbook/assets/LeadBoxer_App (25).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
 2. Login and /or authenticate with your Microsoft account
 3. Once authenticated you will be redirected to the application
 

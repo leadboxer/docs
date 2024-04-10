@@ -41,7 +41,7 @@ Depending on the action type, list size and number of leads in your account , it
 
 Once you have started a Batch Job, you can follow the progress of batch operations and the history in the Batch Jobs overview.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the Batch Jobs overview you can see the current jobs, and the history of jobs run in the last 30 days.
 

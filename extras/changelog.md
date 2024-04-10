@@ -26,7 +26,7 @@ For example, set the owner for Leads from a certain country or region to the res
 
 When enabled, ownership is auto assigned based on fromEmail address value.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Improved LeadBoard cards removing features
 
@@ -70,7 +70,7 @@ If you are looking for this feature, please contact us to get this enabled for y
 
 #### We added LeadCard tags to the Account details
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### We added LeadBoard Loading improvements
 
@@ -134,7 +134,7 @@ We added the option to add or remove a list of leads to your [LeadBoards](../fun
 
 This is extremely useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

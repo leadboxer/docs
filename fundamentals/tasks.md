@@ -59,7 +59,7 @@ We recommend that all movement of cards should be based on your internally defin
 
 Leads that are added to the LeadBoard are grouped on Account. Meaning that multiple visitors or contacts from the same company or domain are grouped into one one card on the board.&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### LeadBoard Card or Account details
 

@@ -10,7 +10,7 @@ To create a LeadBoard, you click on the 'Create LeadBoard' button and follow the
 
 There are 4 items we need to create a LeadBoard.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1).png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1).png" alt=""><figcaption><p>Step 1 of Create new LeadBoard wizard</p></figcaption></figure>
 
 * Provide a name for your LeadBoard. We recommend a short and descriptive name, so that all users understand what the goal of the board is. eg. Demo signups, LinkedIn campaign leads, EU Leads, etc.
 * Set the visibility of this LeadBoard to be visible to only you or anyone that has access to this dataset.
