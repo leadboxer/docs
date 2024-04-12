@@ -47,7 +47,7 @@ Before proceeding, make sure you have received your account ID from the LeadBoxe
 
 Identifier (Entity ID):
 
-`https://lbapiv2/saml2/service-provider-metadata/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>
+`http://lbapiv2/saml2/service-provider-metadata/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>
 
 \
 Reply URL (Assertion Consumer Service URL):
@@ -55,11 +55,11 @@ Reply URL (Assertion Consumer Service URL):
 `https://lb1.leadboxer.com/login/saml2/sso/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>\
 
 
-<figure><img src="../../.gitbook/assets/Basic_SAML_Configuration_-_Microsoft_Azure (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Basic_SAML_Configuration_-_Microsoft_Azure_and_Skype_and_infobelpro_test_leadlist_20240411_20240413__1_.png" alt=""><figcaption></figcaption></figure>
 
 6.  The last step is to copy and share with us the "App Federation Metadata Url" located under the "SAML Certificates" section.
 
-    <figure><img src="../../.gitbook/assets/LeadBoxer_SSO_-_Microsoft_Azure (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/LeadBoxer_SSO_-_Microsoft_Azure_and_Skype_and_infobelpro_test_leadlist_20240411_20240413__1_.png" alt=""><figcaption></figcaption></figure>
 7. Once we have received the App Federation Metadata Url from you, we will add it to our settings and confirm.&#x20;
 
 ## Login
