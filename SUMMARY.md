@@ -11,7 +11,7 @@
   * [Lead card: Complete lead details in one page](fundamentals/leads-and-accounts/lead-card-complete-lead-details-in-one-page.md)
   * [Batch operations](fundamentals/leads-and-accounts/batch-operations.md)
 * [LeadBoard](fundamentals/tasks.md)
-* [Dashboard](fundamentals/dashboard.md)
+* [Reports](fundamentals/reports.md)
 * [Definitions & Glossary](fundamentals/definitions-and-glossary.md)
 * [Elements](fundamentals/elements/README.md)
   * [Filters](fundamentals/elements/filters.md)
