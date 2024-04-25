@@ -16,9 +16,24 @@ Reports can be customized using 'blocks'. Each block is a subset of your data, w
 * Demographics
 * Industry & Size
 * Top Accounts
-* Top Events&#x20;
+* Top Events <mark style="color:green;">(coming soon)</mark>
 * Top Campaigns <mark style="color:green;">(coming soon)</mark>
 * LeadBoard Analytics <mark style="color:green;">(coming later this year)</mark>
+
+### The Engagement Block
+
+<figure><img src="../.gitbook/assets/LeadBoxer_App (26).png" alt=""><figcaption></figcaption></figure>
+
+This graph allows you to see the daily history or trend of your audience, and has the following features:
+
+* Select either Visitors, Leads, Accounts, Contacts or Events
+* Use the date-range selector to select your period. &#x20;
+* Open the filters pannel to select any of your [Segments](elements/segments.md).&#x20;
+* Switch between bar and line chart
+* Enable / disable comparison metrics for the period before
+* hover to the chart to see actual values for that day. &#x20;
+
+You
 
 ## Benefits or use cases
 
