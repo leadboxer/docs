@@ -31,7 +31,7 @@ This is how to set-up a batch Operation:
 4. Choose your Action or Operation
 5. Start
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1).png" alt=""><figcaption><p>How to select for a batch operation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1) (1).png" alt=""><figcaption><p>How to select for a batch operation</p></figcaption></figure>
 
 {% hint style="info" %}
 Depending on the action type, list size and number of leads in your account , it might take a few minutes to batch process all the changes.
@@ -41,8 +41,8 @@ Depending on the action type, list size and number of leads in your account , it
 
 Once you have started a Batch Job, you can follow the progress of batch operations and the history in the Batch Jobs overview.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the Batch Jobs overview you can see the current jobs, and the history of jobs run in the last 30 days.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1) (1).png" alt=""><figcaption><p>Batch Jobs overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1) (1) (1).png" alt=""><figcaption><p>Batch Jobs overview</p></figcaption></figure>

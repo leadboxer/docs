@@ -27,30 +27,56 @@ Reports can be customized using 'blocks'. Each block is a subset of your data, w
 This graph allows you to see the daily history or trend of your audience, and has the following features:
 
 * Select either Visitors, Leads, Accounts, Contacts or Events
-* Use the date-range selector to select your period. &#x20;
 * Open the filters pannel to select any of your [Segments](elements/segments.md).&#x20;
 * Switch between bar and line chart
 * Enable / disable comparison metrics for the period before
 * hover to the chart to see actual values for that day. &#x20;
 
-You
+### The Demographics Block
 
-## Benefits or use cases
+<figure><img src="../.gitbook/assets/LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
 
-### Visualize your Segments
+Use this chart and graph to get insights into the geographical location of your users. Features include:
 
-You can select any of your Segments in Report and the graphs and chart and tables will visualize this subset of your data.
+* Choose from Countries, Regions, Cities, Continents, Sub-continents or Sales Regions
+* Clicking on the bars on the chart allows you to:
+  * Slice or zoom in to country, region or city
+  * Apply the location filter and see the Leads and Accounts from that area&#x20;
+* Using the map chart to zoom in, by scrolling your mouse-wheel&#x20;
 
-<figure><img src="https://wp.leadboxer.com/wp-content/uploads/LeadBoxer_App-1-3-1.png" alt="Dashboard Segment"><figcaption></figcaption></figure>
+### The Industry and Size Block
 
-### Slice and drill-down to accounts view
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 
-You added the option to ‘slice’ the data on our dashboard, by clicking on any of the donut chart pieces.
+See what kind of audience you are interacting with, and find out if you targeting the right companies.
 
-We also added a the option to drill down directly to the accounts view.
+Features include:
 
-<figure><img src="https://wp.leadboxer.com/wp-content/uploads/Screenshot-2021-11-20-at-08.30.11-1.png" alt=""><figcaption></figcaption></figure>
+* Industry Group chart: Individual companies grouped by the [LinkedIn Industry definitions](https://learn.microsoft.com/en-us/linkedin/shared/references/reference-tables/industry-codes-v2#active-nodes)
+* Detailed Industry chart: Each and every industry ranked&#x20;
+* Organization size chart: Based on employee count, see a breakdown of your audience
+* Clicking on the bars on the chart allows you to:
+  * Apply the industry or size filter and see the actual Leads and Accounts from that group &#x20;
+  * Slice or the report to only include this industry or size <mark style="color:green;">(coming soon)</mark>
 
-Once sliced you can see these labels
+## Top Accounts Block
 
-<figure><img src="https://wp.leadboxer.com/wp-content/uploads/LeadBoxer_App-6-1.png" alt="sliced data"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Notification_Center.png" alt=""><figcaption></figcaption></figure>
+
+Find out what companies are your top engagers. Features include:
+
+* Sort on each column
+* Filter or each column
+* Double-Clicking on a row will take you to the individual Leads from that Account&#x20;
+
+
+
+## Generic features
+
+### Report on your Segments
+
+You can select any of your Segments in under Filters button / menu and the graphs and chart and tables will visualize this subset of your data.
+
+### Date range
+
+Use the date-range selector to select your period. &#x20;
