@@ -59,7 +59,7 @@ Features include:
   * Apply the industry or size filter and see the actual Leads and Accounts from that group &#x20;
   * Slice or the report to only include this industry or size <mark style="color:green;">(coming soon)</mark>
 
-## Top Accounts Block
+### Top Accounts Block
 
 <figure><img src="../.gitbook/assets/Notification_Center.png" alt=""><figcaption></figcaption></figure>
 
