@@ -6,7 +6,64 @@ description: >-
 
 # Changelog
 
-#### 23-02-2024
+#### 25-04-2024
+
+## NEW Reports Feature
+
+Hyper-intuitive. The new report feature visualizes all your Lead data. Click on any value - a group of leads, a company name, a geographic area or industry, and drill down into the details, all without selecting filters. In one click you can see all people who opened emails, or all companies from a specific industry, and lots more!
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/1713989735839_reports2_01HW8VZQFC37P8M3GFBKK6TYXE.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Now you can...&#x20;
+
+* See how your audience engagement performs over time
+* Visually drill down your data to find opportunities based on geographic data
+* Get insights for Industry, company size and industry group
+* Learn which companies show the most engagement
+* Report on each Campaign or Segment&#x20;
+
+In short: With LeadBoxer you can now get beautiful marketing analytics and use a super easy interface to pinpoint your best leads.&#x20;
+
+[Learn more about Reports → ](../fundamentals/reports.md)
+
+### Are Reports available for all plans?&#x20;
+
+We are making the new Reports feature available for all plans. However, free plans are limited to just 7 days and have fewer features.  Also, depending on you plan you can create multiple reports in your account.&#x20;
+
+### Coming Soon to Reports&#x20;
+
+* Download: Easily generate and download your reports for colleagues, management, and other stakeholders.&#x20;
+* Free delivery: Monthly report delivered to your inbox.
+
+## Add Single Sign On (SSO) support
+
+We now offer secure authentication for organizations that use Microsoft Entra ID (previously Azure Active Directory).
+
+See the full details here for [Single Sign On](../integrations/other/single-sign-on-sso.md)
+
+## Lead Action dropdown improvements
+
+We added the option to quickly move a lead to a LeadBoard and /or certain stage.
+
+<figure><img src="../.gitbook/assets/Screenshot_2024-05-13_at_19_11_44.png" alt=""><figcaption></figcaption></figure>
+
+### LeadBoard details added to column selector.
+
+You can now show LeadBoard details as a columns in the Leads & Accounts view. On hover it will also show the stage. When downloaded it will split the baord and stage name into seperate columns.
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+***
+
+23-02-2024
 
 ## Account Tags
 
