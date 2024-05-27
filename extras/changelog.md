@@ -180,7 +180,7 @@ This might seem tedious but is in fact a very useful update. If enabled (default
 
 ## Lead Tags in the event / click / behaviour streams
 
-Starting today, we are showing [Lead tags](../fundamentals/elements/lead-and-account-tags.md) activity in the lead details drawer / panel so you can see when they were added and by whom.
+Starting today, we are showing [Lead tags](../fundamentals/elements/lead-tags.md) activity in the lead details drawer / panel so you can see when they were added and by whom.
 
 We will show if the tag was added or removed  manually, through a workflow automation, or even an integration like Mailchimp.
 
@@ -204,7 +204,7 @@ This is very useful if you would like to make LeadBoxer less 'advanced' or easie
 
 ## Mailchimp Tags Sync
 
-We now automatically import tags from your contacts in Mailchimp and add these to LeadBoxer leads as [Lead Tags](../fundamentals/elements/lead-and-account-tags.md). This can be very useful if you label or tag your Mailchimp audiences, for example your customers (client status, or how they entered your mail-list, or the product group or service they are interested in.
+We now automatically import tags from your contacts in Mailchimp and add these to LeadBoxer leads as [Lead Tags](../fundamentals/elements/lead-tags.md). This can be very useful if you label or tag your Mailchimp audiences, for example your customers (client status, or how they entered your mail-list, or the product group or service they are interested in.
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (3) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -377,7 +377,7 @@ You can now set up to 3 actions in the same Automation, for example: Add a tag, 
 
 ## New Trigger: Lead Tags
 
-You can now trigger a [Workflow Automation](changelog.md#workflow-automation), when you manually add or automatically set a lead tag. This is useful if you want to automate your [LeadBoard](../fundamentals/tasks.md) based on [Lead Tags](../fundamentals/elements/lead-and-account-tags.md).
+You can now trigger a [Workflow Automation](changelog.md#workflow-automation), when you manually add or automatically set a lead tag. This is useful if you want to automate your [LeadBoard](../fundamentals/tasks.md) based on [Lead Tags](../fundamentals/elements/lead-tags.md).
 
 ## Support for nested triggers for Workflow Automation
 
@@ -485,7 +485,7 @@ You can now manually add tags from 2 places: from the lead details window, but a
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-To read more on Lead Tags, see the [Lead tags documentation](../fundamentals/elements/lead-and-account-tags.md) page.
+To read more on Lead Tags, see the [Lead tags documentation](../fundamentals/elements/lead-tags.md) page.
 
 #### 24-02-2023
 

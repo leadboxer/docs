@@ -48,7 +48,7 @@ By using various tracking technologies and connecting with your other marketing 
 Individual behavioural visualisation is also know as a click-stream, event-stream, action-stream, etc.
 {% endhint %}
 
-The behaviour (a) gives insight into lead interests, buyer journey, marketing phase, and (b) provides input to build up a rich Lead Profile, for example by [tagging](elements/lead-and-account-tags.md) based on pages they visit.
+The behaviour (a) gives insight into lead interests, buyer journey, marketing phase, and (b) provides input to build up a rich Lead Profile, for example by [tagging](elements/lead-tags.md) based on pages they visit.
 
 ### Clickstream
 

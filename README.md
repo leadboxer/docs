@@ -54,8 +54,8 @@ Learn the fundamentals of LeadBoxer to get a deeper understanding of our main fe
 [segments.md](fundamentals/elements/segments.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/elements/lead-and-account-tags.md" %}
-[lead-and-account-tags.md](fundamentals/elements/lead-and-account-tags.md)
+{% content-ref url="fundamentals/elements/lead-tags.md" %}
+[lead-tags.md](fundamentals/elements/lead-tags.md)
 {% endcontent-ref %}
 
 :point\_left: You can find all fundamentals in the Left navigation&#x20;

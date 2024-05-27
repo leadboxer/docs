@@ -103,7 +103,7 @@ Go to the [LeadBoard](fundamentals/tasks.md) section of our account, and [create
 
 ### 2. Map key events with tags
 
-Using [Workflow Automation](fundamentals/elements/workflow-automation.md) triggers and Actions, add a [Lead Tag](fundamentals/elements/lead-and-account-tags.md) with the name of the stage for each of the key events from Step 2.
+Using [Workflow Automation](fundamentals/elements/workflow-automation.md) triggers and Actions, add a [Lead Tag](fundamentals/elements/lead-tags.md) with the name of the stage for each of the key events from Step 2.
 
 These tags can be used to segment and move your leads into different columns on your LeadBoard. Events should be mapped to specific stages. For example, if a lead views a brochure they are tagged with ‘Orientation’.&#x20;
 

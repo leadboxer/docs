@@ -24,7 +24,7 @@
   * [Lists](fundamentals/elements/lists.md)
   * [Enrichment](fundamentals/elements/enrichment.md)
   * [Leadscore](fundamentals/elements/leadscore.md)
-  * [Lead & Account Tags](fundamentals/elements/lead-and-account-tags.md)
+  * [Lead & Account Tags](fundamentals/elements/lead-tags.md)
   * [Import & Export](fundamentals/elements/import-and-export/README.md)
     * [Upload Leads](fundamentals/elements/import-and-export/upload-leads.md)
     * [download data](fundamentals/elements/import-and-export/download-data.md)

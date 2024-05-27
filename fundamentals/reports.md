@@ -57,7 +57,7 @@ Features include:
 * Organization size chart: Based on employee count, see a breakdown of your audience
 * Clicking on the bars on the chart allows you to:
   * Apply the industry or size filter and see the actual Leads and Accounts from that group &#x20;
-  * Slice or the report to only include this industry or size <mark style="color:green;">(coming soon)</mark>
+  * Slice or the report to only include this industry or size
 
 ### Top Accounts Block
 
