@@ -1,10 +1,14 @@
-# Lead Tags
+# Lead & Account Tags
 
 ### What are Lead Tags?
 
-Lead Tags are tags or labels you can add to your leads /users in order to group them into categories.
+Lead Tags are tags or labels you can add to individual leads /users so you can easily see if they belong to a certain categorie.
 
-### Why would I want to tag my leads?
+What are Account Tags?
+
+Similar to Lead Tags, Account Tags allow you to tag leads or users, but account tags work a bit differently. If you set an Account Tag, LeadBoxer will apply this tag to all historical Leads from the same Account (organization / company) AND all leads from this Account going forward.
+
+### Why would I want to tag my Leads or Accounts?
 
 Once you start tagging your leads, you can use the 'lead tag' filter to include or exclude leads from your filter pre-sets (views)/ segments.&#x20;
 
