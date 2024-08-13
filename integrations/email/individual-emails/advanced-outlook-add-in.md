@@ -23,6 +23,26 @@ To Install the Advanced version, first make sure you do not have the Official ve
 
 This should install the advanced add-in. You can use the instructions from the official add-in to continue.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+### Install the Advanced Add-in as Ms Office Admin
 
-Last updated on June 10, 2021
+1. Log into your Microsoft 365 Admin Center
+2. Go to Settings > Integrated apps, and click **Upload Custom Apps**
+
+<figure><img src="../../../.gitbook/assets/Integrated_apps_-_Microsoft_365_admin_center.png" alt=""><figcaption></figcaption></figure>
+
+3.
+4. Select Office Add-in for App type
+5. Click on Provide Link to manifest file radio button
+6.  paste URL: [**https://subscription.leadboxer.com/LeadboxerOutlookWebPlugin.xml**](https://subscription.leadboxer.com/LeadboxerOutlookWebPlugin.xml) and click Validate
+
+    <figure><img src="../../../.gitbook/assets/Integrated_apps_-_Microsoft_365_admin_center (1).png" alt=""><figcaption></figcaption></figure>
+7. make sure Test deployment is set to No
+8.  Assign users according to your preferences. We recommend Specific users/groups.
+
+    <figure><img src="../../../.gitbook/assets/Integrated_apps_-_Microsoft_365_admin_center (2).png" alt=""><figcaption></figcaption></figure>
+
+
+9. Accept permissions requests
+10. Review and finish deployment
+
+This should deploy and enable the Advanced version of the Add-in for the selected users and automatically track all the emails they send.
