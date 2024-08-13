@@ -18,26 +18,16 @@ This technology can also track links clicked to your site (website activity) and
 1.  Login with your **Work or School account\***\
     \* This is only needed to setup billing, once the license is activated you can add any MS email address.&#x20;
 
-    <div align="left">
+    ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb824dccff47e00160bc335/file-pkskkKWwnl.png)
 
-    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb824dccff47e00160bc335/file-pkskkKWwnl.png" alt=""><figcaption></figcaption></figure>
-
-    </div>
 2.  Once logged in, select your Plan & Term. You can choose monthly or yearly billing. The first month is free and you can cancel at any time.
 
-    <div align="left">
+     ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb827c3cff47e00160bc343/file-aTJgHD5cff.png)
 
-    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb827c3cff47e00160bc343/file-aTJgHD5cff.png" alt=""><figcaption></figcaption></figure>
+3.  Select the number of seats you want to start with.
 
-    </div>
-3.  Select the number of seats you want to start with.\
+    ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb827e34cedfd001610f207/file-MfHCKcOrux.png)
 
-
-    <div align="left">
-
-    <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fb827e34cedfd001610f207/file-MfHCKcOrux.png" alt=""><figcaption></figcaption></figure>
-
-    </div>
 4. Add Payment method to be used for after the free trial
 5. Place your order and wait for Microsoft to process it
 
@@ -130,12 +120,6 @@ This will add the tracking pixel and append the links inside your emails with tr
 
 Once the email is sent, you can see tracking details either from within Outlook, or log in to the LeadBoxer app and see all activity.
 
-<div data-full-width="true">
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db820d72c7d3a7e9ae32c67/file-5MKB0PvRx6.png)
 
-<img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db820d72c7d3a7e9ae32c67/file-5MKB0PvRx6.png" alt="">
-
- 
-
-<img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db821142c7d3a7e9ae32c6c/file-UpOucDLtyI.png" alt="">
-
-</div>
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5db821142c7d3a7e9ae32c6c/file-UpOucDLtyI.png)
