@@ -25,11 +25,11 @@ To make the plugin work correctly, you need to enter your dataset ID that you re
 
 You can set this setting under Settings -> LeadBoxer
 
-![Wordpress Online Lead Generation plugin screenshot](../../../.gitbook/assets/LeadBoxer-Wordpress-lead-generation-settings.png)
+![Wordpress Online Lead Generation plugin screenshot](https://raw.githubusercontent.com/leadboxer/docs/071195c46d5e4472c4a73ffc6b85d3f86fe77196/.gitbook/assets/LeadBoxer-Wordpress-lead-generation-settings.png)
 
 Then, enter your [dataset ID](../../../fundamentals/elements/datasets.md#where-can-i-find-my-dataset-id) as you registered it with LeadBoxer.
 
-![Wordpress Online Lead Generation plugin screenshot-2](../../../.gitbook/assets/LeadBoxer-Wordpress-lead-generation-dataset.png)
+![Wordpress Online Lead Generation plugin screenshot-2](https://raw.githubusercontent.com/leadboxer/docs/071195c46d5e4472c4a73ffc6b85d3f86fe77196/.gitbook/assets/LeadBoxer-Wordpress-lead-generation-dataset.png)
 
 {% hint style="warning" %}
 NOTE: just enter your dataset ID do not add "dataset="\
