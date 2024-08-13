@@ -30,8 +30,8 @@ In other words, LeadBoxer collects your website and email or newsletter data to 
 4.  **For Pipedrive Leads:**\
     In the LeadBoxer app, create and define a new segment containing the leads you want to push to Pipedrive. You can use all the filters to make sure only qualified leads are actually pushed to Pipedrive.
 
-    Pipedrive has not yet added the Leads integration into their authentication workflow, so for the leads integration you will need to add your Pipedrive API key. (instructions on [obtaining your API key](https://support.pipedrive.com/hc/en-us/articles/207344545-How-can-I-find-my-personal-API-key-))\
-    \
+    Pipedrive has not yet added the Leads integration into their authentication workflow, so for the leads integration you will need to add your Pipedrive API key. (instructions on [obtaining your API key](https://support.pipedrive.com/hc/en-us/articles/207344545-How-can-I-find-my-personal-API-key-))
+    
 
 5. **For Deals, persons, organizations:**\
    In the LeadBoxer app, create and define a new segment containing the leads or customers you want to push to Pipedrive. We will push all behavioral events from Leads in this segment to Pipedrive as activities.
@@ -45,7 +45,7 @@ In other words, LeadBoxer collects your website and email or newsletter data to 
       Note: an email value needs to be known for us to find and update the deals/ persons/ organizations.
    3. Save.
 
-\
+
 
 
 <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fa666e446e0fb0017fc9bf9/file-NxjfHpyMjj.png" alt=""><figcaption></figcaption></figure>
