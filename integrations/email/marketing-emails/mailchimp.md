@@ -81,19 +81,3 @@ A usefull example would be a field called **Client Status.** If you can indicate
 <figure><img src="../../../.gitbook/assets/Audience_Fields_and___MERGE___Tags_for_test___Mailchimp.png" alt=""><figcaption></figcaption></figure>
 
 Simply contact support and let us know which field(s) names you would would like us to capture, in the above example the field would be 'Client Status'
-
-
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action
