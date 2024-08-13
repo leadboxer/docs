@@ -2,7 +2,7 @@
 
 ### How to place the Lead Tracking Pixel in your website using Google Tag Manager (GTM)
 
-[![Install Leadboxer using GTM](https://via.placeholder.com/350)](https://leadboxer.wistia.com/medias/t0801ta53m)
+[![Install Leadboxer using GTM](https://via.placeholder.com/250)](https://fast.wistia.net/embed/iframe/t0801ta53m)
 
 
 ### Step by step guide
