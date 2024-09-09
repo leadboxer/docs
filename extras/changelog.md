@@ -110,7 +110,7 @@ For example, set the owner for Leads from a certain country or region to the res
 
 When enabled, ownership is auto assigned based on fromEmail address value.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Improved LeadBoard cards removing features
 
@@ -132,7 +132,7 @@ We've added new filters to the Leadboard, allowing you to narrow down results so
 
 Also: you can Enable the filters by default (make it sticky), so you can continue where you left off yesterday!
 
-<figure><img src="../.gitbook/assets/Cursor_and_LeadBoxer_App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Cursor_and_LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Cross-domain tracking (based on GA)
 
@@ -154,7 +154,7 @@ If you are looking for this feature, please contact us to get this enabled for y
 
 #### We added LeadCard tags to the Account details
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### We added LeadBoard Loading improvements
 
@@ -196,7 +196,7 @@ You can now enable and disable even more UI elements and features for your users
 
 This is very useful if you would like to make LeadBoxer less 'advanced' or easier to use.
 
-<figure><img src="../.gitbook/assets/Cursor_and_LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Cursor_and_LeadBoxer_App (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -218,7 +218,7 @@ We added the option to add or remove a list of leads to your [LeadBoards](../fun
 
 This is extremely useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -328,7 +328,7 @@ We added the concept of 'ownership' on the LeadBoard, allowing you to assign one
 
 Easy user Avatars allow you to quickly filter the Board for your or other owners cards.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

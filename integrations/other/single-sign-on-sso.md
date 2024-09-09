@@ -72,7 +72,7 @@ Your users will then be able log into LeadBoxer using their SSO Account.
 
 1.  Enter your email and use the **Login with Microsoft** button.
 
-    <figure><img src="../../.gitbook/assets/LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1).png" alt=""><figcaption></figcaption></figure>
 2. Login and /or authenticate with your Microsoft account
 3. Once authenticated you will be redirected to the application
 
