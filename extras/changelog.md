@@ -6,6 +6,27 @@ description: >-
 
 # Changelog
 
+
+
+#### 14-09-2024
+
+### New field: Landing page title and URL values to Leads & Accounts
+
+The Lead Landing page is simply the very first page the lead lands in his very first visit, and will not be overwritten if the user visits again.&#x20;
+
+See our [Glossary and Definitions](../fundamentals/definitions-and-glossary.md#behaviour-tracking) if you like to learn more
+
+#### 01-09-2024
+
+### Improved detection for Leads from Paid sources.
+
+We have expanded our parameters to better classify Leads that visit your site coming from paid add campaigns. See the [Channel definitions](../integrations/website/tracking-marketing-campaign-data-utm-tags.md) for more details.\
+
+
+
+
+* Improvement for Active Campaign Integration. We have improved the logic to find and sync  existing accounts in AC&#x20;
+
 #### 27-05-2024
 
 ## Reports just got better

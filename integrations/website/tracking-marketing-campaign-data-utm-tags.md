@@ -54,6 +54,19 @@ UTM tags are also used (amongst other things) to define a channel through which 
 
 direct, organic, social, email, referral and paid.
 
+For Paid Leads, we Support the following landing page parameters:
+
+* Google: `gclid`
+* Tiktok: `ttclid`
+* Microsoft Bing: `msclkid`&#x20;
+* X /  Twitter: `twclid`&#x20;
+* Doubleclick: `dclid`&#x20;
+* Yahoo: `yclid`
+
+Alternatively, you can also use the UTM parameter medium. When this is set to `cpc`, `ppc` or  `paidsearch` we will automatically set the channel to paid.
+
+***
+
 We support First and Last Channel, meaning we store the channel used for the first session /visit and the last session / visit.
 
 Channels values can be found in the Lead & Accounts overview, in any Lead Details and can also be used as a [Filter](../../fundamentals/elements/filters.md).
@@ -76,8 +89,10 @@ You can learn more about  [how to tag your links](https://support.google.com/ana
 
 Note that UTM parameters are case sensitive, which means if you use  _abc_ for your utm\_campaign tags on some links and _ABC_ for your utm\_campaign tags on other links, they will show up as separate campaigns. Also note that UTM parameters will be shown in the browser’s address bar, so be sure you’re not using any tags that you would want to remain unseen.
 
+
+
 **Additional reading:**
 
-{% embed url="https://degordian.com/blog/5-cool-examples-of-utm-tracking/" %}
+{% embed url="https://mailchimp.com/resources/utm-links/" %}
 
 {% embed url="https://web.utm.io/blog/utm-naming-conventions-guide/" %}
