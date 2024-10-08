@@ -2,7 +2,8 @@
 
 * [Welcome](README.md)
 * [🛠️ Getting Started](getting-started.md)
-* [Lead Management Workflow](lead-management-workflow.md)
+* [Lead Management Workflow](lead-management-workflow/README.md)
+  * [Cold outbound email campaigns](lead-management-workflow/cold-outbound-email-campaigns.md)
 * [How does it all work?](how-does-it-all-work.md)
 
 ## 🏗️ Fundamentals
@@ -66,7 +67,7 @@
     * [Linkedin InMail or Invite Link Tracking](integrations/email/individual-emails/linkedin-inmail-or-invite-link-tracking.md)
   * [marketing emails](integrations/email/marketing-emails/README.md)
     * [Intro: Track Email Opens](integrations/email/marketing-emails/intro-track-email-opens.md)
-    * [Intro: track contacts on your site ](integrations/email/marketing-emails/intro-track-contacts-on-your-site.md)
+    * [Intro: track contacts on your site](integrations/email/marketing-emails/intro-track-contacts-on-your-site.md)
     * [Mailchimp](integrations/email/marketing-emails/mailchimp.md)
     * [HubSpot](integrations/email/marketing-emails/hubspot.md)
     * [Sharpspring](integrations/email/marketing-emails/sharpspring.md)
@@ -130,7 +131,7 @@
 
 ## 🏆 Solutions
 
-* [Lead Identification ](solutions/lead-identification.md)
+* [Lead Identification](solutions/lead-identification.md)
 * [Lead Qualification](solutions/lead-qualification.md)
 * [Lead Managment](solutions/lead-managment.md)
 

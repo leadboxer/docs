@@ -14,14 +14,14 @@ Configuring your workflow will unlock the full potential of LeadBoxer. In real t
 **Main benefit**: for each lead you can actually see what stage they are in. \
 This determines how you interact and communicate with each lead. And who, in your company, will communicate with them; Marketing, Pre-sales, Customer Success or Sales.
 
-<figure><img src=".gitbook/assets/LeadBoxer_App (1) (4).png" alt=""><figcaption><p>The LeadBoxer LeadBoard: "Like Trello, but with your leads"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (1) (4).png" alt=""><figcaption><p>The LeadBoxer LeadBoard: "Like Trello, but with your leads"</p></figcaption></figure>
 
 {% hint style="info" %}
 ### What LeadBoxer features are involved?
 
-The place to create your qualification workflow and manage your leads is called the [LeadBoard](fundamentals/tasks.md).&#x20;
+The place to create your qualification workflow and manage your leads is called the [LeadBoard](../fundamentals/tasks.md).&#x20;
 
-The tool to automate the steps from your qualification workflow is called [Workflow Automation](fundamentals/elements/workflow-automation.md).
+The tool to automate the steps from your qualification workflow is called [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 {% endhint %}
 
 ## Quick Summary&#x20;
@@ -99,15 +99,15 @@ Here are some example events that can be mapped to a buyer journey stage\
 
 ### 1. Create a new LeadBoard and add the stages
 
-Go to the [LeadBoard](fundamentals/tasks.md) section of our account, and [create a new LeadBoard](guides/creating-your-first-leadboard.md). Use the stages from preparation Step 1 to define the columns. No worries, you can always edit and modify these later.
+Go to the [LeadBoard](../fundamentals/tasks.md) section of our account, and [create a new LeadBoard](../guides/creating-your-first-leadboard.md). Use the stages from preparation Step 1 to define the columns. No worries, you can always edit and modify these later.
 
 ### 2. Map key events with tags
 
-Using [Workflow Automation](fundamentals/elements/workflow-automation.md) triggers and Actions, add a [Lead Tag](fundamentals/elements/lead-tags.md) with the name of the stage for each of the key events from Step 2.
+Using [Workflow Automation](../fundamentals/elements/workflow-automation.md) triggers and Actions, add a [Lead Tag](../fundamentals/elements/lead-tags.md) with the name of the stage for each of the key events from Step 2.
 
 These tags can be used to segment and move your leads into different columns on your LeadBoard. Events should be mapped to specific stages. For example, if a lead views a brochure they are tagged with ‘Orientation’.&#x20;
 
-<figure><img src=".gitbook/assets/LeadBoxer_App (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (15).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Add workflow logic
 
@@ -115,7 +115,7 @@ The last step is to add logic so that leads automatically get moved through your
 
 For example: If a lead is tagged with value 'interest' AND the lead is currently in stage 'Discovery', move the lead to stage 'Interest'
 
-<figure><img src=".gitbook/assets/LeadBoxer_App (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LeadBoxer_App (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
