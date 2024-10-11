@@ -1,8 +1,8 @@
 ---
-description: LeadBoxer Documentation
+description: Welcome to the documentation and help section of LeadBoxer
 ---
 
-# Welcome
+# LeadBoxer — Lead Data Platform —Documentation
 
 LeadBoxer is a Lead Generation Platform designed to help you increase both the quality and quantity of leads you generate for your sales team.
 

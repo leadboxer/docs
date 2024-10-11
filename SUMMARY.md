@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [LeadBoxer — Lead Data Platform —Documentation](README.md)
 * [🛠️ Getting Started](getting-started.md)
 * [Lead Management Workflow](lead-management-workflow/README.md)
   * [Cold outbound email campaigns](lead-management-workflow/cold-outbound-email-campaigns.md)
