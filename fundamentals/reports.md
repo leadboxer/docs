@@ -66,7 +66,7 @@ Features include:
 Find out what companies are your top engagers. Features include:
 
 * Sort on each column
-* Filter or each column
+* Filter on each column
 * Double-Clicking on a row will take you to the individual Leads from that Account&#x20;
 
 
@@ -133,7 +133,7 @@ Choose to receive the Report either weekly or monthly, and select your recipient
 <figure><img src="../.gitbook/assets/LeadBoxer_App (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: Recipients need to added to your account as [Users](elements/users.md) before you can select these for a scheduled report.&#x20;
+Note: Recipients need to be added to your account as [Users](elements/users.md) before you can select these for a scheduled report.&#x20;
 {% endhint %}
 
 Once a Report has been scheduled, the dropdown allows you to check the scheduling details or modify the settings.\
