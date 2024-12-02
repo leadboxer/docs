@@ -6,7 +6,47 @@ description: >-
 
 # Changelog
 
+NOVEMBER 2024&#x20;
 
+## Improved option to hide Leads&#x20;
+
+You can now hide leads & accounts based on their Name and/or on Domain.
+
+Especially useful if you have many versions of your name entering into leadboxer, you can now hide them all with one click.
+
+## Improve Acquisition Source logic
+
+We now classify any referrer as the source value. In the past we were only adding this field if there was an UTM value. Now we use also the referring domain as value.
+
+Smaller issues:
+
+* We now show the name of the site in the leads view results counter
+* Fixed a bug in the integrations page. we now redirect you back to leads & accounts view if the site contains data.
+
+
+
+***
+
+OCTOBER 2024&#x20;
+
+## Data improvements
+
+In october we released a new version of our IP lookup engine. This new version was build from the ground up and improved our Identification rate with 10%
+
+It is also now available as a stand-alone product, in case you are interested.
+
+## New Integrations section
+
+We have completely redesigned the Integrations section and added many new integration options.
+
+See the [intergrations](broken-reference) section for more details.
+
+### Small updates & improvements:
+
+* We fixed an issue where a download from the lead list with a [Summary column](../fundamentals/projects.md#summary-columns) enabled was causing an issue, the download did not contain company name and is not very useful obviously.
+* We now show a maintenance screen if we encounter network downtime
+
+***
 
 #### 14-09-2024
 
@@ -60,11 +100,7 @@ We have added a new [Filter](../fundamentals/elements/filters.md) for Account Ta
 
 Hyper-intuitive. The new report feature visualizes all your Lead data. Click on any value - a group of leads, a company name, a geographic area or industry, and drill down into the details, all without selecting filters. In one click you can see all people who opened emails, or all companies from a specific industry, and lots more!
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/1713989735839_reports2_01HW8VZQFC37P8M3GFBKK6TYXE.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/1713989735839_reports2_01HW8VZQFC37P8M3GFBKK6TYXE.gif" alt=""><figcaption></figcaption></figure></div>
 
 Now you can...&#x20;
 
@@ -103,11 +139,7 @@ We added the option to quickly move a lead to a LeadBoard and /or certain stage.
 
 You can now show LeadBoard details as a columns in the Leads & Accounts view. On hover it will also show the stage. When downloaded it will split the baord and stage name into seperate columns.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
