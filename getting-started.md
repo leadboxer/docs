@@ -1,4 +1,4 @@
-# 🛠 Getting Started
+# 🛠️ Getting Started
 
 In this document you will find the essential steps needed to get the most out of your LeadBoxer (trial) account. Not all steps are required, however we encourage you to complete as many steps as possible. This will generate more data of higher quality.
 
@@ -73,7 +73,7 @@ Description: Track all individual emails that you (or colleagues) send from a ma
 
 To See how LeadBoxer and LinkedIn can work together see this overview:
 
-[Best LinkedIn Strategies using LeadBoxer](integrations/for-support/linkedin.md)
+[Best LinkedIn Strategies using LeadBoxer](integrations/other/linkedin/)
 
 ***
 
@@ -120,7 +120,7 @@ If you have a section on your site where users or customers login, this is low-h
 We will try to enrich your leads with as much firmographic information as we possibly can. However you might find the need to add additional sources in order to increase the enrichment rates. Additionally, you might need specific data-fields we do not provide out of-the-box.
 
 * Clearbit&#x20;
-* [Google places](integrations/for-support/google-places.md)
+* [Google places](integrations/other/google-places.md)
 
 ### Bring your own data (custom enrichment)
 
@@ -189,7 +189,7 @@ LeadBoxer offers a free Zapier integration so that you can use LeadBoxer data wi
 
 This means you can a) set up a LeadBoxer account, b) collect leads, and c) send them where they need to go. For example; integration with SalesForce. LeadBoxer will work to identify leads on your site and feed them into your SalesForce CRM, so that they are visible to your sales team.
 
-Get started with [LeadBoxer on Zapier](integrations/website/how-to-get-started-with-leadboxer-on-zapier.md)
+Get started with [LeadBoxer on Zapier](integrations/other/how-to-get-started-with-leadboxer-on-zapier/)
 
 ***
 
@@ -205,7 +205,7 @@ Pipedrive is a sales driven CRM and Lead management tool designed to help sales 
 
 #### - Other CRM's
 
-For other CRM vendors you can use [Zapier App](integrations/website/how-to-get-started-with-leadboxer-on-zapier.md) or our [API](https://docs.leadboxer.com/collection/109-api) to roll your own
+For other CRM vendors you can use [Zapier App](integrations/other/how-to-get-started-with-leadboxer-on-zapier/) or our [API](https://docs.leadboxer.com/collection/109-api) to roll your own
 
 ***
 

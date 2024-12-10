@@ -51,7 +51,7 @@ Some time ago, LinkedIn introduced the option to [upload a list of companies or 
 
 You can now use LeadBoxer to create these lists. See this tutorial / documentation for more details:
 
-[LinkedIn Matched Audiences export](../../fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
+[LinkedIn Matched Audiences export](../../../fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
 
 #### Notes about your landing pages
 

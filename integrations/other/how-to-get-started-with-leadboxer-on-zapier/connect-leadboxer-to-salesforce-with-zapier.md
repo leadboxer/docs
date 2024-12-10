@@ -1,18 +1,18 @@
 # Connect Leadboxer to Salesforce with Zapier
 
-This guide continues where [Getting started with LeadBoxer on Zapier](how-to-get-started-with-leadboxer-on-zapier.md) left off.
+This guide continues where [Getting started with LeadBoxer on Zapier](./) left off.
 
 Select Salesforce as the tool you want to be triggered by Leadboxer.
 
-![](https://lh5.googleusercontent.com/PuS7JEQ7XPt9Tiq\_A7Mh1jS6YRIZAhCBQILavuFzk9ilcaWCaJcOAI65pq700Bzi8ikjDyzYuJFn57Te38IkW-YV9cx9EZ\_1sBLBguwXpKHL5Qa1-hEqH-Ubo94VriCCFvgzSUvQ)
+![](https://lh5.googleusercontent.com/PuS7JEQ7XPt9Tiq_A7Mh1jS6YRIZAhCBQILavuFzk9ilcaWCaJcOAI65pq700Bzi8ikjDyzYuJFn57Te38IkW-YV9cx9EZ_1sBLBguwXpKHL5Qa1-hEqH-Ubo94VriCCFvgzSUvQ)
 
 Choose ‘Find a lead’, this way you can make Zapier look through your existing Salesforce leads before adding a new one. It will update your lead if additional info is found and you can create a new lead if nothing is found in your Salesforce database.
 
-![](https://lh6.googleusercontent.com/\_j6kQWMQ26ViLVnVxlTPWgY3uJdTt5d77GSiT4jWWAko2QxQ0cDzR\_vSU85dt0SJxC\_9GOObG14rU5zCuUnZJvxwnuGiEWNk2oUqgKt8pzHD8Q97xyVpx7FOmNhPZFQkfhM39B04)
+![](https://lh6.googleusercontent.com/_j6kQWMQ26ViLVnVxlTPWgY3uJdTt5d77GSiT4jWWAko2QxQ0cDzR_vSU85dt0SJxC_9GOObG14rU5zCuUnZJvxwnuGiEWNk2oUqgKt8pzHD8Q97xyVpx7FOmNhPZFQkfhM39B04)
 
 Click ‘Connect a new account’, log in to your account and grant acces to Zapier. &#x20;
 
-![](https://lh5.googleusercontent.com/oRIhQbJ992Idh3hkCIAfc--1zpwaBm5v\_aYe2aaOATouZzv4Vfmjdet\_PJiD-QThl\_RIyiDG\_\_gjPpkJk29ftk26byaOEoEyDgPG1EH4IS6gbDlTTLJw8MXe\_ye4hrFWGRnuncEH)
+![](https://lh5.googleusercontent.com/oRIhQbJ992Idh3hkCIAfc--1zpwaBm5v_aYe2aaOATouZzv4Vfmjdet_PJiD-QThl_RIyiDG__gjPpkJk29ftk26byaOEoEyDgPG1EH4IS6gbDlTTLJw8MXe_ye4hrFWGRnuncEH)
 
 Edit the options to your preferences. Select ‘Field to search by’ to be company and the search value ‘Most likely company’ (out of the Leadboxer Variables). This way the tool will check whether the company is already in your Salesforce or not.
 

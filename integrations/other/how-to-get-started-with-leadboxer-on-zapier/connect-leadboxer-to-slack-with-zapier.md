@@ -1,10 +1,10 @@
 # Connect Leadboxer to Slack with Zapier
 
-This guide continues where  [Getting started with LeadBoxer on Zapier](how-to-get-started-with-leadboxer-on-zapier.md) left off.
+This guide continues where  [Getting started with LeadBoxer on Zapier](./) left off.
 
 Select Slack as the tool you want to be triggered by Leadboxer.
 
-![](https://lh6.googleusercontent.com/inMHp\_z23L\_LvjFampUdx103YwdNKMb2WzASaxUXA1ed3Yh4-DIMAu3-IU0kpnxnYyNAezBHOrchSFEtzg1NEMGiQgMKtGMeP-Gkqdsynwwcss6jgrirWcmJie\_v7LL4U11vM3aV)
+![](https://lh6.googleusercontent.com/inMHp_z23L_LvjFampUdx103YwdNKMb2WzASaxUXA1ed3Yh4-DIMAu3-IU0kpnxnYyNAezBHOrchSFEtzg1NEMGiQgMKtGMeP-Gkqdsynwwcss6jgrirWcmJie_v7LL4U11vM3aV)
 
 Choose what should happen in Slack whenever LeadBoxer finds a new lead and click save & continue.
 
@@ -14,7 +14,7 @@ For instance, you can create a channel in which all new leads are shown with the
 
 Click ‘Connect a new account’ and authorize Zapier
 
-![](https://lh3.googleusercontent.com/f2WygAwKzLvgEOUwvalqcJ8ockcnwxHi5A8MRp8f4WYBHXr2XYNb-O6\_q7ALv6RxBIIoIbiAOmwpuS2knnuHoPXKCzahOm1-0NhDn12q68RmNMqQuC1GXkl1MKSVYXt7xihNLHnL)
+![](https://lh3.googleusercontent.com/f2WygAwKzLvgEOUwvalqcJ8ockcnwxHi5A8MRp8f4WYBHXr2XYNb-O6_q7ALv6RxBIIoIbiAOmwpuS2knnuHoPXKCzahOm1-0NhDn12q68RmNMqQuC1GXkl1MKSVYXt7xihNLHnL)
 
 Depending on your previous decisions, you will see a set of options. Fill these in according to your preferences.
 

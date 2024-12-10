@@ -1,7 +1,7 @@
 # HubSpot
 
 {% hint style="info" %}
-Make sure you also enable our [HubSpot Integration](../../for-support/hubspot.md), as this will sync all your existing contacts with LeadBoxer and allow you to enrich your HubSpot contacts with LeadBoxers rich firmographic and marketing data.
+Make sure you also enable our [HubSpot Integration](../../other/hubspot.md), as this will sync all your existing contacts with LeadBoxer and allow you to enrich your HubSpot contacts with LeadBoxers rich firmographic and marketing data.
 {% endhint %}
 
 Tracking HubSpot marketing emails is easy.U

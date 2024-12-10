@@ -6,7 +6,7 @@
 
 **Magento 1.x:Go to S**_**ystem > Configuration > General > Design > HTML Head**_
 
-**Change the scope via **_**Current Configuration Scope**_** selector located on top-left of the page.**
+**Change the scope via&#x20;**_**Current Configuration Scope**_**&#x20;selector located on top-left of the page.**
 
 **Put your pixel in Miscellaneous Scripts and Save Config.**
 
