@@ -72,7 +72,7 @@
     * [HubSpot](integrations/email/marketing-emails/hubspot.md)
     * [Sharpspring](integrations/email/marketing-emails/sharpspring.md)
     * [ActiveCampaign](integrations/email/marketing-emails/activecampaign.md)
-    * [Pipedrive Campaigns](integrations/email/marketing-emails/activecampaign-1.md)
+    * [Pipedrive Campaigns](integrations/email/marketing-emails/pipedrive-campaigns.md)
     * [Eloqua](integrations/email/marketing-emails/eloqua.md)
     * [Copernica](integrations/email/marketing-emails/copernica.md)
     * [Intercom](integrations/email/marketing-emails/intercom-email-tracking.md)
