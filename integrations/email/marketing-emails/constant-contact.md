@@ -9,13 +9,13 @@ Constant contact offers 2 products to send email:&#x20;
 
 1. Tracking Email open events
 
-For Email & Digital Marketing, they currently do not offer the option to add edit HTML (needed to add a tracking pixel).&#x20;
+For Email & Digital Marketing, they currently do not offer the option to add edit HTML (which is needed to add a tracking pixel).&#x20;
 
-The do offer a Zapier integration, so you will be able to send email open events to LeadBoxer using the [Zapier webhook](../../other/how-to-get-started-with-leadboxer-on-zapier/zapier-webhook.md) method.&#x20;
+They do offer a Zapier integration, so you will be able to send email open events to LeadBoxer using the [Zapier webhook](../../other/how-to-get-started-with-leadboxer-on-zapier/zapier-webhook.md) method.&#x20;
 
 2. Tracking email link clicks
 
-For tracking email link clicks, and identifying the website visitor on your website, you can use the generic method by appending these variables to the links in your emails like this:
+For tracking email link clicks and identifying the recipient-visitor on your website, you can use the generic method by appending variables to the links in your emails (example):
 
 {% code overflow="wrap" %}
 ```
@@ -39,7 +39,7 @@ Tracking Pixel example
 ```
 {% endcode %}
 
-If you want to pass more details you can do so:
+If you want to pass additional details you can do so:
 
 {% code overflow="wrap" %}
 ```html
@@ -49,7 +49,7 @@ If you want to pass more details you can do so:
 
 That should take care of tracking email opens.
 
-As for tracking email clicks and identifying your readers on your site you should similarly append these variables to the links in your emails like this:
+For tracking email clicks and identifying your readers on your site you should similarly append these variables to the links in your emails (example):
 
 {% code overflow="wrap" %}
 ```url
@@ -57,8 +57,6 @@ https://yourdomain.com/?firstName={$firstName}&lastName={$lastName}&email={$emai
 ```
 {% endcode %}
 
-You can add custom properties as well if you have these stored in your database. See details here
+You can add custom properties as well if they are stored in your database. See details here:
 
 [official docs](https://knowledgebase.constantcontact.com/lead-gen-crm/articles/KnowledgeBase/50529-Available-Lead-Gen-CRM-Merge-Variables?lang=en_US)
-
-Please let me know if this works
