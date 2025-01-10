@@ -52,9 +52,9 @@ Top integrations/ tutorials:
 
 **For all other email / marketing automation providers**
 
-To track email clicks and combine this information with visitor website behaviour, the links in your emails need to be customized with ‘merge tags’ ( [documentation](integrations/email/marketing-emails/intro-track-contacts-on-your-site.md)).&#x20;
+To track email clicks and combine this information with visitor website behaviour, the links in your emails need to be customized with ‘merge tags’ ( [documentation](integrations/email/marketing-emails/track-email-clicks.md)).&#x20;
 
-To measure email opens, a pixel specific to email tracking needs to be implemented. [Documentation can be found here.](integrations/email/marketing-emails/intro-track-email-opens.md)
+To measure email opens, a pixel specific to email tracking needs to be implemented. [Documentation can be found here.](integrations/email/marketing-emails/track-email-opens.md)
 
 ***
 
