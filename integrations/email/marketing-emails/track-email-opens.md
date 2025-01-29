@@ -1,4 +1,4 @@
-# Intro: Track Email Opens
+# 2. Track Email Opens
 
 ### How to Track Email Opens or Reads
 
@@ -23,9 +23,13 @@ Our tracking pixel is a transparent image with a size of 1x1 pixel, (hence the w
 
 {% code overflow="wrap" %}
 ```html
-<img src="https://track.leadboxer.com/log?datasetId={{yourDatasetId}}&campaign={{YourCampaignName}}&email={{emailMergTag}}">
+<img src="https://track.leadboxer.com/log?datasetId={{yourDatasetId}}&campaign={{YourCampaignName}}&email={{emailMergeTag}}">
 ```
 {% endcode %}
+
+{% hint style="info" %}
+NOTE: be sure to replace the text in the curly brackets with the real values. For example, replace \{{YourDatasetID\}} with your actual dataset ID.
+{% endhint %}
 
 There are 3 values that need to be modified:&#x20;
 
