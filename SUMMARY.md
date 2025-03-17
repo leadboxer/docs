@@ -66,7 +66,7 @@
     * [Legacy Outlook plugin](integrations/email/individual-emails/legacy-outlook-plugin.md)
     * [Linkedin InMail or Invite Link Tracking](integrations/email/individual-emails/linkedin-inmail-or-invite-link-tracking.md)
   * [marketing emails](integrations/email/marketing-emails/README.md)
-    * [1. Create Tracking Pixel](integrations/email/marketing-emails/create-tracking-pixel.md)
+    * [1. Setup Tracking Pixel](integrations/email/marketing-emails/create-tracking-pixel.md)
     * [2. Track Email Opens](integrations/email/marketing-emails/track-email-opens.md)
     * [3. Track Email Clicks](integrations/email/marketing-emails/track-email-clicks.md)
     * [Mailchimp](integrations/email/marketing-emails/mailchimp.md)

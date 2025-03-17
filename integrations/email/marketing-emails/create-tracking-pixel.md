@@ -1,12 +1,16 @@
-# 1. Create Tracking Pixel
+# 1. Setup Tracking Pixel
 
 ### Introduction
 
-Enhancing your email marketing campaigns with a custom tracking domain not only improves brand consistency but also ensures accurate tracking. Follow this guide to set up your custom tracking domain using Leadboxer.
+One of the unique features of LeadBoxer is the option to track the behaviour of all the marketing emails you send out. To accomplish this, we provide a generic email tracking pixel for all accounts. You can use this generic tracking pixel free of charge, and we use the generic tracking pixel in all our tutorials and documentation.&#x20;
+
+## Improve Tracking with a Custom Tracking Domain
+
+Enhancing your email marketing campaigns with a custom tracking domain not only improves brand consistency but also ensures accurate tracking as some email clients and email providers block tracking pixels from 3rd party domains. Follow this guide to set up your custom tracking domain for using Leadboxer.
 
 ### Step 1: Configure Your DNS
 
-To begin, you'll need to create a CNAME record in your DNS settings:
+To begin, you'll need to create a CNAME record in your DNS settings
 
 * **Name:** Choose a subdomain like `logo.yourdomain.com`
 * **Value:** Point this to `pixel.leadboxer.com`
@@ -24,8 +28,10 @@ Next, log into your Leadboxer account and add your tracking domain:
 
 ### Step 3: Implement the Tracking Domain
 
-1. Replace default tracking URLs with your custom domain.
-2. Ensure all outgoing emails use the new tracking URL for consistency and accuracy.
+1. Replace the default tracking pixel URL with your custom domain.\
+   for example\
+   track.leadboxer.com --> logo.mydomain.com
+2. Ensure all outgoing emails use the new tracking domain for consistency and accuracy.
 
 ### Benefits
 
