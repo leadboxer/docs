@@ -91,6 +91,7 @@
     * [Constant Contact](integrations/email/marketing-emails/constant-contact.md)
     * [dotdigital](integrations/email/marketing-emails/dotdigital.md)
     * [Apollo.io](integrations/email/marketing-emails/apollo.io.md)
+    * [LaPosta](integrations/email/marketing-emails/apollo.io-1.md)
     * [Customer.io](integrations/email/marketing-emails/customer.io.md)
     * [Campaign Monitor](integrations/email/marketing-emails/campaign-monitor.md)
     * [QuickMail](integrations/email/marketing-emails/quickmail.md)
