@@ -21,6 +21,10 @@ Save your changes. Keep in mind that DNS propagation can take up to 24 hours.
 
 Next, log into your Leadboxer account and add your tracking domain:
 
+<figure><img src="../../../.gitbook/assets/Cursor_and_LeadBoxer_App (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
 1. Navigate to [Custom Tracking Domain](https://app.leadboxer.com/integrations-connectors/email/custom-tracking-domain)
 2. Add your new tracking domain and verify it.
 3. Once verified, click save and wait 60 seconds.
