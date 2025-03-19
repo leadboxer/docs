@@ -2,7 +2,7 @@
 
 ### Introduction
 
-One of the unique features of LeadBoxer is the option to track the behaviour of all the marketing emails you send out. To accomplish this, we provide a generic email tracking pixel for all accounts. You can use this generic tracking pixel free of charge, and we use the generic tracking pixel in all our tutorials and documentation.&#x20;
+One of the unique features of LeadBoxer is the option to track the behaviour of all the marketing emails you send out. To accomplish this, we provide a generic email tracking pixel for all accounts. You can use this tracking pixel free of charge. We use the same generic tracking pixel in all our tutorials and documentation.&#x20;
 
 ## Improve Tracking with a Custom Tracking Domain
 
@@ -26,19 +26,19 @@ Next, log into your Leadboxer account and add your tracking domain:
 
 
 1. Navigate to [Custom Tracking Domain](https://app.leadboxer.com/integrations-connectors/email/custom-tracking-domain)
-2. Add your new tracking domain and verify it.
-3. Once verified, click save and wait 60 seconds.
-4. Ensure the status shows "Verified" after DNS propagation.
+2. Add your new tracking domain and verify it
+3. Once verified, click save and wait 60 seconds
+4. Ensure the status shows "Verified" after DNS propagation
 
 ### Step 3: Implement the Tracking Domain
 
-1. Replace the default tracking pixel URL with your custom domain.\
-   for example\
+1. Replace the default tracking pixel URL with your custom domain\
+   For example:\
    track.leadboxer.com --> logo.mydomain.com
-2. Ensure all outgoing emails use the new tracking domain for consistency and accuracy.
+2. Ensure all outgoing emails use the new tracking domain for consistency and accuracy
 
 ### Benefits
 
-* **Branding:** Maintain a consistent brand presence.
-* **Improved Deliverability:** Reduce spam risks with matching domains.
-* **Enhanced Analytics:** Achieve more accurate tracking data.
+* **Branding:** Maintain a consistent brand presence
+* **Improved Deliverability:** Reduce spam risks with matching domains
+* **Enhanced Analytics:** Achieve more accurate tracking data
