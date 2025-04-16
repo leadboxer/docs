@@ -18,11 +18,7 @@ description: These are instructions for enabling SSO for LeadBoxer
 1. Log into your Azure Portal
 2. Go to Enterprise Applications
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/All_services_-_Microsoft_Azure (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/All_services_-_Microsoft_Azure (1).png" alt=""><figcaption></figcaption></figure></div>
 
 3. Create a new Application
 
@@ -47,26 +43,25 @@ Before proceeding, make sure you have received your account ID from the LeadBoxe
 
 Identifier (Entity ID):
 
-`http://lbapiv2/saml2/service-provider-metadata/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>
+`https://enter.leadboxer.com/realms/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>`/leadboxer`
 
 \
 Reply URL (Assertion Consumer Service URL):
 
-`https://lb1.leadboxer.com/login/saml2/sso/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>\
+`https://enter.leadboxer.com/realms/leadboxer/broker/`<mark style="color:orange;">`<LEADBOXER_ACCOUNT_ID>`</mark>`/endpoint`&#x20;
 
-
-<figure><img src="../../.gitbook/assets/Basic_SAML_Configuration_-_Microsoft_Azure_and_Skype_and_infobelpro_test_leadlist_20240411_20240413__1_.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20250416-nqiw.png" alt=""><figcaption></figcaption></figure>
 
 6.  The last step is to copy and share with us the "App Federation Metadata Url" located under the "SAML Certificates" section.
 
-    <figure><img src="../../.gitbook/assets/LeadBoxer_SSO_-_Microsoft_Azure_and_Skype_and_infobelpro_test_leadlist_20240411_20240413__1_.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/SCR-20250416-nrev.png" alt=""><figcaption></figcaption></figure>
 7. Once we have received the App Federation Metadata Url from you, we will add it to our settings and confirm.&#x20;
 
 ## Login
 
 Your users will then be able log into LeadBoxer using their SSO Account.
 
-<figure><img src="../../.gitbook/assets/LeadBoxer_App (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20250416-nsbg.png" alt=""><figcaption></figcaption></figure>
 
 ## Microsoft Entra ID login <a href="#h_2fe40bd98a" id="h_2fe40bd98a"></a>
 
