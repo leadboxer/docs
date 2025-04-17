@@ -6,6 +6,60 @@ description: >-
 
 # Changelog
 
+APRIL 2025
+
+## Improved Login & Signup Flow&#x20;
+
+We’ve updated our login and signup experience to make accessing your account faster and more secure. You can now log in or sign up using your Google (Gmail) or Microsoft accounts.
+
+This update uses secure and industry-standard technologies, including OpenID Connect, OAuth 2.0, and SAML, to ensure your data stays safe.
+
+More login options are coming later this year—stay tuned!
+
+
+
+MARCH 2025
+
+## New Feature: Custom Tracking Domains
+
+You can now set up a Custom Tracking Domain (CTD) to monitor email open rates and click-through rates using your own unique tracking URL.
+
+#### Why it matters:
+
+By default, many marketing platforms use shared tracking domains—the same pixel or script shared across thousands of campaigns and clients. This can negatively impact your email deliverability and performance.
+
+With a Custom Tracking Domain, your tracking pixel or link uses your own domain instead of a shared one. This small change can make a big difference:
+
+* Improves email deliverability
+* Reduces the chances of being flagged as spam
+* Boosts your sender reputation and click-through rates
+
+This is a great upgrade if you’re using marketing automation or email tools and want more control, better performance, and stronger brand alignment.
+
+Here you can read more and learn how to set it up: [Custom Tracking Domains](../integrations/email/marketing-emails/create-tracking-pixel.md)
+
+***
+
+#### DECEMBER 2024
+
+## LeadBoard improvement: Add Leads with Email Only
+
+Allow Leads on leadBoard with only email address
+
+You can now add leads to your LeadBoard using just an email address—no other details required.
+
+This makes it easier to track and manage leads, especially when:
+
+* You’re collecting personal email addresses (e.g., Gmail, Hotmail)
+* You’re capturing early interest or lightweight B2B leads
+* You want to quickly log potential prospects without full contact data
+
+
+
+***
+
+
+
 NOVEMBER 2024&#x20;
 
 ## Improved option to hide Leads&#x20;
