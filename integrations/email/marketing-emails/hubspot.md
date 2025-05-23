@@ -22,7 +22,7 @@ Alternatively, you can add an image from an URL  like this:
 
 Make sure you enable the HubSpot integration so we can connect your HubSpot contacts with LeadBoxer leads.
 
-See instructions here: [https://docs.leadboxer.com/article/184-hubspot-integration](https://docs.leadboxer.com/article/184-hubspot-integration)
+See instructions here:[https://help.leadboxer.com/leadboxer/integrations/other/hubspot](https://help.leadboxer.com/leadboxer/integrations/other/hubspot)&#x20;
 
 Optionally, you can also identify your HubSpot contacts using merge tags on the links to your site.
 
