@@ -4,7 +4,7 @@
 Make sure you also enable our [HubSpot Integration](../../other/hubspot.md), as this will sync all your existing contacts with LeadBoxer and allow you to enrich your HubSpot contacts with LeadBoxers rich firmographic and marketing data.
 {% endhint %}
 
-Tracking HubSpot marketing emails is easy.U
+Tracking HubSpot marketing emails is easy.
 
 To track email open events, either add this tracking image to your template as a piece of HTML
 
@@ -22,7 +22,7 @@ Alternatively, you can add an image from an URL  like this:
 
 Make sure you enable the HubSpot integration so we can connect your HubSpot contacts with LeadBoxer leads.
 
-See instructions here:[https://help.leadboxer.com/leadboxer/integrations/other/hubspot](https://help.leadboxer.com/leadboxer/integrations/other/hubspot)&#x20;
+See instructions here: [https://help.leadboxer.com/leadboxer/integrations/other/hubspot](https://help.leadboxer.com/leadboxer/integrations/other/hubspot)&#x20;
 
 Optionally, you can also identify your HubSpot contacts using merge tags on the links to your site.
 
