@@ -1,8 +1,8 @@
 # Inboxer
 
-## Inboxer View Documentation
+## Inboxer View: Documentation
 
-Inboxer is the (new) default view of the LeadBoxer platform. It is designed to surface and prioritize company engagement insights — enabling you to act on high-intent leads quickly and efficiently.
+Inboxer is the (new) default view of the LeadBoxer platform. It is designed to discover and prioritize company engagement insights — enabling you to act on high-intent leads quickly and efficiently.
 
 <figure><img src="../.gitbook/assets/SCR-20250604-juge-2.png" alt=""><figcaption><p>Screenshot Inboxer 2025</p></figcaption></figure>
 
@@ -10,7 +10,7 @@ Inboxer is the (new) default view of the LeadBoxer platform. It is designed to s
 
 ### Interface Overview
 
-Inboxer is split into three main areas:
+Inboxer is divided into three main areas:
 
 <table><thead><tr><th width="145.91796875">Section</th><th>Purpose</th></tr></thead><tbody><tr><td>Left Sidebar</td><td>Apply filters: date range, segments, and tags</td></tr><tr><td>Center Panel</td><td>View Lead Cards with real-time activity and ICP/Persona signals</td></tr><tr><td>Right Panel</td><td>Inspect detailed company profiles, contacts, personas, and engagement data</td></tr></tbody></table>
 
@@ -18,7 +18,7 @@ Inboxer is split into three main areas:
 
 ### Account Cards (Center Panel)
 
-Each company or organization is displayed as a Account Card, listed chronologically based on recent activity.
+Each company or organization is displayed as a Account Card. The list is chronological, sorted on recent activity.
 
 <table><thead><tr><th width="220.34375">UI Element</th><th>Function / Description</th></tr></thead><tbody><tr><td>Company Logo &#x26; Name</td><td>Visual anchor, quick recognition</td></tr><tr><td>Location &#x26; Industry</td><td>Contextual info about the lead</td></tr><tr><td>Colored Line (Top)</td><td>Indicates Lead Score intensity</td></tr><tr><td>Metrics</td><td>Visitors, events, email opens, last seen timestamp</td></tr><tr><td>Tags</td><td>Includes ICP Match, Persona Match, or custom tags</td></tr><tr><td>Gear Icon</td><td>Opens quick actions: delete or add to LeadBoard</td></tr><tr><td>Drag to Hotspots</td><td>Assign leads to boards or delete with intuitive drag-and-drop</td></tr></tbody></table>
 
@@ -36,7 +36,7 @@ These filters refine the leads shown in your Inboxer timeline:
 
 Choose a date range:
 
-* Today, Yesterday, Last 7 Days, Last 30 Days, or Custom
+* Today, Yesterday, Last 7 Days, Last 30 Days, or Custom.
 
 #### 2. Favorite Segments
 
@@ -47,7 +47,7 @@ Segments marked as favorites (⭐) in the Segments overview. These are pre-fille
 
 #### 3. Tags
 
-Key for lead qualification workflows. System-generated tags like:
+Key for lead qualification workflows. System-generated tags such as:
 
 * ICP Match
 * Persona Match
@@ -100,7 +100,7 @@ At the bottom of the Lead Card column are Hotspot Drop Zones:
 | 🟩 Move to Board | Assign lead to a saved board  |
 | 🟥 Delete        | Remove from inbox permanently |
 
-Drag a lead card onto these zones for fast triage.
+Drag a lead card onto these zones for immediate results.
 
 ***
 
@@ -109,7 +109,7 @@ Drag a lead card onto these zones for fast triage.
 Inboxer is your daily operational hub for:
 
 * Monitoring real-time company engagement
-* Triaging leads with fast tagging and scoring
+* Process leads with fast tagging and scoring
 * Surfacing ICP & Persona matches automatically
 * Accessing detailed contact and session data
 
