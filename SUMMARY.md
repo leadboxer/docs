@@ -33,6 +33,7 @@
     * [Custom Properties](fundamentals/elements/import-and-export/custom-properties.md)
     * [LeadBoxer User Interface Placeholder Names](fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
   * [Roles & Permissions](fundamentals/elements/roles-and-permissions.md)
+  * [Goals & Targets](fundamentals/elements/goals-and-targets.md)
 * [Definitions & Glossary](fundamentals/definitions-and-glossary.md)
 
 ## 🧩 Integrations
