@@ -6,14 +6,14 @@
   * [Cold outbound email campaigns](lead-management-workflow/cold-outbound-email-campaigns.md)
 * [How does it all work?](how-does-it-all-work.md)
 
-## 🏗️ Fundamentals
+## Fundamentals
 
+* [Inboxer](fundamentals/inboxer.md)
 * [Leads & Accounts](fundamentals/projects.md)
   * [Lead card: Complete lead details in one page](fundamentals/leads-and-accounts/lead-card-complete-lead-details-in-one-page.md)
   * [Batch operations](fundamentals/leads-and-accounts/batch-operations.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Reports](fundamentals/reports.md)
-* [Definitions & Glossary](fundamentals/definitions-and-glossary.md)
 * [Elements](fundamentals/elements/README.md)
   * [Filters](fundamentals/elements/filters.md)
   * [Segments](fundamentals/elements/segments.md)
@@ -33,6 +33,7 @@
     * [Custom Properties](fundamentals/elements/import-and-export/custom-properties.md)
     * [LeadBoxer User Interface Placeholder Names](fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
   * [Roles & Permissions](fundamentals/elements/roles-and-permissions.md)
+* [Definitions & Glossary](fundamentals/definitions-and-glossary.md)
 
 ## 🧩 Integrations
 
