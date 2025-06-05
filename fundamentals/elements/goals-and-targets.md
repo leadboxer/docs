@@ -1,22 +1,22 @@
 # Goals & Targets
 
-The Goals & Targets page lets you define your Ideal Customer Profiles (ICP) and Personas, and also configure your conversion events.
+The Goals & Targets page lets you (1) define your Ideal Customer Profiles (ICP) and Personas, and (2) configure your conversion events.
 
 ## ICP & Personas
 
 <figure><img src="../../.gitbook/assets/SCR-20250605-lfjo.png" alt=""><figcaption></figcaption></figure>
 
-Define your Ideal Customer Profiles (ICP) and Personas so that LeadBoxer can automatically identify, tag, and find contacts to reach out to.
+Define your Ideal Customer Profiles (ICP) and Personas so that LeadBoxer can automatically identify, tag, and find contacts for your outreach.
 
 This feature improves lead qualification and sales focus by highlighting accounts and individuals that match your exact targeting criteria.
 
 ### How It Works
 
-1. You define an ICP using:
+1. Define an ICP using:
    * Industry
    * Employee size
    * Country
-2. You define the matching Persona using:
+2. Define the matching Persona using:
    * Seniority level
    * Job title(s)
    * Country (can match ICP or be separate)
@@ -38,12 +38,12 @@ We will deduct 1 credit for each successful persona match or email lookup
 
 <figure><img src="../../.gitbook/assets/SCR-20250605-lddc.png" alt=""><figcaption></figcaption></figure>
 
-in the overview, you can add, edit and delete multiple ICP + Persona combinations.
+In the overview, you can add, edit and delete multiple ICP + Persona combinations.
 
-### How to Add ICP & persona combo
+### How to add ICP & persona combo
 
-1. From the Goals & Targets page, you click Add ICP & Persona button.
-2. this opens a window where you need to define your ICP and Persona
+1. From the Goals & Targets page, click Add ICP & Persona button.
+2. This opens a window where you must define your ICP and Persona
 3.  First define the ICP
 
     <figure><img src="../../.gitbook/assets/SCR-20250605-klcq.png" alt=""><figcaption></figcaption></figure>
@@ -58,7 +58,7 @@ Below is a breakdown of each section in the form:
 
 #### Ideal Customer Profile (ICP)
 
-<table><thead><tr><th width="181.1519775390625">Field</th><th>Description</th></tr></thead><tbody><tr><td>ICP Name</td><td>Internal name for the profile</td></tr><tr><td>Industries</td><td>Select one or more industries from the predefined list</td></tr><tr><td>Employee Size</td><td>Choose one or more company size ranges based on employee count</td></tr><tr><td>Countries</td><td>One or more countries or regions</td></tr><tr><td>ICP Tag Name</td><td>This label will appear in UI when a match is detected</td></tr></tbody></table>
+<table><thead><tr><th width="181.1519775390625">Field</th><th>Description</th></tr></thead><tbody><tr><td>ICP Name</td><td>Internal name for the profile</td></tr><tr><td>Industries</td><td>Select one or more industries from the pre-defined list</td></tr><tr><td>Employee Size</td><td>Choose one or more company size ranges based on employee count</td></tr><tr><td>Countries</td><td>One or more countries or regions</td></tr><tr><td>ICP Tag Name</td><td>This label will appear in UI when a match is detected</td></tr></tbody></table>
 
 #### Persona
 
