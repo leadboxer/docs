@@ -30,9 +30,11 @@ This feature improves lead qualification and sales focus by highlighting account
 
 ### LeadBoxer Credits
 
-Each LeadBoxer Plan comes with a fixed amount of LeadBoxer credits, you can purchase additional credits if you want to find more personas or get more email addresses.
+Each LeadBoxer Plan comes with a fixed amount of [LeadBoxer credits](leadboxer-credits.md), you can purchase additional credits if you want to find more personas or get more email addresses.
 
 We will deduct 1 credit for each successful persona match or email lookup
+
+See the [LeadBoxer Credits](leadboxer-credits.md) page for more details
 
 ### Overview table
 
