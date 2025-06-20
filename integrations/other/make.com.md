@@ -1,5 +1,5 @@
 ---
-description: Connect LeadBoxer wiht Make.com
+description: Connect LeadBoxer with Make.com
 ---
 
 # make.com
@@ -28,7 +28,7 @@ Step 3
 in the HTTP module settings:
 
 * select the new API key in the credentials.
-* use this URL:  [https://dataleadboxer.com/api/views/c\_view\_leads/?search=\*\&dataType=json\&variant=zapier\&noShortenEmail\&sortBy=lastEvent|desc\&period=1d\&limit=50\&site=](https://kibana.leadboxer.com/api/views/c_view_leads/?search=*\&dataType=json\&variant=zapier\&noShortenEmail\&sortBy=lastEvent|desc\&period=1d\&limit=50\&site=974248846a550279433f1fc03700aabc)#### MY DATASET ID ###
+* URL:  <mark style="color:blue;">https://data.leadboxer.com/api/views/c\_view\_leads/?search=\*\&dataType=json\&variant=zapier\&noShortenEmail\&sortBy=lastEvent|desc\&period=1d\&limit=50\&site=#### YOUR DATASET ID ###</mark>
 * Body type: Raw
 * Content type: JSON
 * Parse response: yes
