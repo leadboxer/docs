@@ -120,6 +120,7 @@
   * [Whatagraph](integrations/other/whatagraph.md)
   * [Google BigQuery](integrations/other/google-bigquery.md)
   * [Single Sign On (SSO)](integrations/other/single-sign-on-sso.md)
+  * [make.com](integrations/other/make.com.md)
 
 ## 🦮 Guides
 
