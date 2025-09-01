@@ -73,3 +73,74 @@ OTLogService.sendEvent("Login added", map, false);
 * You can change all the words that are inside quotes to suit your needs. For example you can dynamically generate the tag from your CMS
 * To retrieve the data, you can use the LeadBoxer interface or our API
 
+## Server side login tracking
+
+If you would like to identify you users (logins) without installing our javascript SDK on your app, you can send the details serverside.
+
+Obviously this depends heavily on the setup / architecture and implementations, but here is generic approach that works in cases where the top domain of your app is the same as your website.
+
+1. using javascript, read the first-party cookie we set when they visit your website, and retrieve the cookie ID
+
+```javascript
+<script>
+// Helper to read cookie by name
+function getCookie(name) {
+  const match = document.cookie.match(new RegExp('(?:^|; )' + name + '=([^;]*)'));
+  return match ? decodeURIComponent(match[1]) : null;
+}
+
+// Get the LeadBoxer cookie
+const otui = getCookie("_otui");
+
+if (otui) {
+  const parts = otui.split(".");
+  const firstVisitTimestamp = parts[0];   // Unix timestamp
+  const randomClientNumber = parts[1];    // Random number
+
+  // Swapped order: random first, timestamp second
+  const fullUserId = randomClientNumber + "." + firstVisitTimestamp;
+
+  console.log("LB User ID:", fullUserId);
+
+} else {
+  console.warn("LB _otui cookie not found");
+}
+</script>
+```
+
+2. Once you have the user ID, you update the user properties in LeadBoxer using the 'log' endpoint.
+
+Here is an example with a simple CURL event:
+
+```bash
+curl "https://log.leadboxer.com/\
+?si=YOUR_DATASET_ID\
+&uid=1606468777834.459913894\
+&email=j.doe@example.com\
+&name=John%20Doe\
+&company=Example%20Inc\
+&proxy=true
+```
+
+Or an example using javascript (without loading the SDK)
+
+```javascript
+<script>
+  // Example values; substitute your real ones:
+  const datasetId = "YOUR_DATASET_ID";          // replace with your dataset ID
+  const userId    = "1606468777834.459913894";   // from the _otui cookie
+
+  const params = new URLSearchParams({
+    si: datasetId,
+    uid: userId,
+    email: "j.doe@example.com",
+    name: "John Doe",
+    company: "Example Inc"
+  });
+
+  fetch("https://log.leadboxer.com/?" + params.toString(), {
+    method: "GET",
+    mode: "no-cors" // optional in browser to avoid CORS errors for fire-and-forget
+  });
+</script>
+```
