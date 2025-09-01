@@ -73,13 +73,17 @@ OTLogService.sendEvent("Login added", map, false);
 * You can change all the words that are inside quotes to suit your needs. For example you can dynamically generate the tag from your CMS
 * To retrieve the data, you can use the LeadBoxer interface or our API
 
-## Server side login tracking
 
-If you would like to identify you users (logins) without installing our javascript SDK on your app, you can send the details serverside.
 
-Obviously this depends heavily on the setup / architecture and implementations, but here is generic approach that works in cases where the top domain of your app is the same as your website.
+***
 
-1. using javascript, read the first-party cookie we set when they visit your website, and retrieve the cookie ID
+## Server-side login tracking
+
+If you want to identify your users (e.g. after login) without installing our JavaScript SDK in your app, you can send the details from your server instead.
+
+The exact approach depends on your setup and architecture, but here’s a generic method that works when your app shares the same top-level domain as your website:
+
+1. Use JavaScript to read the first-party cookie we set when the user visits your website and retrieve the cookie ID (\_otui) and pass it along with the login details to your server.
 
 ```javascript
 <script>
@@ -108,7 +112,7 @@ if (otui) {
 </script>
 ```
 
-2. Once you have the user ID, you update the user properties in LeadBoxer using the 'log' endpoint.
+2. Once you have the user ID, you can update the user properties in LeadBoxer using the 'log' endpoint.
 
 Here is an example with a simple CURL event:
 
