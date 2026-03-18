@@ -25,8 +25,7 @@ Once the Pixel is in place, we immediately start tracking and identifying your l
 
 If you havent done so already, the first step is to [Start a trial](https://www.leadboxer.com/start/) at leadboxer.com - you will then receive the Pixel (code snippet) from us.
 
-You can use any of the following plugins / tutorials to get started:\
-
+You can use any of the following plugins / tutorials to get started:<br>
 
 * [Wordpress](wordpress-plug-in/)
 * [Drupal](drupal-module.md)

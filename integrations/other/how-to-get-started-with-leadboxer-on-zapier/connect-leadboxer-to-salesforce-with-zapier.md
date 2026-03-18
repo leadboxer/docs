@@ -33,6 +33,6 @@ Simply test the Zap by clicking Create & Continue. Congratulations! You have a w
 
 Zap, all you have to do now is turn it on!
 
-Still need help? [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/5Q8FTtQkp8rT1KedfAiH)
 
 Last updated on June 8, 2016

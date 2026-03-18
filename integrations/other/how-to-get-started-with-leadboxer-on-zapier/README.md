@@ -8,15 +8,15 @@ Sign up for a free Zapier account: [https://zapier.com/zapbook/leadboxer/](https
 
 Click ‘MAKE A ZAP!’
 
-![](https://lh5.googleusercontent.com/o-uT-9coBgjEoRih9TL6TSR7JSLB9WHTHc24uVkAhNEjbs7G-8JCFkfk1-iJOnBPEcOClrkRaGAYMioYaM6Nb9ZNcpHACT62sAvCBjvAvuHZJmL\_RrxyrX3oPS385ABJr9Hp8C81)
+![](https://lh5.googleusercontent.com/o-uT-9coBgjEoRih9TL6TSR7JSLB9WHTHc24uVkAhNEjbs7G-8JCFkfk1-iJOnBPEcOClrkRaGAYMioYaM6Nb9ZNcpHACT62sAvCBjvAvuHZJmL_RrxyrX3oPS385ABJr9Hp8C81)
 
 Enter a name for your zap, so you can keep track of all your different zaps easily.
 
-![](https://lh6.googleusercontent.com/pB1xjxDj7mnWLpM2LbJez1\_gLtVjsNl-pjk0-Gh3NoqJnSUksQNZSFD8vaLAhIPM6GYTyZZO4WgPVU0ee79bNjbIMhMiYN9OFydknIRW-UaNh6xW8EwBCb6tNIQk4PWzdmpxo9rM)
+![](https://lh6.googleusercontent.com/pB1xjxDj7mnWLpM2LbJez1_gLtVjsNl-pjk0-Gh3NoqJnSUksQNZSFD8vaLAhIPM6GYTyZZO4WgPVU0ee79bNjbIMhMiYN9OFydknIRW-UaNh6xW8EwBCb6tNIQk4PWzdmpxo9rM)
 
 Search for Leadboxer and select it.
 
-![](https://lh6.googleusercontent.com/LOgULNWuWUBgsw09dgSmB1en7ziLgNofZxfqe2Dap0ebFg59EUbpWvuhoGnAPWjTyzsRu\_bnCrPuu2XZwllP1yM1NLZ-t9MVja2hLST5XZib9A2M4BZq1Y5Zz1QZLNnBvzUOi3sL)
+![](https://lh6.googleusercontent.com/LOgULNWuWUBgsw09dgSmB1en7ziLgNofZxfqe2Dap0ebFg59EUbpWvuhoGnAPWjTyzsRu_bnCrPuu2XZwllP1yM1NLZ-t9MVja2hLST5XZib9A2M4BZq1Y5Zz1QZLNnBvzUOi3sL)
 
 Choose new lead as a trigger for your zap and click continue
 
@@ -50,6 +50,6 @@ If you use Leadboxer for different datasets and wish to connect each of them to 
 
 If you are using [Salesforce](https://docs.leadboxer.com/article/77-connect-leadboxer-to-salesforce-with-zapier), [Pipedrive](https://docs.leadboxer.com/article/80-connect-leadboxer-to-pipedrive-with-zapier), or [Slack](https://docs.leadboxer.com/article/79-connect-leadboxer-to-slack-with-zapier)
 
-Still need help? [Contact Us](broken-reference)&#x20;
+Still need help? [Contact Us](/broken/pages/8q1PAehQjENGkiOp38IN)&#x20;
 
 Last updated on July 6, 2022

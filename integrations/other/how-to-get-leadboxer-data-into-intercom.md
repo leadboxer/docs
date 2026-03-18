@@ -60,6 +60,6 @@ Assuming you have both the LeadBoxer and Intercom javascript /pixel installed. Y
 </script>
 ```
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/fG3UcPajF4QYtqFP04dK) [Contact Us](/broken/pages/fG3UcPajF4QYtqFP04dK)
 
 Last updated on August 14, 2020

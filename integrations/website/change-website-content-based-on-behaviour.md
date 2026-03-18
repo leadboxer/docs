@@ -18,8 +18,7 @@ There are 3 cookies set by the LeadBoxer JavaScript:
 
     **example**
 
-    `_otui 1279273569088.1279273569088.1279273569088.1.13`\
-
+    `_otui 1279273569088.1279273569088.1279273569088.1.13`<br>
 2.  **A cookie orientated to keeping session data:**
 
     ```
@@ -66,6 +65,6 @@ alert(pageviews);
 </script>
 ```
 
-Still need help? [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/Vf2PtjMefp2wy2gHl0mx)
 
 Last updated on May 28, 2019

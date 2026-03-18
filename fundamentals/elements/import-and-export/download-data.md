@@ -38,6 +38,6 @@ The default and custom column sets can also be selected in when you are setting 
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/622f452f2ce7ed0fb0914fa8/file-2Dzp3seAav.png)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/juZKGnVF6OTBHan5ARTe) [Contact Us](/broken/pages/juZKGnVF6OTBHan5ARTe)
 
 Last updated on March 17, 2022

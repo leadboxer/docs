@@ -11,8 +11,7 @@ Follow these steps for adding the tracking pixel:
 1. Go to your campaign or templates ('sjablonen')
 2. Choose the mail or template you want to track
 3. Design the email using the Drag & Drop builder.&#x20;
-4.  Choose or add a textblock at the bottom of the email and switch to 'Broncode' (code view)\
-
+4.  Choose or add a textblock at the bottom of the email and switch to 'Broncode' (code view)<br>
 
     <figure><img src="../../../.gitbook/assets/SCR-20250317-ldvf-2.png" alt=""><figcaption></figcaption></figure>
 5. Paste your email tracking pixel into the bottom of the HTML, it should look something like this:

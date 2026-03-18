@@ -14,6 +14,6 @@ You can also define the pages where or roles for when the lead Pixel should or s
 
 Make sure you safe your settings and then you're done.
 
-Still need help? [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/qX8lVM1q67DMnrVCm9OE)
 
 Last updated on September 24, 2019

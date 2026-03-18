@@ -41,12 +41,11 @@ ANSWERS:
 1.  We use a (tracking) pixel which we call a "lead pixel". The result is the same, as an image for example. There is no technical difference between tracking an image or using a pixel. The one difference is that the pixel is not visible (as opposed to an image).
 
     Think of a pixel as an invisible image.
-2. There is no way to track an email (either way, pixel, image, or download) if the recipient does not accept the image(s), or initiate a download. In other words, the outcome is based on the settings or preference(s) of the end-user.\
-
+2. There is no way to track an email (either way, pixel, image, or download) if the recipient does not accept the image(s), or initiate a download. In other words, the outcome is based on the settings or preference(s) of the end-user.<br>
 3. How can i minimise the risk of having people block my tracking? This is a very interesting question. The answer is to make the email informative, (valuable), and put useful images (labeled) in it. In our experience, people will accept tracking if there are useful images - as seen from the tags behind the images.\
    In other words: name your images descriptively - not \[title].png - but something based on content:\
    "chart of climate change impact - depicting planetary damage" -people would be more likely to load image(s). Result: the tracking pixel will also load.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/8hLTwa62fObLCu3VObUS) [Contact Us](/broken/pages/8hLTwa62fObLCu3VObUS)
 
 Last updated on August 28, 2019

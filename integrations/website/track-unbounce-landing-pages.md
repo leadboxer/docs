@@ -17,6 +17,6 @@ Unbounce has a feature called Script Manager, this allows you to put scripts on 
 You can find more details here: \
 [https://documentation.unbounce.com/hc/en-us/articles/203879070-Using-Custom-JavaScript-and-CSS-on-Your-Landing-Page](https://documentation.unbounce.com/hc/en-us/articles/203879070-Using-Custom-JavaScript-and-CSS-on-Your-Landing-Page)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/rqaMmrT4hkRPArpowMEf) [Contact Us](/broken/pages/rqaMmrT4hkRPArpowMEf)
 
 Last updated on September 20, 2018

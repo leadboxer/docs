@@ -62,6 +62,6 @@ That's it, now send the email and all Recipient activity will start showing in y
 
 Happy tracking!
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/dztCSe7T69Tzi8TKYbcZ) [Contact Us](/broken/pages/dztCSe7T69Tzi8TKYbcZ)
 
 Last updated on December 1, 2020

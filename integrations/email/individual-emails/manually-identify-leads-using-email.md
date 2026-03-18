@@ -50,6 +50,6 @@ In case you missed it, we also automatically capture the values for the Google A
 
 You can learn about UTM tags in this article:  [Google Analytics Tracking parameters](https://docs.leadboxer.com/article/10-google-analytics)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/zZJwQzx5Sh7BCkuEJYWK) [Contact Us](/broken/pages/zZJwQzx5Sh7BCkuEJYWK)
 
 Last updated on October 30, 2019

@@ -42,8 +42,7 @@ Choose a date range:
 
 Segments marked as favorites (⭐) in the Segments overview. These are pre-filled at account creation and editable anytime.
 
-\
-
+<br>
 
 #### 3. Tags
 

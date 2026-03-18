@@ -93,7 +93,7 @@ It is also now available as a stand-alone product, in case you are interested.
 
 We have completely redesigned the Integrations section and added many new integration options.
 
-See the [intergrations](broken-reference) section for more details.
+See the [intergrations](/broken/pages/uxbRrQ8cHbePqdcBbHV1) section for more details.
 
 ### Small updates & improvements:
 
@@ -114,8 +114,7 @@ See our [Glossary and Definitions](../fundamentals/definitions-and-glossary.md#b
 
 ### Improved detection for Leads from Paid sources.
 
-We have expanded our parameters to better classify Leads that visit your site coming from paid add campaigns. See the [Channel definitions](../integrations/website/tracking-marketing-campaign-data-utm-tags.md) for more details.\
-
+We have expanded our parameters to better classify Leads that visit your site coming from paid add campaigns. See the [Channel definitions](../integrations/website/tracking-marketing-campaign-data-utm-tags.md) for more details.<br>
 
 
 

@@ -6,8 +6,7 @@ These are the pre-defined placeholders which define what will show up in the Lea
 
 In other words, this is for submitting events (visitor touchpoints) whereby information is submitted via your site and placed in LeadBoxer
 
-Instructions: using these names for event data will populate placeholder fields in our data.\
-
+Instructions: using these names for event data will populate placeholder fields in our data.<br>
 
 **Person / lead properties**
 

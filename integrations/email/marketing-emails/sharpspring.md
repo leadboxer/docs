@@ -21,8 +21,7 @@ Notes:
 
 * Don't forget to change the DATASET ID to your own
 * Change the campaign value to reflect the email title or campaign name&#x20;
-* you can add other template variables as parameters if you have them, eg _\&companyName={$companyName}_\
-
+* you can add other template variables as parameters if you have them, eg _\&companyName={$companyName}_<br>
 
 ***
 
@@ -48,12 +47,12 @@ Tip: Best practice is to test before sending out a mass email
 
 To see more on For more details see these pages:
 
-[https://help.sharpspring.com/hc/en-us/articles/115001067988-Adding-Merge-Variables-to-Emails#h\_26843112161516719747691](https://help.sharpspring.com/hc/en-us/articles/115001067988-Adding-Merge-Variables-to-Emails#h\_26843112161516719747691)
+[https://help.sharpspring.com/hc/en-us/articles/115001067988-Adding-Merge-Variables-to-Emails#h\_26843112161516719747691](https://help.sharpspring.com/hc/en-us/articles/115001067988-Adding-Merge-Variables-to-Emails#h_26843112161516719747691)
 
 Sharpspring offers many optional merge variables you can use and also 'send' to LeadBoxer through email clicks:&#x20;
 
-[https://help.sharpspring.com/hc/en-us/articles/360022397891-Available-SharpSpring-Merge-Variables#h\_969312646111536941342618](https://help.sharpspring.com/hc/en-us/articles/360022397891-Available-SharpSpring-Merge-Variables#h\_969312646111536941342618)
+[https://help.sharpspring.com/hc/en-us/articles/360022397891-Available-SharpSpring-Merge-Variables#h\_969312646111536941342618](https://help.sharpspring.com/hc/en-us/articles/360022397891-Available-SharpSpring-Merge-Variables#h_969312646111536941342618)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/bQDbBEpS6SdD6724BwwJ) [Contact Us](/broken/pages/bQDbBEpS6SdD6724BwwJ)
 
 Last updated on June 10, 2021

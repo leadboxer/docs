@@ -19,15 +19,13 @@ In plain English: (1) tag leads into general categories such as (existing) Custo
 Using tags is simple, and involves just 2 steps:
 
 1.  **Manually tag a lead**\
-    Using the LeadBoxer interface you can manually tag your leads in 2 different places: On the Lead details section or in the Leads & Accounts view. We have added 4 default tags: Competitor, Customer, Key account and Partner.  You can add additional tags yourself. There is a hard limit of 100 tags.\
-
+    Using the LeadBoxer interface you can manually tag your leads in 2 different places: On the Lead details section or in the Leads & Accounts view. We have added 4 default tags: Competitor, Customer, Key account and Partner.  You can add additional tags yourself. There is a hard limit of 100 tags.<br>
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_App (13).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 2.  **Set your Lead Tag filter**\
-    Once you have added lead tags to your leads, you can use the filters to include or exclude them from/ to your Segments.\
-
+    Once you have added lead tags to your leads, you can use the filters to include or exclude them from/ to your Segments.<br>
 
     <figure><img src="../../.gitbook/assets/LeadBoxer_App (9) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,8 +42,7 @@ Use the **Add lead tag** action to automatically create or add a tag to lead bas
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-23 at 14.19.27.png" alt=""><figcaption></figcaption></figure>
 
 See the Complete [Workflow Automation](workflow-automation.md) docs for more details.\
-\
-
+<br>
 
 ### 2. Javascript
 
@@ -53,8 +50,7 @@ In order to automatically tag leads or visitors, use the Update Lead Tag API cal
 
 In other words - LeadBoxer monitors all traffic on your site - identifies companies and leads. By using this functionality - you can automate the process of filtering out your existing client database - by effectively excluding (tagging) everybody who logs in.
 
-**Javascript Example**\
-
+**Javascript Example**<br>
 
 In below example we take the LeadBoxer user ID from the LeadBoxer cookie and use it to send a signal to our servers with the Lead Tag: customer
 

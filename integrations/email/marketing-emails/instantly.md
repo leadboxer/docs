@@ -45,6 +45,5 @@ https://www.yourdomain.com?email={{email}}&companyName={{companyName}}
 
 
 For more details see this page:\
-[https://help.instantly.ai/en/articles/6135930-how-to-add-variables](https://help.instantly.ai/en/articles/6135930-how-to-add-variables)\
-
+[https://help.instantly.ai/en/articles/6135930-how-to-add-variables](https://help.instantly.ai/en/articles/6135930-how-to-add-variables)<br>
 

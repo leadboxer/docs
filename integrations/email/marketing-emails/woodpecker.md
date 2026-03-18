@@ -39,6 +39,5 @@ https://www.YOURDOMAINNAME.com?email={{EMAIL}}&companyName={{COMPANY}}
 
 
 For more details see this page:\
-[https://woodpecker.co/help/use-custom-fields-snippets/](https://woodpecker.co/help/use-custom-fields-snippets/)\
-
+[https://woodpecker.co/help/use-custom-fields-snippets/](https://woodpecker.co/help/use-custom-fields-snippets/)<br>
 

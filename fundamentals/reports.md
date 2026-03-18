@@ -136,8 +136,7 @@ Choose to receive the Report either weekly or monthly, and select your recipient
 Note: Recipients need to be added to your account as [Users](elements/users.md) before you can select these for a scheduled report.&#x20;
 {% endhint %}
 
-Once a Report has been scheduled, the dropdown allows you to check the scheduling details or modify the settings.\
-
+Once a Report has been scheduled, the dropdown allows you to check the scheduling details or modify the settings.<br>
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (1).png" alt=""><figcaption></figcaption></figure>
 

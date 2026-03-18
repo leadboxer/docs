@@ -6,8 +6,7 @@ Here are the steps needed for adding the tracking pixel:
 
 1. go to your drip campaign or template
 2. edit your campaign or template and switch to HTML (\</>)
-3. paste in your email tracking pixel at the bottom\
-
+3. paste in your email tracking pixel at the bottom<br>
 
 {% code overflow="wrap" %}
 ```html
@@ -39,6 +38,6 @@ For more details see these pages:
 
 [https://support.prospect.io/hc/en-us/articles/115009483748-Template-Variables](https://support.prospect.io/hc/en-us/articles/115009483748-Template-Variables)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/ONjt0nifnF9m5u4aACo3) [Contact Us](/broken/pages/ONjt0nifnF9m5u4aACo3)
 
 Last updated on March 7, 2019

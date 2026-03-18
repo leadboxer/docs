@@ -21,6 +21,6 @@ Example:
 https://www.leadboxer.com&email=<span class=eloquaemail>EmailAddress</span>
 ```
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/ZPpy0Pw9vhXxFGbTi41Q) [Contact Us](/broken/pages/ZPpy0Pw9vhXxFGbTi41Q)
 
 Last updated on January 5, 2020

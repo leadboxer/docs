@@ -48,6 +48,6 @@ Another option is to use the automatic identification using the default paramete
 * LeadBoxer will automatically pickup the values of these parameters and update the leads
 * NOTE: some email systems will then display a message saying something like: Malicious emails can use shortened links, etc.  In other words, recipients will have to click 'Proceed'.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/dKD5RMKh6qT8RLFzho9F) [Contact Us](/broken/pages/dKD5RMKh6qT8RLFzho9F)
 
 Last updated on September 9, 2020

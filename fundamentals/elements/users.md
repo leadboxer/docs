@@ -8,8 +8,7 @@
 
 We added the Lead ownership concept in LeadBoxer a few years ago, but it somehow got snowed under by new features and other cool stuff. So last month we decided it was time to revamp the concept and make it part of our core feature set again.
 
-\
-
+<br>
 
 Lead Ownership is also saved as a value in the Lead Properties, meaning that:
 

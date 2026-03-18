@@ -30,6 +30,6 @@ Example:
 
 [https://app.leadboxer.com/view/leaddetail?userId=1132\&leadId=1500387702082.1625569983\&site=20abf326e7508744f6db1950044a1ac3\&timezone=Europe/Amsterdam](https://app.leadboxer.com/view/leaddetail?userId=1132\&leadId=1500387702082.1625569983\&site=20abf326e7508744f6db1950044a1ac3\&timezone=Europe/Amsterdam)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/t3dNRy4wS0fsahzclYnf) [Contact Us](/broken/pages/t3dNRy4wS0fsahzclYnf)
 
 Last updated on January 23, 2019

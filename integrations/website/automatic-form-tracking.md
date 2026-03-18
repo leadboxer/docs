@@ -84,6 +84,6 @@ phone number:\
 
 If you prefer full control over the data that is being captured and submitted, you can try using manual form tracking. See the link below.
 
-Still need help? [Contact Us](broken-reference)&#x20;
+Still need help? [Contact Us](/broken/pages/hy7BlgLDohPHfP78G41S)&#x20;
 
 Last updated on March 14, 2019

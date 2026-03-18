@@ -33,6 +33,6 @@ In detail, we grab the Munchkin Marketo cookie ID, and use this to lookup the co
 12. Now the last step is to collect your Marketo API endpoint ID. This can be found by going to the web services section in the admin pannel and copy the REST API endpoint![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/608164d78af76a714bfd9d86/file-r43GFv9hpR.png)
 13. Thats it, send us these 3 values and we can enable the integration.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/Vh7gkXJ8oVwZgrfbahx8) [Contact Us](/broken/pages/Vh7gkXJ8oVwZgrfbahx8)
 
 Last updated on April 22, 2021

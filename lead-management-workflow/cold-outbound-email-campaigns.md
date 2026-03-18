@@ -55,8 +55,7 @@ description: Turn your cold outbound email campaign into a success using these 4
 ### Launch Campaign
 
 1. Important: add LeadBoxer tracking and click-thru technology
-2. Start sending emails\
-
+2. Start sending emails<br>
 
 ### Expected Results
 
@@ -69,4 +68,4 @@ description: Turn your cold outbound email campaign into a success using these 4
 
 \
 \
-\
+<br>

@@ -88,8 +88,7 @@ Examples of key events are: viewed a specific product page, viewed pricing page,
 
 #### Example event mapping
 
-Here are some example events that can be mapped to a buyer journey stage\
-
+Here are some example events that can be mapped to a buyer journey stage<br>
 
 <table><thead><tr><th width="214">Stage</th><th>Example events</th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Orientation</strong></td><td><ul><li>Blog post read</li><li>Podcast listen</li><li>Landing page viewed</li></ul></td><td></td></tr><tr><td><strong>Discovery</strong></td><td><ul><li>Product pages viewed</li><li>Pricing page viewed</li><li>Features pages</li><li>Case study download</li></ul></td><td></td></tr><tr><td><strong>Interest</strong></td><td><ul><li>Started a Trial</li><li>Booked a Demo call</li><li>Joined a Webinar</li></ul></td><td></td></tr><tr><td><strong>Intent</strong></td><td><ul><li>Looked at Contact page</li><li>Signed up for Newsletter or Course</li><li>scheduled pre-sales call</li></ul></td><td></td></tr><tr><td><strong>Decision</strong></td><td><ul><li>Did a checkout</li><li>Requested an invoice</li></ul></td><td></td></tr></tbody></table>
 
@@ -127,4 +126,4 @@ Once you have gone through all above steps, you will have a fully automated Lead
 
 If you need any help with this, we are here to help. Please [schedule a call](https://www.leadboxer.com/start) to talk to us.
 
-\
+<br>

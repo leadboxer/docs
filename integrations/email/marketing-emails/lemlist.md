@@ -44,6 +44,5 @@ https://www.YOURDOMAINNAME.com?email={{email}}&companyName={{companyName}}
 
 For more details see this page:
 
-[https://help.lemlist.com/en/articles/4452688-custom-variable-format](https://help.lemlist.com/en/articles/4452688-custom-variable-format)\
-
+[https://help.lemlist.com/en/articles/4452688-custom-variable-format](https://help.lemlist.com/en/articles/4452688-custom-variable-format)<br>
 

@@ -33,8 +33,7 @@ description: >-
 1. In the Google Cloud Console, by clicking on the hamburger menu (☰) navigate to "IAM & admin" and click "IAM" from the left menu.
 2. Click on the "Grant Access" button to grant permissions to our Service Account.
 3. Paste the Service Account ID we have provided into the "New principals" field.
-4.  In the "Assign Role" field, select (or search for) "BigQuery Admin" from the dropdown menu.\
-
+4.  In the "Assign Role" field, select (or search for) "BigQuery Admin" from the dropdown menu.<br>
 
     <figure><img src="../../.gitbook/assets/IAM_–_IAM___Admin_–_big_query_dev_–_Google_Cloud_console.png" alt=""><figcaption></figcaption></figure>
 5. Click "Save" to grant the necessary permissions to your Service Account.

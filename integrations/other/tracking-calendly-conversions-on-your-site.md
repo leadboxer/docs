@@ -44,6 +44,6 @@ You can now find these leads easily by setting a URL filter on your Confirmation
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fc274364cedfd00165b4b97/file-fP060YlZn6.png)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/Moyjq5d0Yo385jbvgFjV) [Contact Us](/broken/pages/Moyjq5d0Yo385jbvgFjV)
 
 Last updated on April 13, 2021

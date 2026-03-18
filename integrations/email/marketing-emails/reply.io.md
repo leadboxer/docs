@@ -50,7 +50,7 @@ You will need to add this email tracking pixel to the source of your email or te
 ```
 {% endcode %}
 
-![](https://downloads.intercomcdn.com/i/o/29561275/7217a68d6af946526de3eac5/Material\_2016-08-26\_06-47-11.png)
+![](https://downloads.intercomcdn.com/i/o/29561275/7217a68d6af946526de3eac5/Material_2016-08-26_06-47-11.png)
 
 Do not forget to replace the  **yourDatasetId** and **YourCampaignName** with your own values.
 
@@ -58,6 +58,6 @@ From there on LeadBoxer will take over and add the data to the lead. Obviously t
 
 It's always a good idea to test this thoroughly before sending this to you main lists. If things are working, you'll see the emails of leads interested in your newsletter's landing page.
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/zwBHVNFyv2lxloRNMnCf) [Contact Us](/broken/pages/zwBHVNFyv2lxloRNMnCf)
 
 Last updated on October 4, 2021

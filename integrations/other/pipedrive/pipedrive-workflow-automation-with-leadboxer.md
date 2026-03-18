@@ -32,6 +32,6 @@ Identified leads that look at our pricing page are now showing up in our Sales S
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5e1b75722c7d3a7e9ae615c0/file-Wvvks6cxYP.png)
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/SKt6MlWMLn3ZlGGTOhhm) [Contact Us](/broken/pages/SKt6MlWMLn3ZlGGTOhhm)
 
 Last updated on January 15, 2020

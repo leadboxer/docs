@@ -29,8 +29,7 @@ _**Paid options**_
 
 #### 4. LinkedIn InMail
 
-See option 2. (above) \
-
+See option 2. (above) <br>
 
 #### 5. LinkedIn Lead Gen Form
 

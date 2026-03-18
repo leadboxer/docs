@@ -21,8 +21,7 @@ Notes:
 
 * Don't forget to change the DATASET ID to your own
 * Change the campaign parameter value to reflect the email title or campaign name&#x20;
-* you can add other template variables as parameters if you have them, eg _\&companyName={$companyName}_\
-
+* you can add other template variables as parameters if you have them, eg _\&companyName={$companyName}_<br>
 
 ***
 
@@ -48,6 +47,6 @@ Tip: Best practice is to test before sending out a mass email
 
 To see more on For more details see these pages:
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/NyKmIgpF6deytyPS8dDe) [Contact Us](/broken/pages/NyKmIgpF6deytyPS8dDe)
 
 Last updated on August 11, 2022

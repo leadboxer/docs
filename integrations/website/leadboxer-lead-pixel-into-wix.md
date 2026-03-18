@@ -22,6 +22,6 @@ https://support.wix.com/en/article/about-tracking-tools-analytics
 4. Enter the HTTPS code.
 5. Click Apply.&#x20;
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/2WpUeh97NAm3r1SLzQy6) [Contact Us](/broken/pages/2WpUeh97NAm3r1SLzQy6)
 
 Last updated on March 25, 2019

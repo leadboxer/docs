@@ -33,12 +33,10 @@ lb_src=copernica
 lb_eid={$profile.id}
 ```
 
-\
-
+<br>
 
 <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5cdad7b90428634b85592fbf/file-BbOL6bSWLC.png" alt=""><figcaption></figcaption></figure>
 
-Example:\
-
+Example:<br>
 
 Thats all, and let the magic begin!

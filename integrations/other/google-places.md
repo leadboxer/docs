@@ -11,7 +11,7 @@ Meaning that if you add a Google maps API key, we will use the Google API to enr
 1. Go to the [Google Maps Platform](https://cloud.google.com/maps-platform/)
 2. Click ‘Get Started’
 3. Check only ‘Places’\
-   ![Google Maps Enable APIs](https://yoast.com/app/uploads/sites/5/2018/05/google-maps\_enable-api.png)
+   ![Google Maps Enable APIs](https://yoast.com/app/uploads/sites/5/2018/05/google-maps_enable-api.png)
 4. Click ‘Continue’
 5. If you want to use an existing project, please select it from the list. Otherwise, select ‘Create a new project’ and enter a project name like LeadBoxer
 6. Click ‘Next’ to continue
@@ -36,6 +36,6 @@ If the above steps are not clear enough then please follow the tutorial video fr
 4. paste the API key into the field for each site/dataset you want to enrich and enable the checkbox
 5. Save, and you are done!
 
-Still need help? [Contact Us](broken-reference) [Contact Us](broken-reference)
+Still need help? [Contact Us](/broken/pages/FBBBViyjAQlpbtum348H) [Contact Us](/broken/pages/FBBBViyjAQlpbtum348H)
 
 Last updated on November 6, 2020

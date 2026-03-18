@@ -4,11 +4,7 @@
 
 ### Customise leadscore&#x20;
 
-<div align="left">
-
-<figure><img src="https://gallery.mailchimp.com/bf6600641dcdb33445c8b6553/images/8710ca03-9097-409d-b8d1-46da82638995.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://gallery.mailchimp.com/bf6600641dcdb33445c8b6553/images/8710ca03-9097-409d-b8d1-46da82638995.png" alt=""><figcaption></figcaption></figure></div>
 
 **Q: what does this mean in english?**
 
@@ -38,8 +34,7 @@ Login to LeadBoxer, select 'Leadscore' from the drop-down, and:
 3. **Add focus industries** (optional)
 4. Click **Save**.
 
-\
-
+<br>
 
 ## Increase leadscore when key urls are visited
 
@@ -73,8 +68,7 @@ You can also add up to 5 different urls to your leadscore settings, assigning a 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5832e349903360645bfa69a8/file-mRjCbQdODx.gif)
 
 That's it. Now  [login](https://product.leadboxer.com/) into your account and try it yourself.\
-\
-
+<br>
 
 
 
@@ -84,7 +78,6 @@ This short video piece will tell you how to adjust your leadscore, and explain w
 
 {% embed url="https://youtu.be/lCvjw11_mMA" %}
 
-\
-
+<br>
 
 ##
