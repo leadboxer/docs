@@ -36,6 +36,7 @@
   * [Goals & Targets](fundamentals/elements/goals-and-targets.md)
   * [LeadBoxer Credits](fundamentals/elements/leadboxer-credits.md)
 * [Definitions & Glossary](fundamentals/definitions-and-glossary.md)
+* [LeadBoxer Pricing Explained](fundamentals/leadboxer-pricing-explained.md)
 
 ## 🧩 Integrations
 
@@ -122,6 +123,11 @@
   * [Single Sign On (SSO)](integrations/other/single-sign-on-sso.md)
   * [make.com](integrations/other/make.com.md)
   * [n8n](integrations/other/n8n.md)
+
+## Developers & API
+
+* [LeadBoxer Platform](developers-and-api/leadboxer-platform.md)
+* [Developer Portal](developers-and-api/developer-portal.md)
 
 ## 🦮 Guides
 
