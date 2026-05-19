@@ -11,7 +11,7 @@ Additionally, if you build the form-fields to match the [placeholder names](../.
 ### Instructions
 
 1. Log into your LeadBoxer account as an Admin
-2.  Go to your datasets menu / overview \[[https://app.leadboxer.com/datasets\]](https://app.leadboxer.com/datasets]) and click the gear icon for the dataset you want to enable it for
+2.  Go to your datasets menu / overview \[[https://app.leadboxer.com/datasets](https://app.leadboxer.com/datasets)] and click the gear icon for the dataset you want to enable it for
 
     <div align="left"><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c8a2d590428633d2cf39550/dataset-gear-wheel.png" alt=""></div>
 3. Select settings: this should show a modal in where you can enable or disable the auto form tracking feature
