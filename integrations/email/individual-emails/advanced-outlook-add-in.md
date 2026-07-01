@@ -33,16 +33,17 @@ This should install the advanced add-in. You can use the instructions from the o
 3.
 4. Select Office Add-in for App type
 5. Click on Provide Link to manifest file radio button
-6.  paste URL: [**https://subscription.leadboxer.com/LeadboxerOutlookWebPlugin.xml**](https://subscription.leadboxer.com/LeadboxerOutlookWebPlugin.xml) and click Validate
+6. paste URL: [**https://subscription.leadboxer.com/LeadboxerOutlookWebPlugin.xml**](https://subscription.leadboxer.com/LeadboxerOutlookWebPlugin.xml) and click Validate
+7.  Please note: in some cases the option to validate with URL is not available. If this is the case - **right click the .xml file above, save it to your computer, and select the option to 'Upload manifest file' below.**<br>
 
     <figure><img src="../../../.gitbook/assets/Integrated_apps_-_Microsoft_365_admin_center (1).png" alt=""><figcaption></figcaption></figure>
-7. make sure Test deployment is set to No
-8.  Assign users according to your preferences. We recommend Specific users/groups.
+8. make sure Test deployment is set to No
+9.  Assign users according to your preferences. We recommend Specific users/groups.
 
     <figure><img src="../../../.gitbook/assets/Integrated_apps_-_Microsoft_365_admin_center (2).png" alt=""><figcaption></figcaption></figure>
 
 
-9. Accept permissions requests
-10. Review and finish deployment
+10. Accept permissions requests
+11. Review and finish deployment
 
 This should deploy and enable the Advanced version of the Add-in for the selected users and automatically track all the emails they send.
