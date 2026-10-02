@@ -129,7 +129,7 @@ phone number:
 ```
 {% endcode %}
 
-Here is this [Example](http://api.leadboxer.com/api/examples/forms/index-script.html)
+Here is this [Example](https://api.leadboxer.com/api/examples/forms/index-script.html)
 
 ## Full control
 

@@ -27,6 +27,6 @@ To load the LeadBoxer Pixel on a specific part of your site you need to create a
 
 ### Third party video Tutorial
 
-Still need help? [Contact Us](/broken/pages/j2m6Q4rVN9MnmsPJ3TVX) [Contact Us](/broken/pages/j2m6Q4rVN9MnmsPJ3TVX)
+Still need help? [Contact us](mailto:hello@leadboxer.com)
 
 Last updated on May 31, 2018

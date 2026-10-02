@@ -53,6 +53,6 @@ Sharpspring offers many optional merge variables you can use and also 'send' to 
 
 [https://help.sharpspring.com/hc/en-us/articles/360022397891-Available-SharpSpring-Merge-Variables#h\_969312646111536941342618](https://help.sharpspring.com/hc/en-us/articles/360022397891-Available-SharpSpring-Merge-Variables#h_969312646111536941342618)
 
-Still need help? [Contact Us](/broken/pages/bQDbBEpS6SdD6724BwwJ) [Contact Us](/broken/pages/bQDbBEpS6SdD6724BwwJ)
+Still need help? [Contact us](mailto:hello@leadboxer.com)
 
 Last updated on June 10, 2021
