@@ -12,7 +12,7 @@ Credits are used to measure usage across the platform.
 
 Typical examples:
 
-* Company identification → fixed number of credits
+* Visitor (IP) identification → fixed number of credits
 * Data enrichment (company/contact) → higher credit usage
 * AI summaries & insights → higher credit usage
 * Tracking & behavioral signals → low or no credit usage depending on type
@@ -98,9 +98,9 @@ Once your usage becomes consistent, a subscription becomes more cost-effective.
 | 25k – 100k    | €0.0025          |
 | 100k – 250k   | €0.0020          |
 | 250k – 1M     | €0.0015          |
-| 1M – 3M       | €0.0012          |
-| 3M – 10M      | €0.0009          |
-| 10M+          | €0.0007          |
+| 1M – 3M       | €0.0010          |
+| 3M – 10M      | €0.0007          |
+| 10M+          | Talk to sales    |
 
 👉 PAYG is ideal for low or unpredictable usage.
 
@@ -122,11 +122,13 @@ You can view a detailed breakdown of your usage in your dashboard.
 
 | Action                                | Credits |
 | ------------------------------------- | ------- |
-| Company identification                | 20      |
+| Visitor (IP) identification           | 20      |
 | Company enrichment                    | 10      |
-| Contact enrichment                    | 25      |
-| AI summary / insights                 | 50      |
-| Event tracking (eg pageview or click) | 1       |
+| Contact enrichment                    | 50      |
+| Persona match lookup                  | 10      |
+| Persona email lookup                  | 25      |
+| Account summary (AI)                  | 100     |
+| Visitor pageview (event)              | 1       |
 | Email Open Tracking                   | FREE    |
 | Email clickthrough Tracking           | FREE    |
 | Form submit                           | FREE    |
@@ -137,7 +139,7 @@ You can view a detailed breakdown of your usage in your dashboard.
 
 ## Cost examples
 
-### Company identification (20 credits)
+### Visitor (IP) identification (20 credits)
 
 | Plan                | Cost per identification |
 | ------------------- | ----------------------- |
@@ -229,7 +231,7 @@ This ensures there are no unexpected charges.
 
 If you are on an existing subscription plan:
 
-* your current plan remains active until September 1st (2026)
+* your current plan remains active
 * you can continue using your current features and pricing
 * new features (such as enrichment and AI capabilities) are available through the new pricing model
 
