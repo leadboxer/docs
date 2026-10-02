@@ -60,6 +60,16 @@ A Leadscore is method to calculate the interest or value of lead by setting weig
 
 The end result is a number from 0-100 where higher means better.
 
+### ICP (Ideal Customer Profile)
+
+An ICP, or Ideal Customer Profile, describes the type of company that is the best fit for your product: for example its industry, company size and country. When you define an ICP in LeadBoxer, accounts that match it are tagged automatically, so you can filter, segment and prioritize them.
+
+You can define your ICPs under [Goals & Targets](elements/goals-and-targets.md), or let the free [ICP Generator](https://app.leadboxer.com/icp-generator) create one for you.
+
+### Persona
+
+A Persona describes the type of person you want to reach within your ideal customers, for example by job title, seniority or country. LeadBoxer uses your personas to find and tag the matching people at an account. See [Goals & Targets](elements/goals-and-targets.md).
+
 ### **s. e. = single event (visit)**
 
 A “single event” visit is defined when a lead or visitor views a single page of your site, and no second event was registered.

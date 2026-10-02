@@ -40,10 +40,13 @@ On the Free plan you can add a credit card to continue on pay-as-you-go once you
 
 ### How to Track and Use Credits
 
-You can:
+Open **Credit Overview** from the profile menu (top right). It shows:
 
-* View your current credit balance and usage in the Settings or Account Overview
-* Upgrade your plan anytime to increase your included credits and lower your price per credit
+* your current credit balance and how much of your monthly credits you have used
+* which actions used your credits
+* your credit usage over time, for a date range you choose
+
+You can upgrade your plan anytime on the [Billing](../billing-and-subscription.md) page to increase your included credits and lower your price per credit.
 
 ***
 
