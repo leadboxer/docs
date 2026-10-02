@@ -1,37 +1,39 @@
 # LeadBoxer Credits
 
-LeadBoxer Credits are used to access premium data enrichment features within the platform,  specifically, Persona Lookups and Email address Lookups.
+LeadBoxer uses credits to measure usage across the platform. Every action, such as identifying a visitor's company, enriching data or generating an account summary, uses a fixed number of credits. Email open, click and form submit tracking are free.
 
-These credits ensure flexible and fair usage across all plans, so you only pay for the data you need.
+For prices per credit, pay-as-you-go rates and cost examples, see [LeadBoxer Pricing Explained](../leadboxer-pricing-explained.md).
 
 ***
 
-### What Can Credits Be Used For?
+### What Do Actions Cost?
 
-<table><thead><tr><th width="198.94317626953125">Action</th><th>Description</th></tr></thead><tbody><tr><td>Persona Lookup</td><td>Reveal job titles, names, and seniority levels of individuals at matched companies.</td></tr><tr><td>Email Lookup</td><td>Request verified email addresses for specific personas.</td></tr></tbody></table>
-
-{% hint style="success" %}
-#### Each lookup action consumes 1 credit.
-{% endhint %}
+| Action                      | Credits |
+| --------------------------- | ------- |
+| Visitor (IP) identification | 20      |
+| Company enrichment          | 10      |
+| Contact enrichment          | 50      |
+| Persona match lookup        | 10      |
+| Persona email lookup        | 25      |
+| Account summary (AI)        | 100     |
+| Visitor pageview (event)    | 1       |
+| Email open tracking         | Free    |
+| Email clickthrough tracking | Free    |
+| Form submit tracking        | Free    |
 
 ***
 
 ### How Many Credits Do I Get?
 
-| Plan       | Monthly Credits |
-| ---------- | --------------- |
-| Free       | 25              |
-| Starter    | 250             |
-| Basic      | 500             |
-| Advanced   | 1,000           |
-| Enterprise | 2,500           |
-
-{% hint style="warning" %}
-Credits reset monthly and do not roll over to the next billing cycle.
-{% endhint %}
+| Plan    | Credits / month | Credit validity | Persona email reveals |
+| ------- | --------------- | --------------- | --------------------- |
+| Free    | 25,000          | 1 month         | 25                    |
+| Starter | 100,000         | 2 months        | 250                   |
+| Growth  | 250,000         | 3 months        | 500                   |
+| Scale   | 1,000,000       | 6 months        | 1,000                 |
 
 {% hint style="info" %}
-Legacy customers will receive 500 credits per month. please contact us if you would like to discuss.
+On the Free plan you can add a credit card to continue on pay-as-you-go once your 25,000 free credits are used.
 {% endhint %}
 
 ***
@@ -41,7 +43,7 @@ Legacy customers will receive 500 credits per month. please contact us if you wo
 You can:
 
 * View your current credit balance and usage in the Settings or Account Overview
-* Upgrade your plan anytime to increase your credit allowance
+* Upgrade your plan anytime to increase your included credits and lower your price per credit
 
 ***
 
@@ -49,16 +51,12 @@ You can:
 
 #### Do credits expire?
 
-Yes. Credits reset at the beginning of each billing cycle.
+Yes. Unused credits expire after the validity period of your plan (see the table above).
 
+#### Can I use more credits than my plan includes?
 
+Yes. On a paid plan, extra usage is billed automatically as overage, at a lower rate than pay-as-you-go. See [Overage pricing](../leadboxer-pricing-explained.md#overage-pricing).
 
-#### Can I buy additional credits?
+#### What happens if I run out of credits on the Free plan?
 
-Not yet — but we are working on offering top-up packs. Contact support if you have urgent needs.
-
-
-
-#### What happens if I run out of credits?
-
-You will be notified and prompted to upgrade or wait until your next billing cycle begins.
+Data processing pauses until your credits reset, or until you upgrade to a plan or add a card for pay-as-you-go.
