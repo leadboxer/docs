@@ -45,5 +45,3 @@ You can now find these leads easily by setting a URL filter on your Confirmation
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5fc274364cedfd00165b4b97/file-fP060YlZn6.png)
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on April 13, 2021

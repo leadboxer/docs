@@ -51,5 +51,3 @@ If you use Leadboxer for different datasets and wish to connect each of them to 
 If you are using [Salesforce](connect-leadboxer-to-salesforce-with-zapier.md), [Pipedrive](connect-leadboxer-to-pipedrive-with-zapier.md), or [Slack](connect-leadboxer-to-slack-with-zapier.md)
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)&#x20;
-
-Last updated on July 6, 2022

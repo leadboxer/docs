@@ -63,5 +63,3 @@ That's it, now send the email and all Recipient activity will start showing in y
 Happy tracking!
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on December 1, 2020

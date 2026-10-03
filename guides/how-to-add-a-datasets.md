@@ -5,7 +5,7 @@
 ### Add extra datasets&#x20;
 
 Add extra datasets to your LeadBoxer account at no extra charge.\
-In other words, add as many datasets ays need to your account for the same low price.&#x20;
+In other words, add as many datasets as you need to your account for the same low price.&#x20;
 
 1. **Login** and go to your profile dropdown, you should see a menu-item called Datasets, this is where you can add one or more datasets. &#x20;
 2. **Set permissions**\

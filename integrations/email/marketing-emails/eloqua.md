@@ -22,5 +22,3 @@ https://www.leadboxer.com&email=<span class=eloquaemail>EmailAddress</span>
 ```
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on January 5, 2020

@@ -66,5 +66,3 @@ alert(pageviews);
 ```
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on May 28, 2019

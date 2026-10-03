@@ -38,11 +38,11 @@ Login to LeadBoxer, select 'Leadscore' from the drop-down, and:
 
 ## Increase leadscore when key urls are visited
 
-You can already  [change your leadscore](../fundamentals/elements/leadscore.md). Now, we're adding more leadscore functionality. With this release, you can define which urls on your website have an impact on leadscore. In other words, leads qualify themselves by showing interest in important pages; pricing or specific product pages. This feature means that when leads visit the pages you tell us are important - they receive a higher leadscore, and come to the top of the list, and to your attention.
+Besides [adjusting your leadscore settings](../fundamentals/elements/leadscore.md), you can define which urls on your website have an impact on leadscore. In other words, leads qualify themselves by showing interest in important pages; pricing or specific product pages. This feature means that when leads visit the pages you tell us are important - they receive a higher leadscore, and come to the top of the list, and to your attention.
 
 ### Why is this important?
 
-Receive 'buy signals' - leads who check key pages of your website are more likely to convert into customers. For example, If a lead checks your pricing page, he's a warmer lead than the average visitor. 'Buy signal' - behaviour signalling interest - changes from business to business and you need to pay attention to your key pages. Here are a few examples that we hope can help you generate more leads and close even more deals.
+Receive 'buy signals' - leads who check key pages of your website are more likely to convert into customers. For example, If a lead checks your pricing page, they're a warmer lead than the average visitor. 'Buy signal' - behaviour signalling interest - changes from business to business and you need to pay attention to your key pages. Here are a few examples that we hope can help you generate more leads and close even more deals.
 
 #### How to assign a single url
 

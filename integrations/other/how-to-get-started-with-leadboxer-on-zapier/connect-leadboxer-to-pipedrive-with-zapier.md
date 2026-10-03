@@ -27,5 +27,3 @@ For instance, you can enable that only leads with a known company name get proce
 Simply test the Zap by clicking Create & Continue. Congratulations! You have a working Zap, all you have to do now is turn it on!
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on June 8, 2016

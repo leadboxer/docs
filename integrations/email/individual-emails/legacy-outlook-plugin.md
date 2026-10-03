@@ -50,5 +50,3 @@ Including full behaviour of all email open and clicks
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5c6afd022c7d3a66e32e97f6/file-xgw18SGSWN.png)
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on May 18, 2021

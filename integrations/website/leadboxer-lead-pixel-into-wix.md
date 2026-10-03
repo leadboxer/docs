@@ -23,5 +23,3 @@ https://support.wix.com/en/article/about-tracking-tools-analytics
 5. Click Apply.&#x20;
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on March 25, 2019

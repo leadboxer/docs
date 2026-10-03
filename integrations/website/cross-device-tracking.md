@@ -58,5 +58,3 @@ If you send out a newsletter / campaign or individual email that includes a link
 You expose the email address inside the URL of the landing page. Even though this is not an security risk (as this data is transferred through secure https connections) it does show the user you are actively tracking their behaviour.
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on January 23, 2019

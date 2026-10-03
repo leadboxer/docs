@@ -49,5 +49,3 @@ Another option is to use the automatic identification using the default paramete
 * NOTE: some email systems will then display a message saying something like: Malicious emails can use shortened links, etc.  In other words, recipients will have to click 'Proceed'.
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on September 9, 2020

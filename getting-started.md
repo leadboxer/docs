@@ -22,7 +22,7 @@ If you do not use any of the above solutions, simply paste your pixel code into 
 
 You can find your tracking code / lead-pixel on your welcome screen or in the dataset overview.
 
-You can also send your lead pixel to your developer or the agency responsible for your site from within your dashboard.
+You can also send your lead pixel to your developer or the agency responsible for your site from the Integrations page, using **Send Instructions**.
 
 ***
 
@@ -205,7 +205,7 @@ Pipedrive is a sales driven CRM and Lead management tool designed to help sales 
 
 #### - Other CRM's
 
-For other CRM vendors you can use [Zapier App](integrations/other/how-to-get-started-with-leadboxer-on-zapier/) or our [API](https://docs.leadboxer.com/collection/109-api) to roll your own
+For other CRM vendors you can use [Zapier App](integrations/other/how-to-get-started-with-leadboxer-on-zapier/) or our [API](developers-and-api/developer-portal.md) to roll your own
 
 ***
 

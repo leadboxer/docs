@@ -39,5 +39,3 @@ For more details see these pages:
 [https://support.prospect.io/hc/en-us/articles/115009483748-Template-Variables](https://support.prospect.io/hc/en-us/articles/115009483748-Template-Variables)
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on March 7, 2019
