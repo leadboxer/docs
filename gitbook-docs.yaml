@@ -1,0 +1,18 @@
+# GitBook Site Git Sync configuration for the "LeadBoxer docs" site (help.leadboxer.com).
+# Schema: GitSyncSiteConfig, https://api.gitbook.com/gitbook-docs.yaml
+#
+# The repository root is a single GitBook book: one SUMMARY.md (the navigation) and
+# README.md (the home page), with the topic folders (fundamentals, integrations, guides, ...)
+# all linked from that one SUMMARY.md. It therefore maps onto one space. The space keeps the
+# path of the current "Public docs" variant (/leadboxer) so existing URLs keep working.
+version: 1
+site:
+  title: LeadBoxer docs
+  structure:
+    - type: space
+      key: space-public-docs
+      title: Public docs
+      path: leadboxer
+      default: true
+      content:
+        directory: ./
