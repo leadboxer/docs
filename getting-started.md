@@ -165,7 +165,7 @@ A good practice is to create Segments for your key accounts, or geographical sal
 
 Getting the right data to the right people within your organisation is mission-critical. Therefore we recommend adding colleagues and managers. With LeadBoxer you can add users and set individual access permissions.
 
-See a tutorial [here](https://docs.leadboxer.com/article/70-how-to-add-a-user-to-your-account)
+See a tutorial [here](guides/how-to-add-a-user.md)
 
 You can add a users in your [users overview](guides/how-to-add-a-user.md)
 

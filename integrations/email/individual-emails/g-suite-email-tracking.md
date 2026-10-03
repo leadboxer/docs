@@ -1,6 +1,6 @@
 # G Suite email tracking
 
-We offer a gmail add-in to [track emails sent from gmail](https://docs.leadboxer.com/article/119-email-tracking-with-gmail-in-leadboxer)
+We offer a gmail add-in to [track emails sent from gmail](gmail-email-tracking.md)
 
 Prefer to use the G Suite version of our email tracking solution? Then install our [G Suite email tracking app](https://gsuite.google.com/marketplace/app/leadboxer/916928181495)
 

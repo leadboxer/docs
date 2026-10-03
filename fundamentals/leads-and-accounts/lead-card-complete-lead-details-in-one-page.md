@@ -22,7 +22,7 @@ On your leadboard, Click on any lead. Then
 A lead card link needs a couple of parameters before it can be rendered:
 
 * userId: This is leadboxer used ID and is necessary to calculate the lead score based on the setting of this user ID
-* leadId: The userId of the visitor (this can be retrieved from the cookie, see the [lead tags document](https://docs.leadboxer.com/article/96-lead-tags) for an example to get this ID)
+* leadId: The userId of the visitor (this can be retrieved from the cookie, see the [lead tags document](../elements/lead-tags.md) for an example to get this ID)
 * site: the dataset ID
 * timezone (optional)
 

@@ -71,6 +71,6 @@ Save your newsletter, and test the links by clicking on them in the preview, you
 
 We also auto-capture campaign data tags, aka UTM tags.
 
-[Read more on how we auto capture UTM tags](https://docs.leadboxer.com/article/10-tracking-utm-tags)
+[Read more on how we auto capture UTM tags](../../website/tracking-marketing-campaign-data-utm-tags.md)
 
 If an url has the following parameter in the URL of a landingspage: **utm\_medium=email** we will reder a the event in our interface as an 'email click', &#x20;

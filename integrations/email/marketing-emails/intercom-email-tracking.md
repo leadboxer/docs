@@ -46,7 +46,7 @@ Next, you will need to add the LeadBoxer email tracking pixel so that we can als
 
 First, see this page on how to generate the email tracking pixel and copy this code
 
-[https://docs.leadboxer.com/article/114-tracking-newsletter-email-opens-or-reads](https://docs.leadboxer.com/article/114-tracking-newsletter-email-opens-or-reads)
+[Track email opens](track-email-opens.md)
 
 From there on LeadBoxer will take over and add the data to the lead. Obviously the LeadBoxer pixel needs to be installed on the pages they land on.&#x20;
 

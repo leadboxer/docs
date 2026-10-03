@@ -1,6 +1,6 @@
 # Connect Leadboxer to Pipedrive with Zapier
 
-This guide continues where  [Getting started with LeadBoxer on Zapier](https://docs.leadboxer.com/article/75-how-to-get-started-with-leadboxer-on-zapier) left off.
+This guide continues where  [Getting started with LeadBoxer on Zapier](README.md) left off.
 
 Choose Pipedrive as the tool you want to be triggered by Leadboxer.
 

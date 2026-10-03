@@ -15,7 +15,7 @@ We offer 2 Outlook email tracking plugin for our customers, below you can see th
 | **Installation**     | Individual                                                                                  | Individual / group deploy                                                                                                                                      |
 | **Users**            | Unlimited                                                                                   | Limited per account                                                                                                                                            |
 | **Requirements**     | Admin permissions to Outlook                                                                | Microsoft Work or School account (for billing)                                                                                                                 |
-| **Source**           | [Direct download](https://product.leadboxer.com/outlook/LeadBoxer-Outlook-Setup1.3.msi.zip) | [Installation manual](https://docs.leadboxer.com/article/148-outlook-365-outlook-for-mac-outlook-in-browser)                                                   |
+| **Source**           | [Direct download](https://product.leadboxer.com/outlook/LeadBoxer-Outlook-Setup1.3.msi.zip) | [Installation manual](official-outlook-add-in.md)                                                   |
 
 **1. LeadBoxer Outlook plugin**
 

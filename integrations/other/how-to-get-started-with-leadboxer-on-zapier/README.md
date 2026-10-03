@@ -48,7 +48,7 @@ If you use Leadboxer for different datasets and wish to connect each of them to 
 
 ![](https://lh4.googleusercontent.com/0KCywBdDQe7B3Bn-NtMCP2K0xQqeCi746AbRhpIm4XLY05uYu7JtLic2tbqSJebZGeCwJvZBhEpEIabaWQnLRuX3opFMOZDF2bX82Ur-R2yq7bzS1DZl-Pts7RmN-KU5Y7rlXIEI)
 
-If you are using [Salesforce](https://docs.leadboxer.com/article/77-connect-leadboxer-to-salesforce-with-zapier), [Pipedrive](https://docs.leadboxer.com/article/80-connect-leadboxer-to-pipedrive-with-zapier), or [Slack](https://docs.leadboxer.com/article/79-connect-leadboxer-to-slack-with-zapier)
+If you are using [Salesforce](connect-leadboxer-to-salesforce-with-zapier.md), [Pipedrive](connect-leadboxer-to-pipedrive-with-zapier.md), or [Slack](connect-leadboxer-to-slack-with-zapier.md)
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)&#x20;
 

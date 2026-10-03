@@ -2,7 +2,7 @@
 
 In order to update Leads in LeadBoxer with data from other tools you can use the Zapier web-hooks feature.&#x20;
 
-For reference, check out the technical documentation on how-to [Submit data to LeadBoxer by URL](https://docs.leadboxer.com/article/105-http-tracking-api)
+For reference, check out the technical documentation on how-to [Submit data to LeadBoxer by URL](../../../developers-and-api/developer-portal.md)
 
 Step One: setup your trigger with Zapier
 

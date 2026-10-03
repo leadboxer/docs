@@ -105,7 +105,7 @@ In order for us to start tracking the links in your emails, you need to enable t
 Compose an email as you would normally, and make sure you add a recipient and the email title (subject).\
 Now, before you send the email, you need to activate the LeadBoxer tracking for each individual email by clicking the three dots icon and selecting the **Track this e-mail** option from the LeadBoxer menu item.
 
-> [Note: The advanced Add-in version has the option to auto-enable tracking for each email. See details here.](https://docs.leadboxer.com/article/172-advanced-outlook-add-in)
+> [Note: The advanced Add-in version has the option to auto-enable tracking for each email. See details here.](advanced-outlook-add-in.md)
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60a3cf11dca0fd46b93565e0/file-FTNFMWeval.png)
 
