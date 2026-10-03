@@ -1,4 +1,4 @@
-# download data
+# Download data
 
 ### Manually downloading data
 

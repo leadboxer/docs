@@ -1,4 +1,4 @@
-# track my WordPress user logins?
+# Track WordPress user logins
 
 How to track user logins on my WordPress website
 

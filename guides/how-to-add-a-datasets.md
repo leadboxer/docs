@@ -1,4 +1,4 @@
-# How to add a datasets
+# How to add a dataset
 
 ## How to add a dataset (website) to your account
 

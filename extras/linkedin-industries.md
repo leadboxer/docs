@@ -1,4 +1,4 @@
-# linkedIn industries
+# LinkedIn industries
 
 This is the complete list of Industries and Industry groups as we use them in LeadBoxer.
 
