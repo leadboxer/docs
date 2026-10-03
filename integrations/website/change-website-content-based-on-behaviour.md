@@ -65,6 +65,6 @@ alert(pageviews);
 </script>
 ```
 
-Still need help? [Contact Us](/broken/pages/Vf2PtjMefp2wy2gHl0mx)
+Still need help? [Contact us](mailto:hello@leadboxer.com)
 
 Last updated on May 28, 2019

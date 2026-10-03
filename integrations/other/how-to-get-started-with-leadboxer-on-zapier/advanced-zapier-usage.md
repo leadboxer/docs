@@ -26,13 +26,24 @@ Here are the detailes for each step:
 
 <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60253e07661b720174a6c2c9/file-B54B8lEhn9.png" alt=""><figcaption></figcaption></figure>
 
-5\. This is the most complex step, as it creates an API call to LeadBoxer and sets the 'assignee'. First you need to add the Webhooks by Zapier app and select the GET Action event
+5\. This is the most complex step, as it creates an API call to LeadBoxer and sets the 'assignee'. Add the **Webhooks by Zapier** app and select the **Custom Request** action event.
 
-<figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60253e9c8502d1120e90679a/file-QWAa0lak9S.png" alt=""><figcaption></figcaption></figure>
+Then configure the webhook to call the [Assign Leads](https://developers.leadboxer.com/reference) call of the LeadBoxer API:
 
-Then you configure the webhook like this: the API URL is [https://kibana.leadboxer.com/api/management/assignLeads.jsp](https://kibana.leadboxer.com/api/management/assignLeads.jsp)
+* **Method:** `PUT`
+* **URL:** `https://api.leadboxer.com/v1/management/assign-leads`
+* **Data** (JSON):
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/60253f0b24d2d21e45ed5683/file-C5CDPZveUD.png)
+  ```json
+  {
+    "leadId": "<the lead ID from the LeadBoxer trigger>",
+    "datasetId": "<your dataset ID>",
+    "assignee": <the LeadBoxer user ID to assign the lead to>
+  }
+  ```
+* **Headers:** `x-api-key` with your LeadBoxer API key, and `Content-Type` with `application/json`
+
+You find your API key in LeadBoxer under [Integrations → API key](https://app.leadboxer.com/integrations-connectors/data/api-key).
 
 Thats it
 

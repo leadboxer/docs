@@ -211,4 +211,4 @@ For other CRM vendors you can use [Zapier App](integrations/other/how-to-get-sta
 
 #### Dashboarding
 
-[Whatagraph Integration](/broken/pages/QRZWrJ1ay1eBSzXtR81f)
+[Whatagraph Integration](integrations/other/whatagraph.md)

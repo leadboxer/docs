@@ -36,6 +36,6 @@ If the above steps are not clear enough then please follow the tutorial video fr
 4. paste the API key into the field for each site/dataset you want to enrich and enable the checkbox
 5. Save, and you are done!
 
-Still need help? [Contact Us](/broken/pages/FBBBViyjAQlpbtum348H) [Contact Us](/broken/pages/FBBBViyjAQlpbtum348H)
+Still need help? [Contact us](mailto:hello@leadboxer.com)
 
 Last updated on November 6, 2020

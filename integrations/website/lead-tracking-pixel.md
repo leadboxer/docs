@@ -114,7 +114,7 @@ function downloadlink(file) {
 
 #### Working example
 
-A working example can be found here:  [http://api.leadboxer.com/api/examples/log/index.html](http://api.leadboxer.com/api/examples/log/index.html)
+A working example can be found here:  [https://api.leadboxer.com/api/examples/log/index.html](https://api.leadboxer.com/api/examples/log/index.html)
 
 ###
 
@@ -189,7 +189,7 @@ Add a tag for email campaign
 
 #### Working example
 
-A working example can be found here:  [http://api.leadboxer.com/api/examples/log/index.html](http://api.leadboxer.com/api/examples/log/index.html)
+A working example can be found here:  [https://api.leadboxer.com/api/examples/log/index.html](https://api.leadboxer.com/api/examples/log/index.html)
 
 ##
 

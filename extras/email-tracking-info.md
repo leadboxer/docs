@@ -46,6 +46,6 @@ ANSWERS:
    In other words: name your images descriptively - not \[title].png - but something based on content:\
    "chart of climate change impact - depicting planetary damage" -people would be more likely to load image(s). Result: the tracking pixel will also load.
 
-Still need help? [Contact Us](/broken/pages/8hLTwa62fObLCu3VObUS) [Contact Us](/broken/pages/8hLTwa62fObLCu3VObUS)
+Still need help? [Contact us](mailto:hello@leadboxer.com)
 
 Last updated on August 28, 2019

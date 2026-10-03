@@ -14,6 +14,7 @@
   * [Batch operations](fundamentals/leads-and-accounts/batch-operations.md)
 * [LeadBoard](fundamentals/tasks.md)
 * [Reports](fundamentals/reports.md)
+* [Account Summaries (AI)](fundamentals/account-summaries.md)
 * [Elements](fundamentals/elements/README.md)
   * [Filters](fundamentals/elements/filters.md)
   * [Segments](fundamentals/elements/segments.md)
@@ -37,6 +38,7 @@
   * [LeadBoxer Credits](fundamentals/elements/leadboxer-credits.md)
 * [Definitions & Glossary](fundamentals/definitions-and-glossary.md)
 * [LeadBoxer Pricing Explained](fundamentals/leadboxer-pricing-explained.md)
+* [Billing & Subscription](fundamentals/billing-and-subscription.md)
 
 ## 🧩 Integrations
 
@@ -126,8 +128,9 @@
 
 ## Developers & API
 
+* [Developers & API](developers-and-api/developer-portal.md)
+* [MCP Server for AI Assistants](developers-and-api/mcp-server.md)
 * [LeadBoxer Platform](developers-and-api/leadboxer-platform.md)
-* [Developer Portal](developers-and-api/developer-portal.md)
 
 ## 🦮 Guides
 

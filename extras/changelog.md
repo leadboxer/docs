@@ -6,6 +6,139 @@ description: >-
 
 # Changelog
 
+SEPTEMBER 2026
+
+## LeadBoxer in Claude and other AI assistants (MCP)
+
+You can now use LeadBoxer directly in Claude, Claude Code, Cursor and other AI assistants that support MCP. Ask "Who is behind this IP address?" or "Enrich acme.com" and the assistant looks it up with your LeadBoxer account and credits.
+
+Read more: [MCP server for AI assistants](../developers-and-api/mcp-server.md)
+
+***
+
+JULY 2026
+
+## AI account summaries
+
+Generate a short AI summary of how an account's contacts and visitors interact with your website: who visited, what they looked at and what it suggests. Generate one per account, or summarize all your top accounts at once from Reports.
+
+Read more: [Account summaries](../fundamentals/account-summaries.md)
+
+## Credit overview
+
+A new Credit Overview page (in the profile menu, top right) shows your credit balance, what used your credits and your usage over time.
+
+***
+
+JUNE 2026
+
+## Contact enrichment and contact table
+
+* A new contacts table lists the known contacts linked to an account.
+* Contact enrichment adds professional details such as job title and LinkedIn profile to your leads.
+* The Leadscore chart has been improved, and the lead list now supports custom date ranges.
+
+***
+
+MAY 2026
+
+## Partial form tracking
+
+LeadBoxer can now capture form fields that a visitor fills in, even when they never press submit. Turn it on per dataset in the dataset settings, next to form tracking.
+
+Read more: [Automatic form tracking](../integrations/website/automatic-form-tracking.md#partial-form-tracking)
+
+## Richer persona profiles
+
+Persona profiles now show more professional details, such as work experience, skills and a short summary.
+
+***
+
+APRIL 2026
+
+## New credit-based pricing
+
+LeadBoxer moved to credit-based pricing: every plan includes monthly credits, and each action (such as identifying a visitor's company or enriching a contact) uses a fixed number of credits. The Billing page was updated with the new plans.
+
+Read more: [LeadBoxer Pricing Explained](../fundamentals/leadboxer-pricing-explained.md) and [LeadBoxer Credits](../fundamentals/elements/leadboxer-credits.md)
+
+***
+
+JANUARY 2026
+
+## Better company identification
+
+We improved how we match IP addresses to companies, with a new IP-to-domain mapping and a scoring model that prefers the most reliable match. You'll see more identified companies and fewer wrong matches.
+
+***
+
+DECEMBER 2025
+
+## LeadBoxer API v1 and Developer Portal
+
+The new LeadBoxer API (v1) lets you read leads, sessions and events, manage tags, segments and datasets, and look up IP addresses and domains, authenticated with your API key. Documentation, guides and an API reference are on the [Developer Portal](https://developers.leadboxer.com/).
+
+Read more: [Developers & API](../developers-and-api/developer-portal.md)
+
+## New lead and account drawers
+
+The lead and account detail panels were redesigned, and company logos are now shown throughout the app. Resetting your password also got a new, simpler flow.
+
+***
+
+NOVEMBER 2025
+
+## New LeadBoard drawer
+
+Opening a card on a LeadBoard now shows the lead's details in a new side panel, so you can work through your board without leaving it.
+
+***
+
+OCTOBER 2025
+
+## Free ICP Generator
+
+Describe your business and the [ICP Generator](https://app.leadboxer.com/icp-generator) creates an Ideal Customer Profile and personas for you, ready to use in LeadBoxer.
+
+***
+
+JULY 2025
+
+## Download reports as PDF
+
+Reports can now be downloaded as a PDF to share with your team or clients.
+
+***
+
+MAY / JUNE 2025
+
+## Inboxer
+
+Inboxer is the new default view of LeadBoxer. It shows the companies engaging with you as cards, so you can spot and act on high-intent accounts quickly.
+
+Read more: [Inboxer](../fundamentals/inboxer.md)
+
+## Persona profiles and email lookup
+
+See the people behind an account with persona profiles, and look up their business email address (uses credits).
+
+## Also new
+
+* Your API key is now available on the Integrations page.
+* Mark segments as favourites. Quick filters are now called prebuilt segments.
+
+***
+
+APRIL / MAY 2025
+
+## ICPs & Personas
+
+Define your Ideal Customer Profile (ICP) and personas, and LeadBoxer automatically tags matching accounts and leads. Use these tags in filters, segments and LeadBoards.
+
+Read more: [Goals & Targets](../fundamentals/elements/goals-and-targets.md) and [Definitions & Glossary](../fundamentals/definitions-and-glossary.md#icp-ideal-customer-profile)
+
+***
+
 APRIL 2025
 
 ## Improved Login & Signup Flow&#x20;
@@ -93,7 +226,7 @@ It is also now available as a stand-alone product, in case you are interested.
 
 We have completely redesigned the Integrations section and added many new integration options.
 
-See the [intergrations](/broken/pages/uxbRrQ8cHbePqdcBbHV1) section for more details.
+See the [Integrations](../integrations/website/README.md) section for more details.
 
 ### Small updates & improvements:
 

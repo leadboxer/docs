@@ -33,7 +33,7 @@ Using tags is simple, and involves just 2 steps:
 
 ## Automatically tag leads
 
-There are 2 options, using **Workflow Automation** or using **javascript**&#x20;
+There are 2 options, using **Workflow Automation** or using the **LeadBoxer API**&#x20;
 
 ### 1. Workflow Automation
 
@@ -44,43 +44,70 @@ Use the **Add lead tag** action to automatically create or add a tag to lead bas
 See the Complete [Workflow Automation](workflow-automation.md) docs for more details.\
 <br>
 
-### 2. Javascript
+### 2. API
 
-In order to automatically tag leads or visitors, use the Update Lead Tag API call. Use this API call to set new Lead Tags from your website, for example when customers login.
+To tag leads automatically from your own systems, for example when a customer logs in to your site, use the [Update Lead Tags](https://developers.leadboxer.com/reference) call of the LeadBoxer API.
 
-In other words - LeadBoxer monitors all traffic on your site - identifies companies and leads. By using this functionality - you can automate the process of filtering out your existing client database - by effectively excluding (tagging) everybody who logs in.
+In other words: LeadBoxer monitors all traffic on your site and identifies companies and leads. By tagging everybody who logs in as a customer, you can filter your existing clients out of your lead views.
 
-**Javascript Example**<br>
+{% hint style="warning" %}
+The API needs your LeadBoxer API key. Never put the API key in your website's JavaScript, where every visitor can read it. Call the API from your server (backend) instead.
+{% endhint %}
 
-In below example we take the LeadBoxer user ID from the LeadBoxer cookie and use it to send a signal to our servers with the Lead Tag: customer
+**How it works**
+
+1. In your website, read the visitor's LeadBoxer ID with `ot_uid()` (available once the LeadBoxer pixel has loaded) and send it to your own server, for example with the login request.
+2. On your server, call the LeadBoxer API with your API key to set the tags.
+
+**Website (browser)**
 
 {% code overflow="wrap" %}
 ```javascript
 <script defer src="//script.leadboxer.com/?dataset=yourDatasetId"></script>
 <script type="text/javascript">
+setTimeout(function () {   // small delay so the pixel has created the visitor and cookie
+    var leadId = ot_uid(); // LeadBoxer ID of the current visitor
 
-setTimeout(function(){   // we add a small delay to make sure the visitor and cookie are created before we use it
-		
-   var leadTag = "customer"		// define the lead tag
-   var userId = ot_uid();	        // define userID
-		
-   // Construct API call to add lead tag to the visitor
-   var url = "https://kibana.leadboxer.com/api/management/update_lead_tags?action=add&userId=" + userId + "&leadTags=" + leadTag;
-  
-   // send the data to the LeadBoxer API
-   fetch(url,{mode: 'no-cors'});			
-				
-   // optional logging		
-   console.log("Added customer tag to userId: " + userId);
-	
- }, 3000); // end of timeout function			
+    // send the LeadBoxer ID to your own backend, which calls the LeadBoxer API
+    fetch("/api/tag-customer", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ leadId: leadId })
+    });
+}, 3000);
 </script>
+```
+{% endcode %}
+
+**Your server (Node.js example)**
+
+{% code overflow="wrap" %}
+```javascript
+// PUT /v1/management/lead-tags replaces all tags of the lead with the list you send.
+// To add a tag and keep the existing ones, include the existing tags in the list.
+async function tagCustomer(leadId) {
+    await fetch("https://api.leadboxer.com/v1/management/lead-tags", {
+        method: "PUT",
+        headers: {
+            "x-api-key": process.env.LEADBOXER_API_KEY,
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            datasetId: "yourDatasetId",
+            leadId: leadId,
+            leadTags: "customer"          // comma-separated, e.g. "customer,key account"
+        })
+    });
+}
 ```
 {% endcode %}
 
 #### **Add, remove & overwrite tags**
 
-You can use these parameters to add or remove specific tags:  _**\&action=add**_ or _**\&action=remove**_
+The call sets the complete list of tags for the lead:
 
-**NOTE:**\
-If you do not provide one of these parameters, then the request will overwrite all existing tags that are already present.
+* **Add** a tag: send the existing tags plus the new one. You can read a lead's current tags with [Retrieve Lead Details](https://developers.leadboxer.com/reference) (`GET /v1/leads/{leadId}`).
+* **Remove** a tag: send the existing tags without it.
+* **Remove all** tags: send an empty `leadTags` value.
+
+See the [Developer Portal](https://developers.leadboxer.com/) for authentication, rate limits and the full API reference.
