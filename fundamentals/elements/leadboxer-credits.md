@@ -2,7 +2,7 @@
 
 LeadBoxer uses credits to measure usage. Every action, such as identifying a visitor's company, enriching data or generating an account summary, uses a fixed number of credits. Email open, click and form submit tracking are free.
 
-For prices per credit, pay-as-you-go rates and cost examples, see [LeadBoxer Pricing Explained](../leadboxer-pricing-explained.md).
+Prices are on the [LeadBoxer pricing page](https://www.leadboxer.com/pricing). For how credits, overage and pay-as-you-go work, see [LeadBoxer Pricing Explained](../leadboxer-pricing-explained.md).
 
 ***
 
