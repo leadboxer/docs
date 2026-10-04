@@ -25,12 +25,12 @@ Prices are on the [LeadBoxer pricing page](https://www.leadboxer.com/pricing). F
 
 ### How Many Credits Do I Get?
 
-| Plan    | Credits / month | Credit validity | Persona email reveals |
-| ------- | --------------- | --------------- | --------------------- |
-| Free    | 25,000          | 1 month         | 25                    |
-| Starter | 100,000         | 2 months        | 250                   |
-| Growth  | 250,000         | 3 months        | 500                   |
-| Scale   | 1,000,000       | 6 months        | 1,000                 |
+| Plan    | Credits / month | Credit validity |
+| ------- | --------------- | --------------- |
+| Free    | 25,000          | 1 month         |
+| Starter | 100,000         | 2 months        |
+| Growth  | 250,000         | 3 months        |
+| Scale   | 1,000,000       | 6 months        |
 
 {% hint style="info" %}
 On the Free plan you can add a credit card to continue on pay-as-you-go once your 25,000 free credits are used.
