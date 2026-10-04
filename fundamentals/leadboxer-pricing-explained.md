@@ -1,124 +1,42 @@
 # LeadBoxer Pricing Explained
 
-LeadBoxer uses a credit-based pricing model. This means you pay based on how much you use the platform, rather than just which features you have access to.
+LeadBoxer uses credits. You pay for what you use, not for which features you have access to: every action, such as identifying a visitor's company or enriching a contact, uses a fixed number of credits.
 
-Each action in the platform consumes credits, allowing pricing to scale with your actual usage.
-
-***
-
-## How credits work
-
-Credits are used to measure usage across the platform.
-
-Typical examples:
-
-* Visitor (IP) identification → fixed number of credits
-* Data enrichment (company/contact) → higher credit usage
-* AI summaries & insights → higher credit usage
-* Tracking & behavioral signals → low or no credit usage depending on type
-
-Each action has a predefined cost in credits, so you always know how usage translates into spend.
+{% hint style="info" %}
+**Current prices** for both pricing models are on the [LeadBoxer pricing page](https://www.leadboxer.com/pricing). This page explains how credits and billing work.
+{% endhint %}
 
 ***
 
-## Plans and included credits
+## Two ways to pay
 
-Each plan includes a fixed number of credits per month:
+LeadBoxer has two pricing models, which use the same credits:
 
-* Free / PAYG → free credits + pay-as-you-go
-* Starter → predictable usage for smaller teams
-* Growth → higher volume + better pricing
-* Scale → high-volume and embedded use cases
+* **Platform (pay-as-you-go).** For using the LeadBoxer Platform through the API. No monthly fee and **25,000 credits free every month**. Beyond that you add a credit card and pay per credit; the price per credit drops as your usage in the billing period grows.
+* **App plans (Starter, Growth, Scale).** A monthly subscription to LeadBoxer App with a set number of credits included each month, a lower price per credit, more users and longer data retention on each plan. App plans are cheaper when billed annually, and you can start with a 14-day free trial.
 
-Higher plans:
-
-* include more credits
-* reduce cost per credit
-* unlock additional features and limits
-
-| Plan        | Monthly price | Credits / month | Price per credit | Overage price |
-| ----------- | ------------- | --------------- | ---------------- | ------------- |
-| Free / PAYG | €0            | 25,000          | PAYG rates       | PAYG rates    |
-| Starter     | €99–149       | 100,000         | €0.0010          | €0.0018       |
-| Growth      | €199–249      | 250,000         | €0.0008          | €0.0012       |
-| Scale       | €399–449      | 1,000,000       | €0.0004          | €0.0007       |
-
-👉 Subscriptions always provide the lowest cost per credit.
-
-👉 PAYG is the most flexible but also more expensive.
+The **Free** App plan uses the same 25,000 free monthly credits as the Platform.
 
 ***
 
-### Price per credit
+## Overage pricing
 
-The cost per credit decreases as you scale:
+On an App plan, usage above your included credits doesn't stop your account. It is billed automatically as overage:
 
-* Subscriptions offer the lowest cost per credit
-* Overage sits in between
-* Pay-as-you-go has the highest cost per credit
+* cheaper than pay-as-you-go at the same volume
+* slightly more than your plan's own price per credit
 
-This ensures:
-
-* flexibility at low usage
-* efficiency at scale
+If your usage is consistently above your plan, upgrading lowers your cost.
 
 ***
 
-### Overage pricing
+## Pay-as-you-go (PAYG)
 
-Overage is designed to keep you running without forcing an immediate upgrade.
-
-* cheaper than pay-as-you-go
-* slightly more expensive than your plan rate
-* billed automatically
-
-If your usage is consistently above your plan, upgrading will reduce your cost.
-
-| Plan    | Overage price |
-| ------- | ------------- |
-| Starter | €0.0018       |
-| Growth  | €0.0012       |
-| Scale   | €0.0007       |
+Pay-as-you-go needs no subscription and no commitment, which makes it the most flexible option and the best fit for low or unpredictable usage. It also has the highest price per credit, so once your usage is steady an App plan usually costs less.
 
 ***
 
-## Pay-as-you-go (PAYG) pricing
-
-PAYG allows you to use LeadBoxer without a subscription.
-
-* no commitment
-* higher cost per credit
-* ideal for low or unpredictable usage
-
-Once your usage becomes consistent, a subscription becomes more cost-effective.
-
-| Monthly usage | Price per credit |
-| ------------- | ---------------- |
-| 0 – 25k       | Free             |
-| 25k – 100k    | €0.0025          |
-| 100k – 250k   | €0.0020          |
-| 250k – 1M     | €0.0015          |
-| 1M – 3M       | €0.0010          |
-| 3M – 10M      | €0.0007          |
-| 10M+          | Talk to sales    |
-
-👉 PAYG is ideal for low or unpredictable usage.
-
-👉 Subscriptions become cheaper once usage is consistent.
-
-***
-
-## How usage is calculated
-
-Usage is calculated based on actions performed in your account.
-
-Each action consumes a fixed number of credits. For example:
-
-* Identifying a company → fixed credit cost
-* Enriching a contact → higher credit cost
-* Running AI analysis → higher credit cost
-
-You can view a detailed breakdown of your usage in your dashboard.
+## Credit cost per action
 
 | Action                                | Credits |
 | ------------------------------------- | ------- |
@@ -129,38 +47,17 @@ You can view a detailed breakdown of your usage in your dashboard.
 | Persona email lookup                  | 25      |
 | Account summary (AI)                  | 100     |
 | Visitor pageview (event)              | 1       |
-| Email Open Tracking                   | FREE    |
-| Email clickthrough Tracking           | FREE    |
-| Form submit                           | FREE    |
+| Email open tracking                   | Free    |
+| Email clickthrough tracking           | Free    |
+| Form submit tracking                  | Free    |
 
-👉 Exact credit usage depends on your traffic and audience
-
-***
-
-## Cost examples
-
-### Visitor (IP) identification (20 credits)
-
-| Plan                | Cost per identification |
-| ------------------- | ----------------------- |
-| Starter             | \~€0.02                 |
-| Growth              | \~€0.016                |
-| Scale               | \~€0.008                |
-| PAYG (25–100k tier) | €0.05                   |
-
-👉 This clearly shows the value of subscriptions.
+How many credits you use depends on your traffic and audience. For API users, [developers.leadboxer.com](https://developers.leadboxer.com) lists the cost per endpoint, including when a repeated lookup is not charged again.
 
 ***
 
 ## Credit validity
 
-Credits are valid for a limited period depending on your plan.
-
-* Free plan → shortest validity
-* Paid plans → extended validity
-* Higher tiers → longer validity
-
-Unused credits expire after their validity period.
+Credits are valid for a limited period depending on your plan. Unused credits expire after this period.
 
 | Plan        | Credit validity |
 | ----------- | --------------- |
@@ -169,39 +66,33 @@ Unused credits expire after their validity period.
 | Growth      | 3 months        |
 | Scale       | 6 months        |
 
-* Credits expire after this period
-* Higher plans offer more flexibility
-
 ***
 
 ## What happens when you run out of credits
 
-#### Paid plans
+#### App plans
 
-If you exceed your included credits:
-
-* additional usage is billed automatically as overage
-* your service continues without interruption
+Extra usage is billed automatically as overage, and your service continues without interruption.
 
 #### Free plan
 
-If you reach your limit:
+When your 25,000 free credits are used:
 
 * data processing pauses
-* resumes when credits reset
-* or immediately after upgrading to a plan or PAYG
+* it resumes when your credits reset at the start of the next billing cycle
+* or straight away if you upgrade to an App plan or add a credit card for pay-as-you-go
+
+The App notifies you as you approach your limit.
 
 ***
 
 ## When should you upgrade?
 
-You should consider upgrading when:
+Consider upgrading when:
 
 * your usage becomes predictable
 * you consistently exceed your included credits
 * overage becomes a significant part of your bill
-
-
 
 Upgrading lowers your cost per credit and increases your included usage.
 
@@ -209,13 +100,9 @@ Upgrading lowers your cost per credit and increases your included usage.
 
 ## Managing your usage
 
-You can manage your usage and costs by:
-
-* monitoring usage in real time
-* receiving notifications when approaching limits
-* upgrading when usage becomes predictable
-
-This ensures there are no unexpected charges.
+* See your balance and which actions used credits in [Credit Overview](elements/leadboxer-credits.md#how-to-track-and-use-credits)
+* Get notified when you approach your limit
+* Change your plan on the [Billing](billing-and-subscription.md) page
 
 ***
 
@@ -229,24 +116,10 @@ This ensures there are no unexpected charges.
 
 ## Transition for existing customers
 
-If you are on an existing subscription plan:
+If you are on an older subscription plan:
 
 * your current plan remains active
-* you can continue using your current features and pricing
-* new features (such as enrichment and AI capabilities) are available through the new pricing model
+* you can keep your current features and pricing
+* new features (such as enrichment and AI) are available through the credit-based model
 
-We will support you in transitioning to the new model when you’re ready.
-
-***
-
-## Why this model
-
-This pricing model allows us to:
-
-* align pricing with actual usage
-* support both small teams and high-scale products
-* offer flexibility without limiting growth
-
-You only pay more when you get more value.
-
-***
+We will help you move to the new model when you're ready.

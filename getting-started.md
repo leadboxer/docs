@@ -52,7 +52,7 @@ Top integrations/ tutorials:
 
 **For all other email / marketing automation providers**
 
-To track email clicks and combine this information with visitor website behaviour, the links in your emails need to be customized with ‘merge tags’ ( [documentation](integrations/email/marketing-emails/track-email-clicks.md)).&#x20;
+To track email clicks and combine this information with visitor website behaviour, the links in your emails need to be customised with ‘merge tags’ ( [documentation](integrations/email/marketing-emails/track-email-clicks.md)).&#x20;
 
 To measure email opens, a pixel specific to email tracking needs to be implemented. [Documentation can be found here.](integrations/email/marketing-emails/track-email-opens.md)
 
@@ -91,7 +91,7 @@ More information can be found here: [All about UTM tags](integrations/website/tr
 
 ### Track additional customer touch-points
 
-In order to take full advantage of our platform, we highly recommend that you implement our identification & enrichment methods on as many touch-points as possible. Touch-points are all the places where your leads or customers digitally interact with your company and provide (personal) information:
+In order to take full advantage of LeadBoxer, we highly recommend that you implement our identification & enrichment methods on as many touch-points as possible. Touch-points are all the places where your leads or customers digitally interact with your company and provide (personal) information:
 
 \- Contact forms
 
@@ -127,7 +127,7 @@ We will try to enrich your leads with as much firmographic information as we pos
 If you have other data that you would like to combine or collect, we have an open API that can be used to accomplish this:&#x20;
 
 * [Enriching customer profile data ](fundamentals/elements/enrichment.md)
-* [Tracking custom behavioral touchpoints (events)](integrations/website/lead-tracking-pixel.md#what-are-events)
+* [Tracking custom behavioural touchpoints (events)](integrations/website/lead-tracking-pixel.md#what-are-events)
 
 ***
 
@@ -175,7 +175,7 @@ You can add a users in your [users overview](guides/how-to-add-a-user.md)
 
 Some organisations have more than one website, LeadBoxer allows you to add multiple sites to your account, for example a specific product, region, language or event.
 
-For a detailed tutorial to add a site see [here](guides/how-to-add-a-datasets.md)
+For a detailed tutorial to add a site see [here](guides/how-to-add-a-dataset.md)
 
 Simply add them to your account in the [dataset overview](https://app.leadboxer.com/datasets) and you will receive a unique lead pixel to install on these domains.
 

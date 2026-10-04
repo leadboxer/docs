@@ -12,7 +12,7 @@ description: >-
 ### A definition of Lead Qualification.
 
 In our last post we introduced Lead Hacking.\
-We outlined Step One:  [Lead identification](https://www.leadboxer.com/blog/lead-hacking-definition/).
+We outlined Step One:  [Lead identification](https://www.leadboxer.com/blog/definition-lead-hacking).
 
 In this post we will discuss:
 

@@ -11,7 +11,7 @@ description: >-
 
 When running a small or large team of sales reps, agents or account executives, it is important to get the right insights to the right people at the right time. LeadBoxer allows you to set individual or group permissions on specific lead data, accounts, regions, etc.&#x20;
 
-For example, automatically route leads to the correct salesperson according to the organization’s territory mapping.
+For example, automatically route leads to the correct salesperson according to the organisation’s territory mapping.
 
 Save time and valuable resources from manually assigning and routing leads, to a fully automated workflow.
 
@@ -30,3 +30,7 @@ Prevent to pollute your CRM with unqualified or incomplete leads.
 LeadBoxer is designed to work with many different sources of data, has built-in features to enrich company (or personal) data, allows you to qualify prospects based on behaviour and profile data, and includes powerful filters and intuitive scoring algorithms to create segments.
 
 The results can then be synchronised or exported towards many destinations using existing integrations or via a custom built solution.
+
+***
+
+See also [Lead management on leadboxer.com](https://www.leadboxer.com/app/lead-management) and the [LeadBoard](../fundamentals/leadboard.md).

@@ -3,7 +3,7 @@
 ### What is a dataset?&#x20;
 
 A dataset is anything that you want to measure. In the past we referred to datasets as sites, but the definition has changed to include a broader definition. \
-Now, a dataset can be a  single page, subset of pages, campaign landing page, sub-domain, app. etc. Think Internet of Things, or 'types of behavior'.&#x20;
+Now, a dataset can be a  single page, subset of pages, campaign landing page, sub-domain, app. etc. Think Internet of Things, or 'types of behaviour'.&#x20;
 
 ### Where can i find my Dataset ID or tracking pixel?
 

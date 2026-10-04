@@ -56,9 +56,9 @@ You can now use LeadBoxer to create these lists. See this tutorial / documentati
 
 This is still the default way for most companies to get leads from online campaigns: You advertise or promote some content to get targeted traffic on a landing page that is geared towards visitors filling out a form. This is your Call-to-Action.&#x20;
 
-This is relatively easy to set up and can work really well if you have a good working landing page that is optimized for conversion. &#x20;
+This is relatively easy to set up and can work really well if you have a good working landing page that is optimised for conversion. &#x20;
 
-IMPORTANT (to avoid disappointment): Paid LinkedIn traffic is relatively expensive so this page needs to be highly optimized so that valuable info (e.g. a white paper) is available after leaving an email address through a (tracked) form.&#x20;
+IMPORTANT (to avoid disappointment): Paid LinkedIn traffic is relatively expensive so this page needs to be highly optimised so that valuable info (e.g. a white paper) is available after leaving an email address through a (tracked) form.&#x20;
 
 The Call-to-Action needs to 1) be clear and 2) the page needs a proven conversion-rate. (eg test with less expensive traffic first).
 
@@ -96,7 +96,7 @@ This may sound complicated or burdensome for the lead, but the benefit of this s
 
 * You have their (real) contact details
 * You have the lead identified on your site and inside LeadBoxer.&#x20;
-* When they return to the site later down the road, they will be automatically recognized by LeadBoxer and you can get notified when they become qualified.
+* When they return to the site later down the road, they will be automatically recognised by LeadBoxer and you can get notified when they become qualified.
 * Last but not least, the lead will now be in your marketing automation platform and you can start nurturing them.
 
 ***

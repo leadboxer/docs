@@ -12,7 +12,7 @@ For instance, you can create a channel in which all new leads are shown with the
 
 ![](https://lh3.googleusercontent.com/QcRJydIij3h72Wl80Ddprf0ceJyJdW4qoMAQObm6ubIZbJna1niMVX285w7-JEf8mlLWKEh3eMjz7FB8BlSQTPRCaSSVjvmO-7tr7aYQCMH28reQqYQsqc1zR8DcEbT9GosjxLr4)
 
-Click ‘Connect a new account’ and authorize Zapier
+Click ‘Connect a new account’ and authorise Zapier
 
 ![](https://lh3.googleusercontent.com/f2WygAwKzLvgEOUwvalqcJ8ockcnwxHi5A8MRp8f4WYBHXr2XYNb-O6_q7ALv6RxBIIoIbiAOmwpuS2knnuHoPXKCzahOm1-0NhDn12q68RmNMqQuC1GXkl1MKSVYXt7xihNLHnL)
 

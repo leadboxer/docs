@@ -1,12 +1,10 @@
 # LeadBoxer Platform
 
-LeadBoxer Platform is the engine behind the LeadBoxer app, offered for SaaS builders and product teams who want to embed website and email tracking and enrichment in their own product.
+The **LeadBoxer Platform** is the data and API layer behind LeadBoxer App: website and email tracking, IP-to-company identification, company and contact enrichment, and ICP fit, available to embed in your own product, white-label or connect to your CRM and AI agents.
 
-With the platform you can:
+* What it is and how it works: [leadboxer.com/platform](https://www.leadboxer.com/platform)
+* Use cases (embed in your SaaS, OEM / white label, CRM enrichment, AI agents, agencies): [leadboxer.com/solutions](https://www.leadboxer.com/solutions)
+* Documentation and API reference: [developers.leadboxer.com](https://developers.leadboxer.com)
+* Get an API key: [leadboxer.com/developers](https://www.leadboxer.com/developers)
 
-* Track website visits, form submissions, and email opens and clicks with the same pixel and script the app uses.
-* Identify companies by IP and enrich companies and contacts (firmographics, personas, ICP fit).
-* Get the raw or processed, scored data out through the [public API](developer-portal.md) and show it in your own product, workflows or AI agents.
-* Use your own brand and custom domains (white label). Data is hosted in the EU.
-
-Read more on the [Platform product page](https://www.leadboxer.com/platform), or [contact us](mailto:hello@leadboxer.com) to discuss your use case.
+Questions about embedding or reselling? [Book a call](https://www.leadboxer.com/demo) or email [hello@leadboxer.com](mailto:hello@leadboxer.com).

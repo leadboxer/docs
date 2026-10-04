@@ -58,7 +58,7 @@ That's it! Once finished we will start updating every hour, on the hour.
 #### The data flow / logic
 
 * Every hour we will check for a specific [segment](../../fundamentals/elements/segments.md) - if there are any new leads or contacts and /or activity.
-* When we find new data, we will create or update existing contacts and linked accounts (organizations)
+* When we find new data, we will create or update existing contacts and linked accounts (organisations)
 * Both Contacts and Accounts will be enriched with pre-defined fields, if they have a value present in LeadBoxer
 * For contacts, a 'LeadBoxer Events' widget will be added, which will include the events or pageviews measured by LeadBoxer
 * A new tag will be created and added to each Lead or Account that is created or updated by the integration

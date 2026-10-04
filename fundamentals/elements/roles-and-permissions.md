@@ -1,19 +1,19 @@
 # Roles & Permissions
 
-In LeadBoxer, we have implemented a robust roles and permissions system to help you manage user access and control within your organization. This guide will provide an overview of the four fixed roles available - Owner, Admin, Super User, and User - as well as instructions on creating custom roles and customizing permissions.
+In LeadBoxer, we have implemented a robust roles and permissions system to help you manage user access and control within your organisation. This guide will provide an overview of the four fixed roles available - Owner, Admin, Super User, and User - as well as instructions on creating custom roles and customising permissions.
 
 ## Fixed Roles:&#x20;
 
 ### Owner:
 
-* The Owner role is the highest level of access and has full control over the entire organization's settings, data, and user management.
-* Only one user can be assigned the Owner role, and this user is typically the individual who initially created the organization's account.
-* The Owner can add, modify, or remove users, assign roles, customize permissions, and manage billing information.
+* The Owner role is the highest level of access and has full control over the entire organisation's settings, data, and user management.
+* Only one user can be assigned the Owner role, and this user is typically the individual who initially created the organisation's account.
+* The Owner can add, modify, or remove users, assign roles, customise permissions, and manage billing information.
 
 ### Admin:
 
-* The Admin role is designed for users who require significant control and management capabilities within the organization.
-* Admins can add, modify, or remove users, assign roles, customize permissions, and access most settings.
+* The Admin role is designed for users who require significant control and management capabilities within the organisation.
+* Admins can add, modify, or remove users, assign roles, customise permissions, and access most settings.
 * However, they do not have the same level of access as the Owner and cannot modify billing information.
 
 ### Super User:
@@ -30,10 +30,10 @@ In LeadBoxer, we have implemented a robust roles and permissions system to help 
 
 ## Custom Roles and Permissions:
 
-* In addition to the fixed roles, LeadBoxer allows you to create custom roles and tailor permissions according to your organization's specific needs.
+* In addition to the fixed roles, LeadBoxer allows you to create custom roles and tailor permissions according to your organisation's specific needs.
 * To create a custom role, navigate to the "Roles & Permissions" section in the application's settings.
 * Click on "Add New Role" and provide a name and description for the role.
-* After creating the custom role, you can customize the permissions by enabling or disabling specific actions or access rights.
+* After creating the custom role, you can customise the permissions by enabling or disabling specific actions or access rights.
 * You can assign the custom role to individual users from the Users overview page as needed.
 
 <figure><img src="../../.gitbook/assets/LeadBoxer_App (18).png" alt=""><figcaption></figcaption></figure>
@@ -46,5 +46,5 @@ In LeadBoxer, we have implemented a robust roles and permissions system to help 
 * Make sure to review and update permissions regularly to ensure users have the appropriate level of access based on their responsibilities.
 
 {% hint style="info" %}
-Effectively managing roles and permissions in LeadBoxer allows you to maintain control, security, and productivity within your organization. By utilizing fixed roles and customizing permissions, you can tailor user access to match specific job requirements. If you have any further questions or require assistance, please don't hesitate to contact our support team.
+Effectively managing roles and permissions in LeadBoxer allows you to maintain control, security, and productivity within your organisation. By utilising fixed roles and customising permissions, you can tailor user access to match specific job requirements. If you have any further questions or require assistance, please don't hesitate to contact our support team.
 {% endhint %}

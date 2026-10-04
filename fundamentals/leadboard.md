@@ -69,29 +69,29 @@ You can click on any LeadBoard Cards to see all the details of the account and a
 
 ### Associated Leads
 
-Once you opened a LeadBoard Card and see the Account or Card details, you can scroll down and see all the identified contacts and unidentified website visitors from this organization:
+Once you opened a LeadBoard Card and see the Account or Card details, you can scroll down and see all the identified contacts and unidentified website visitors from this organisation:
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you want to know more about the LeadBoard card Account details and ossociated leads, see [the section below](tasks.md#account-card-details)
+If you want to know more about the LeadBoard card Account details and ossociated leads, see [the section below](leadboard.md#account-card-details)
 {% endhint %}
 
 ### Lead Tags
 
-Each Card can contain [Lead Tags](tasks.md#lead-tags). Because tags are set on the individual Lead level, we will show all the Lead Tags for all the individual Leads from one organization on that card.
+Each Card can contain [Lead Tags](leadboard.md#lead-tags). Because tags are set on the individual Lead level, we will show all the Lead Tags for all the individual Leads from one organisation on that card.
 
 ### Ownership
 
 LeadBoard Cards can have an owner. Once an owner has been set, the icon of the owner will appear in the header bar. you can click on one or multiple owners to see their cards.
 
 {% hint style="info" %}
-For more details on LeadCards you can [see below](tasks.md#leadboard-cards)
+For more details on LeadCards you can [see below](leadboard.md#leadboard-cards)
 {% endhint %}
 
 ### Search
 
-You can search for a specific card by using the search feature. It will search through the organization name and domain name fields.
+You can search for a specific card by using the search feature. It will search through the organisation name and domain name fields.
 
 ### Sorting
 
@@ -120,7 +120,7 @@ Many visitors to our site sign up for a trial account, which is great. However, 
 * We have setup a Board called 'Trials' and auto import the leads from the 'Trials-to-qualify' Segment so they auto appear in the first column.
 * Every morning, one of us has a look at this LeadBoard and checks out the new trials.
 * In our case, we have a few steps in between, before we consider them qualified and will put some sales effort in.
-* To see if a lead is qualified to go to the next step, we analyze the data collected, which we can see by clicking on an individual LeadCard and see all the details of the organisation, and all the behaviour of this individual lead.
+* To see if a lead is qualified to go to the next step, we analyse the data collected, which we can see by clicking on an individual LeadCard and see all the details of the organisation, and all the behaviour of this individual lead.
 * Now based on their behaviour, eg trial activation, number of logins, users added, industry, size, etc these leads can go through a couple of qualification stages we have defined internally.&#x20;
 * Once we move a lead card in the final stage, they will automatically go into a second Segment called 'Qualified Trials"&#x20;
 * This Segment is connected to our CRM (Pipedrive) and will push these qualified leads to our CRM so that our Sales team can do their magic.
@@ -133,14 +133,14 @@ If you have setup and configured your LeadBoard, your LeadBoard cards will appea
 
 <figure><img src="../.gitbook/assets/LeadBoard_card.png" alt=""><figcaption></figcaption></figure>
 
-* Each cards represents an Account or Organization.&#x20;
-* Cards are uniquely grouped based on a domain-name and/or Organization Name.
+* Each cards represents an Account or Organisation.&#x20;
+* Cards are uniquely grouped based on a domain-name and/or Organisation Name.
 * Cards are updated in the background.&#x20;
 * Cards contain:
   * Company Logo
-  * Organization Domain or Name
+  * Organisation Domain or Name
   * The number of Contacts (Leads with email known)
-  * The number of Visitors (Anonymous Website visitors from this organization)
+  * The number of Visitors (Anonymous Website visitors from this organisation)
   * All the different Tags that are applied to these leads
   * The number of occurrences of each tag
   * The last activity date-time of any of the leads in this account
@@ -154,7 +154,7 @@ If you have setup and configured your LeadBoard, your LeadBoard cards will appea
 
 ## Account card details
 
-The Account details section on the Account Pannel shows the (enriched) company or organization information that is available based on the domain-name of the organisation.
+The Account details section on the Account Pannel shows the (enriched) company or organisation information that is available based on the domain-name of the organisation.
 
 ### Leads
 

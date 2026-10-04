@@ -1,8 +1,8 @@
 # LeadBoxer Credits
 
-LeadBoxer uses credits to measure usage across the platform. Every action, such as identifying a visitor's company, enriching data or generating an account summary, uses a fixed number of credits. Email open, click and form submit tracking are free.
+LeadBoxer uses credits to measure usage. Every action, such as identifying a visitor's company, enriching data or generating an account summary, uses a fixed number of credits. Email open, click and form submit tracking are free.
 
-For prices per credit, pay-as-you-go rates and cost examples, see [LeadBoxer Pricing Explained](../leadboxer-pricing-explained.md).
+Prices are on the [LeadBoxer pricing page](https://www.leadboxer.com/pricing). For how credits, overage and pay-as-you-go work, see [LeadBoxer Pricing Explained](../leadboxer-pricing-explained.md).
 
 ***
 
@@ -25,12 +25,12 @@ For prices per credit, pay-as-you-go rates and cost examples, see [LeadBoxer Pri
 
 ### How Many Credits Do I Get?
 
-| Plan    | Credits / month | Credit validity | Persona email reveals |
-| ------- | --------------- | --------------- | --------------------- |
-| Free    | 25,000          | 1 month         | 25                    |
-| Starter | 100,000         | 2 months        | 250                   |
-| Growth  | 250,000         | 3 months        | 500                   |
-| Scale   | 1,000,000       | 6 months        | 1,000                 |
+| Plan    | Credits / month | Credit validity |
+| ------- | --------------- | --------------- |
+| Free    | 25,000          | 1 month         |
+| Starter | 100,000         | 2 months        |
+| Growth  | 250,000         | 3 months        |
+| Scale   | 1,000,000       | 6 months        |
 
 {% hint style="info" %}
 On the Free plan you can add a credit card to continue on pay-as-you-go once your 25,000 free credits are used.

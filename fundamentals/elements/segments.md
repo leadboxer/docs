@@ -16,7 +16,7 @@ Segments have several functions:&#x20;
 * To save as a combination of filters for easy access from the Segment drop-down menu.
 * Share your Segments with team-members/ colleagues.
 * As a start point for notifications - see this [article on setting up (email) alerts](notifications.md).
-* As a start point for Lead Management in your [LeadBoard](../tasks.md)
+* As a start point for Lead Management in your [LeadBoard](../leadboard.md)
 
 If you would like to learn how to create your (first) segment use this tutorial:
 
@@ -38,14 +38,14 @@ Go to the bottom left corner of your screen and find the option ‘save’. This
 
 #### **Using segments**
 
-Whenever you are looking at your [Leads & Accounts](../projects.md), you can find the dropdown menu for segments below the Quick Segments list under the Filter pannel. Simply click on the Filter button  and pannel will appear where you can select the segment you or your colleagues have made.&#x20;
+Whenever you are looking at your [Leads & Accounts](../leads-and-accounts/README.md), you can find the dropdown menu for segments below the Quick Segments list under the Filter pannel. Simply click on the Filter button  and pannel will appear where you can select the segment you or your colleagues have made.&#x20;
 
 ### Quick Segments
 
 To make life easy, we have added something we call Quick Segments. It is a list of pre-defined Segments that enable you to quickly filter your data to often seen use-cases.
 
 * Persons Only: Show identified contacts (from email, forms, etc)
-* Organizations Only: Show Identified Organizations with NO identified contacts
+* Organisations Only: Show Identified Organisations with NO identified contacts
 * Paid Leads: Show leads that came in through add campaigns (channel = paid)
 * Organic Leads: Show Leads that came in organically
 * Form Submissions: Show leads that were came in through a form submission&#x20;

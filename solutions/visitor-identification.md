@@ -1,13 +1,12 @@
 ---
 description: >-
-  Lead Identification is essential for almost any business. Use smart lead
-  identification techniques to grow faster and do more meaningful sales
-  outreach.
+  Identify the companies and people behind your website visits and email
+  engagement, so you can follow up on real interest.
 ---
 
-# Lead Identification&#x20;
+# Visitor identification
 
-### Website Visitor Identification
+### Website visitor identification
 
 Identify your Website Traffic and never miss a sales opportunity again.
 
@@ -47,3 +46,7 @@ LeadBoxer has a flexible input layer, meaning we can capture data through variou
 LeadBoxer identifies both companies and individuals visiting your website. Identification of companies and organisations happens out of the box based on IP addresses, form fields, email and other touch-points.\
 \
 Identifying individuals on your website can be achieved by utilising one or multiple of our integrations that capture individual data.
+
+***
+
+See also [Visitor identification on leadboxer.com](https://www.leadboxer.com/app/visitor-identification) and [ICP \& persona matching](icp-and-persona-matching.md).

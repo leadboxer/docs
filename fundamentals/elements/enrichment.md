@@ -22,9 +22,9 @@ This happens when **you** connect or provide us with information about an indivi
 * etc
 
 {% hint style="warning" %}
-LeadBoxer is fully GDPR compliant and operates as a so called Data Processor, meaning we do not own, sell or share any of your collected data with any other party.
+LeadBoxer is GDPR by design and acts as a data processor for the data you collect. Customers' personal data is never pooled or resold. Email-tracking signals help improve IP-to-company matching.
 
-For more details see our Privacy & Security section
+For more details see the [Privacy Policy](https://www.leadboxer.com/resources/privacy) and [LeadBoxer Platform](https://www.leadboxer.com/platform) pages.
 {% endhint %}
 
 ### Third party Firmographic Enrichment
@@ -48,7 +48,7 @@ These lookups use credits. See [LeadBoxer Credits](leadboxer-credits.md) for the
 
 This is the thing that really moves the needle.
 
-By combining all data about leads, accounts, contacts from your organization, together with our enrichment and behavioural tracking gives you the power to both Identify the Leads, Qualify your leads and pass them over to sales when they are ready to buy.
+By combining all data about leads, accounts, contacts from your organisation, together with our enrichment and behavioural tracking gives you the power to both Identify the Leads, Qualify your leads and pass them over to sales when they are ready to buy.
 
 ## Common mistakes or misconceptions
 

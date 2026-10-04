@@ -16,7 +16,7 @@ In this example, the UTM tags are:
 * **utm\_medium=cpc**: This indicates the medium through which the traffic was acquired, which in this case is cost-per-click advertising.
 * **utm\_campaign=spring\_sale**: This is the name of the campaign that the traffic is associated with, in this case, a spring sale.
 
-UTM tags allow marketers to track the effectiveness of their campaigns and channels by providing data on how much traffic each campaign is driving, what sources the traffic is coming from, and what mediums are most effective for generating traffic. This information can be used to optimize campaigns and allocate resources more effectively.
+UTM tags allow marketers to track the effectiveness of their campaigns and channels by providing data on how much traffic each campaign is driving, what sources the traffic is coming from, and what mediums are most effective for generating traffic. This information can be used to optimise campaigns and allocate resources more effectively.
 
 There are actually 5 different kind of UTM tags, but these 2 are used less often and are optional:
 
@@ -25,7 +25,7 @@ There are actually 5 different kind of UTM tags, but these 2 are used less often
 
 ### UTM tags and LeadBoxer&#x20;
 
-LeadBoxer automatically captures all the UTM tag values for each session or pageview, and saves these for each Lead as both **First \*** and **Last \*** values you can find them in each Lead Profile under the Acquisition section. You can also see them in the [Leads & Accounts](../../fundamentals/projects.md) overview.
+LeadBoxer automatically captures all the UTM tag values for each session or pageview, and saves these for each Lead as both **First \*** and **Last \*** values you can find them in each Lead Profile under the Acquisition section. You can also see them in the [Leads & Accounts](../../fundamentals/leads-and-accounts/README.md) overview.
 
 {% hint style="success" %}
 We highly recommend you set up UTM tags for each of your campaigns and add them to the URLs that you use for each campaign.&#x20;

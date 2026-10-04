@@ -13,12 +13,12 @@ description: >-
 1. Log into LeadBoxer as admin and go to the List Settings page (from the left menu in the bottom )
 2. Download the .CSV sample file
 3. Open in a spreadsheet application and add your list into the sheet. There are 2 columns:
-   1. **organizationDomain**: Put the domain name of the organization in this row&#x20;
-   2. **organizationName**: put the name of the organization in this row
+   1. **organizationDomain**: Put the domain name of the organisation in this row&#x20;
+   2. **organizationName**: put the name of the organisation in this row
 4. 'Save As' and (re)name so the file so that it is clear what the list contains. (eg. Target-accounts-2023.csv)
 
 {% hint style="info" %}
-**Note**: We will use both the domain OR the name of the organization to match the identified leads or customers to your list.
+**Note**: We will use both the domain OR the name of the organisation to match the identified leads or customers to your list.
 {% endhint %}
 
 **Wildcards**
@@ -29,7 +29,7 @@ we allow for you to use wildcards in both the organizationDomain and organizatio
 
 | **apple.\*** in organizationDomain                     | Will match all domains from Apple (eg **apple**.com, **apple**.co.uk, **apple**.nl, etc)                               |
 | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| **Intel\*** in organizationName                        | Will match all organizations that Start with the word intel ( **Intel** Corp, **Intel** Germany, **Intel**ligence inc) |
+| **Intel\*** in organizationName                        | Will match all organisations that Start with the word intel ( **Intel** Corp, **Intel** Germany, **Intel**ligence inc) |
 | <p>* <strong>KLM*</strong> in organizationName<br></p> | Will match anything before and after KLM (royal **KLM**, **KLM** international, etc)                                   |
 
 **Troubleshooting**: if you get an error when uploading your .CSV, make sure there are no additional columns in your CSV file. The formatting is strict.

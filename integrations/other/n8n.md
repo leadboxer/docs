@@ -4,6 +4,8 @@ description: Connect LeadBoxer with n8n
 
 # n8n
 
+This guide shows how to pull your LeadBoxer App leads into an n8n workflow. For API-first automations, see [n8n and Make automation](https://www.leadboxer.com/integrations/automation) and the [n8n guide on the developer portal](https://developers.leadboxer.com/docs/n8n).
+
 {% hint style="info" %}
 Only need company details for a domain or IP address? Install the LeadBoxer community node instead: in n8n go to **Settings > Community Nodes**, select **Install** and enter `n8n-nodes-leadboxer`. It adds Domain Lookup and IP Address Lookup operations. The steps below pull your leads with the HTTP Request node.
 {% endhint %}
@@ -50,4 +52,4 @@ Here is an example using Slack, adding identified companies to a slack channel
 
 <figure><img src="../../.gitbook/assets/SCR-20250620-lyvo.png" alt=""><figcaption></figcaption></figure>
 
-Make sure to use the fields that start with organization\*
+Make sure to use the fields that start with organisation\*

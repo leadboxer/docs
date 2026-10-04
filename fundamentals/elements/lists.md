@@ -4,7 +4,7 @@
 
 ### Introduction: what are Lists?
 
-A List (Account List) is a list of companies or organizations that you want LeadBoxer to recognize and do something with: for example your existing clients, former clients, or a list of target accounts for Account Based Marketing (ABM). If you need to filter on a large number of accounts, Lists are what you need.
+A List (Account List) is a list of companies or organisations that you want LeadBoxer to recognise and do something with: for example your existing clients, former clients, or a list of target accounts for Account Based Marketing (ABM). If you need to filter on a large number of accounts, Lists are what you need.
 
 The LeadBoxer Lists feature allows you to:&#x20;
 

@@ -1,12 +1,20 @@
 ---
 description: >-
-  How do LeadBoxer and its components actually work.  What can you do with the
-  platform? What do we actually capture and how?
+  How do LeadBoxer and its components actually work.  What can you do with
+  LeadBoxer? What do we actually capture and how?
 ---
 
 # How does it all work?
 
-This is not an easy question to answer 1-2-3, as LeadBoxer does many things. ðŸ˜‰ So here are some of the basic concepts:
+LeadBoxer works in five stages:
+
+1. **Capture**: the tracking script and email pixel record what happens on your website and in your emails ([Behavioural tracking](how-does-it-all-work.md#behavioural-tracking)).
+2. **Identify**: IP addresses, forms, email clicks and integrations tell us which company and person is behind that activity ([Identification](how-does-it-all-work.md#identification)).
+3. **Enrich**: we add company and contact details ([Enrichment](how-does-it-all-work.md#enrichment)).
+4. **Qualify**: your leadscore, ICP and personas show which leads are worth your time ([Qualification](how-does-it-all-work.md#qualification)).
+5. **Activate**: segments, notifications, the LeadBoard, workflows and integrations get the right leads to the right people ([Lead management](how-does-it-all-work.md#lead-management)).
+
+Here are the basic concepts in more detail:
 
 * [Identification](how-does-it-all-work.md#identification)
   * [IP address](how-does-it-all-work.md#ip-address)
@@ -25,17 +33,17 @@ This is not an easy question to answer 1-2-3, as LeadBoxer does many things. ðŸ˜
 
 ## Identification
 
-At LeadBoxer, we use multiple techniques to identify both the Organizations and Individuals that interact with our clients websites, emails, marketing tools, chatbots, portals, apps or any other digital platform they are using. Here is a description of the most commonly used touchpoints:&#x20;
+At LeadBoxer, we use multiple techniques to identify both the Organisations and Individuals that interact with our clients websites, emails, marketing tools, chatbots, portals, apps or any other digital platform they are using. Here is a description of the most commonly used touchpoints:&#x20;
 
 ### IP address
 
-One of the oldest and best-known techniques to identify website visitors is by analyzing the IP addresses associated with their internet connection (also known as ip lookup). This can be used to identify companies and organizations that visit a website.&#x20;
+One of the oldest and best-known techniques to identify website visitors is by analysing the IP addresses associated with their internet connection (also known as ip lookup). This can be used to identify companies and organisations that visit a website.&#x20;
 
-Every device that connects to the internet is assigned an IP (Internet Protocol) address; a unique numerical identifier that allows devices to communicate with each other over the internet. IP addresses can be used to determine the approximate geographic location of a device and can also be associated with specific organizations.
+Every device that connects to the internet is assigned an IP (Internet Protocol) address; a unique numerical identifier that allows devices to communicate with each other over the internet. IP addresses can be used to determine the approximate geographic location of a device and can also be associated with specific organisations.
 
-To identify the companies behind IP addresses, we use a combination of advanced techniques to map IP addresses to specific companies or organizations. We've been building our proprietary identification technology for close to twenty years.
+To identify the companies behind IP addresses, we use a combination of advanced techniques to map IP addresses to specific companies or organisations. We've been building our proprietary identification technology for close to twenty years.
 
-It's important to note that while IP-based company identification can be a useful tool for businesses and marketers, it is not always accurate. IP addresses can be shared, sold, hired or masked, and not all organizations have a unique IP address associated with their internet traffic. Additionally, some businesses may use virtual private networks (VPNs) or proxy servers to obfuscate their IP address and maintain their privacy.&#x20;
+It's important to note that while IP-based company identification can be a useful tool for businesses and marketers, it is not always accurate. IP addresses can be shared, sold, hired or masked, and not all organisations have a unique IP address associated with their internet traffic. Additionally, some businesses may use virtual private networks (VPNs) or proxy servers to obfuscate their IP address and maintain their privacy.&#x20;
 
 At LeadBoxer, we are constantly updating our technology and databases and keep track of changes and (technical) updates to make sure we always provide you with the 'most likely' outcome of who is actually behind an IP address at that moment.&#x20;
 
@@ -45,7 +53,7 @@ Another well-known technique is [Form tracking](integrations/website/manual-form
 
 You can do this for any form, for example a newsletter signup, a lead-magnet or white-paper download, etc. but also chatbots, 'wizards', price calculators, etc.
 
-Once the person or organization is identified, this will stored and for retroactive (previous) and future identification when activity takes place. Subsequent sessions will be connected to this person and organization (if relevant).
+Once the person or organisation is identified, this will stored and for retroactive (previous) and future identification when activity takes place. Subsequent sessions will be connected to this person and organisation (if relevant).
 
 ### Integrations
 
@@ -53,7 +61,7 @@ By using any of the [integrations we support](how-does-it-all-work.md#integratio
 
 ## Behavioural Tracking
 
-LeadBoxer makes (among other techniques) use of website tracking pixels, also known as a tracking script, tag, code or a web beacon. [Our tracking script](integrations/website/lead-tracking-pixel.md) is a small, highly optimized, load-balanced snippet of javascript that -at its core- fires a small, invisible image file with a width and height of 1x1 pixel (hence the name tracking pixel) that is then embedded into a website or an email. The purpose of the tracking pixel is to track user behavior and collect data about how users interact with website or email.
+LeadBoxer makes (among other techniques) use of website tracking pixels, also known as a tracking script, tag, code or a web beacon. [Our tracking script](integrations/website/lead-tracking-pixel.md) is a small, highly optimised, load-balanced snippet of javascript that -at its core- fires a small, invisible image file with a width and height of 1x1 pixel (hence the name tracking pixel) that is then embedded into a website or an email. The purpose of the tracking pixel is to track user behaviour and collect data about how users interact with website or email.
 
 ### Website
 
@@ -65,7 +73,7 @@ Here's how it works in more detail:
 2. When a visitor loads a page on the website, the LeadBoxer JavaScript code creates an Image object, sets the source of the image to the URL of our tracking server, and appends the image to the document.
 3. The browser then makes a request to our tracking server to load the image. This request includes the URL and title of the page in the referrer header.
 4. Our tracking server receives the request and logs the URL and title of the page along with other data such as the user's IP address and browser information, utm tags, etc.
-5. The tracking servers pass on this data to our processing servers, which in return try to **Identify** the organization and/or person and **enrich** the data before it gets stored in our secure and private cloud.&#x20;
+5. The tracking servers pass on this data to our processing servers, which in return try to **Identify** the organisation and/or person and **enrich** the data before it gets stored in our secure and private cloud.&#x20;
 
 **Cookies**\
 Perhaps needless to say; our tracking javascript does a lot more just load the tracking pixel image. We also set and read first-party browser cookies, so we can identify the browser when there are multiple requests or pageviews, and string these together into a session and recognise the browser upon return. We do not store any personally identifiable information (PII) in our first-party cookies. Additional details can be found on the [LeadBoxer Cookies](extras/leadboxer-cookies.md) page.
@@ -80,9 +88,9 @@ As part of a 'customer journey,' however, they can be quite powerful. Think abou
 
 Another option with email tracking is to track the clicks inside an email to your website, which also can trigger an Identification. In other words when and if that person visits your website after receiving an email, even months later.
 
-### Additional behavioral data types&#x20;
+### Additional behavioural data types&#x20;
 
-We also support other kinds of behavioral data, for example data from an ERP, CRM, telemarketing, shopping systems, registers, etc. This data can be transferred to LeadBoxer using our API or even via file transfer. This enables our customers to connect even more dots and create complete lead, opportunity or customer 360 views.
+We also support other kinds of behavioural data, for example data from an ERP, CRM, telemarketing, shopping systems, registers, etc. This data can be transferred to LeadBoxer using our API or even via file transfer. This enables our customers to connect even more dots and create complete lead, opportunity or customer 360 views.
 
 
 
@@ -117,15 +125,15 @@ Obviously there are many other use-cases that drive value by 'simply' connecting
 
 ## From Leads to Opportunities
 
-Once we have Identified the companies, organizations and contacts that interact with our clients content, and we also know which content they are interested in, we define the Segments or Target Audiences that our clients are interested in. For example, we can filter out job-seekers, existing clients, but include organizations that have the right size, industry, location, and also have downloaded a specific whte-paper, etc.
+Once we have Identified the companies, organisations and contacts that interact with our clients content, and we also know which content they are interested in, we define the Segments or Target Audiences that our clients are interested in. For example, we can filter out job-seekers, existing clients, but include organisations that have the right size, industry, location, and also have downloaded a specific whte-paper, etc.
 
 We get from Leads to Opportunities using **Lead Qualification** and **Lead Management**.
 
 ### Qualification
 
-In General, Lead qualification helps companies prioritize their sales efforts and focus on the leads that are most likely to convert into customers. This, in turn, helps companies save time and resources by avoiding wasting time on leads that are unlikely to convert.
+In General, Lead qualification helps companies prioritise their sales efforts and focus on the leads that are most likely to convert into customers. This, in turn, helps companies save time and resources by avoiding wasting time on leads that are unlikely to convert.
 
-At LeadBoxer, Lead qualification is the process of evaluating the readiness and likelihood of a potential customer to become a paying customer. The process involves collecting and analyzing data about a lead, such as their interests, company profile, budget, timeline, authority, and need, to determine if they are a good fit for a company's product or service.&#x20;
+At LeadBoxer, Lead qualification is the process of evaluating the readiness and likelihood of a potential customer to become a paying customer. The process involves collecting and analysing data about a lead, such as their interests, company profile, budget, timeline, authority, and need, to determine if they are a good fit for a company's product or service.&#x20;
 
 During lead qualification, the lead is assessed against predefined criteria using [Filters](fundamentals/elements/filters.md) and [Segments](fundamentals/elements/segments.md) to determine if they meet the minimum requirements to move forward in a lead qualification process or workflow or Lead Management solution.
 
@@ -133,18 +141,18 @@ During lead qualification, the lead is assessed against predefined criteria usin
 
 Lead management is basically the process of capturing, tracking, and nurturing potential customers or leads as they progress through the marketing or pre-sales funnel. It involves managing interactions with leads at each stage of the buyer's journey, from initial awareness to sales qualified lead (SQL) and even beyond.
 
-The goal of lead management is to maximize the number of qualified leads that can be passed on to sales, while minimizing the time and resources spent on unqualified leads.&#x20;
+The goal of lead management is to maximise the number of qualified leads that can be passed on to sales, while minimising the time and resources spent on unqualified leads.&#x20;
 
-In LeadBoxer this can be achieved using the [LeadBoard](fundamentals/tasks.md), where our clients can visually research and move leads manually or automatically through their workflow or qualification process until they become actual opportunities.
+In LeadBoxer this can be achieved using the [LeadBoard](fundamentals/leadboard.md), where our clients can visually research and move leads manually or automatically through their workflow or qualification process until they become actual opportunities.
 
 A typical example is that once a Lead fits the final criteria, they are deemed 'sales qualified' and handed over to the sales team for further engagement.
 
 Advanced use-cases can be implemented by creating multiple LeadBoards, for example one for each region, sales team, product or service category, and even linking multiple boards together to create a workflow across multiple teams.
 
-Effective lead management can help companies improve their sales performance, optimize their marketing efforts, and increase their overall revenue.
+Effective lead management can help companies improve their sales performance, optimise their marketing efforts, and increase their overall revenue.
 
 
 
-To learn more about LeadBoxer, you are most welcome to [schedule a call](https://www.leadboxer.com/start) with us.&#x20;
+To learn more about LeadBoxer, you are most welcome to [schedule a call](https://www.leadboxer.com/demo) with us.&#x20;
 
 <br>

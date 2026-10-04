@@ -4,7 +4,7 @@
 
 The LeadBoxer Copernica Integration automatically pulls all activity from your Copernica account into LeadBoxer, This means that all recipients who either a) read your emails or b) click on a link, will be created or updated in LeadBoxer. These leads will also be enriched and scored. Using Segmentation and notifications you can automatically find out who is interested in what and if they are Ready-to-Buy.
 
-NOTE: To enable the Integration you need to provide us with a Copernica API token. We will only use this to pull / retrieve (read) the behavior of your Copernica audience.
+NOTE: To enable the Integration you need to provide us with a Copernica API token. We will only use this to pull / retrieve (read) the behaviour of your Copernica audience.
 
 ### How to enable
 
