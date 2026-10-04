@@ -4,6 +4,10 @@ description: Connect LeadBoxer with n8n
 
 # n8n
 
+{% hint style="info" %}
+Only need company details for a domain or IP address? Install the LeadBoxer community node instead: in n8n go to **Settings > Community Nodes**, select **Install** and enter `n8n-nodes-leadboxer`. It adds Domain Lookup and IP Address Lookup operations. The steps below pull your leads with the HTTP Request node.
+{% endhint %}
+
 Step 1
 
 Add a scheduled Trigger, to query the LeadBoxer API for fresh results. We recommend to set this to every 10 minutes or so, depending on your traffic volumes.
@@ -16,8 +20,10 @@ Step 3
 
 in the HTTP node settings:
 
-* Methode = GET
-* URL:  <mark style="color:blue;">https://data.leadboxer.com/api/views/c\_view\_leads/?search=\*\&dataType=json\&variant=zapier\&noShortenEmail\&sortBy=lastEvent|desc\&period=1d\&limit=50\&site=#### YOUR DATASET ID ###</mark>
+* Method = GET
+* URL:  `https://api.leadboxer.com/v1/leads?site=YOUR_DATASET_ID&timeField=eventEsTimestamp&criteriaTimeFilter=eventEsTimestamp%7Cexactly%7C0&criteriaDisplayFilter=company&sortBy=lastEvent%7Cdesc&limit=50`
+
+  This returns up to 50 identified companies seen today, newest first. Replace `YOUR_DATASET_ID` with your dataset ID. To change the period use for example `criteriaTimeFilter=eventEsTimestamp%7Clessthan%7C6` (last 7 days); `%7C` is the `|` character, which must be URL-encoded. All parameters are described in the [API reference](https://developers.leadboxer.com) under Retrieve Leads.
 *
 
     <div align="left"><figure><img src="../../.gitbook/assets/SCR-20250620-luyj.png" alt=""><figcaption></figcaption></figure></div>
@@ -26,7 +32,11 @@ in the HTTP node settings:
 First you need to get your API key inside the LeadBoxer App from integrations > data\
 [https://app.leadboxer.com/integrations-connectors/data/api-key](https://app.leadboxer.com/integrations-connectors/data/api-key)
 
-Give the key a name, paste the LeadBoxer API key, set the placement to 'in query string' and the parameter name to **apiKey**
+Give the key a name, paste the LeadBoxer API key, set the placement to **in the header** and the parameter name to **x-api-key**.
+
+{% hint style="info" %}
+The screenshots show an older setup with the key in the query string. The public API expects the key in the `x-api-key` header.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/SCR-20250620-lvgr.png" alt=""><figcaption></figcaption></figure>
 
