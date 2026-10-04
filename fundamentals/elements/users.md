@@ -16,4 +16,3 @@ Lead Ownership is also saved as a value in the Lead Properties, meaning that:
 * Lead Ownership is visible in the Lead Card as a separate item (including the timestamp on hover)
 * Lead Owner can be selected in the custom column drop-down on the Leads & Accounts page.
 
-<figure><img src="https://wp.leadboxer.com/wp-content/uploads/Screenshot_2021-07-09_at_10_42_08-1.png" alt=""><figcaption></figcaption></figure>
