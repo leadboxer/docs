@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LeadBoxer — Lead Data Platform —Documentation](README.md)
+* [LeadBoxer Help](README.md)
 * [🛠️ Getting Started](getting-started.md)
 * [Lead Management Workflow](lead-management-workflow/README.md)
   * [Cold outbound email campaigns](lead-management-workflow/cold-outbound-email-campaigns.md)
@@ -164,5 +164,5 @@
 
 ***
 
-* [Terms of Service](https://www.leadboxer.com/terms-of-agreement)
-* [Privacy Policy](https://www.leadboxer.com/privacy)
+* [Terms of Service](https://www.leadboxer.com/resources/terms)
+* [Privacy Policy](https://www.leadboxer.com/resources/privacy)

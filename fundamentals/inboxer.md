@@ -2,7 +2,7 @@
 
 ## Inboxer View: Documentation
 
-Inboxer is the (new) default view of the LeadBoxer platform. It is designed to discover and prioritize company engagement insights — enabling you to act on high-intent leads quickly and efficiently.
+Inboxer is the (new) default view of LeadBoxer App. It is designed to discover and prioritize company engagement insights — enabling you to act on high-intent leads quickly and efficiently.
 
 <figure><img src="../.gitbook/assets/SCR-20250604-juge-2.png" alt=""><figcaption><p>Screenshot Inboxer 2025</p></figcaption></figure>
 

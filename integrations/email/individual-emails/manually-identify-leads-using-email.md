@@ -2,7 +2,7 @@
 
 #### How does it work?
 
-LeadBoxer is build on top of a full web analytics platform, meaning we can measure anything happening on your site and add this information to the profile of your lead/ visitor /customer. We have an extensive API and javascript library that can be used to enrich profiles from forms, signups, logins, campaigns, etc.
+LeadBoxer is built on top of a full web analytics engine, meaning we can measure anything happening on your site and add this information to the profile of your lead/ visitor /customer. We have an extensive API and javascript library that can be used to enrich profiles from forms, signups, logins, campaigns, etc.
 
 This technology can now also be used to identify individuals from the the personal emails you send out, by passing the lead details using links to your website.
 

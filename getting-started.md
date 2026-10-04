@@ -91,7 +91,7 @@ More information can be found here: [All about UTM tags](integrations/website/tr
 
 ### Track additional customer touch-points
 
-In order to take full advantage of our platform, we highly recommend that you implement our identification & enrichment methods on as many touch-points as possible. Touch-points are all the places where your leads or customers digitally interact with your company and provide (personal) information:
+In order to take full advantage of LeadBoxer, we highly recommend that you implement our identification & enrichment methods on as many touch-points as possible. Touch-points are all the places where your leads or customers digitally interact with your company and provide (personal) information:
 
 \- Contact forms
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  How do LeadBoxer and its components actually work.  What can you do with the
-  platform? What do we actually capture and how?
+  How do LeadBoxer and its components actually work.  What can you do with
+  LeadBoxer? What do we actually capture and how?
 ---
 
 # How does it all work?
@@ -145,6 +145,6 @@ Effective lead management can help companies improve their sales performance, op
 
 
 
-To learn more about LeadBoxer, you are most welcome to [schedule a call](https://www.leadboxer.com/start) with us.&#x20;
+To learn more about LeadBoxer, you are most welcome to [schedule a call](https://www.leadboxer.com/demo) with us.&#x20;
 
 <br>

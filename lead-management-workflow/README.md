@@ -124,6 +124,6 @@ For example: If a lead is tagged with value 'interest' AND the lead is currently
 
 Once you have gone through all above steps, you will have a fully automated Lead Qualification process in place in the form of a LeadBoard automatically filled with Leads from your target audience. You can see your leads move to their current stage based on their behaviour.
 
-If you need any help with this, we are here to help. Please [schedule a call](https://www.leadboxer.com/start) to talk to us.
+If you need any help with this, we are here to help. Please [schedule a call](https://www.leadboxer.com/demo) to talk to us.
 
 <br>

@@ -23,7 +23,7 @@ Once the Pixel is in place, we immediately start tracking and identifying your l
 
 ### Installation
 
-If you havent done so already, the first step is to [Start a trial](https://www.leadboxer.com/start/) at leadboxer.com - you will then receive the Pixel (code snippet) from us.
+If you havent done so already, the first step is to [Start a free trial](https://app.leadboxer.com/sign-up) of LeadBoxer App - you will then receive the Pixel (code snippet) from us.
 
 You can use any of the following plugins / tutorials to get started:<br>
 

@@ -7,7 +7,7 @@
 # path of the current "Public docs" variant (/leadboxer) so existing URLs keep working.
 version: 1
 site:
-  title: LeadBoxer docs
+  title: LeadBoxer Help
   structure:
     - type: space
       key: space-public-docs

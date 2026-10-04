@@ -11,7 +11,7 @@ This extension will add the option to activate email tracking for personalized e
 
 ### How to use this extension
 
-Create your [free trial account](https://www.leadboxer.com/start) first.
+Create your [free trial account](https://app.leadboxer.com/sign-up) first.
 
 Follow these steps to Install, Configure and Get Started.
 

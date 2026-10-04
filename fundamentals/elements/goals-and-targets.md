@@ -21,9 +21,9 @@ This feature improves lead qualification and sales focus by highlighting account
    * Job title(s)
    * Country (can match ICP or be separate)
 3. When a company matches your ICP:
-   * It will be tagged and surfaced in the platform
+   * It will be tagged and surfaced in the App
    * Matching personas from that account will be listed in the account detail panel
-4. In the platform, you can now:
+4. In the App, you can now:
    * Filter on ICP and Persona matches
    * View their professional profile including current and past jobs or titles, education, etc.
    * Gather the personas business email address&#x20;

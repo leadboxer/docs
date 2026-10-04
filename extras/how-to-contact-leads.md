@@ -9,8 +9,8 @@ This article discusses contacting leads. This is the important step from marketi
 This article discusses how to contact a lead. This is the important step from marketing automation to personal contact. In this post, we outline the steps and provide context and Best-Practice tips.
 
 **Re-cap:**\
-1\. In part 1 we provided  [a definition of what a lead is, and lead hacking](https://www.leadboxer.com/blog/lead-hacking-definition/).\
-2\. In part 2 we outlined  [the process of lead qualification](https://www.leadboxer.com/blog/lead-qualification/)\
+1\. In part 1 we provided  [a definition of what a lead is, and lead hacking](https://www.leadboxer.com/blog/definition-lead-hacking).\
+2\. In part 2 we outlined  [the process of lead qualification](https://www.leadboxer.com/lead-qualification)\
 3\. The next step is contact. Once you have decided to engage a lead, what is the best way to proceed.
 
 In plain english: this article is about what to do once you’ve identified a lead.\

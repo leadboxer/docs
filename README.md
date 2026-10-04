@@ -1,12 +1,16 @@
 ---
-description: Welcome to the documentation and help section of LeadBoxer
+description: Help and how-to guides for LeadBoxer App
 ---
 
-# LeadBoxer — Lead Data Platform —Documentation
+# LeadBoxer Help
 
-LeadBoxer is a Lead Generation Platform designed to help you increase both the quality and quantity of leads you generate for your sales team.
+This is the help site for **LeadBoxer App**, the ready-made application built on the LeadBoxer Platform. It explains how to set up tracking, find and qualify the companies and people engaging with your website and emails, and act on them.
 
-With LeadBoxer, you can [Identify](solutions/lead-identification.md), [Qualify](solutions/lead-qualification.md) and [Manage](solutions/lead-managment.md) all your leads in one place, and make sure that no opportunity gets lost or overlooked. We call this **Managing Opportunity**.
+With the App you can [identify your visitors](solutions/lead-identification.md), [qualify them](solutions/lead-qualification.md) against your ICP and personas, and [manage your leads](solutions/lead-managment.md) in one place.
+
+{% hint style="info" %}
+**Building on the LeadBoxer Platform?** API reference, quickstarts and MCP setup live on [developers.leadboxer.com](https://developers.leadboxer.com). To get an API key, see [LeadBoxer for developers](https://www.leadboxer.com/developers).
+{% endhint %}
 
 <figure><img src=".gitbook/assets/LeadBoxer_App (19).png" alt=""><figcaption></figcaption></figure>
 
