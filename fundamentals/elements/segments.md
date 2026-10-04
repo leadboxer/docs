@@ -73,4 +73,3 @@ If you would like to learn how to create your (first) segments see a tutorial be
 
 You can (as an Admin) change ownership for all segments in your account. This is useful if you want to create or modify segments for your colleagues or clients
 
-<figure><img src="https://wp.leadboxer.com/wp-content/uploads/LeadBoxer_App-3-1-1.png" alt=""><figcaption></figcaption></figure>

@@ -109,7 +109,7 @@ And connect this to any trigger
     document.title
     ```
 
-    ![](https://raw.githubusercontent.com/leadboxer/docs/main/.gitbook/assets/Google_Tag_Manager%20\(3\).png)
+    ![](<../../.gitbook/assets/Google_Tag_Manager (3).png>)
 3.  Create and send a new event that triggers on every Custom Event.
 
     ```javascript
@@ -120,7 +120,7 @@ And connect this to any trigger
     </script>
     ```
 
-    ![](https://raw.githubusercontent.com/leadboxer/docs/main/.gitbook/assets/Google_Tag_Manager%20\(4\).png)
+    ![](<../../.gitbook/assets/Google_Tag_Manager (4).png>)
 4. Now connect this tag to any trigger you want: events, clicks, buttons, downloads, etc.
 5. Don't forget to publish and you should be set.
 

@@ -4,7 +4,6 @@ LeadBoxer can email you and your colleagues about your leads. There are three ki
 
 ## Segment notifications (daily or weekly)
 
-<figure><img src="https://wp.leadboxer.com/wp-content/uploads/10_leads_for_segment__Top_Leads_on_leadboxer_com___Deliveries___Deliveries___Drafts___Customer_io-1.png" alt=""><figcaption><p>Example Account-view notification</p></figcaption></figure>
 
 Once you have created a [Segment](segments.md) you can have it emailed to yourself and your colleagues, for example a daily email with the top-ranked leads, or a weekly overview of all visitors from a list of target accounts.
 
