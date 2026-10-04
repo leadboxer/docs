@@ -4,6 +4,8 @@ description: Connect LeadBoxer with Make.com
 
 # make.com
 
+This guide shows how to pull your LeadBoxer App leads into a Make scenario. For API-first automations, see [n8n and Make automation](https://www.leadboxer.com/integrations/automation) and the [Make guide on the developer portal](https://developers.leadboxer.com/docs/make).
+
 Step 1
 
 Add the HTTP module > **Make an API Key Auth request**
