@@ -26,3 +26,7 @@ For a detailed [tutorial how-to add a site see here](../../integrations/website/
 Simply add them to your account in the [dataset overview](https://app.leadboxer.com/datasets) and you will receive a unique lead pixel to install on these domains.
 
 We also offer cross-domain tracking, please contact us for details and pricing.
+
+### Time zone
+
+Each dataset has its own time zone, used for dates and time filters. See [Time zones](timezones.md) to change it.

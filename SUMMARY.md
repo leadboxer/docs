@@ -22,6 +22,7 @@
   * [Notifications](fundamentals/elements/notifications.md)
   * [Users](fundamentals/elements/users.md)
   * [Datasets](fundamentals/elements/datasets.md)
+  * [Time zones](fundamentals/elements/timezones.md)
   * [Clients (agents)](fundamentals/elements/clients-agents.md)
   * [Lists](fundamentals/elements/lists.md)
   * [Enrichment](fundamentals/elements/enrichment.md)
