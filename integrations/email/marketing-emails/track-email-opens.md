@@ -39,9 +39,9 @@ There are 3 values that need to be modified:&#x20;
 
 #### What is a Merge Tag?
 
-In order to use newsletter or email tracking to collect individual-level data on your subscriber behavior, we need a way to identify your subscribers in our tracking codes. We do this by way of a  **merge tag**.
+In order to use newsletter or email tracking to collect individual-level data on your subscriber behaviour, we need a way to identify your subscribers in our tracking codes. We do this by way of a  **merge tag**.
 
-Dependent on the mailing software you use, merge tags may also be known as 'personalization fields', 'substitution strings', or 'personalization tags'. These tags allow you to insert data from your mailing list directly into your email campaigns. For example, if you are a MailChimp user and you’d like to insert your subscriber’s first name into your email, you might use the merge tag  **\*|FNAME|\***. Every time MailChimp sees the tag \*|FNAME|\* in your email, they will replace this tag with the unique data associated with each recipient in your list.
+Dependent on the mailing software you use, merge tags may also be known as 'personalisation fields', 'substitution strings', or 'personalisation tags'. These tags allow you to insert data from your mailing list directly into your email campaigns. For example, if you are a MailChimp user and you’d like to insert your subscriber’s first name into your email, you might use the merge tag  **\*|FNAME|\***. Every time MailChimp sees the tag \*|FNAME|\* in your email, they will replace this tag with the unique data associated with each recipient in your list.
 
 Each Email Service Provider (ESP) or mailing platform has a slightly different way of handling these tags, which is why we ask that you choose from below table of common tags. By correctly identifying the merge tag for your mailing platform, you’re ensuring that LeadBoxer can collect all the data you’re looking for and match it back to the subscribers on your list.
 

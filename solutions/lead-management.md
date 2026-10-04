@@ -11,7 +11,7 @@ description: >-
 
 When running a small or large team of sales reps, agents or account executives, it is important to get the right insights to the right people at the right time. LeadBoxer allows you to set individual or group permissions on specific lead data, accounts, regions, etc.&#x20;
 
-For example, automatically route leads to the correct salesperson according to the organization’s territory mapping.
+For example, automatically route leads to the correct salesperson according to the organisation’s territory mapping.
 
 Save time and valuable resources from manually assigning and routing leads, to a fully automated workflow.
 

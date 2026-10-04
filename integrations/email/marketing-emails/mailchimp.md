@@ -31,7 +31,7 @@ Don't forget to SAVE.
 ### What happens next?
 
 LeadBoxer will now start pulling in the data going forward.\
-NOTE: We will only use this to pull / retrieve (read) the behavior of your Mailchimp audience.\
+NOTE: We will only use this to pull / retrieve (read) the behaviour of your Mailchimp audience.\
 NOTE: if you have or login to multiple Mailchimp accounts - please be sure that you are configuring the CORRECT Mailchimp account. In other words - you need to associate the right Mailchimp account to the right dataset in LeadBoxer.
 
 ### Step 2: Use Mailchimp to identify website visitors.

@@ -1,8 +1,8 @@
 # How to mask IP addresses
 
-**IP Address Masking** allows you to anonymize computer IP addresses by setting IPv4 IPs and IPv6 IPs to zeros. Depending on your requirements, you can now enable this feature per dataset. Note that anonymization is done at storage level, meaning we will still use the IP address to identify the company, organisation, location and other (generic) profile data but the IP address is never written to disk.
+**IP Address Masking** allows you to anonymise computer IP addresses by setting IPv4 IPs and IPv6 IPs to zeros. Depending on your requirements, you can now enable this feature per dataset. Note that anonymisation is done at storage level, meaning we will still use the IP address to identify the company, organisation, location and other (generic) profile data but the IP address is never written to disk.
 
-This is useful if you do not want to mention LeadBoxer in your privacy statement. If that is the case, for EU GDPR compliance you need to anonymize IPs (unless capturing and storing IPs is absolutely necessary for purposes such as legal investigation, transaction fraud prevention, etc.).
+This is useful if you do not want to mention LeadBoxer in your privacy statement. If that is the case, for EU GDPR compliance you need to anonymise IPs (unless capturing and storing IPs is absolutely necessary for purposes such as legal investigation, transaction fraud prevention, etc.).
 
 ### How to enable IP masking
 

@@ -1,5 +1,5 @@
 ---
-description: Visualize your data
+description: Visualise your data
 ---
 
 # Reports
@@ -10,7 +10,7 @@ The Reports feature is a summary overview of all data we have collected for a ce
 
 ## Blocks
 
-Reports can be customized using 'blocks'. Each block is a subset of your data, we currently support the following blocks:&#x20;
+Reports can be customised using 'blocks'. Each block is a subset of your data, we currently support the following blocks:&#x20;
 
 * Engagement
 * Demographics
@@ -51,7 +51,7 @@ Features include:
 
 * Industry Group chart: Individual companies grouped by the [LinkedIn Industry definitions](https://learn.microsoft.com/en-us/linkedin/shared/references/reference-tables/industry-codes-v2#active-nodes)
 * Detailed Industry chart: Each and every industry ranked&#x20;
-* Organization size chart: Based on employee count; see a breakdown of your audience
+* Organisation size chart: Based on employee count; see a breakdown of your audience
 * Clicking on the in-chart bars allows you to:
   * Apply the industry or size filter and see the actual Leads and Accounts from that group &#x20;
   * Slice the report to only include this industry or size
@@ -72,7 +72,7 @@ Find out what companies are your top engagers. Features include:
 
 ### Report on your Segments
 
-You can select any of your Segments under the Filters menu, and graphs, charts, and tables will visualize this subset of your data.
+You can select any of your Segments under the Filters menu, and graphs, charts, and tables will visualise this subset of your data.
 
 ### Date range
 
@@ -100,9 +100,9 @@ Settings you can modify:
 
 Download your reports by clicking the “Export as PDF” button. This will generate a PDF version of the current report in the background. Once it’s ready, we’ll send you an email with a download link.
 
-#### Customization options
+#### Customisation options
 
-The downloaded report can be customized by adjusting the settings you apply on the screen. These settings will also reflect in the PDF, including:
+The downloaded report can be customised by adjusting the settings you apply on the screen. These settings will also reflect in the PDF, including:
 
 * Selected Segment
 * Selected Date Range

@@ -16,7 +16,7 @@ In this example, the UTM tags are:
 * **utm\_medium=cpc**: This indicates the medium through which the traffic was acquired, which in this case is cost-per-click advertising.
 * **utm\_campaign=spring\_sale**: This is the name of the campaign that the traffic is associated with, in this case, a spring sale.
 
-UTM tags allow marketers to track the effectiveness of their campaigns and channels by providing data on how much traffic each campaign is driving, what sources the traffic is coming from, and what mediums are most effective for generating traffic. This information can be used to optimize campaigns and allocate resources more effectively.
+UTM tags allow marketers to track the effectiveness of their campaigns and channels by providing data on how much traffic each campaign is driving, what sources the traffic is coming from, and what mediums are most effective for generating traffic. This information can be used to optimise campaigns and allocate resources more effectively.
 
 There are actually 5 different kind of UTM tags, but these 2 are used less often and are optional:
 

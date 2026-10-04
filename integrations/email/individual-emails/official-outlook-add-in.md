@@ -10,7 +10,7 @@ _LeadBoxer has 3 different Outlook plugins:_
 
 > NOTE: Do not Install if you are using the 'New UI' version on Mac. It is not compatible.
 
-This Add-in delivers the option to track personalised emails sent to individuals through Outlook, and connect this behavior to your LeadBoxer account.\
+This Add-in delivers the option to track personalised emails sent to individuals through Outlook, and connect this behaviour to your LeadBoxer account.\
 This technology can also track links clicked to your site (website activity) and identify the individuals who click on the links to your site.
 
 ### Step 1: Start your (trial) license

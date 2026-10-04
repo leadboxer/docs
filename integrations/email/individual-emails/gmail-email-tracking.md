@@ -2,7 +2,7 @@
 
 ### LeadBoxer for Gmail
 
-This extension will add the option to activate email tracking for personalized emails sent to individuals through the Gmail web interface. Two immediate results:
+This extension will add the option to activate email tracking for personalised emails sent to individuals through the Gmail web interface. Two immediate results:
 
 1. The recipients will be added as leads or customers to your account
 2. Their email opens and clicks will be merged together

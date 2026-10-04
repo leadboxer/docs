@@ -79,7 +79,7 @@ If a visitor submits the form after the 5 minute inactivity window, the final su
 #### Important notes
 
 * Partial Form Tracking only works on pages where the LeadBoxer tracking script is installed.
-* Tracking behavior may depend on your site’s consent and privacy settings.
+* Tracking behaviour may depend on your site’s consent and privacy settings.
 * We recommend reviewing your privacy policy before enabling this feature.
 
 ## Optional improvements

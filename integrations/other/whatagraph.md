@@ -6,7 +6,7 @@ Note: you need access to the Whatagraph **Custom API Connection** feature in ord
 
 #### Getting Started.
 
-1. Before you start, think about the data you want to visualize.  &#x20;
+1. Before you start, think about the data you want to visualise.  &#x20;
 2. Create a segment and use the filters to narrow down the audience you want to graph out. For example everyone that downloaded a white-paper.
 3.  Login to Whatagraph as Admin, go to your sources page and select Custom API source and click New account.
 

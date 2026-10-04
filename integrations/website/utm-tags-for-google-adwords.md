@@ -52,7 +52,7 @@ Understanding how the override works is helpful in understanding how UTMs and gc
 
 Here’s what happens when you leave the override setting off, per our recommendation:
 
-* Gclid values will be prioritized. Your Google Analytics will capture the source, campaign, medium, term and content parameters from gclid. UTMs parameters will be captured by GA for whatever the gclid ones didn’t define.
+* Gclid values will be prioritised. Your Google Analytics will capture the source, campaign, medium, term and content parameters from gclid. UTMs parameters will be captured by GA for whatever the gclid ones didn’t define.
 * Your other marketing and analytics tools will only pick up the UTMs. Gclid parameters only work with GA.
 
 Along with intentionally choosing your override setting, you also want to make sure that Google Analytics is linked with your Google Ads account. If you don’t have that in place yet, follow these steps:

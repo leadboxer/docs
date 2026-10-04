@@ -45,7 +45,7 @@ Whenever you are looking at your [Leads & Accounts](../leads-and-accounts/README
 To make life easy, we have added something we call Quick Segments. It is a list of pre-defined Segments that enable you to quickly filter your data to often seen use-cases.
 
 * Persons Only: Show identified contacts (from email, forms, etc)
-* Organizations Only: Show Identified Organizations with NO identified contacts
+* Organisations Only: Show Identified Organisations with NO identified contacts
 * Paid Leads: Show leads that came in through add campaigns (channel = paid)
 * Organic Leads: Show Leads that came in organically
 * Form Submissions: Show leads that were came in through a form submission&#x20;

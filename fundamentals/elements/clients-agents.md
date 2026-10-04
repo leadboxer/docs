@@ -11,11 +11,11 @@ LeadBoxer allows you to collect an abundance of data about your leads and custom
 * External agents or resellers
 * Partners or Distributors
 * Product or Local sales teams
-* External organizations, eg Recruiting&#x20;
+* External organisations, eg Recruiting&#x20;
 
 ### Concepts
 
-In LeadBoxer, you can add multiple datasets (websites) to your account and collect Lead & Customer data. Within each of those datasets you can create Segments. For example, you might be targeting leads from different states or countries, so it makes sense to segment these into separate groups.Using the Clients feature, you can add one or more clients (e.g., an external organization or an agent) that you can and specify which segment within that dataset they can view. For example, you may have created EU and US segments in one of your datasets and work with an agent within the European market, so you may want to limit their access to the EU segment only.So you first create 2 Segments (US and EU), add the 2 Clients groups (A and B) and set the permissions.Finally, you then add individual users and associate with a dataset and 'Client group'. Below image is a visual representation:
+In LeadBoxer, you can add multiple datasets (websites) to your account and collect Lead & Customer data. Within each of those datasets you can create Segments. For example, you might be targeting leads from different states or countries, so it makes sense to segment these into separate groups.Using the Clients feature, you can add one or more clients (e.g., an external organisation or an agent) that you can and specify which segment within that dataset they can view. For example, you may have created EU and US segments in one of your datasets and work with an agent within the European market, so you may want to limit their access to the EU segment only.So you first create 2 Segments (US and EU), add the 2 Clients groups (A and B) and set the permissions.Finally, you then add individual users and associate with a dataset and 'Client group'. Below image is a visual representation:
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/61d598dea6a5ee76d8a2d5c9/file-H82oJYmWw4.png)
 

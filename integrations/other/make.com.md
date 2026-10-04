@@ -52,4 +52,4 @@ Here is an example using Slack, adding identified companies to a slack channel
 
 <figure><img src="../../.gitbook/assets/SCR-20250620-lbtp.png" alt=""><figcaption></figcaption></figure>
 
-Make sure to use the fields that start with organization\*
+Make sure to use the fields that start with organisation\*

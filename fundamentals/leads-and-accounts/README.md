@@ -24,7 +24,7 @@ In a nutshell: a list displaying all your Leads; which can also be grouped into 
 For an explanation of [Leads](../definitions-and-glossary.md#what-are-leads) and [Accounts](../definitions-and-glossary.md#what-are-accounts), please read our [definitions](../definitions-and-glossary.md).
 {% endhint %}
 
-The Leads and/or Accounts are rendered in a table or grid which can be customized to show or hide additional columns. You can choose from a wide range of properties or behavioural fields. You can customize the columns by clicking on the column icon and  choose to show/ hide. you can also search for specific columns.
+The Leads and/or Accounts are rendered in a table or grid which can be customised to show or hide additional columns. You can choose from a wide range of properties or behavioural fields. You can customise the columns by clicking on the column icon and  choose to show/ hide. you can also search for specific columns.
 
 <figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ The Leads and/or Accounts are rendered in a table or grid which can be customize
 
 In order to provide a snapshot of each lead without horizontal scrolling, we created a Summary Column in 3 versions: Small, Medium, Large.
 
-* **Small** contains only the name of the organization and the name or email of the Lead.
+* **Small** contains only the name of the organisation and the name or email of the Lead.
 * **Medium** adds the lead tags and LeadBoards the Lead or Account is on.
 * **Large** adds Employee count, Industry, Revenue and last activity.
 
@@ -46,7 +46,7 @@ The Column set selector also provides the option to select the [LinkedIn Matched
 
 ### Lead Details Drawer
 
-If you click on any lead, this will open the Lead Details Drawer. The drawer contains numerous details about the individual lead on i) profile information, ii) individual behaviour and iii) the option to drill-down to associated organization.
+If you click on any lead, this will open the Lead Details Drawer. The drawer contains numerous details about the individual lead on i) profile information, ii) individual behaviour and iii) the option to drill-down to associated organisation.
 
 <figure><img src="../../.gitbook/assets/LeadBoxer-leads-accounts-lead-account-drawer.png" alt=""><figcaption></figcaption></figure>
 
@@ -59,7 +59,7 @@ The Lead details drawer contains multiple items, listed and described below:
 * Leadscore
 * Technical
 * Clickstream
-* Organization
+* Organisation
 
 #### Engagement
 

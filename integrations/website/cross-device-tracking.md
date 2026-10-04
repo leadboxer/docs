@@ -12,7 +12,7 @@ This is useful so that we can check for every next event or action if this user 
 
 Above approach works very well but can lead to duplicate user entries when users use more then one browser, multiple devices or even delete their cookies.
 
-To minimize this from happening, we offer 2 ways to override the default cookie creation:
+To minimise this from happening, we offer 2 ways to override the default cookie creation:
 
 1. **uid override**<br>
 2. **email override**

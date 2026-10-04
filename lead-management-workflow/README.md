@@ -26,7 +26,7 @@ The tool to automate the steps from your qualification workflow is called [Workf
 
 ## Quick Summary&#x20;
 
-A B2B **buyer's journey** is made up of multiple buying phases or stages. Workflow automation enables you to map the stages to specific behavior (actions). You can then easily filter and segment both audience and users into their respective stages.
+A B2B **buyer's journey** is made up of multiple buying phases or stages. Workflow automation enables you to map the stages to specific behaviour (actions). You can then easily filter and segment both audience and users into their respective stages.
 
 _Think of this process as mapping the ideal sales flow_.&#x20;
 
@@ -35,7 +35,7 @@ There are 2 parts to the process of setting up and configuring your LeadBoard:
 ### Step 1: define lead stages & key events
 
 1. Define the stage(s) your prospects and leads need to complete in order to become real opportunities (see complete explanation below). Typically 3,4, or 5.
-2. Create a list of key events that are measured and categorize them to each stage (see  explanation below).
+2. Create a list of key events that are measured and categorise them to each stage (see  explanation below).
 
 ### Step 2: setup stages in LeadBoxer:
 
@@ -70,7 +70,7 @@ To get started, we recommend you focus on these 5 remaining stages:&#x20;
 4. **Intent**
 5. **Decision**
 
-Obviously you can design and customize your workflow to your needs. Additional example stages are: Exploration, Nurturing, On-boarding, Negotiation, etc.
+Obviously you can design and customise your workflow to your needs. Additional example stages are: Exploration, Nurturing, On-boarding, Negotiation, etc.
 
 #### The last stage&#x20;
 
@@ -82,7 +82,7 @@ If you are primarily using LeadBoxer for Marketing, the last stage in your workf
 
 ### 2. List the actions or key events&#x20;
 
-Make a list of the events (pageviews, clicks, sign-ups, opening newsletter, etc) that characterize each stage of the customer journey. In other words, in order to score behavior and tag events, we need a list of key actions (events).&#x20;
+Make a list of the events (pageviews, clicks, sign-ups, opening newsletter, etc) that characterise each stage of the customer journey. In other words, in order to score behaviour and tag events, we need a list of key actions (events).&#x20;
 
 Examples of key events are: viewed a specific product page, viewed pricing page, downloaded a PDF white paper, Form submits, sign-ups, opened or clicked through from a newsletter or email, etc. We can measure anything and everything that takes place digitally.
 

@@ -1,6 +1,6 @@
 # Linkedin InMail or Invite Link Tracking
 
-In this document, we provide an overview or Best Practices on how to track link clicks within your InMail or automated invite campaigns. This will (also) allow you to identify leads who click through to your site, so that you can see what articles and content interest them. This is a type of qualifying behavior we use to identify Buyer Intent.
+In this document, we provide an overview or Best Practices on how to track link clicks within your InMail or automated invite campaigns. This will (also) allow you to identify leads who click through to your site, so that you can see what articles and content interest them. This is a type of qualifying behaviour we use to identify Buyer Intent.
 
 The problem to overcome is that LinkedIn does not allow you to (visually) link a piece of text, meaning the full URL will be visible in the InMail or Invite.
 
@@ -12,7 +12,7 @@ The goal is to track the links.  Obviously however, your leads are less likely t
 #### 1. Manual identification using a URL parameter
 
 In most cases, this is the best option. \
-Let's assume you have a list of the high-value target contacts that you are going to automatically send invites or InMails to, and you have selected a tool that can customize the message with custom variables.
+Let's assume you have a list of the high-value target contacts that you are going to automatically send invites or InMails to, and you have selected a tool that can customise the message with custom variables.
 
 Here are the steps:
 

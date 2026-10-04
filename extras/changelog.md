@@ -22,7 +22,7 @@ JULY 2026
 
 ## AI account summaries
 
-Generate a short AI summary of how an account's contacts and visitors interact with your website: who visited, what they looked at and what it suggests. Generate one per account, or summarize all your top accounts at once from Reports.
+Generate a short AI summary of how an account's contacts and visitors interact with your website: who visited, what they looked at and what it suggests. Generate one per account, or summarise all your top accounts at once from Reports.
 
 Read more: [Account summaries](../fundamentals/account-summaries.md)
 
@@ -286,7 +286,7 @@ We have added a new [Filter](../fundamentals/elements/filters.md) for Account Ta
 
 ## NEW Reports Feature
 
-Hyper-intuitive. The new report feature visualizes all your Lead data. Click on any value - a group of leads, a company name, a geographic area or industry, and drill down into the details, all without selecting filters. In one click you can see all people who opened emails, or all companies from a specific industry, and lots more!
+Hyper-intuitive. The new report feature visualises all your Lead data. Click on any value - a group of leads, a company name, a geographic area or industry, and drill down into the details, all without selecting filters. In one click you can see all people who opened emails, or all companies from a specific industry, and lots more!
 
 <div align="left"><figure><img src="../.gitbook/assets/1713989735839_reports2_01HW8VZQFC37P8M3GFBKK6TYXE.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -313,7 +313,7 @@ We are making the new Reports feature available for all plans. However, free pla
 
 ## Single Sign On (SSO) support
 
-We now offer secure authentication for organizations that use Microsoft Entra ID (previously Azure Active Directory).
+We now offer secure authentication for organisations that use Microsoft Entra ID (previously Azure Active Directory).
 
 See the full details here for [Single Sign On](../integrations/other/single-sign-on-sso.md)
 
@@ -355,7 +355,7 @@ When enabled, ownership is auto assigned based on fromEmail address value.
 
 ## Improved LeadBoard cards removing features
 
-You can now optionally add an leadcard organization to the Exclude list, which means it can no longer be added to this LeadBoard going forward, effectively blocking it from appearing again.
+You can now optionally add an leadcard organisation to the Exclude list, which means it can no longer be added to this LeadBoard going forward, effectively blocking it from appearing again.
 
 <figure><img src="../.gitbook/assets/Screenshot_from_2024-02-19_10-14-46.png" alt=""><figcaption></figcaption></figure>
 
@@ -389,7 +389,7 @@ If you are looking for this feature, please contact us to get this enabled for y
 
 ## LeadBoard Improvements
 
-#### We now show all individual tags for the organization or account in a LeadCard details&#x20;
+#### We now show all individual tags for the organisation or account in a LeadCard details&#x20;
 
 <figure><img src="../.gitbook/assets/LeadBoxer_App (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -477,7 +477,7 @@ We updated and improved the date-range picker, to make it more intuitive and eas
 
 We now support native export of LeadBoxer data into Google BigQuery.
 
-Push all your raw analytics and behavioural data into this powerful storage platform and write custom queries to analyse and visualize your data.&#x20;
+Push all your raw analytics and behavioural data into this powerful storage platform and write custom queries to analyse and visualise your data.&#x20;
 
 This also enables 1 click export to Google Looker Studio!
 
@@ -589,13 +589,13 @@ For now, you can add or remove Tags in batch mode. In the near future we will ad
 
 ## Roles & Permissions
 
-We have implemented a robust roles and permissions system to help you manage user access and control within your organization.&#x20;
+We have implemented a robust roles and permissions system to help you manage user access and control within your organisation.&#x20;
 
 For a complete overview of all documentation see the [Roles & Permissions](changelog.md#roles-and-permissions) page.
 
 ## Improved Lead details&#x20;
 
-We changed the location where we show the preview of the organization to be more prominent. We also added the option to manually link an organization to a lead. This is useful if you actually know the organization of an unidentified visitor (eg because you were just on the phone with them) you can aslos 'unlink' an organisation if you want to update or improve the data.
+We changed the location where we show the preview of the organisation to be more prominent. We also added the option to manually link an organisation to a lead. This is useful if you actually know the organisation of an unidentified visitor (eg because you were just on the phone with them) you can aslos 'unlink' an organisation if you want to update or improve the data.
 
 
 
@@ -632,7 +632,7 @@ We added the option to create groups of triggers to combine AND and OR condition
 
 ## Industry Categories Overhaul
 
-This was a big one, but we did it! We now have implemented the new LinkedIn version 2 Industry Categorization.
+This was a big one, but we did it! We now have implemented the new LinkedIn version 2 Industry Categorisation.
 
 #### From 148 to 421 industries
 
@@ -684,7 +684,7 @@ Something new: You can now Upload other leads and Accounts to LeadBoxer.&#x20;
 Why is this useful? 2 answers:
 
 1. Use LeadBoxer and the Lead Management features from the LeadBoard for ALL your leads. for example from offline sources like events, phone enquiries, physical encounters, etc.&#x20;
-2. To visualize and get complete insights of your outbound campaigns: Upload all leads that are contacted, put them in a board, and automatically track how they move through your leadboard funnel once they start interacting with your content.
+2. To visualise and get complete insights of your outbound campaigns: Upload all leads that are contacted, put them in a board, and automatically track how they move through your leadboard funnel once they start interacting with your content.
 
 More details and instructions can be found in the [Upload Leads](changelog.md#upload-leads) documentation page.
 
@@ -786,7 +786,7 @@ You can read a full breakdown of the new [Leads & Accounts](../fundamentals/lead
 
 #### 19-12-2022
 
-This week so far, we fixed an issue with links to LinkedIn not working properly in some cases on the account details panel and actually link to the homepage of an organization if we know it.&#x20;
+This week so far, we fixed an issue with links to LinkedIn not working properly in some cases on the account details panel and actually link to the homepage of an organisation if we know it.&#x20;
 
 #### 15-12-2022
 

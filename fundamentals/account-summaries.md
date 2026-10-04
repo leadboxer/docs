@@ -12,9 +12,9 @@ An account summary is a short, AI-written overview of how an account's contacts 
 
 Click **What is this?** next to the button for a short explanation.
 
-### Summarize all accounts
+### Summarise all accounts
 
-To generate summaries for every account in the current table at once, use **Summarize all**. A confirmation shows how many accounts will be summarized and what it will cost. Depending on the size of the table, it can take a few minutes to generate all summaries.
+To generate summaries for every account in the current table at once, use **Summarize all**. A confirmation shows how many accounts will be summarised and what it will cost. Depending on the size of the table, it can take a few minutes to generate all summaries.
 
 ***
 

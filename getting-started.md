@@ -52,7 +52,7 @@ Top integrations/ tutorials:
 
 **For all other email / marketing automation providers**
 
-To track email clicks and combine this information with visitor website behaviour, the links in your emails need to be customized with ‘merge tags’ ( [documentation](integrations/email/marketing-emails/track-email-clicks.md)).&#x20;
+To track email clicks and combine this information with visitor website behaviour, the links in your emails need to be customised with ‘merge tags’ ( [documentation](integrations/email/marketing-emails/track-email-clicks.md)).&#x20;
 
 To measure email opens, a pixel specific to email tracking needs to be implemented. [Documentation can be found here.](integrations/email/marketing-emails/track-email-opens.md)
 
@@ -127,7 +127,7 @@ We will try to enrich your leads with as much firmographic information as we pos
 If you have other data that you would like to combine or collect, we have an open API that can be used to accomplish this:&#x20;
 
 * [Enriching customer profile data ](fundamentals/elements/enrichment.md)
-* [Tracking custom behavioral touchpoints (events)](integrations/website/lead-tracking-pixel.md#what-are-events)
+* [Tracking custom behavioural touchpoints (events)](integrations/website/lead-tracking-pixel.md#what-are-events)
 
 ***
 

@@ -48,7 +48,7 @@ These lookups use credits. See [LeadBoxer Credits](leadboxer-credits.md) for the
 
 This is the thing that really moves the needle.
 
-By combining all data about leads, accounts, contacts from your organization, together with our enrichment and behavioural tracking gives you the power to both Identify the Leads, Qualify your leads and pass them over to sales when they are ready to buy.
+By combining all data about leads, accounts, contacts from your organisation, together with our enrichment and behavioural tracking gives you the power to both Identify the Leads, Qualify your leads and pass them over to sales when they are ready to buy.
 
 ## Common mistakes or misconceptions
 

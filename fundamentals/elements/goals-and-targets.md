@@ -72,7 +72,7 @@ Note: You can link Persona countries to the ICP using the “same countries as I
 
 ### Best Practices
 
-* Use specific job titles and seniority filters to minimize false positives.
+* Use specific job titles and seniority filters to minimise false positives.
 * Create multiple ICP + Persona pairs for different segments or product lines.
 * Revisit and refine your definitions periodically based on lead quality and conversion rates.
 
@@ -84,7 +84,7 @@ Note: You can link Persona countries to the ICP using the “same countries as I
 
 ## Conversion Target Events
 
-The Conversions / Target Events page lets you define which website or behavioral events are considered critical milestones or conversions in your lead journey. These target events are highlighted throughout the application and are available for filtering, reporting, and automation.
+The Conversions / Target Events page lets you define which website or behavioural events are considered critical milestones or conversions in your lead journey. These target events are highlighted throughout the application and are available for filtering, reporting, and automation.
 
 This feature helps you focus on meaningful interactions such as signups, demo requests, or form submissions.
 
@@ -105,8 +105,8 @@ Once defined, these target events:
 Target events can be added as custom metrics within reports. This allows you to:
 
 * Track conversion rates over time
-* Compare different lead segments by conversion behavior
-* Visualize the impact of marketing or sales efforts
+* Compare different lead segments by conversion behaviour
+* Visualise the impact of marketing or sales efforts
 
 To use a defined event in reports:
 

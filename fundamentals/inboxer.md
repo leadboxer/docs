@@ -2,7 +2,7 @@
 
 ## Inboxer View: Documentation
 
-Inboxer is the (new) default view of LeadBoxer App. It is designed to discover and prioritize company engagement insights — enabling you to act on high-intent leads quickly and efficiently.
+Inboxer is the (new) default view of LeadBoxer App. It is designed to discover and prioritise company engagement insights — enabling you to act on high-intent leads quickly and efficiently.
 
 <figure><img src="../.gitbook/assets/SCR-20250604-juge-2.png" alt=""><figcaption><p>Screenshot Inboxer 2025</p></figcaption></figure>
 
@@ -12,15 +12,15 @@ Inboxer is the (new) default view of LeadBoxer App. It is designed to discover a
 
 Inboxer is divided into three main areas:
 
-<table><thead><tr><th width="145.91796875">Section</th><th>Purpose</th></tr></thead><tbody><tr><td>Left Sidebar</td><td>Apply filters: date range, segments, and tags</td></tr><tr><td>Center Panel</td><td>View Lead Cards with real-time activity and ICP/Persona signals</td></tr><tr><td>Right Panel</td><td>Inspect detailed company profiles, contacts, personas, and engagement data</td></tr></tbody></table>
+<table><thead><tr><th width="145.91796875">Section</th><th>Purpose</th></tr></thead><tbody><tr><td>Left Sidebar</td><td>Apply filters: date range, segments, and tags</td></tr><tr><td>Centre Panel</td><td>View Lead Cards with real-time activity and ICP/Persona signals</td></tr><tr><td>Right Panel</td><td>Inspect detailed company profiles, contacts, personas, and engagement data</td></tr></tbody></table>
 
 ***
 
-### Account Cards (Center Panel)
+### Account Cards (Centre Panel)
 
-Each company or organization is displayed as a Account Card. The list is chronological, sorted on recent activity.
+Each company or organisation is displayed as a Account Card. The list is chronological, sorted on recent activity.
 
-<table><thead><tr><th width="220.34375">UI Element</th><th>Function / Description</th></tr></thead><tbody><tr><td>Company Logo &#x26; Name</td><td>Visual anchor, quick recognition</td></tr><tr><td>Location &#x26; Industry</td><td>Contextual info about the lead</td></tr><tr><td>Colored Line (Top)</td><td>Indicates Lead Score intensity</td></tr><tr><td>Metrics</td><td>Visitors, events, email opens, last seen timestamp</td></tr><tr><td>Tags</td><td>Includes ICP Match, Persona Match, or custom tags</td></tr><tr><td>Gear Icon</td><td>Opens quick actions: delete or add to LeadBoard</td></tr><tr><td>Drag to Hotspots</td><td>Assign leads to boards or delete with intuitive drag-and-drop</td></tr></tbody></table>
+<table><thead><tr><th width="220.34375">UI Element</th><th>Function / Description</th></tr></thead><tbody><tr><td>Company Logo &#x26; Name</td><td>Visual anchor, quick recognition</td></tr><tr><td>Location &#x26; Industry</td><td>Contextual info about the lead</td></tr><tr><td>Coloured Line (Top)</td><td>Indicates Lead Score intensity</td></tr><tr><td>Metrics</td><td>Visitors, events, email opens, last seen timestamp</td></tr><tr><td>Tags</td><td>Includes ICP Match, Persona Match, or custom tags</td></tr><tr><td>Gear Icon</td><td>Opens quick actions: delete or add to LeadBoard</td></tr><tr><td>Drag to Hotspots</td><td>Assign leads to boards or delete with intuitive drag-and-drop</td></tr></tbody></table>
 
 > ICP = Ideal Customer Profile
 
@@ -38,9 +38,9 @@ Choose a date range:
 
 * Today, Yesterday, Last 7 Days, Last 30 Days, or Custom.
 
-#### 2. Favorite Segments
+#### 2. Favourite Segments
 
-Segments marked as favorites (⭐) in the Segments overview. These are pre-filled at account creation and editable anytime.
+Segments marked as favourites (⭐) in the Segments overview. These are pre-filled at account creation and editable anytime.
 
 <br>
 
@@ -86,7 +86,7 @@ Unidentified individuals from the same company IP
 
 <table><thead><tr><th width="242.5859375">Field</th><th>Example</th></tr></thead><tbody><tr><td>Contact</td><td>Visitor 1</td></tr><tr><td>Tags</td><td>Target Audience</td></tr><tr><td>Channel</td><td>Web</td></tr><tr><td>Events</td><td>Page views, system events</td></tr><tr><td>Last Event</td><td>e.g. 2 months ago</td></tr></tbody></table>
 
-> Click any visitor or contact row to drill into full behavioral and session-level details.
+> Click any visitor or contact row to drill into full behavioural and session-level details.
 
 ***
 

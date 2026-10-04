@@ -11,7 +11,7 @@ Technical requirements:
 
 Steps:
 
-1. Customize the links in your email newsletter
+1. Customise the links in your email newsletter
 2. Install the email tracking pixel
 
 Assuming you fulfilled both requirements, let's proceed to step 1.
