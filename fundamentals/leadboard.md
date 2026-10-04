@@ -74,19 +74,19 @@ Once you opened a LeadBoard Card and see the Account or Card details, you can sc
 <figure><img src="../.gitbook/assets/LeadBoxer_App (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you want to know more about the LeadBoard card Account details and ossociated leads, see [the section below](tasks.md#account-card-details)
+If you want to know more about the LeadBoard card Account details and ossociated leads, see [the section below](leadboard.md#account-card-details)
 {% endhint %}
 
 ### Lead Tags
 
-Each Card can contain [Lead Tags](tasks.md#lead-tags). Because tags are set on the individual Lead level, we will show all the Lead Tags for all the individual Leads from one organization on that card.
+Each Card can contain [Lead Tags](leadboard.md#lead-tags). Because tags are set on the individual Lead level, we will show all the Lead Tags for all the individual Leads from one organization on that card.
 
 ### Ownership
 
 LeadBoard Cards can have an owner. Once an owner has been set, the icon of the owner will appear in the header bar. you can click on one or multiple owners to see their cards.
 
 {% hint style="info" %}
-For more details on LeadCards you can [see below](tasks.md#leadboard-cards)
+For more details on LeadCards you can [see below](leadboard.md#leadboard-cards)
 {% endhint %}
 
 ### Search

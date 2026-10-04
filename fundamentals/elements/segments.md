@@ -16,7 +16,7 @@ Segments have several functions:&#x20;
 * To save as a combination of filters for easy access from the Segment drop-down menu.
 * Share your Segments with team-members/ colleagues.
 * As a start point for notifications - see this [article on setting up (email) alerts](notifications.md).
-* As a start point for Lead Management in your [LeadBoard](../tasks.md)
+* As a start point for Lead Management in your [LeadBoard](../leadboard.md)
 
 If you would like to learn how to create your (first) segment use this tutorial:
 
@@ -38,7 +38,7 @@ Go to the bottom left corner of your screen and find the option ‘save’. This
 
 #### **Using segments**
 
-Whenever you are looking at your [Leads & Accounts](../projects.md), you can find the dropdown menu for segments below the Quick Segments list under the Filter pannel. Simply click on the Filter button  and pannel will appear where you can select the segment you or your colleagues have made.&#x20;
+Whenever you are looking at your [Leads & Accounts](../leads-and-accounts/README.md), you can find the dropdown menu for segments below the Quick Segments list under the Filter pannel. Simply click on the Filter button  and pannel will appear where you can select the segment you or your colleagues have made.&#x20;
 
 ### Quick Segments
 

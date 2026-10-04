@@ -14,19 +14,19 @@ It is also the place for research, and to drill-down in your data and locate opp
 
 Below, you will find a complete overview of the page and links to all the relevant sections, definitions and elements.
 
-<figure><img src="../.gitbook/assets/LeadBoxer-leads-accounts-clean (1).png" alt=""><figcaption><p>The Leads &#x26; Accounts page </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer-leads-accounts-clean (1).png" alt=""><figcaption><p>The Leads &#x26; Accounts page </p></figcaption></figure>
 
 ### What is the Leads & Accounts page?
 
 In a nutshell: a list displaying all your Leads; which can also be grouped into Accounts.
 
 {% hint style="info" %}
-For an explanation of [Leads](definitions-and-glossary.md#what-are-leads) and [Accounts](definitions-and-glossary.md#what-are-accounts), please read our [definitions](definitions-and-glossary.md).
+For an explanation of [Leads](../definitions-and-glossary.md#what-are-leads) and [Accounts](../definitions-and-glossary.md#what-are-accounts), please read our [definitions](../definitions-and-glossary.md).
 {% endhint %}
 
 The Leads and/or Accounts are rendered in a table or grid which can be customized to show or hide additional columns. You can choose from a wide range of properties or behavioural fields. You can customize the columns by clicking on the column icon and  choose to show/ hide. you can also search for specific columns.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Summary Columns
 
@@ -42,13 +42,13 @@ By default we show a selection of columns, but we encourage you to create your o
 
 You can save your prefered view as a column set to quickly find your preferred set of columns.
 
-The Column set selector also provides the option to select the [LinkedIn Matched Audiences](elements/import-and-export/linkedin-matched-audiences-export.md) column sets for both Leads (contacts) and Accounts (Companies).
+The Column set selector also provides the option to select the [LinkedIn Matched Audiences](../elements/import-and-export/linkedin-matched-audiences-export.md) column sets for both Leads (contacts) and Accounts (Companies).
 
 ### Lead Details Drawer
 
 If you click on any lead, this will open the Lead Details Drawer. The drawer contains numerous details about the individual lead on i) profile information, ii) individual behaviour and iii) the option to drill-down to associated organization.
 
-<figure><img src="../.gitbook/assets/LeadBoxer-leads-accounts-lead-account-drawer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer-leads-accounts-lead-account-drawer.png" alt=""><figcaption></figcaption></figure>
 
 The Lead details drawer contains multiple items, listed and described below:
 
@@ -65,36 +65,36 @@ The Lead details drawer contains multiple items, listed and described below:
 
 This item shows a summary of stats on  behaviour, such as events (pageview, email opens, etc) website visits, time on site, etc.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Acquisition
 
 In LeadBoxer we primarily focus on Leads that are acquired through digital channels. Leads from trade shows, events, showrooms, etc are other examples which can be added. It is important to keep track your acquisition channels to provide insights into which successful channels to invest in.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### LeadBoard
 
 See what LeadBoard this lead or Account is on, or quickly add them to any existing LeadBoards.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Custom Properties
 
-Your custom Lead properties are displayed here. Learn how to [add your own custom properties](projects.md#custom-properties)&#x20;
+Your custom Lead properties are displayed here. Learn how to [add your own custom properties](README.md#custom-properties)&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Leadscore
 
-See how the Leadscore for any lead is calculated. Refer to our help docs to learn more on [how the Leadscore works](projects.md#leadscore).&#x20;
+See how the Leadscore for any lead is calculated. Refer to our help docs to learn more on [how the Leadscore works](README.md#leadscore).&#x20;
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Technical
 
 A section showing technical details about the browser, email client, connection, network, etc.
 
-<figure><img src="../.gitbook/assets/LeadBoxer_App (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LeadBoxer_App (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ##

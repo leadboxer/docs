@@ -30,3 +30,7 @@ Prevent to pollute your CRM with unqualified or incomplete leads.
 LeadBoxer is designed to work with many different sources of data, has built-in features to enrich company (or personal) data, allows you to qualify prospects based on behaviour and profile data, and includes powerful filters and intuitive scoring algorithms to create segments.
 
 The results can then be synchronised or exported towards many destinations using existing integrations or via a custom built solution.
+
+***
+
+See also [Lead management on leadboxer.com](https://www.leadboxer.com/app/lead-management) and the [LeadBoard](../fundamentals/leadboard.md).

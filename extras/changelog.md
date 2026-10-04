@@ -1,10 +1,12 @@
 ---
 description: >-
-  Fresh bread! Updates on the latest changes, additions, updates, fixes, etc.,
-  to the LeadBoxer platform
+  Fresh bread! Updates on the latest changes, additions and fixes in
+  LeadBoxer App
 ---
 
 # Changelog
+
+Changes to LeadBoxer App. For changes to the API, see the [API changelog](https://developers.leadboxer.com/changelog).
 
 SEPTEMBER 2026
 
@@ -230,7 +232,7 @@ See the [Integrations](../integrations/website/README.md) section for more detai
 
 ### Small updates & improvements:
 
-* We fixed an issue where a download from the lead list with a [Summary column](../fundamentals/projects.md#summary-columns) enabled was causing an issue, the download did not contain company name and is not very useful obviously.
+* We fixed an issue where a download from the lead list with a [Summary column](../fundamentals/leads-and-accounts/README.md#summary-columns) enabled was causing an issue, the download did not contain company name and is not very useful obviously.
 * We now show a maintenance screen if we encounter network downtime
 
 ***
@@ -405,7 +407,7 @@ You will now see various loaders, so that it is clear if we have finished updati
 
 ## Set Fixed LeadBoard Direction or flow for Automations
 
-This might seem tedious but is in fact a very useful update. If enabled (default), [Workflow Automation](changelog.md#workflow-automation) actions can only move your LeadBoard cards to the Right direction of your funnel or qualification stages. You can still manually move cards to the Left. You can set or change this setting in the [LeadBoard settings](../fundamentals/tasks.md).
+This might seem tedious but is in fact a very useful update. If enabled (default), [Workflow Automation](changelog.md#workflow-automation) actions can only move your LeadBoard cards to the Right direction of your funnel or qualification stages. You can still manually move cards to the Left. You can set or change this setting in the [LeadBoard settings](../fundamentals/leadboard.md).
 
 ***
 
@@ -453,7 +455,7 @@ We now automatically import tags from your contacts in Mailchimp and add these t
 
 ## Batch 'add' or 'remove' leads from LeadBoard
 
-We added the option to add or remove a list of leads to your [LeadBoards](../fundamentals/tasks.md). Meaning you can now create a list of leads using filters or saved segments and upload these leads to a board. Very cool: this works retroactively.
+We added the option to add or remove a list of leads to your [LeadBoards](../fundamentals/leadboard.md). Meaning you can now create a list of leads using filters or saved segments and upload these leads to a board. Very cool: this works retroactively.
 
 This is extremely useful if you want to build a board with existing data, and do not want to wait for 'new' Leads or behaviour to trigger a [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 
@@ -616,7 +618,7 @@ You can now set up to 3 actions in the same Automation, for example: Add a tag, 
 
 ## New Trigger: Lead Tags
 
-You can now trigger a [Workflow Automation](changelog.md#workflow-automation), when you manually add or automatically set a lead tag. This is useful if you want to automate your [LeadBoard](../fundamentals/tasks.md) based on [Lead Tags](../fundamentals/elements/lead-tags.md).
+You can now trigger a [Workflow Automation](changelog.md#workflow-automation), when you manually add or automatically set a lead tag. This is useful if you want to automate your [LeadBoard](../fundamentals/leadboard.md) based on [Lead Tags](../fundamentals/elements/lead-tags.md).
 
 ## Support for nested triggers for Workflow Automation
 
@@ -778,7 +780,7 @@ One of the main differences is that the Leads & Accounts are shown in a grid for
 * Pinning columns
 * Filtering within columns
 
-You can read a full breakdown of the new [Leads & Accounts](../fundamentals/projects.md) section.
+You can read a full breakdown of the new [Leads & Accounts](../fundamentals/leads-and-accounts/README.md) section.
 
 
 

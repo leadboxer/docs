@@ -6,13 +6,13 @@
   * [Cold outbound email campaigns](lead-management-workflow/cold-outbound-email-campaigns.md)
 * [How does it all work?](how-does-it-all-work.md)
 
-## Fundamentals
+## Using the App
 
 * [Inboxer](fundamentals/inboxer.md)
-* [Leads & Accounts](fundamentals/projects.md)
+* [Leads & Accounts](fundamentals/leads-and-accounts/README.md)
   * [Lead card: Complete lead details in one page](fundamentals/leads-and-accounts/lead-card-complete-lead-details-in-one-page.md)
   * [Batch operations](fundamentals/leads-and-accounts/batch-operations.md)
-* [LeadBoard](fundamentals/tasks.md)
+* [LeadBoard](fundamentals/leadboard.md)
 * [Reports](fundamentals/reports.md)
 * [Account Summaries (AI)](fundamentals/account-summaries.md)
 * [Elements](fundamentals/elements/README.md)
@@ -20,7 +20,6 @@
   * [Segments](fundamentals/elements/segments.md)
   * [Workflow Automation](fundamentals/elements/workflow-automation.md)
   * [Notifications](fundamentals/elements/notifications.md)
-  * [Users](fundamentals/elements/users.md)
   * [Datasets](fundamentals/elements/datasets.md)
   * [Time zones](fundamentals/elements/timezones.md)
   * [Clients (agents)](fundamentals/elements/clients-agents.md)
@@ -34,14 +33,10 @@
     * [LinkedIn Matched Audiences export](fundamentals/elements/import-and-export/linkedin-matched-audiences-export.md)
     * [Custom Properties](fundamentals/elements/import-and-export/custom-properties.md)
     * [LeadBoxer User Interface Placeholder Names](fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
-  * [Roles & Permissions](fundamentals/elements/roles-and-permissions.md)
   * [Goals & Targets](fundamentals/elements/goals-and-targets.md)
-  * [LeadBoxer Credits](fundamentals/elements/leadboxer-credits.md)
 * [Definitions & Glossary](fundamentals/definitions-and-glossary.md)
-* [LeadBoxer Pricing Explained](fundamentals/leadboxer-pricing-explained.md)
-* [Billing & Subscription](fundamentals/billing-and-subscription.md)
 
-## 🧩 Integrations
+## Capture: website & email
 
 * [🌐 Website](integrations/website/README.md)
   * [Lead Tracking Pixel](integrations/website/lead-tracking-pixel.md)
@@ -104,7 +99,10 @@
     * [QuickMail](integrations/email/marketing-emails/quickmail.md)
     * [Outreach](integrations/email/marketing-emails/outreach.md)
     * [Mail Merge (MS Word)](integrations/email/marketing-emails/mail-merge-ms-word.md)
-* [Other](integrations/other/README.md)
+
+## Integrations
+
+* [CRM & other tools](integrations/other/README.md)
   * [Active Campaign](integrations/other/active-campaign.md)
   * [HubSpot](integrations/other/hubspot.md)
   * [Marketo](integrations/other/marketo.md)
@@ -127,7 +125,15 @@
   * [make.com](integrations/other/make.com.md)
   * [n8n](integrations/other/n8n.md)
 
-## Developers & API
+## Account & billing
+
+* [LeadBoxer Pricing Explained](fundamentals/leadboxer-pricing-explained.md)
+* [LeadBoxer Credits](fundamentals/elements/leadboxer-credits.md)
+* [Billing & Subscription](fundamentals/billing-and-subscription.md)
+* [Users](fundamentals/elements/users.md)
+* [Roles & Permissions](fundamentals/elements/roles-and-permissions.md)
+
+## Platform & API
 
 * [Developers & API](developers-and-api/developer-portal.md)
 * [MCP Server for AI Assistants](developers-and-api/mcp-server.md)
@@ -139,7 +145,7 @@
 * [Creating your first LeadBoard](guides/creating-your-first-leadboard.md)
 * [How to add a user](guides/how-to-add-a-user.md)
 * [How to upload a List (ABM)](guides/how-to-upload-a-list-abm.md)
-* [How to add a dataset](guides/how-to-add-a-datasets.md)
+* [How to add a dataset](guides/how-to-add-a-dataset.md)
 * [How to create a notification](guides/how-to-create-a-notification.md)
 * [How to set your Leadscore](guides/how-to-set-your-leadscore.md)
 * [How to hide & unhide Leads](guides/how-to-hide-and-unhide-leads.md)
@@ -147,11 +153,12 @@
 * [How to create a Workflow Automation](guides/how-to-create-a-workflow-automation.md)
 * [How to mask IP addresses](guides/how-to-mask-ip-addresses.md)
 
-## 🏆 Solutions
+## Use cases
 
-* [Lead Identification](solutions/lead-identification.md)
+* [Visitor identification](solutions/visitor-identification.md)
+* [ICP & persona matching](solutions/icp-and-persona-matching.md)
 * [Lead Qualification](solutions/lead-qualification.md)
-* [Lead Management](solutions/lead-managment.md)
+* [Lead Management](solutions/lead-management.md)
 
 ## Extras
 

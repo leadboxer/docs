@@ -6,7 +6,15 @@ description: >-
 
 # How does it all work?
 
-This is not an easy question to answer 1-2-3, as LeadBoxer does many things. 😉 So here are some of the basic concepts:
+LeadBoxer works in five stages:
+
+1. **Capture**: the tracking script and email pixel record what happens on your website and in your emails ([Behavioural tracking](how-does-it-all-work.md#behavioural-tracking)).
+2. **Identify**: IP addresses, forms, email clicks and integrations tell us which company and person is behind that activity ([Identification](how-does-it-all-work.md#identification)).
+3. **Enrich**: we add company and contact details ([Enrichment](how-does-it-all-work.md#enrichment)).
+4. **Qualify**: your leadscore, ICP and personas show which leads are worth your time ([Qualification](how-does-it-all-work.md#qualification)).
+5. **Activate**: segments, notifications, the LeadBoard, workflows and integrations get the right leads to the right people ([Lead management](how-does-it-all-work.md#lead-management)).
+
+Here are the basic concepts in more detail:
 
 * [Identification](how-does-it-all-work.md#identification)
   * [IP address](how-does-it-all-work.md#ip-address)
@@ -135,7 +143,7 @@ Lead management is basically the process of capturing, tracking, and nurturing p
 
 The goal of lead management is to maximize the number of qualified leads that can be passed on to sales, while minimizing the time and resources spent on unqualified leads.&#x20;
 
-In LeadBoxer this can be achieved using the [LeadBoard](fundamentals/tasks.md), where our clients can visually research and move leads manually or automatically through their workflow or qualification process until they become actual opportunities.
+In LeadBoxer this can be achieved using the [LeadBoard](fundamentals/leadboard.md), where our clients can visually research and move leads manually or automatically through their workflow or qualification process until they become actual opportunities.
 
 A typical example is that once a Lead fits the final criteria, they are deemed 'sales qualified' and handed over to the sales team for further engagement.
 

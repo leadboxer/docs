@@ -25,7 +25,7 @@ There are actually 5 different kind of UTM tags, but these 2 are used less often
 
 ### UTM tags and LeadBoxer&#x20;
 
-LeadBoxer automatically captures all the UTM tag values for each session or pageview, and saves these for each Lead as both **First \*** and **Last \*** values you can find them in each Lead Profile under the Acquisition section. You can also see them in the [Leads & Accounts](../../fundamentals/projects.md) overview.
+LeadBoxer automatically captures all the UTM tag values for each session or pageview, and saves these for each Lead as both **First \*** and **Last \*** values you can find them in each Lead Profile under the Acquisition section. You can also see them in the [Leads & Accounts](../../fundamentals/leads-and-accounts/README.md) overview.
 
 {% hint style="success" %}
 We highly recommend you set up UTM tags for each of your campaigns and add them to the URLs that you use for each campaign.&#x20;

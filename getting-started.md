@@ -175,7 +175,7 @@ You can add a users in your [users overview](guides/how-to-add-a-user.md)
 
 Some organisations have more than one website, LeadBoxer allows you to add multiple sites to your account, for example a specific product, region, language or event.
 
-For a detailed tutorial to add a site see [here](guides/how-to-add-a-datasets.md)
+For a detailed tutorial to add a site see [here](guides/how-to-add-a-dataset.md)
 
 Simply add them to your account in the [dataset overview](https://app.leadboxer.com/datasets) and you will receive a unique lead pixel to install on these domains.
 

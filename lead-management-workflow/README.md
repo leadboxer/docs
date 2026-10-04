@@ -19,7 +19,7 @@ This determines how you interact and communicate with each lead. And who, in you
 {% hint style="info" %}
 ### What LeadBoxer features are involved?
 
-The place to create your qualification workflow and manage your leads is called the [LeadBoard](../fundamentals/tasks.md).&#x20;
+The place to create your qualification workflow and manage your leads is called the [LeadBoard](../fundamentals/leadboard.md).&#x20;
 
 The tool to automate the steps from your qualification workflow is called [Workflow Automation](../fundamentals/elements/workflow-automation.md).
 {% endhint %}
@@ -98,7 +98,7 @@ Here are some example events that can be mapped to a buyer journey stage<br>
 
 ### 1. Create a new LeadBoard and add the stages
 
-Go to the [LeadBoard](../fundamentals/tasks.md) section of our account, and [create a new LeadBoard](../guides/creating-your-first-leadboard.md). Use the stages from preparation Step 1 to define the columns. No worries, you can always edit and modify these later.
+Go to the [LeadBoard](../fundamentals/leadboard.md) section of our account, and [create a new LeadBoard](../guides/creating-your-first-leadboard.md). Use the stages from preparation Step 1 to define the columns. No worries, you can always edit and modify these later.
 
 ### 2. Map key events with tags
 

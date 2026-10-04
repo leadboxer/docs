@@ -1,6 +1,6 @@
 # Upload Leads
 
-You can upload your leads by using the upload feature directly on the [Leads & Accounts](../../projects.md) page.
+You can upload your leads by using the upload feature directly on the [Leads & Accounts](../../leads-and-accounts/README.md) page.
 
 <figure><img src="../../../.gitbook/assets/LeadBoxer_App (14).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,4 +14,4 @@ You can upload your leads by using the upload feature directly on the [Leads & A
 
 Once you have hit upload, your list will be processed in the background and depending on the size it will be done in a few minutes.
 
-Leads will appear in the Leads & Accounts page, and can also be put automatically on your [LeadBoard](../../tasks.md) if you have set this up via an automated LeadBoard import or via [Workflow Automation](../workflow-automation.md).
+Leads will appear in the Leads & Accounts page, and can also be put automatically on your [LeadBoard](../../leadboard.md) if you have set this up via an automated LeadBoard import or via [Workflow Automation](../workflow-automation.md).
