@@ -9,7 +9,7 @@ To get going you need to:
 
 **1. Add email tracking pixel**&#x20;
 
-Simply use the [generic tutorial for email tracking](https://docs.leadboxer.com/article/114-tracking-newsletter-email-opens-or-reads) and select Eloqua from the list of vendors.
+Simply use the [generic tutorial for email tracking](track-email-opens.md) and select Eloqua from the list of vendors.
 
 **2. Track link Clicks and identify persons on your site**
 
@@ -22,5 +22,3 @@ https://www.leadboxer.com&email=<span class=eloquaemail>EmailAddress</span>
 ```
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on January 5, 2020

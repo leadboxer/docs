@@ -12,8 +12,6 @@ You can also define the pages where or roles for when the lead Pixel should or s
 
 <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/57e991fcc697914f21031ae8/file-AOi08YXhHr.png" alt=""><figcaption></figcaption></figure>
 
-Make sure you safe your settings and then you're done.
+Make sure you save your settings and then you're done.
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on September 24, 2019

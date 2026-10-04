@@ -48,8 +48,6 @@ In case you missed it, we also automatically capture the values for the Google A
 * utm\_term
 * utm\_content
 
-You can learn about UTM tags in this article:  [Google Analytics Tracking parameters](https://docs.leadboxer.com/article/10-google-analytics)
+You can learn about UTM tags in this article:  [Google Analytics Tracking parameters](../../website/tracking-marketing-campaign-data-utm-tags.md)
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on October 30, 2019

@@ -110,7 +110,7 @@ Preparation:
 1. Create the White-paper&#x20;
 2. On your website, create a new page where visitors can download the whitepaper.Make sure the page is not indexed by search engines and that no other pages are linking to this page.
 3. In LeadBoxer, connect your Mailchimp account&#x20;
-4. In Mailchimp, create a new list / audience and create an [automated email campaign](https://mailchimp.com/help/create-an-automation/) with a link to your download page. Make sure you tag the link as described in step 2 of the [LeadBoxer Mailchimp integration](https://docs.leadboxer.com/article/15-mailchimp-email-tracking)
+4. In Mailchimp, create a new list / audience and create an [automated email campaign](https://mailchimp.com/help/create-an-automation/) with a link to your download page. Make sure you tag the link as described in step 2 of the [LeadBoxer Mailchimp integration](../../email/marketing-emails/mailchimp.md)
 
 Create campaign
 

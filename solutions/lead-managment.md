@@ -5,7 +5,7 @@ description: >-
   converted to opportunities.
 ---
 
-# Lead Managment
+# Lead Management
 
 ### Lead Routing & Ownership
 

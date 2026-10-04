@@ -46,5 +46,3 @@ setTimeout(function () {
 To send other LeadBoxer data to Intercom, such as the company name or lead tags, get it from the LeadBoxer API with [Retrieve Lead Details](https://developers.leadboxer.com/reference) (`GET /v1/leads/{leadId}`). The API needs your API key, so make this call from your server and never from your website's JavaScript. See [How to get (raw) lead data](../website/how-to-get-raw-lead-data.md) for a complete example.
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on August 14, 2020

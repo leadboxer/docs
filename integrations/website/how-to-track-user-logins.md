@@ -34,7 +34,7 @@ function ot_onload() {
 
 Above example will add 3 additional properties to the lead or customer fields when the page loads.
 
-Here is a list of recommend field-names: [https://docs.leadboxer.com/article/54-leadboxer-user-interface-placeholder-names](https://docs.leadboxer.com/article/54-leadboxer-user-interface-placeholder-names)
+Here is a list of recommend field-names: [LeadBoxer User Interface Placeholder Names](../../fundamentals/elements/import-and-export/leadboxer-user-interface-placeholder-names.md)
 
 ### Submit data on event
 

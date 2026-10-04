@@ -59,5 +59,3 @@ From there on LeadBoxer will take over and add the data to the lead. Obviously t
 It's always a good idea to test this thoroughly before sending this to you main lists. If things are working, you'll see the emails of leads interested in your newsletter's landing page.
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on October 4, 2021

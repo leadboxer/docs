@@ -1,11 +1,33 @@
 # Notifications
 
-#### **Daily / Weekly Notifications**
+LeadBoxer can email you and your colleagues about your leads. There are three kinds of notifications.
+
+## Segment notifications (daily or weekly)
 
 <figure><img src="https://wp.leadboxer.com/wp-content/uploads/10_leads_for_segment__Top_Leads_on_leadboxer_com___Deliveries___Deliveries___Drafts___Customer_io-1.png" alt=""><figcaption><p>Example Account-view notification</p></figcaption></figure>
 
-Once you have created a Segment you can send it to yourself and/or your colleagues. This is a very powerful tool - you will be informed (in real-time) when a specific activity occurs or you can receive an e-mail with the top-ranked leads every day/week; also in the format of your choosing, Excel (.csv) or html (email) or PDF
+Once you have created a [Segment](segments.md) you can have it emailed to yourself and your colleagues, for example a daily email with the top-ranked leads, or a weekly overview of all visitors from a list of target accounts.
 
-The alerts can be **very specific** -  a particular company for account-based-marketing; client viewing the pricing page, or **very broad** - a region, all identified companies, or multiple alerts for different industries.&#x20;
+For each segment you choose:
 
-This feature is very intuitive and dynamic. The only limit on how to use it is your imagination.
+* **Email**: Daily, Weekly or Off
+* **View**: send the Leads view or the Accounts view
+* **Format**: HTML (in the body of the email), PDF or CSV
+* **Recipients**: one or more users of your account
+
+The alerts can be **very specific** (a particular company for account-based marketing, or a client viewing the pricing page) or **very broad** (a region, all identified companies, or one alert per industry).
+
+You can see all your segments and their notification settings on the Segments page. See [How to create a notification](../../guides/how-to-create-a-notification.md) for the steps.
+
+## Report notifications (weekly or monthly)
+
+A [Report](../reports.md) can be emailed on a schedule. Open the report, click the arrow next to **Export As PDF** to open the **Scheduled Report** options, turn on **Enable Notification**, pick **Weekly** (sent at the end of the week) or **Monthly** (sent at the end of the month) and add the recipients. The report is sent with the configuration it has when you save the notification.
+
+## LeadBoard notifications
+
+LeadBoard owners get an email when something changes on their cards. You can turn each of these on or off under **Settings > Notifications**:
+
+* New LeadCard assigned to me
+* LeadCard owner update
+* LeadCard moved stage
+* LeadCard was removed

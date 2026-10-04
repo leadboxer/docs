@@ -18,5 +18,3 @@ You can find more details here: \
 [https://documentation.unbounce.com/hc/en-us/articles/203879070-Using-Custom-JavaScript-and-CSS-on-Your-Landing-Page](https://documentation.unbounce.com/hc/en-us/articles/203879070-Using-Custom-JavaScript-and-CSS-on-Your-Landing-Page)
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on September 20, 2018

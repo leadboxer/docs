@@ -80,5 +80,3 @@ function ot_onload() {
 ```
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on July 7, 2021

@@ -1,15 +1,15 @@
-# How to add a datasets
+# How to add a dataset
 
 ## How to add a dataset (website) to your account
 
 ### Add extra datasets&#x20;
 
 Add extra datasets to your LeadBoxer account at no extra charge.\
-In other words, add as many datasets ays need to your account for the same low price.&#x20;
+In other words, add as many datasets as you need to your account for the same low price.&#x20;
 
 1. **Login** and go to your profile dropdown, you should see a menu-item called Datasets, this is where you can add one or more datasets. &#x20;
 2. **Set permissions**\
-   Assign access rights for the users that need access. See this tutorial on [How to add new users](https://docs.leadboxer.com/article/70-how-to-add-a-user-to-your-account).
+   Assign access rights for the users that need access. See this tutorial on [How to add new users](how-to-add-a-user.md).
 
 <figure><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f0486482c7d3a10cbaa2250/file-747Wi2LMWM.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Finally you need to get the new lead pixel /tracking code for the new dataset.&#
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/565e1cb7c697915b26a5c214/images/5f0487f204286306f8064b6d/file-Onm5xCX49n.png)
 
-For instructions on Installing the pixel, please the [LeadBoxer getting started guide](https://docs.leadboxer.com/article/144-getting-started)
+For instructions on Installing the pixel, see the [LeadBoxer getting started guide](../getting-started.md)
 
 Once the code is in place, you will begin collecting data immediately. You can switch datasets using the dropdown in the top navigation.
 

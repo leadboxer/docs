@@ -37,5 +37,3 @@ If the above steps are not clear enough then please follow the tutorial video fr
 5. Save, and you are done!
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on November 6, 2020

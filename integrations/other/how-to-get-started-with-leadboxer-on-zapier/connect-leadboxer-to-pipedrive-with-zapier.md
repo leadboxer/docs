@@ -1,6 +1,6 @@
 # Connect Leadboxer to Pipedrive with Zapier
 
-This guide continues where  [Getting started with LeadBoxer on Zapier](https://docs.leadboxer.com/article/75-how-to-get-started-with-leadboxer-on-zapier) left off.
+This guide continues where  [Getting started with LeadBoxer on Zapier](README.md) left off.
 
 Choose Pipedrive as the tool you want to be triggered by Leadboxer.
 
@@ -27,5 +27,3 @@ For instance, you can enable that only leads with a known company name get proce
 Simply test the Zap by clicking Create & Continue. Congratulations! You have a working Zap, all you have to do now is turn it on!
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on June 8, 2016

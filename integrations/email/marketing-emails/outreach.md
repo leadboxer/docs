@@ -48,5 +48,3 @@ Tip: Best practice is to test before sending out a mass email
 To see more on For more details see these pages:
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on August 11, 2022

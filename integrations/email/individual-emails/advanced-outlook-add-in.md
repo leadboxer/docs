@@ -2,13 +2,13 @@
 
 _LeadBoxer has 3 different Outlook plugins:_
 
-1. [_The Official add-in_](https://docs.leadboxer.com/article/148-outlook-365-outlook-for-mac-outlook-in-browser)
+1. [_The Official add-in_](official-outlook-add-in.md)
 2. _The Advanced add-in_
 3. _The Legacy plug-in_&#x20;
 
 **This page is documentation for the Advanced Outlook add-in**
 
-The Advanced add-in is identical to the [Official add-in](https://docs.leadboxer.com/article/148-outlook-365-outlook-for-mac-outlook-in-browser), AND replaces the need to activate the tracking for each email with an auto-enable option.&#x20;
+The Advanced add-in is identical to the [Official add-in](official-outlook-add-in.md), AND replaces the need to activate the tracking for each email with an auto-enable option.&#x20;
 
 To Install the Advanced version, first make sure you do not have the Official version installed.&#x20;
 

@@ -34,5 +34,3 @@ In detail, we grab the Munchkin Marketo cookie ID, and use this to lookup the co
 13. Thats it, send us these 3 values and we can enable the integration.
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on April 22, 2021

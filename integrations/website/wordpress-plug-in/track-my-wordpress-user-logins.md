@@ -1,4 +1,4 @@
-# track my WordPress user logins?
+# Track WordPress user logins
 
 How to track user logins on my WordPress website
 
@@ -63,5 +63,3 @@ Paste the above inside the snippet to to send us a signal when a user logs in to
 * And don't forget to disable the regular LeadBoxer Wordpress plugin, or remove the tracking pixel from your templates, etc. as it is included in the above script.
 
 Still need help? [Contact us](mailto:hello@leadboxer.com)
-
-Last updated on July 30, 2019
