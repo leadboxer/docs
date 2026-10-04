@@ -99,8 +99,6 @@ Each event is defined using a combination of:
 Once defined, these target events:
 
 * Can be selected in custom reports (as metrics)
-* Are emphasized visually in the lead timeline <mark style="color:green;">(coming soon)</mark>
-* Can be used to trigger workflows or qualify leads <mark style="color:green;">(coming soon)</mark>
 
 ### See Target events In your Reports
 

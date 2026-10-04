@@ -36,7 +36,6 @@ description: Turn your cold outbound email campaign into a success using these 4
    1. Send daily or weekly overview notifications (email, CSV) to sales person or team
    2. Assign an individual lead to a sales colleague and send a notification
    3. Sync to CRM
-4. <mark style="color:blue;">Define cleanup workflow, when do you want qualified leads to disappear from the board. (Coming Soon)</mark>&#x20;
 
 
 
@@ -47,7 +46,6 @@ description: Turn your cold outbound email campaign into a success using these 4
    1. map the behavioural events you defined in Step 2 to the corresponding stages you defined in Step 1
    2. add tags for easy visual recognition (optional)
    3. Define the End Action
-   4. <mark style="color:blue;">Define cleanup workflow (Coming Soon)</mark>&#x20;
 7. Create Segments for each important stage using the LeadBoard stage filter
 
 
@@ -63,8 +61,7 @@ description: Turn your cold outbound email campaign into a success using these 4
 2. Recipients who click on the CTA inside the email and land on your website will automatically be moved to the second stage
 3. Once identified on the website, their behaviour is tracked (including future visits) and when they perform a defined key event the automation will move them to the next stage. Depending on your designed workflow, this process repeats until Leads are qualified.
 4. Once Leads are qualified (aka opportunities) the End Action is triggered
-5. <mark style="color:blue;">After end action, the cleanup process takes place (coming soon)</mark>
-6. Create or auto receive Reports from the defined Segments to monitor ongoing campaigns and report to all stakeholders
+5. Create or auto receive Reports from the defined Segments to monitor ongoing campaigns and report to all stakeholders
 
 \
 \

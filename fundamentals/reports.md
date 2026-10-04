@@ -16,9 +16,6 @@ Reports can be customized using 'blocks'. Each block is a subset of your data, w
 * Demographics
 * Industry & Size
 * Top Accounts
-* Top Events <mark style="color:green;">(coming soon)</mark>
-* Top Campaigns <mark style="color:green;">(coming soon)</mark>
-* LeadBoard Analytics <mark style="color:green;">(coming later this year)</mark>
 
 ### Engagement block
 

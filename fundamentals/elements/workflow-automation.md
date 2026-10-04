@@ -28,8 +28,7 @@ Example Trigger: If a certain page (URL) is visited.
   * Employee count range
   * country
 * LeadBoard (check for existence and stage)
-* Lead Tagged <mark style="color:green;">(coming soon)</mark>
-* Owner assigned <mark style="color:green;">(coming soon)</mark>
+* Lead Tags
 
 ### Actions
 
@@ -38,11 +37,10 @@ A action is basically a task or something that needs to happen. There are many '
 #### Available Actions:
 
 * Set or update a Lead tag
+* Set or update an Account tag
 * Create a custom property with a value from the session
 * Create, or update (move) a LeadBoard card
 * Assign or set LeadBoard card Owner
-* Webhook push <mark style="color:green;">(coming soon)</mark>
-* Send Email notification <mark style="color:green;">(coming soon)</mark>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-23 at 14.18.25.png" alt=""><figcaption></figcaption></figure>
 
