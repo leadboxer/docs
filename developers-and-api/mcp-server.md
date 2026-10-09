@@ -11,8 +11,6 @@ The LeadBoxer MCP server lets AI assistants such as Claude, Claude Code and Curs
 
 All tools are read-only: they never change data in your LeadBoxer account. Lookups use the same credits as the App.
 
-Already connected before a tool was added? Disconnect and reconnect LeadBoxer in your assistant's connector settings to see the new tool.
-
 ### Connect it
 
 You need your LeadBoxer API key, from [Integrations → Data → API key](https://app.leadboxer.com/integrations-connectors/data/api-key) in the App. The server address and step-by-step setup for Claude, Claude Code, Cursor and other clients are on the developer portal: [Connect LeadBoxer to Claude](https://developers.leadboxer.com/docs/connect-leadboxer-to-claude).
