@@ -7,7 +7,7 @@ LeadBoxer App is built on the **LeadBoxer Platform**: the same tracking, identif
 ### The three APIs
 
 * **Track API**: send website, server-side and email events into LeadBoxer.
-* **Lookup API**: identify the company behind an IP address, or enrich a company domain.
+* **Lookup API**: identify the company behind an IP address, enrich a company domain, or turn a work email into a professional profile.
 * **App API**: read your leads and accounts, and manage tags, owners, segments, datasets and users.
 
 See [When to use which API](https://developers.leadboxer.com/docs/when-to-use-which-api) for details.
