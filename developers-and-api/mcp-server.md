@@ -13,6 +13,6 @@ All tools are read-only: they never change data in your LeadBoxer account. Looku
 
 ### Connect it
 
-You need your LeadBoxer API key, from [Integrations → Data → API key](https://app.leadboxer.com/integrations-connectors/data/api-key) in the App. The server address and step-by-step setup for Claude, Claude Code, Cursor and other clients are on the developer portal: [Connect LeadBoxer to Claude](https://developers.leadboxer.com/docs/connect-leadboxer-to-claude).
+You need your LeadBoxer API key, from [Integrations → Data → API key](https://app.leadboxer.com/integrations-connectors/data/api-key) in the App. The server address and step-by-step setup for Claude, Claude Code, ChatGPT, Cursor, VS Code and other clients are on the developer portal: [LeadBoxer MCP server](https://developers.leadboxer.com/docs/mcp).
 
 Read more about what you can do with it on [leadboxer.com/mcp](https://www.leadboxer.com/mcp).
