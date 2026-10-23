@@ -8,6 +8,14 @@ description: >-
 
 Changes to LeadBoxer App. For changes to the API, see the [API changelog](https://developers.leadboxer.com/changelog).
 
+OCTOBER 2026
+
+## Contact enrichment on for everyone
+
+Contact enrichment is now on by default for every dataset on every plan, including new accounts. Leads with a business email address automatically get professional details such as job title and LinkedIn profile. Each enriched contact uses 50 credits. You can switch it off per dataset under **Datasets > Settings > Contact Enrichment**.
+
+***
+
 SEPTEMBER 2026
 
 ## LeadBoxer in Claude and other AI assistants (MCP)

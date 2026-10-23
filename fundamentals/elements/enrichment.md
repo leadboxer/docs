@@ -37,7 +37,7 @@ Meaning that we can provide a rich and complete company profile when a visitor o
 
 On top of the company profile, LeadBoxer can enrich people:
 
-* **Contact enrichment**: identified contacts are automatically enriched with additional profile data. Turn it on per dataset under **Datasets > Settings > Contact Enrichment**. It is not available on every plan.
+* **Contact enrichment**: leads with a business email address are automatically enriched with professional details such as job title, seniority and LinkedIn profile. It is on by default for every dataset on every plan. You can switch it off per dataset under **Datasets > Settings > Contact Enrichment**.
 * **Persona matching**: for an identified company, LeadBoxer finds the people who match your [Personas](../definitions-and-glossary.md#persona), and can look up their business email address.
 
 These lookups use credits. See [LeadBoxer Credits](leadboxer-credits.md) for the cost of each action.
