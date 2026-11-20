@@ -18,11 +18,23 @@ API keys are generated from your LeadBoxer account:
 
 1. Log in to [LeadBoxer App](https://app.leadboxer.com). No account yet? [Create a free one](https://app.leadboxer.com/sign-up).
 2. Go to [Integrations → Data → API key](https://app.leadboxer.com/integrations-connectors/data/api-key).
-3. Copy the key and send it in the `x-api-key` header of every request.
+3. Copy a key, or create a new one with **Create key**, and send it in the `x-api-key` header of every request.
 
 {% hint style="warning" %}
 Treat your API key like a password. Never put it in your website's JavaScript or in a public repository: call the API from your server instead.
 {% endhint %}
+
+### Manage your API keys
+
+On the same page, account admins can manage the account's keys. Other users can see and copy them.
+
+* **Create key**: an account can have up to 10 keys. Give each integration (Make, n8n, your own server) its own key, so you can replace one without touching the others. All keys share the account's credits.
+* **Rotate**: gives a key a new value. The old value stops working immediately, so update everything that uses it straight away. To switch without downtime, create a new key, move over to it, then delete the old one.
+* **Delete**: removes a key at once. This cannot be undone.
+
+The key marked **Used by the App** is the one LeadBoxer App signs in with. You can rotate it but not delete it. After rotating it the App reloads, and teammates who are signed in need to sign in again.
+
+Owners and admins of the account get an email when a key is created, rotated or deleted.
 
 API calls that identify or enrich data use the same credits as the App. The first 25,000 credits each month are free. See [LeadBoxer for developers](https://www.leadboxer.com/developers) and [pricing](https://www.leadboxer.com/pricing).
 

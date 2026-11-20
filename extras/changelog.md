@@ -8,6 +8,16 @@ description: >-
 
 Changes to LeadBoxer App. For changes to the API, see the [API changelog](https://developers.leadboxer.com/changelog).
 
+NOVEMBER 2026
+
+## Several API keys, rotate and delete
+
+The API key page under **Integrations → Data → API key** is new. Account admins can now create up to 10 named API keys, for example one per integration, rotate a key when it may have leaked, and delete keys that are no longer used. Rotating or deleting a key takes effect immediately. Owners and admins get an email about every change.
+
+Read more: [Developer portal and API](../developers-and-api/developer-portal.md#manage-your-api-keys)
+
+***
+
 OCTOBER 2026
 
 ## Contact enrichment on for everyone
