@@ -32,7 +32,7 @@ This feature improves lead qualification and sales focus by highlighting account
 
 Each LeadBoxer plan includes a monthly amount of [LeadBoxer credits](leadboxer-credits.md). Extra usage is billed as overage, so you can keep finding personas and email addresses after your included credits run out.
 
-A successful persona match lookup uses 10 credits and a persona email lookup uses 25 credits.
+A successful persona match lookup uses 10 credits and a persona email lookup uses 25 credits. LeadBoxer looks for persona matches only once per company and persona, so returning visitors from the same company don't use credits again. Lookups that find nobody are free.
 
 See the [LeadBoxer Credits](leadboxer-credits.md) page for more details
 
